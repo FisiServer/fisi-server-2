@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "055ba86d-355b-3f9b-af6e-67963e73b10e",
+    "name": "StackOk",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

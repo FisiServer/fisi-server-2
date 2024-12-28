@@ -2063,3 +2063,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 19:08:11.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.930347442626953) to VERY_LOW (avg. 13.334600448608398)
 [28Dec2024 19:11:27.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Acquire Hardware]
 [28Dec2024 19:11:38.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Isn't It Iron Pick]
+[28Dec2024 19:12:33.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4632, l='ServerLevel[world]', x=-431.26, y=111.00, z=-191.94] died, message: 'Villager was slain by Zombie'
+[28Dec2024 19:12:33.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.681644439697266) to LOW (avg. 21.40215301513672)
+[28Dec2024 19:12:35.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/4707, l='ServerLevel[world]', x=-450.57, y=130.00, z=-266.87] died, message: 'Toolsmith was slain by Zombie'
+[28Dec2024 19:12:48.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.40215301513672) to VERY_LOW (avg. 12.108272552490234)
+[28Dec2024 19:14:00.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:59187] logged in with entity id 8015 at (7.5, 121.0, 2.5)
+[28Dec2024 19:14:00.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[28Dec2024 19:14:00.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Alexs Mobs Interaction]
+[28Dec2024 19:14:00.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Christmas]
+[28Dec2024 19:14:00.792] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/8015, l='ServerLevel[world]', x=7.50, y=121.00, z=2.50] logged in and will be protected for 90 secs.
+[28Dec2024 19:14:00.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[28Dec2024 19:14:00.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Ice and Fire]
+[28Dec2024 19:14:01.173] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 0 secs.
+[28Dec2024 19:14:01.173] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[28Dec2024 19:14:03.122] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[28Dec2024 19:14:03.122] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[28Dec2024 19:14:03.385] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[28Dec2024 19:14:03.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.75883674621582) to LOW (avg. 23.14961814880371)
+[28Dec2024 19:14:10.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[28Dec2024 19:14:11.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[28Dec2024 19:14:11.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[28Dec2024 19:14:21.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> hi
+[28Dec2024 19:14:24.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made StackOk a server operator
+[28Dec2024 19:14:29.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> elou
+[28Dec2024 19:14:41.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [StackOk: Gamerule playersSleepingPercentage is now set to: 32]
+[28Dec2024 19:14:43.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Sweet Dreams]
+[28Dec2024 19:15:07.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> q buen spawn
+[28Dec2024 19:15:12.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> arriba del arbol
+[28Dec2024 19:15:24.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> rico lag en el spawn
+[28Dec2024 19:15:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> 110 fps
+[28Dec2024 19:15:39.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6266, l='ServerLevel[world]', x=-427.43, y=104.00, z=-158.49] died, message: 'Farmer burned to death'
+[28Dec2024 19:18:29.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [A Seedy Place]
+[28Dec2024 19:20:11.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.951526641845703) to VERY_LOW (avg. 19.042804718017578)
+[28Dec2024 19:20:26.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.042804718017578) to LOW (avg. 22.34619140625)
+[28Dec2024 19:21:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Stone Age]
