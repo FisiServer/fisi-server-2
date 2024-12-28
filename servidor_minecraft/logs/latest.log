@@ -2025,3 +2025,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [28Dec2024 18:45:13.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Getting an Upgrade]
 [28Dec2024 18:48:03.825] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.900765419006348) to LOW (avg. 35.535587310791016)
 [28Dec2024 18:48:11.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.535587310791016) to VERY_LOW (avg. 12.597962379455566)
+[28Dec2024 18:51:41.302] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.39993667602539) to LOW (avg. 23.571731567382812)
+[28Dec2024 18:51:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Alex's Mobs]
+[28Dec2024 18:51:57.550] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 27.26273213) to NORMAL (avg. 36.67637286)
+[28Dec2024 18:52:11.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.327585220336914) to VERY_LOW (avg. 18.46901512145996)
+[28Dec2024 18:52:26.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.46901512145996) to LOW (avg. 26.87706756591797)
+[28Dec2024 18:52:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Monster Hunter]
+[28Dec2024 18:52:41.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.87706756591797) to VERY_LOW (avg. 18.926483154296875)
+[28Dec2024 18:54:26.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.641716957092285) to LOW (avg. 27.000858306884766)
+[28Dec2024 18:54:33.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.000858306884766) to VERY_LOW (avg. 16.646371841430664)
+[28Dec2024 18:55:09.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk hit the ground too hard
+[28Dec2024 18:55:09.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Your First Grave]
+[28Dec2024 18:55:09.464] [Server thread/INFO] [tombstone/]: The player StackOk has successfully been saved
+[28Dec2024 18:55:12.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player StackOk completed
+[28Dec2024 18:55:12.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [The Most Useful Key]
+[28Dec2024 18:55:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Knowledge of Death]
+[28Dec2024 18:55:28.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has reached the goal [A Fast Comeback]
+[28Dec2024 18:59:05.511] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-452, y=-4, z=-141}
+[28Dec2024 18:59:47.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk was burnt to a crisp whilst fighting Zombie
+[28Dec2024 18:59:47.836] [Server thread/INFO] [tombstone/]: The player StackOk has successfully been saved
+[28Dec2024 18:59:48.824] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.417915344238281) to LOW (avg. 28.6972599029541)
+[28Dec2024 18:59:49.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player StackOk completed
+[28Dec2024 19:00:03.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.6972599029541) to VERY_LOW (avg. 16.18187713623047)
+[28Dec2024 19:00:23.008] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-510, y=96, z=-227}
+[28Dec2024 19:00:26.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.4862003326416) to LOW (avg. 36.07933807373047)
+[28Dec2024 19:00:56.313] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.59922790527344) to NORMAL (avg. 41.151641845703125)
+[28Dec2024 19:01:11.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.151641845703125) to VERY_LOW (avg. 16.41758155822754)
+[28Dec2024 19:02:17.332] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[28Dec2024 19:02:56.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.74493980407715) to LOW (avg. 28.496267318725586)
+[28Dec2024 19:03:03.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.496267318725586) to VERY_LOW (avg. 17.914142608642578)
+[28Dec2024 19:06:18.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.839855194091797) to LOW (avg. 22.196340560913086)
+[28Dec2024 19:06:19.020] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-476, y=13, z=-433}
+[28Dec2024 19:06:33.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.196340560913086) to VERY_LOW (avg. 16.599262237548828)
+[28Dec2024 19:06:56.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.530532836914062) to LOW (avg. 26.56621551513672)
+[28Dec2024 19:07:03.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.56621551513672) to VERY_LOW (avg. 15.938697814941406)
+[28Dec2024 19:08:03.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.043142318725586) to LOW (avg. 20.930347442626953)
+[28Dec2024 19:08:11.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.930347442626953) to VERY_LOW (avg. 13.334600448608398)
+[28Dec2024 19:11:27.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Acquire Hardware]
+[28Dec2024 19:11:38.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Isn't It Iron Pick]
