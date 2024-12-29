@@ -2028,3 +2028,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 15:30:43.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.78553009033203) to LOW (avg. 35.43845748901367)
 [29Dec2024 15:31:55.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1585, l='ServerLevel[world]', x=-664.78, y=118.00, z=-817.78] died, message: 'Villager was slain by Zombie'
 [29Dec2024 15:32:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Crops of the Wild]
+[29Dec2024 15:33:20.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.65186882019043) to VERY_LOW (avg. 19.18758773803711)
+[29Dec2024 15:33:35.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.18758773803711) to LOW (avg. 24.776927947998047)
+[29Dec2024 15:33:58.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.250450134277344) to VERY_LOW (avg. 19.935283660888672)
+[29Dec2024 15:34:57.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Plant Food]
+[29Dec2024 15:35:13.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.46176528930664) to LOW (avg. 29.982830047607422)
+[29Dec2024 15:35:50.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.392440795898438) to VERY_LOW (avg. 16.328105926513672)
+[29Dec2024 15:35:58.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.328105926513672) to LOW (avg. 21.4455509185791)
+[29Dec2024 15:36:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Die Classy]
+[29Dec2024 15:37:13.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.25962448120117) to VERY_LOW (avg. 19.588050842285156)
+[29Dec2024 15:37:20.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.588050842285156) to NORMAL (avg. 43.15267562866211)
+[29Dec2024 15:37:28.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.15267562866211) to LOW (avg. 27.391632080078125)
+[29Dec2024 15:38:36.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: StackOk[/100.71.204.76:50680] logged in with entity id 5458 at (-804.9711730772516, 54.0, -667.6999999880791)
+[29Dec2024 15:38:36.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk joined the game
+[29Dec2024 15:38:36.909] [Server thread/INFO] [APTweaks(Player)/]: Player StackOk ServerPlayer['StackOk'/5458, l='ServerLevel[world]', x=-804.97, y=54.00, z=-667.70] logged in and will be protected for 90 secs.
+[29Dec2024 15:38:38.022] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of StackOk (18)
+[29Dec2024 15:38:38.024] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to StackOk
+[29Dec2024 15:38:38.025] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 055ba86d-355b-3f9b-af6e-67963e73b10e was loaded
+[29Dec2024 15:38:38.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player StackOk completed
+[29Dec2024 15:38:41.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 055ba86d-355b-3f9b-af6e-67963e73b10e
+[29Dec2024 15:38:42.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 055ba86d-355b-3f9b-af6e-67963e73b10e
+[29Dec2024 15:38:42.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player StackOk (055ba86d-355b-3f9b-af6e-67963e73b10e) successfully connected to voice chat
+[29Dec2024 15:38:44.597] [Server thread/INFO] [APTweaks(Player)/]: Protected Player StackOk was successful validated after 7 secs.
+[29Dec2024 15:38:44.597] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player StackOk!
+[29Dec2024 15:38:58.146] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.82380676269531) to MEDIUM (avg. 46.2689208984375)
+[29Dec2024 15:39:05.917] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.2689208984375) to NORMAL (avg. 43.325897216796875)
+[29Dec2024 15:39:07.740] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.85485559000001) to HIGH (avg. 46.11403774)
+[29Dec2024 15:39:21.899] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.325897216796875) to HIGH (avg. 51.55530548095703)
+[29Dec2024 15:39:35.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[29Dec2024 15:39:39.561] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.55530548095703) to VERY_HIGH (avg. 60.85150909423828)
+[29Dec2024 15:39:40.859] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.37177477) to VERY_HIGH (avg. 69.42739303)
+[29Dec2024 15:39:54.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.85150909423828) to NORMAL (avg. 45.13622283935547)
+[29Dec2024 15:40:15.292] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.73921585083008) to HIGH (avg. 51.112640380859375)
+[29Dec2024 15:40:38.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.24414825439453) to NORMAL (avg. 45.657596588134766)
+[29Dec2024 15:40:45.415] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.657596588134766) to HIGH (avg. 51.3315315246582)
+[29Dec2024 15:40:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ._.
+[29Dec2024 15:40:51.253] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[29Dec2024 15:40:54.326] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.3315315246582) to VERY_HIGH (avg. 55.760311126708984)
+[29Dec2024 15:41:01.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Dec2024 15:41:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> joy ven
+[29Dec2024 15:41:16.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> a
+[29Dec2024 15:41:19.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[29Dec2024 15:41:21.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [StackOk: Teleported StackOk to BillyVR15]
+[29Dec2024 15:41:27.312] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 72.91508483886719) to LOW (avg. 37.8490104675293)
+[29Dec2024 15:41:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [The Cave That Time Forgot]
+[29Dec2024 15:41:39.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has reached the goal [The Cave That Time Forgot]
+[29Dec2024 15:41:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Town of Bedrock]
+[29Dec2024 15:42:04.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Town of Bedrock]
