@@ -2927,6 +2927,12 @@
     },
     "done": true
   },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-29 16:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
@@ -3143,6 +3149,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-29 16:00:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
@@ -3206,6 +3218,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-29 15:32:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2024-12-29 16:00:38 +0000"
     },
     "done": true
   },
@@ -3386,6 +3404,12 @@
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-29 16:00:35 +0000"
     },
     "done": true
   },

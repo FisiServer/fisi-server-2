@@ -3158,6 +3158,25 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-12-29 15:41:21 +0000",
+      "minecraft:forest": "2024-12-29 15:41:34 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-29 15:41:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-29 15:41:58 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-29 15:42:52 +0000"
@@ -3173,12 +3192,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-29 15:42:52 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 15:51:32 +0000"
     },
     "done": true
   },
@@ -3206,18 +3219,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/primordial_armor": {
-    "criteria": {
-      "pants": "2024-12-29 15:51:56 +0000"
-    },
-    "done": false
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2024-12-29 15:46:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-29 15:42:52 +0000"
@@ -3242,21 +3243,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2024-12-29 15:51:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-29 15:42:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2024-12-29 15:52:03 +0000"
     },
     "done": true
   },
@@ -3266,9 +3255,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
-      "cave_tablet": "2024-12-29 15:51:00 +0000"
+      "has_sandstone": "2024-12-29 15:42:52 +0000"
     },
     "done": true
   },
@@ -3278,15 +3267,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "discover": "2024-12-29 15:41:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/limestone": {
-    "criteria": {
-      "limestone": "2024-12-29 15:41:58 +0000"
+      "in_better_zombie_dungeon": "2024-12-29 15:46:07 +0000"
     },
     "done": true
   },
@@ -3296,16 +3279,39 @@
     },
     "done": false
   },
-  "minecraft:adventure/adventuring_time": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "minecraft:river": "2024-12-29 15:41:21 +0000",
-      "minecraft:forest": "2024-12-29 15:41:34 +0000"
+      "cave_tablet": "2024-12-29 15:51:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-29 15:51:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 15:51:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2024-12-29 15:51:56 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
-      "has_sandstone": "2024-12-29 15:42:52 +0000"
+      "cooked_dinosaur_chop": "2024-12-29 15:52:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 16:07:08 +0000"
     },
     "done": true
   },
