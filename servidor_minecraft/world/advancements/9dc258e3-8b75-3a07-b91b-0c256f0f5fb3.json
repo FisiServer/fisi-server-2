@@ -103,7 +103,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-29 21:01:09 +0000",
       "shrubland": "2024-12-28 19:27:52 +0000",
+      "dry_bushland": "2024-12-29 21:01:40 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "prismachasm": "2024-12-29 19:56:57 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
@@ -111,15 +113,19 @@
       "blackwood_taiga": "2024-12-29 17:29:41 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
       "maple_forest": "2024-12-29 17:10:18 +0000",
+      "tropical_river": "2024-12-29 21:03:23 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
       "mountains": "2024-12-29 20:09:40 +0000",
       "sparse_redwoods": "2024-12-29 19:49:53 +0000",
+      "joshua_desert": "2024-12-29 21:05:15 +0000",
       "deciduous_forest": "2024-12-28 19:19:24 +0000",
       "boreal_forest": "2024-12-29 17:10:33 +0000",
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
+      "saguaro_desert": "2024-12-29 21:03:24 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
       "cold_river": "2024-12-29 17:10:19 +0000",
       "pine_slopes": "2024-12-29 20:01:53 +0000",
+      "baobab_savanna": "2024-12-29 21:02:18 +0000",
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
@@ -129,22 +135,28 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-29 21:01:09 +0000",
       "shrubland": "2024-12-28 19:27:52 +0000",
+      "dry_bushland": "2024-12-29 21:01:40 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
       "rocky_meadow": "2024-12-28 19:26:30 +0000",
       "blackwood_taiga": "2024-12-29 17:29:41 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
       "maple_forest": "2024-12-29 17:10:18 +0000",
+      "tropical_river": "2024-12-29 21:03:23 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
       "mountains": "2024-12-29 20:09:40 +0000",
       "sparse_redwoods": "2024-12-29 19:49:53 +0000",
+      "joshua_desert": "2024-12-29 21:05:15 +0000",
       "deciduous_forest": "2024-12-28 19:19:24 +0000",
       "boreal_forest": "2024-12-29 17:10:33 +0000",
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
+      "saguaro_desert": "2024-12-29 21:03:24 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
       "cold_river": "2024-12-29 17:10:19 +0000",
       "pine_slopes": "2024-12-29 20:01:53 +0000",
+      "baobab_savanna": "2024-12-29 21:02:18 +0000",
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
@@ -3046,7 +3058,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-29 17:10:35 +0000",
+      "minecraft:eroded_badlands": "2024-12-29 21:06:51 +0000",
       "minecraft:birch_forest": "2024-12-29 17:10:41 +0000",
+      "minecraft:badlands": "2024-12-29 21:06:48 +0000",
       "minecraft:savanna_plateau": "2024-12-29 16:12:10 +0000",
       "minecraft:stony_peaks": "2024-12-29 19:59:26 +0000",
       "minecraft:river": "2024-12-29 15:39:08 +0000",
@@ -3859,9 +3873,51 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2024-12-29 19:56:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_dye_from_cave_hyssop": {
+    "criteria": {
+      "has_cave_hyssop": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:03:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-29 20:18:38 +0000"
     },
     "done": true
   },
@@ -3901,39 +3957,9 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2024-12-29 20:18:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 20:03:19 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2024-12-29 20:19:24 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:spelunker": {
-    "criteria": {
-      "prismachasm": "2024-12-29 19:56:57 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-29 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/flight_upgrade": {
-    "criteria": {
-      "has_lapis": "2024-12-29 20:00:21 +0000"
     },
     "done": true
   },
@@ -3946,12 +3972,6 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-29 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 20:22:46 +0000"
     },
     "done": true
   },
@@ -3979,24 +3999,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-29 20:00:21 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/teddy_bear": {
-    "criteria": {
-      "has_bear_fur": "2024-12-29 20:30:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2024-12-29 20:25:37 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/warrior_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-29 20:18:41 +0000"
@@ -4009,9 +4011,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/orange_dye_from_cave_hyssop": {
+  "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
     "criteria": {
-      "has_cave_hyssop": "2024-12-29 20:00:21 +0000"
+      "has_diamond": "2024-12-29 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-29 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-29 20:19:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:22:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-29 20:25:37 +0000"
     },
     "done": true
   },
@@ -4021,21 +4047,93 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
+  "naturalist:recipes/naturalist/teddy_bear": {
     "criteria": {
-      "has_diamond": "2024-12-29 20:18:41 +0000"
+      "has_bear_fur": "2024-12-29 20:30:59 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
-      "coded_trigger": "2024-12-29 20:03:03 +0000"
+      "has_item": "2024-12-29 20:38:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
-      "has_diamond": "2024-12-29 20:18:41 +0000"
+      "has_item": "2024-12-29 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-29 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-29 20:38:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/gem_of_ratlantis": {
+    "criteria": {
+      "has_input": "2024-12-29 20:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-29 20:39:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald": "2024-12-29 20:39:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/gem_of_ratlantis": {
+    "criteria": {
+      "has_emerald": "2024-12-29 20:39:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-29 21:03:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2024-12-29 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-29 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2024-12-29 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2024-12-29 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-29 21:05:52 +0000"
     },
     "done": true
   },
