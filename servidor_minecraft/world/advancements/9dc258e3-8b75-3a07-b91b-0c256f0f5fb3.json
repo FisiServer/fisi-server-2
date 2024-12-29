@@ -2903,6 +2903,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-29 16:11:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
@@ -3026,6 +3032,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-29 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-29 16:11:19 +0000"
     },
     "done": true
   },
@@ -3481,6 +3493,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2024-12-29 16:12:10 +0000",
       "minecraft:river": "2024-12-29 15:39:08 +0000",
       "minecraft:forest": "2024-12-29 15:39:00 +0000",
       "minecraft:savanna": "2024-12-29 15:38:44 +0000",
