@@ -109,6 +109,7 @@
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "prismachasm": "2024-12-29 19:56:57 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
+      "redstone_caves": "2024-12-29 21:21:45 +0000",
       "rocky_meadow": "2024-12-28 19:26:30 +0000",
       "blackwood_taiga": "2024-12-29 17:29:41 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
@@ -3057,8 +3058,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-29 21:21:25 +0000",
       "minecraft:taiga": "2024-12-29 17:10:35 +0000",
       "minecraft:eroded_badlands": "2024-12-29 21:06:51 +0000",
+      "minecraft:cherry_grove": "2024-12-29 21:21:23 +0000",
       "minecraft:birch_forest": "2024-12-29 17:10:41 +0000",
       "minecraft:badlands": "2024-12-29 21:06:48 +0000",
       "minecraft:savanna_plateau": "2024-12-29 16:12:10 +0000",
@@ -3875,6 +3878,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2024-12-29 21:21:45 +0000",
       "prismachasm": "2024-12-29 19:56:57 +0000"
     },
     "done": false
@@ -4101,19 +4105,37 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/acacia_shrub": {
-    "criteria": {
-      "has_acacia_sapling": "2024-12-29 21:13:47 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2024-12-29 21:03:54 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-29 21:05:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2024-12-29 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2024-12-29 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2024-12-29 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
       "has_item": "2024-12-29 21:05:52 +0000"
     },
@@ -4125,27 +4147,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-29 21:05:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 21:18:46 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/baobab_branch_from_baobab_log": {
     "criteria": {
       "has_log": "2024-12-29 21:09:07 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "steal_crystal": "2024-12-29 21:11:35 +0000"
     },
     "done": true
   },
@@ -4155,33 +4159,9 @@
     },
     "done": false
   },
-  "iceandfire:recipes/combat/deathworm_yellow_boots": {
-    "criteria": {
-      "has_item": "2024-12-29 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
-    "criteria": {
-      "has_grass": "2024-12-29 21:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-29 21:18:46 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/baobab_planks": {
     "criteria": {
       "has_logs": "2024-12-29 21:09:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
-    "criteria": {
-      "has_item": "2024-12-29 21:05:52 +0000"
     },
     "done": true
   },
@@ -4191,15 +4171,207 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-29 21:11:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_shrub": {
+    "criteria": {
+      "has_acacia_sapling": "2024-12-29 21:13:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2024-12-29 21:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-29 21:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-29 21:18:46 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "has_item": "2024-12-29 21:05:52 +0000"
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 21:18:59 +0000"
     },
     "done": true
   },
