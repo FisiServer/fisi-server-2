@@ -2420,3 +2420,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 16:22:58.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player StackOk completed
 [29Dec2024 16:23:04.045] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.882781982421875) to HIGH (avg. 49.46513748168945)
 [29Dec2024 16:23:19.027] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.46513748168945) to LOW (avg. 36.55329132080078)
+[29Dec2024 16:23:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Chain Death]
+[29Dec2024 16:23:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Ferrous Wroughtnaut
+[29Dec2024 16:23:27.002] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[29Dec2024 16:23:30.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[29Dec2024 16:23:34.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.55329132080078) to NORMAL (avg. 42.40167236328125)
+[29Dec2024 16:23:37.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Sweet Dreams]
+[29Dec2024 16:23:41.827] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.40167236328125) to HIGH (avg. 53.913516998291016)
+[29Dec2024 16:23:49.465] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.913516998291016) to MEDIUM (avg. 46.442848205566406)
+[29Dec2024 16:24:04.012] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.442848205566406) to LOW (avg. 32.249603271484375)
+[29Dec2024 16:24:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk was slain by Vallumraptor
+[29Dec2024 16:24:06.955] [Server thread/INFO] [tombstone/]: The player StackOk has successfully been saved
+[29Dec2024 16:24:09.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player StackOk completed
+[29Dec2024 16:24:22.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.25249388384690974
+[29Dec2024 16:24:33.425] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1267, y=-27, z=-1908}
+[29Dec2024 16:25:49.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.08978271484375) to NORMAL (avg. 41.338050842285156)
+[29Dec2024 16:26:04.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.882591247558594) to MEDIUM (avg. 47.32101821899414)
+[29Dec2024 16:26:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk was slain by Vallumraptor
+[29Dec2024 16:26:05.202] [Server thread/INFO] [tombstone/]: The player StackOk has successfully been saved
+[29Dec2024 16:26:08.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player StackOk completed
+[29Dec2024 16:26:11.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.32101821899414) to HIGH (avg. 53.83460998535156)
+[29Dec2024 16:26:26.817] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.83460998535156) to VERY_HIGH (avg. 84.62211608886719)
+[29Dec2024 16:26:37.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Fronds Like These]
+[29Dec2024 16:26:41.512] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 84.62211608886719) to NORMAL (avg. 43.39244842529297)
+[29Dec2024 16:26:56.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.39244842529297) to MEDIUM (avg. 47.478614807128906)
+[29Dec2024 16:27:04.125] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.478614807128906) to VERY_HIGH (avg. 56.038291931152344)
+[29Dec2024 16:27:08.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> joy ven
+[29Dec2024 16:27:13.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [StackOk: Teleported StackOk to BillyVR15]
+[29Dec2024 16:27:19.012] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.038291931152344) to LOW (avg. 24.07122802734375)
+[29Dec2024 16:30:53.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: StackOk moved too quickly! 1.6393782824753202,-10.589182681282772,-2.2346812981611492
+[29Dec2024 16:31:11.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk was doomed to fall by Skeleton
+[29Dec2024 16:31:11.293] [Server thread/INFO] [tombstone/]: The player StackOk has successfully been saved
+[29Dec2024 16:31:13.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player StackOk completed
+[29Dec2024 16:31:31.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> weno me voy :D
+[29Dec2024 16:31:34.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.329429626464844) to NORMAL (avg. 40.230751037597656)
+[29Dec2024 16:31:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> mas tardecito entro
+[29Dec2024 16:31:41.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: StackOk lost connection: Disconnected
+[29Dec2024 16:31:41.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk left the game
+[29Dec2024 16:31:41.697] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 055ba86d-355b-3f9b-af6e-67963e73b10e was unloaded
+[29Dec2024 16:31:41.698] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client StackOk
+[29Dec2024 16:31:43.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 drowned
+[29Dec2024 16:31:43.337] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[29Dec2024 16:31:44.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[29Dec2024 16:31:49.012] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.230751037597656) to VERY_LOW (avg. 19.298656463623047)
+[29Dec2024 16:32:04.012] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.298656463623047) to LOW (avg. 28.504169464111328)
+[29Dec2024 16:33:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made BillyVR15 a server operator
+[29Dec2024 16:33:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]

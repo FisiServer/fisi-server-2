@@ -4,5 +4,11 @@
     "name": "StackOk",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9dc258e3-8b75-3a07-b91b-0c256f0f5fb3",
+    "name": "BillyVR15",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
