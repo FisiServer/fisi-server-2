@@ -106,6 +106,7 @@
       "shrubland": "2024-12-29 17:41:06 +0000",
       "willow_forest": "2024-12-29 17:35:28 +0000",
       "rocky_meadow": "2024-12-29 17:40:50 +0000",
+      "blackwood_taiga": "2024-12-29 20:01:49 +0000",
       "highland_fields": "2024-12-29 17:41:15 +0000",
       "magnolia_highlands": "2024-12-29 17:40:01 +0000",
       "deciduous_forest": "2024-12-29 17:40:03 +0000",
@@ -122,6 +123,7 @@
       "shrubland": "2024-12-29 17:41:06 +0000",
       "willow_forest": "2024-12-29 17:35:28 +0000",
       "rocky_meadow": "2024-12-29 17:40:50 +0000",
+      "blackwood_taiga": "2024-12-29 20:01:49 +0000",
       "highland_fields": "2024-12-29 17:41:15 +0000",
       "magnolia_highlands": "2024-12-29 17:40:01 +0000",
       "deciduous_forest": "2024-12-29 17:40:03 +0000",
@@ -1705,6 +1707,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2024-12-29 20:02:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
@@ -1789,9 +1797,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-29 20:02:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:04:40 +0000"
     },
     "done": true
   },
@@ -1975,6 +1995,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:04:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
@@ -2056,6 +2082,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-29 20:02:21 +0000"
     },
     "done": true
   },
@@ -2395,6 +2427,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-29 20:02:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-12-29 19:54:56 +0000"
@@ -2539,9 +2577,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-29 20:02:21 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/decorations/rat_trap": {
     "criteria": {
       "has_iron": "2024-12-29 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-29 20:02:21 +0000"
     },
     "done": true
   },
@@ -2634,6 +2684,14 @@
       "has_gold": "2024-12-29 19:52:44 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-12-29 20:03:45 +0000",
+      "minecraft:forest": "2024-12-29 20:02:53 +0000",
+      "minecraft:meadow": "2024-12-29 20:02:52 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {

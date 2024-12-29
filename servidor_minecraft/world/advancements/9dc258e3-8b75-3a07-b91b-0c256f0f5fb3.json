@@ -105,6 +105,7 @@
     "criteria": {
       "shrubland": "2024-12-28 19:27:52 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
+      "prismachasm": "2024-12-29 19:56:57 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
       "rocky_meadow": "2024-12-28 19:26:30 +0000",
       "blackwood_taiga": "2024-12-29 17:29:41 +0000",
@@ -117,6 +118,7 @@
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
       "cold_river": "2024-12-29 17:10:19 +0000",
+      "pine_slopes": "2024-12-29 20:01:53 +0000",
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
@@ -140,6 +142,7 @@
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
       "cold_river": "2024-12-29 17:10:19 +0000",
+      "pine_slopes": "2024-12-29 20:01:53 +0000",
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
@@ -3042,10 +3045,12 @@
       "minecraft:taiga": "2024-12-29 17:10:35 +0000",
       "minecraft:birch_forest": "2024-12-29 17:10:41 +0000",
       "minecraft:savanna_plateau": "2024-12-29 16:12:10 +0000",
+      "minecraft:stony_peaks": "2024-12-29 19:59:26 +0000",
       "minecraft:river": "2024-12-29 15:39:08 +0000",
       "minecraft:forest": "2024-12-29 15:39:00 +0000",
       "minecraft:jungle": "2024-12-29 17:02:51 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 17:10:40 +0000",
+      "minecraft:deep_dark": "2024-12-29 19:57:14 +0000",
       "minecraft:meadow": "2024-12-29 17:02:56 +0000",
       "minecraft:savanna": "2024-12-29 15:38:44 +0000",
       "minecraft:plains": "2024-12-29 15:38:38 +0000"
@@ -3847,6 +3852,48 @@
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2024-12-29 17:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2024-12-29 19:56:57 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_dye_from_cave_hyssop": {
+    "criteria": {
+      "has_cave_hyssop": "2024-12-29 20:00:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:03:03 +0000"
     },
     "done": true
   },
