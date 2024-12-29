@@ -2112,3 +2112,123 @@ io.netty.channel.StacklessClosedChannelException: null
 [29Dec2024 19:49:57.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Drk147 (75bcec0d-fa4e-362b-921b-3bec542186e3) successfully connected to voice chat
 [29Dec2024 19:50:01.730] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Drk147 was successful validated after 19 secs.
 [29Dec2024 19:50:01.731] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Drk147!
+[29Dec2024 19:50:12.053] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.93479919433594) to NORMAL (avg. 43.12997055053711)
+[29Dec2024 19:50:15.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Dec2024 19:50:16.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Drk147> billy
+[29Dec2024 19:50:20.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[29Dec2024 19:50:22.472] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.12997055053711) to VERY_HIGH (avg. 97.46437072753906)
+[29Dec2024 19:50:31.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 97.46437072753906) to NORMAL (avg. 43.24754333496094)
+[29Dec2024 19:50:33.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3452ms or 69 ticks behind
+[29Dec2024 19:50:34.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Drk147> como era para que me siga mi pajarito
+[29Dec2024 19:50:36.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -4.521595598619911,10.496215434890004,-0.9780642253165297
+[29Dec2024 19:50:36.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -4.713489936941301,10.375040402993648,-0.3805166057711631
+[29Dec2024 19:50:36.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -5.526686425011576,11.694836856136675,-0.33079009499306267
+[29Dec2024 19:50:36.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -6.3417468962629755,12.885537392909526,-0.22374111575004463
+[29Dec2024 19:50:36.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -7.158631680092526,13.952254209187402,-0.06580475650957851
+[29Dec2024 19:50:36.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 11.915079354832187,-18.010656034659235,-1.8496868276592977
+[29Dec2024 19:50:36.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 8.012152793926816,-9.08983098720094,-2.2164372166853354
+[29Dec2024 19:50:36.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 8.012152793926816,-9.08983098720094,-2.2164372166853354
+[29Dec2024 19:50:36.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 8.012152793926816,-9.08983098720094,-2.2164372166853354
+[29Dec2024 19:50:36.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 8.012152793926816,-9.08983098720094,-2.2164372166853354
+[29Dec2024 19:50:36.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 7.265469925914772,-8.76389278380509,-1.7752701944693854
+[29Dec2024 19:50:37.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 6.532803539515612,-8.527693728666634,-1.3101076927332542
+[29Dec2024 19:50:37.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 5.81263705177912,-8.377680153191989,-0.8235460217445052
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.5715398540443175,9.05182459408698,-5.140779905403178
+[29Dec2024 19:50:38.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.6170667408467807,-7.312923429271251,-8.545374835179928
+[29Dec2024 19:50:38.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.9430665315107944,-7.421709434591207,-7.693220572358314
+[29Dec2024 19:50:38.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 1.3040131097496896,-7.530495484414047,-6.849164423855427
+[29Dec2024 19:50:44.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> apareci en un arbol xd
+[29Dec2024 19:50:46.527] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.24754333496094) to LOW (avg. 37.9083366394043)
+[29Dec2024 19:50:47.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Disconnected
+[29Dec2024 19:50:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[29Dec2024 19:50:47.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[29Dec2024 19:50:47.510] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[29Dec2024 19:50:53.692] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.9083366394043) to HIGH (avg. 50.890655517578125)
+[29Dec2024 19:51:01.158] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.890655517578125) to NORMAL (avg. 44.91249084472656)
+[29Dec2024 19:51:07.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[29Dec2024 19:51:15.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:57045] logged in with entity id 8628 at (-301.21041765320797, 103.03531770845277, -560.0938544882575)
+[29Dec2024 19:51:15.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[29Dec2024 19:51:15.491] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/8628, l='ServerLevel[world]', x=-301.21, y=103.04, z=-560.09] logged in and will be protected for 90 secs.
+[29Dec2024 19:51:15.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[29Dec2024 19:51:15.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[29Dec2024 19:51:15.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[29Dec2024 19:51:16.172] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[29Dec2024 19:51:16.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.91249084472656) to VERY_HIGH (avg. 74.96390533447266)
+[29Dec2024 19:51:23.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> disculpa que por escribir vi un dragón a mi costado xd
+[29Dec2024 19:51:32.288] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 74.96390533447266) to NORMAL (avg. 43.23590850830078)
+[29Dec2024 19:51:32.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[29Dec2024 19:51:36.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[29Dec2024 19:51:36.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[29Dec2024 19:51:45.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> con shift mas click derecho le ordenas que te siga o que se quede quieto
+[29Dec2024 19:51:53.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Alex's Mobs]
+[29Dec2024 19:51:57.541] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Oicapse was successful validated after 42 secs.
+[29Dec2024 19:51:57.541] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Oicapse!
+[29Dec2024 19:52:01.651] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.5110969543457) to MEDIUM (avg. 47.81871795654297)
+[29Dec2024 19:52:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Fire Dragon
+[29Dec2024 19:52:08.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Your First Grave]
+[29Dec2024 19:52:08.442] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[29Dec2024 19:52:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[29Dec2024 19:52:12.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [The Most Useful Key]
+[29Dec2024 19:52:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Drk147> xd
+[29Dec2024 19:52:16.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.81871795654297) to LOW (avg. 39.067264556884766)
+[29Dec2024 19:52:23.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.8070191051367033,5.7022862619742085,-9.370486903196479
+[29Dec2024 19:52:23.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.9192757646562768,6.681244275177093,-10.19491501187531
+[29Dec2024 19:52:23.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 1.0352869134665639,7.724201630175429,-11.016694662906048
+[29Dec2024 19:52:31.537] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.067264556884766) to VERY_HIGH (avg. 59.60143280029297)
+[29Dec2024 19:52:38.692] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.60143280029297) to NORMAL (avg. 42.62498092651367)
+[29Dec2024 19:52:50.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! -2.3261468686009117,0.2468000194787976,-9.84153826670294
+[29Dec2024 19:52:53.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.62498092651367) to LOW (avg. 37.77622604370117)
+[29Dec2024 19:52:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Suit Up]
+[29Dec2024 19:53:11.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Ice Bucket Challenge]
+[29Dec2024 19:53:16.264] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.735595703125) to NORMAL (avg. 44.7499885559082)
+[29Dec2024 19:53:30.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Acquire Hardware]
+[29Dec2024 19:53:38.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.05372619628906) to LOW (avg. 35.410194396972656)
+[29Dec2024 19:53:43.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has reached the goal [Here They Come]
+[29Dec2024 19:54:15.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! -6.0741469017275875,1.1684000179529193,-7.922010684492733
+[29Dec2024 19:54:51.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! 2.528907527015704,3.1661092609382138,-9.369813503005105
+[29Dec2024 19:55:15.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[29Dec2024 19:55:15.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[29Dec2024 19:55:15.893] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[29Dec2024 19:55:15.894] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[29Dec2024 19:55:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Stone Age]
+[29Dec2024 19:55:48.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-218, y=-17, z=-1046}
+[29Dec2024 19:55:52.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-170, y=-2, z=-918}
+[29Dec2024 19:56:01.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.94840621948242) to NORMAL (avg. 44.536869049072266)
+[29Dec2024 19:56:02.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:57351] logged in with entity id 12373 at (-64.01279368840524, 101.00133597911214, -218.36044473495596)
+[29Dec2024 19:56:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[29Dec2024 19:56:02.864] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/12373, l='ServerLevel[world]', x=-64.01, y=101.00, z=-218.36] logged in and will be protected for 90 secs.
+[29Dec2024 19:56:02.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[29Dec2024 19:56:03.317] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[29Dec2024 19:56:03.317] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[29Dec2024 19:56:03.369] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[29Dec2024 19:56:23.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.31248474121094) to LOW (avg. 38.699954986572266)
+[29Dec2024 19:56:31.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.699954986572266) to NORMAL (avg. 41.996089935302734)
+[29Dec2024 19:56:32.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[29Dec2024 19:56:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[29Dec2024 19:56:32.901] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[29Dec2024 19:56:32.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[29Dec2024 19:56:46.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.996089935302734) to LOW (avg. 27.317913055419922)
+[29Dec2024 19:56:54.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Getting an Upgrade]
+[29Dec2024 19:57:53.685] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.34755325317383) to NORMAL (avg. 42.689476013183594)
+[29Dec2024 19:58:16.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.77059555053711) to LOW (avg. 37.537025451660156)
+[29Dec2024 19:59:01.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.932926177978516) to MEDIUM (avg. 47.042083740234375)
+[29Dec2024 19:59:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Drk147> zzzz
+[29Dec2024 19:59:08.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.042083740234375) to NORMAL (avg. 45.35264587402344)
+[29Dec2024 19:59:18.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/13561, l='ServerLevel[world]', x=-695.92, y=119.00, z=-888.84] died, message: 'Fisherman was slain by Zombie'
+[29Dec2024 19:59:38.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.217098236083984) to LOW (avg. 36.78851318359375)
+[29Dec2024 20:00:23.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.83063507080078) to NORMAL (avg. 40.21918869018555)
+[29Dec2024 20:00:38.663] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.426246643066406) to MEDIUM (avg. 46.92531967163086)
