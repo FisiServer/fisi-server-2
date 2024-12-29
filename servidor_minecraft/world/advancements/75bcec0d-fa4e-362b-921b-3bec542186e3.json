@@ -103,15 +103,19 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-29 20:08:04 +0000",
       "shrubland": "2024-12-29 17:41:06 +0000",
       "willow_forest": "2024-12-29 17:35:28 +0000",
       "rocky_meadow": "2024-12-29 17:40:50 +0000",
       "blackwood_taiga": "2024-12-29 20:01:49 +0000",
       "highland_fields": "2024-12-29 17:41:15 +0000",
+      "maple_forest": "2024-12-29 20:11:49 +0000",
       "magnolia_highlands": "2024-12-29 17:40:01 +0000",
       "deciduous_forest": "2024-12-29 17:40:03 +0000",
       "bamboo_forest": "2024-12-29 17:39:16 +0000",
       "temperate_grove": "2024-12-29 19:50:52 +0000",
+      "cold_river": "2024-12-29 20:11:51 +0000",
+      "pine_slopes": "2024-12-29 20:08:11 +0000",
       "grassland": "2024-12-29 17:40:08 +0000",
       "redwoods": "2024-12-29 17:39:06 +0000",
       "lupine_plains": "2024-12-29 17:38:13 +0000"
@@ -120,15 +124,19 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-29 20:08:04 +0000",
       "shrubland": "2024-12-29 17:41:06 +0000",
       "willow_forest": "2024-12-29 17:35:28 +0000",
       "rocky_meadow": "2024-12-29 17:40:50 +0000",
       "blackwood_taiga": "2024-12-29 20:01:49 +0000",
       "highland_fields": "2024-12-29 17:41:15 +0000",
+      "maple_forest": "2024-12-29 20:11:49 +0000",
       "magnolia_highlands": "2024-12-29 17:40:01 +0000",
       "deciduous_forest": "2024-12-29 17:40:03 +0000",
       "bamboo_forest": "2024-12-29 17:39:16 +0000",
       "temperate_grove": "2024-12-29 19:50:52 +0000",
+      "cold_river": "2024-12-29 20:11:51 +0000",
+      "pine_slopes": "2024-12-29 20:08:11 +0000",
       "grassland": "2024-12-29 17:40:08 +0000",
       "redwoods": "2024-12-29 17:39:06 +0000",
       "lupine_plains": "2024-12-29 17:38:13 +0000"
@@ -1617,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-29 20:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 19:52:44 +0000"
@@ -1797,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-29 20:08:53 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/farmer_upgrade": {
     "criteria": {
       "has_seeds": "2024-12-29 20:02:21 +0000"
@@ -1860,6 +1880,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-29 20:08:53 +0000"
     },
     "done": true
   },
@@ -2229,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-29 20:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
@@ -2517,6 +2549,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-29 20:10:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-29 19:54:56 +0000"
@@ -2550,6 +2588,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-29 20:08:53 +0000"
     },
     "done": true
   },
@@ -2687,15 +2731,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-29 20:14:45 +0000",
       "minecraft:river": "2024-12-29 20:03:45 +0000",
       "minecraft:forest": "2024-12-29 20:02:53 +0000",
-      "minecraft:meadow": "2024-12-29 20:02:52 +0000"
+      "minecraft:meadow": "2024-12-29 20:02:52 +0000",
+      "minecraft:savanna": "2024-12-29 20:15:20 +0000",
+      "minecraft:plains": "2024-12-29 20:15:21 +0000"
     },
     "done": false
   },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-12-29 19:54:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-29 20:07:35 +0000"
     },
     "done": true
   },
@@ -2714,6 +2767,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 20:10:26 +0000"
     },
     "done": true
   },
