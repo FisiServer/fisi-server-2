@@ -104,13 +104,18 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-12-28 19:27:52 +0000",
+      "pine_taiga": "2024-12-29 17:06:00 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
       "rocky_meadow": "2024-12-28 19:26:30 +0000",
+      "blackwood_taiga": "2024-12-29 17:29:41 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
+      "maple_forest": "2024-12-29 17:10:18 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
       "deciduous_forest": "2024-12-28 19:19:24 +0000",
+      "boreal_forest": "2024-12-29 17:10:33 +0000",
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
+      "cold_river": "2024-12-29 17:10:19 +0000",
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
@@ -121,13 +126,18 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2024-12-28 19:27:52 +0000",
+      "pine_taiga": "2024-12-29 17:06:00 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
       "rocky_meadow": "2024-12-28 19:26:30 +0000",
+      "blackwood_taiga": "2024-12-29 17:29:41 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
+      "maple_forest": "2024-12-29 17:10:18 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
       "deciduous_forest": "2024-12-28 19:19:24 +0000",
+      "boreal_forest": "2024-12-29 17:10:33 +0000",
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
+      "cold_river": "2024-12-29 17:10:19 +0000",
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
@@ -1476,6 +1486,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-29 15:26:33 +0000",
+      "golden_carrot": "2024-12-29 17:04:49 +0000",
       "cooked_chicken": "2024-12-28 19:22:54 +0000"
     },
     "done": false
@@ -1542,6 +1553,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
       "minecraft:zombie": "2024-12-28 19:25:26 +0000"
     },
@@ -2843,45 +2855,105 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-29 15:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 15:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 15:25:44 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2024-12-29 15:28:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2024-12-29 15:31:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 15:32:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 15:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-29 15:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-29 15:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-29 15:32:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-29 15:32:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2024-12-29 15:32:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-29 15:32:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2024-12-29 15:32:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-29 15:33:56 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/fiddlehead": {
+  "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
-      "fiddlehead": "2024-12-29 15:47:00 +0000"
+      "has_rice": "2024-12-29 15:33:56 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/maple_boat": {
+  "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
-      "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_magenta": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/poison_upgrade": {
-    "criteria": {
-      "has_eye": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_rich_soil": {
-    "criteria": {
-      "get_rich_soil": "2024-12-29 15:34:57 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/transportation/pirat_boat": {
-    "criteria": {
-      "in_water": "2024-12-29 15:39:07 +0000"
+      "has_rice": "2024-12-29 15:33:56 +0000"
     },
     "done": true
   },
@@ -2897,15 +2969,96 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_ingredient": "2024-12-29 15:44:15 +0000"
+      "has_brown_mushroom": "2024-12-29 15:34:54 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_subterranodon": {
+  "rats:recipes/building_blocks/block_of_blue_cheese": {
     "criteria": {
-      "killed": "2024-12-29 16:11:19 +0000"
+      "has_mushroom": "2024-12-29 15:34:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-12-29 15:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-29 15:34:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-29 15:34:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 15:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-29 17:10:35 +0000",
+      "minecraft:birch_forest": "2024-12-29 17:10:41 +0000",
+      "minecraft:savanna_plateau": "2024-12-29 16:12:10 +0000",
+      "minecraft:river": "2024-12-29 15:39:08 +0000",
+      "minecraft:forest": "2024-12-29 15:39:00 +0000",
+      "minecraft:jungle": "2024-12-29 17:02:51 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-29 17:10:40 +0000",
+      "minecraft:meadow": "2024-12-29 17:02:56 +0000",
+      "minecraft:savanna": "2024-12-29 15:38:44 +0000",
+      "minecraft:plains": "2024-12-29 15:38:38 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 15:39:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/transportation/pirat_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 15:39:07 +0000"
     },
     "done": true
   },
@@ -2915,93 +3068,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2024-12-29 15:32:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_organic_compost": {
-    "criteria": {
-      "place_organic_compost": "2024-12-29 15:39:54 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_brown": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/plague_stew": {
-    "criteria": {
-      "has_bowl": "2024-12-29 16:00:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-29 16:23:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/rat_seed_bowl": {
-    "criteria": {
-      "has_seeds": "2024-12-29 15:32:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2024-12-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_gunpowder": "2024-12-29 15:53:05 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_gray": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/bottler_upgrade": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
     },
     "done": true
   },
@@ -3017,135 +3092,15 @@
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/rat_hammock_purple": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
-    "criteria": {
-      "has_spruce_shrub": "2024-12-29 15:31:34 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/combat/fisherman_hat": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 15:36:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-29 16:11:19 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 15:44:13 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_orange": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2024-12-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/primordial_armor": {
-    "criteria": {
-      "pants": "2024-12-29 15:51:33 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2024-12-29 15:25:44 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_blue": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_lime": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 15:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 15:36:38 +0000"
-    },
-    "done": true
-  },
-  "rats:plague_doctor": {
-    "criteria": {
-      "meet_doctor": "2024-12-29 15:28:39 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/tnt_upgrade": {
-    "criteria": {
-      "has_gunpowder": "2024-12-29 15:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-29 15:53:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
-    "criteria": {
-      "killed_grottoceratops": "2024-12-29 15:52:40 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_cyan": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/gardener_upgrade": {
-    "criteria": {
-      "has_seeds": "2024-12-29 15:32:11 +0000"
     },
     "done": true
   },
@@ -3167,12 +3122,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2024-12-29 16:00:35 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
@@ -3185,33 +3134,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2024-12-29 15:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_black": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2024-12-29 15:46:28 +0000"
     },
     "done": true
   },
@@ -3221,51 +3146,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-29 15:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/serene_salad": {
-    "criteria": {
-      "serene_salad": "2024-12-29 16:00:38 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/block_of_blue_cheese": {
-    "criteria": {
-      "has_mushroom": "2024-12-29 15:34:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-29 15:36:38 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
     },
     "done": true
   },
@@ -3287,42 +3170,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 15:36:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-29 15:36:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 15:25:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2024-12-29 15:51:21 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/rat_breeding_lantern": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_green": {
-    "criteria": {
-      "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
@@ -3332,18 +3179,6 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 16:23:26 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/replanter_upgrade": {
-    "criteria": {
-      "has_seeds": "2024-12-29 15:32:11 +0000"
     },
     "done": true
   },
@@ -3365,39 +3200,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2024-12-29 15:33:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-29 15:51:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-29 15:25:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2024-12-29 15:41:36 +0000"
     },
     "done": true
   },
@@ -3413,12 +3218,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2024-12-29 15:39:07 +0000"
@@ -3431,21 +3230,45 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mixed_salad": {
+  "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
-      "has_bowl": "2024-12-29 16:00:35 +0000"
+      "in_water": "2024-12-29 15:39:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
-      "has_potato": "2024-12-29 15:32:10 +0000"
+      "in_water": "2024-12-29 15:39:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/choose_grave_type": {
+  "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
-      "coded_trigger": "2024-12-29 15:36:01 +0000"
+      "in_water": "2024-12-29 15:39:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 15:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 15:39:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2024-12-29 15:39:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-29 15:41:36 +0000"
     },
     "done": true
   },
@@ -3455,15 +3278,201 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-29 15:44:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 15:44:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 15:44:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-29 15:44:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 15:44:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2024-12-29 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2024-12-29 15:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-29 15:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2024-12-29 15:51:18 +0000"
     },
     "done": false
   },
-  "regions_unexplored:recipes/transportation/baobab_boat": {
+  "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
-      "in_water": "2024-12-29 15:39:07 +0000"
+      "cooked_dinosaur_chop": "2024-12-29 15:51:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2024-12-29 15:51:33 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-29 15:52:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_magenta": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_eye": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_brown": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_gray": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bottler_upgrade": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_purple": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/fisherman_hat": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_orange": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_blue": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_lime": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_cyan": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_black": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_breeding_lantern": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_green": {
+    "criteria": {
+      "has_string": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-29 15:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-29 15:53:02 +0000"
     },
     "done": true
   },
@@ -3473,21 +3482,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2024-12-29 15:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2024-12-29 15:33:56 +0000"
     },
     "done": true
   },
@@ -3503,49 +3500,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna_plateau": "2024-12-29 16:12:10 +0000",
-      "minecraft:river": "2024-12-29 15:39:08 +0000",
-      "minecraft:forest": "2024-12-29 15:39:00 +0000",
-      "minecraft:savanna": "2024-12-29 15:38:44 +0000",
-      "minecraft:plains": "2024-12-29 15:38:38 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-29 15:34:54 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_boat": {
-    "criteria": {
-      "in_water": "2024-12-29 15:39:07 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/hammocks/rat_hammock_red": {
     "criteria": {
       "has_string": "2024-12-29 15:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-29 15:53:05 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2024-12-29 15:44:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2024-12-29 15:39:07 +0000"
     },
     "done": true
   },
@@ -3555,15 +3512,339 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/joshua_boat": {
+  "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
-      "in_water": "2024-12-29 15:39:07 +0000"
+      "has_gunpowder": "2024-12-29 15:53:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
     "criteria": {
-      "in_water": "2024-12-29 15:39:07 +0000"
+      "has_gunpowder": "2024-12-29 15:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-29 15:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-29 15:53:05 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-29 16:00:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-29 16:00:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-29 16:00:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2024-12-29 16:00:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-29 16:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-29 16:11:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 16:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-29 16:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 16:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 16:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 16:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/disenchanter_upgrade": {
+    "criteria": {
+      "has_shelf": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-12-29 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-29 16:59:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 16:59:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2024-12-29 16:59:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-29 16:59:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 16:59:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2024-12-29 17:01:16 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/cheese_cannonball": {
+    "criteria": {
+      "has_input": "2024-12-29 17:03:52 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dragon_upgrade": {
+    "criteria": {
+      "has_charge": "2024-12-29 17:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-29 17:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-29 17:03:53 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/carrat_upgrade": {
+    "criteria": {
+      "has_garrot": "2024-12-29 17:03:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aristocrat_upgrade": {
+    "criteria": {
+      "has_carrot": "2024-12-29 17:03:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-29 17:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-12-29 17:04:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-29 17:12:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-29 17:12:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/villager_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 17:29:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-29 17:29:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-29 17:29:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2024-12-29 17:29:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 17:30:57 +0000"
     },
     "done": true
   },
