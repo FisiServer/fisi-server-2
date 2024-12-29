@@ -4442,3 +4442,132 @@ io.netty.channel.StacklessClosedChannelException: null
 [29Dec2024 21:11:37.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Birds of a Feather]
 [29Dec2024 21:11:53.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> donde andan?
 [29Dec2024 21:12:00.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/63274, l='ServerLevel[world]', x=-610.58, y=121.00, z=-519.55] died, message: 'Villager was incinerated by Fire Dragon'
+[29Dec2024 21:13:34.310] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.23599624633789) to NORMAL (avg. 40.65378189086914)
+[29Dec2024 21:13:49.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.65378189086914) to LOW (avg. 29.277408599853516)
+[29Dec2024 21:16:41.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.943524216437766,-1.196647213729591,0.5795786589596901
+[29Dec2024 21:16:41.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -10.847591879648348,-1.3054333240686447,0.6325375470980816
+[29Dec2024 21:16:41.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -11.751808770029811,-1.4142194344076984,0.6773142806821397
+[29Dec2024 21:16:41.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -12.639306211220457,-1.523005544746752,0.6622546669996154
+[29Dec2024 21:16:49.312] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.990962982177734) to NORMAL (avg. 44.285064697265625)
+[29Dec2024 21:16:56.955] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.285064697265625) to HIGH (avg. 53.88509750366211)
+[29Dec2024 21:17:04.346] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.88509750366211) to NORMAL (avg. 44.59387969970703)
+[29Dec2024 21:17:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> en otras
+[29Dec2024 21:17:10.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> pero ya estoy xd
+[29Dec2024 21:17:19.330] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.59387969970703) to LOW (avg. 35.87198257446289)
+[29Dec2024 21:17:29.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-103, y=-11, z=-1178}
+[29Dec2024 21:17:34.316] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.87198257446289) to NORMAL (avg. 43.877288818359375)
+[29Dec2024 21:17:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [From the Tree Tops]
+[29Dec2024 21:17:40.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> nc donde estoy
+[29Dec2024 21:17:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> voy a mi casa a ver si ya se cocinó mi stack de hierro
+[29Dec2024 21:17:41.820] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.877288818359375) to MEDIUM (avg. 46.989585876464844)
+[29Dec2024 21:17:45.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.408848545423353,-1.1966433416637585,3.205615064693802
+[29Dec2024 21:17:45.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -10.26524866963922,-1.305429448177108,3.497392440675412
+[29Dec2024 21:17:45.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -11.121750183574136,-1.4142155563116319,3.7892043603537786
+[29Dec2024 21:17:45.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -11.978342116863132,-1.5230016653803489,4.081047086101762
+[29Dec2024 21:17:45.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -12.8350146861344,-1.631787774987373,4.372917284703362
+[29Dec2024 21:17:45.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -13.69175916657673,-1.7405738849045918,4.664811983596792
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -14.548567777403264,-1.849359995000583,4.956728531850786
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -15.405433579708074,-1.9581461051995745,5.248664565365289
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -16.262350385374702,-2.0669322154579106,5.54061797583563
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -17.11931267584069,-2.175718325750438,5.832586883075464
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -17.976315529651913,-2.28450443606269,6.124569610334902
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -18.833354557855472,-2.393290546386311,6.41656466228801
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -19.69042584638305,-2.5020766567164685,6.708570705403417
+[29Dec2024 21:17:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -20.54752590466842,-2.610862767050378,7.000586550437447
+[29Dec2024 21:17:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -21.404651619824506,-2.7196488773864758,7.29261113682287
+[29Dec2024 21:17:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -22.261800215778578,-2.828434987723824,7.584643518745679
+[29Dec2024 21:17:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -23.118969216828873,-2.937221098061883,7.876682852729118
+[29Dec2024 21:17:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -23.976156415144487,-3.0460072084003684,8.168728386560133
+[29Dec2024 21:17:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -24.8333598417818,-3.154793318739081,8.46077944941544
+[29Dec2024 21:17:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -0.9937324390189133,-3.15479719971421,10.18519418407459
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -25.69057774083683,-3.263579429077936,8.752835443054892
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -1.0245375281781435,-3.2635833100532636,10.989243324140261
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -26.54780854639432,-3.372365539416876,9.04489583396753
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -1.0554476032294815,-3.3723694203923174,11.804234042798043
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -27.405050861971063,-3.4811516497558728,9.33696014636871
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -1.0864513047019955,-3.481155530731371,12.628982461525538
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -1.1175385022194178,-3.589941641070425,13.462432797426118
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -28.26230344218328,-3.589937760094898,9.629027955953461
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -1.1487001615117833,-3.6987277514094785,14.30364350328523
+[29Dec2024 21:17:45.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -29.119565176397657,-3.6987238704339234,9.921098884326511
+[29Dec2024 21:17:46.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -21.424272961851557,-2.71965274280916,7.299296170521757
+[29Dec2024 21:17:46.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -22.281550139849912,-2.8284388531482136,7.591372360625428
+[29Dec2024 21:17:46.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -23.138833810370613,-2.9372249634872674,7.883450762745497
+[29Dec2024 21:17:46.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -23.996123270922908,-3.046011073826321,8.175531137541839
+[29Dec2024 21:17:46.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.3737935793125189,1.3054333240686447,-10.07927780001637
+[29Dec2024 21:17:46.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.3737935793125189,1.3054333240686447,-10.07927780001637
+[29Dec2024 21:17:46.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.3737935793125189,1.3054333240686447,-10.07927780001637
+[29Dec2024 21:17:46.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.3737935793125189,1.3054333240686447,-10.07927780001637
+[29Dec2024 21:17:46.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.3737935793125189,1.3054333240686447,-10.07927780001637
+[29Dec2024 21:17:46.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! 0.3737935793125189,1.3054333240686447,-10.07927780001637
+[29Dec2024 21:17:49.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.430707715866959,-1.196647213729591,3.213062531378
+[29Dec2024 21:17:49.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -3.437185530811689,-1.235570773180612,10.169947566668725
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -10.288044843180273,-1.3054333240686447,3.505159146342976
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -3.7292744681615204,-1.3443171471819824,11.022102250383114
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -11.145381976501596,-1.4142194344076984,3.797255763354997
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -4.021844068200039,-1.4530803598533595,11.874652816777598
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -12.002719115180867,-1.523005544746752,4.089352382192374
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -4.314842323236576,-1.5618532756401322,12.727556431356334
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -12.860056258638338,-1.6317916550858058,4.381449002657746
+[29Dec2024 21:17:49.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -4.608222852811423,-1.6706317827502346,13.5807748943148
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -13.717393406357019,-1.7405777654248595,4.673545624574899
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -4.901944294829377,-1.7794135118045489,14.434274139066702
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -14.574730557875796,-1.8493638757639133,4.965642247786718
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -5.1959697625727586,-1.8881970974720304,15.288023785028827
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -15.432067712783578,-1.958149986102967,5.257738872153368
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -5.4902663604659665,-1.9969817529943157,16.141996738796934
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -16.28940487071361,-2.0669360964420207,5.549835497549566
+[29Dec2024 21:17:49.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -5.784804752233754,-2.1057670250097402,16.99616883847216
+[29Dec2024 21:17:49.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -17.14674203133893,-2.1757222067810744,5.841932123864126
+[29Dec2024 21:17:49.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -6.077607603723777,-2.21455265227317,17.851171734856052
+[29Dec2024 21:17:49.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
+[29Dec2024 21:17:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.43070859907732,-1.196647213729591,3.213062832289552
+[29Dec2024 21:17:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -10.28804576424983,-1.3054333240686447,3.505159460153436
+[29Dec2024 21:17:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -3.4971821157087106,-1.305270813372175,10.249717650081038
+[29Dec2024 21:17:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -11.145382931333984,-1.4142194344076984,3.7972560886685187
+[29Dec2024 21:17:49.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -3.7707966519120646,-1.414056831278586,11.111079040201048
+[29Dec2024 21:17:52.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.989585876464844) to LOW (avg. 33.92628860473633)
+[29Dec2024 21:18:07.178] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.92628860473633) to NORMAL (avg. 41.99815368652344)
+[29Dec2024 21:18:15.904] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.99815368652344) to VERY_HIGH (avg. 62.40618133544922)
+[29Dec2024 21:18:21.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Dec2024 21:18:24.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.40618133544922) to MEDIUM (avg. 48.99992370605469)
+[29Dec2024 21:18:39.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved wrongly! 0.2940964485516133
+[29Dec2024 21:18:39.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved wrongly! 0.6881726591218467
+[29Dec2024 21:18:39.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved wrongly! 0.8990349823659471
+[29Dec2024 21:18:40.299] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.99992370605469) to NORMAL (avg. 44.12822723388672)
+[29Dec2024 21:18:47.848] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.12822723388672) to HIGH (avg. 50.80632400512695)
+[29Dec2024 21:18:48.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=979, y=43, z=-803}
+[29Dec2024 21:18:55.997] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.80632400512695) to VERY_HIGH (avg. 64.85684204101562)
+[29Dec2024 21:18:56.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Dec2024 21:19:03.850] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.85684204101562) to HIGH (avg. 54.100502014160156)
+[29Dec2024 21:19:19.950] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.100502014160156) to MEDIUM (avg. 48.64115905761719)
+[29Dec2024 21:19:21.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Dec2024 21:19:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 fell from a high place
+[29Dec2024 21:19:24.234] [Server thread/INFO] [tombstone/]: The player Drk147 has successfully been saved
+[29Dec2024 21:19:28.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Drk147 completed
+[29Dec2024 21:19:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xd
+[29Dec2024 21:19:32.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ekisde
+[29Dec2024 21:19:36.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.64115905761719) to LOW (avg. 39.05883026123047)
+[29Dec2024 21:19:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Drk147> toque shift xd
+[29Dec2024 21:19:43.302] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.05883026123047) to HIGH (avg. 53.44595718383789)
+[29Dec2024 21:19:50.686] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.44595718383789) to MEDIUM (avg. 47.73848342895508)
+[29Dec2024 21:20:02.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Cobweb Entanglement]
+[29Dec2024 21:20:06.935] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.73848342895508) to VERY_HIGH (avg. 64.41548156738281)
+[29Dec2024 21:20:09.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> UN SAPOOOOOOOOOOOOOO
+[29Dec2024 21:20:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[29Dec2024 21:20:16.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[29Dec2024 21:20:36.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 21:20:47.804] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.269615173339844) to HIGH (avg. 49.562828063964844)
+[29Dec2024 21:20:54.756] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.562828063964844) to VERY_HIGH (avg. 58.18524169921875)
+[29Dec2024 21:21:11.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -0.6591545305923319,8.539785518464981,6.6347993738461355
+[29Dec2024 21:21:11.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -0.7399593481579814,9.86667246808932,7.455768986344424
+[29Dec2024 21:21:11.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Drk147) moved too quickly! -0.8205293344443589,11.243780780130322,8.275500498638053
+[29Dec2024 21:21:25.241] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 71.72584533691406) to LOW (avg. 34.167579650878906)
+[29Dec2024 21:21:39.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.167579650878906) to NORMAL (avg. 44.23506164550781)
+[29Dec2024 21:21:47.198] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.23506164550781) to HIGH (avg. 49.42760467529297)
+[29Dec2024 21:21:55.706] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.42760467529297) to MEDIUM (avg. 46.3759765625)
+[29Dec2024 21:22:06.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 10.818408824471703,-1.3054333240686447,-0.28561500382048166
+[29Dec2024 21:22:06.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 11.721154561111803,-1.4142194344076984,-0.33005778769796734
+[29Dec2024 21:22:10.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.3759765625) to LOW (avg. 32.01927185058594)
+[29Dec2024 21:22:32.173] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.33758544921875) to MEDIUM (avg. 46.039371490478516)
+[29Dec2024 21:22:47.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.039371490478516) to LOW (avg. 27.200998306274414)

@@ -107,6 +107,7 @@
       "shrubland": "2024-12-29 17:41:06 +0000",
       "dry_bushland": "2024-12-29 20:52:49 +0000",
       "willow_forest": "2024-12-29 17:35:28 +0000",
+      "redstone_caves": "2024-12-29 21:17:30 +0000",
       "rocky_meadow": "2024-12-29 17:40:50 +0000",
       "blackwood_taiga": "2024-12-29 20:01:49 +0000",
       "highland_fields": "2024-12-29 17:41:15 +0000",
@@ -3092,6 +3093,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/acacia_shrub": {
+    "criteria": {
+      "has_acacia_sapling": "2024-12-29 21:14:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-29 21:00:52 +0000"
@@ -3116,9 +3123,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-29 21:10:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2024-12-29 21:00:53 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2024-12-29 21:10:18 +0000"
     },
     "done": true
   },
@@ -3134,15 +3153,33 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2024-12-29 21:17:30 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-29 21:00:52 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2024-12-29 21:14:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-29 21:00:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-29 21:11:37 +0000"
     },
     "done": true
   },
@@ -3161,6 +3198,18 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-29 21:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-29 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:from_the_tree_tops": {
+    "criteria": {
+      "kapok_vines": "2024-12-29 21:17:39 +0000"
     },
     "done": true
   },
@@ -3185,6 +3234,12 @@
   "rats:recipes/misc/upgrades/chef_upgrade": {
     "criteria": {
       "has_apple": "2024-12-29 21:07:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_feather": "2024-12-29 21:10:18 +0000"
     },
     "done": true
   },
