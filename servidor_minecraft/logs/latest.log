@@ -3475,3 +3475,176 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 17:15:57.882] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2082, y=-42, z=1746}
 [30Dec2024 17:16:05.009] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2109, y=-42, z=1763}
 [30Dec2024 17:16:05.009] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2110, y=-47, z=1763}
+[30Dec2024 17:16:08.662] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.776424407958984) to LOW (avg. 29.433868408203125)
+[30Dec2024 17:16:09.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> lo van a matar?
+[30Dec2024 17:16:09.860] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2046, y=-29, z=1778}
+[30Dec2024 17:16:17.448] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.433868408203125) to VERY_HIGH (avg. 82.62898254394531)
+[30Dec2024 17:16:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> le sigue a sergio xd
+[30Dec2024 17:16:24.330] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 82.62898254394531) to LOW (avg. 36.395751953125)
+[30Dec2024 17:16:24.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> jksajkas
+[30Dec2024 17:16:30.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> lootea
+[30Dec2024 17:16:37.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> creo que me mata si lo ataco
+[30Dec2024 17:16:53.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> se distrajo con las hadas
+[30Dec2024 17:16:58.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! -4.825424962924444,-1.3054333240686873,-9.635605361859007
+[30Dec2024 17:17:00.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 17:17:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> de nuevo fue a por sergio
+[30Dec2024 17:17:11.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.3141323859356362
+[30Dec2024 17:17:11.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.2077933717584983
+[30Dec2024 17:17:11.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.7832973497145304
+[30Dec2024 17:17:11.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 2.188561856127535
+[30Dec2024 17:17:23.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.00420379638672) to NORMAL (avg. 40.14043045043945)
+[30Dec2024 17:17:31.094] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.14043045043945) to LOW (avg. 39.99372100830078)
+[30Dec2024 17:17:31.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> aaaaaaa
+[30Dec2024 17:17:42.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> dragon hdp
+[30Dec2024 17:17:46.078] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.99372100830078) to NORMAL (avg. 43.32532501220703)
+[30Dec2024 17:18:23.567] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.70162582397461) to LOW (avg. 37.55827331542969)
+[30Dec2024 17:18:37.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Strong or Careful]
+[30Dec2024 17:18:37.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was energized by Lightning Dragon
+[30Dec2024 17:18:37.913] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[30Dec2024 17:18:40.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 17:18:40.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[30Dec2024 17:18:46.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.792495727539062) to NORMAL (avg. 44.202693939208984)
+[30Dec2024 17:19:01.100] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.985652923583984) to HIGH (avg. 49.00509262084961)
+[30Dec2024 17:19:31.102] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.16069030761719) to NORMAL (avg. 43.20503234863281)
+[30Dec2024 17:19:38.767] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.20503234863281) to HIGH (avg. 52.642822265625)
+[30Dec2024 17:19:46.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.642822265625) to VERY_HIGH (avg. 57.490577697753906)
+[30Dec2024 17:20:08.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.45667266845703) to NORMAL (avg. 41.499237060546875)
+[30Dec2024 17:20:22.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> su nido?
+[30Dec2024 17:20:23.564] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.499237060546875) to LOW (avg. 37.287147521972656)
+[30Dec2024 17:20:31.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> al fin lo perdí xd
+[30Dec2024 17:20:39.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.287147521972656) to HIGH (avg. 53.94291687011719)
+[30Dec2024 17:20:40.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 0.0027460551409603795,10.354735921681282,2.827577384156939
+[30Dec2024 17:20:44.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2381, y=-44, z=959}
+[30Dec2024 17:20:46.064] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.94291687011719) to NORMAL (avg. 42.57318878173828)
+[30Dec2024 17:21:01.064] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.57318878173828) to LOW (avg. 35.242835998535156)
+[30Dec2024 17:21:07.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has reached the goal [Strong or Careful]
+[30Dec2024 17:21:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was turned into gorgonzola by Gorgon
+[30Dec2024 17:21:08.127] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[30Dec2024 17:21:10.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[30Dec2024 17:21:11.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 17:21:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> xddddddddddddd
+[30Dec2024 17:21:31.064] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.226051330566406) to NORMAL (avg. 42.79146957397461)
+[30Dec2024 17:22:00.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> puro cobre en sus cofres
+[30Dec2024 17:22:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> me instakilleo
+[30Dec2024 17:22:01.064] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.507102966308594) to LOW (avg. 34.43699645996094)
+[30Dec2024 17:22:08.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> te hizo piedra xd
+[30Dec2024 17:22:19.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> aaa
+[30Dec2024 17:22:23.587] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.50788497924805) to NORMAL (avg. 45.813011169433594)
+[30Dec2024 17:22:30.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> como la mato?
+[30Dec2024 17:22:38.608] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.813011169433594) to LOW (avg. 37.70106506347656)
+[30Dec2024 17:22:46.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no mirandola xd
+[30Dec2024 17:22:50.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> di
+[30Dec2024 17:23:08.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> hay unas vendas que te hace inmune a su efecto
+[30Dec2024 17:23:17.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> pero tampoco puedes ver xd
+[30Dec2024 17:23:22.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Clash of the Titans]
+[30Dec2024 17:23:23.680] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.92983627319336) to NORMAL (avg. 43.51612091064453)
+[30Dec2024 17:23:25.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 17:23:38.564] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.51612091064453) to LOW (avg. 26.7774658203125)
+[30Dec2024 17:24:03.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> me saco toda la armoooooooor
+[30Dec2024 17:24:07.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> recien veo
+[30Dec2024 17:24:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 17:24:08.726] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.765480041503906) to NORMAL (avg. 40.64723587036133)
+[30Dec2024 17:24:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> puta
+[30Dec2024 17:24:31.064] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.63466262817383) to LOW (avg. 31.87070083618164)
+[30Dec2024 17:24:31.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> verdad la armadura la perdías
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 4.515315989098781,10.160319520385002,1.7189745684245281
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 5.270454016328586,11.974480127918724,2.006454573720248
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 6.026128220550163,13.81956607012404,2.2941387008572747
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 6.782280587427067,15.69435270432598,2.5820048638574917
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 7.548201898629031,17.418065821361722,2.8735900504864276
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 8.31349263577431,19.176285992002107,3.164935178441965
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 9.078221026959454,20.967646737569396,3.456066222066056
+[30Dec2024 17:24:34.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 9.842447918003018,22.79083569191596,3.7470063452781233
+[30Dec2024 17:24:34.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 10.606227571207455,24.644592458569065,4.037776205661885
+[30Dec2024 17:24:34.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 11.369608377695386,26.527706552732752,4.328394225650754
+[30Dec2024 17:24:34.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 12.132633492671175,28.439015424786362,4.618876834371804
+[30Dec2024 17:24:34.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 12.895341401947462,30.377402562052453,4.909238683320609
+[30Dec2024 17:24:34.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 9.896987235234064,23.96343628009123,3.7677693881144023
+[30Dec2024 17:24:34.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 10.659159984455528,25.95280551440578,4.057927502368329
+[30Dec2024 17:24:34.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 11.4211077539303,27.966161825046385,4.347999967143096
+[30Dec2024 17:24:34.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 12.182854886460973,30.002555324238898,4.637996049710182
+[30Dec2024 17:24:34.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 12.944423090959845,32.061073739747286,4.927924014622249
+[30Dec2024 17:24:34.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 13.705831727435452,34.14084092529899,5.217791232207901
+[30Dec2024 17:24:34.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 14.467098061143588,36.241015429997475,5.507604275326457
+[30Dec2024 17:24:34.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 15.2282374892402,38.360789124386,5.7973690056537635
+[30Dec2024 17:24:34.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 15.989263742909316,40.499385880919164,6.08709065063249
+[30Dec2024 17:24:34.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 16.759531586477806,42.476462244372954,6.380330556137551
+[30Dec2024 17:24:34.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 17.538041080155836,44.29841441929415,6.676708046470594
+[30Dec2024 17:24:34.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 18.323900477613734,45.97138532064906,6.975883635033824
+[30Dec2024 17:24:34.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 19.116314519451407,47.50127460408618,7.277554567670677
+[30Dec2024 17:24:35.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 19.914573993315116,48.89374829900052,7.581450848216264
+[30Dec2024 17:24:35.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 20.71804642360985,50.15424806012905,7.887331694084423
+[30Dec2024 17:24:35.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 21.526167768583946,51.28800005278279,8.194982375357995
+[30Dec2024 17:24:35.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 22.338435015788946,52.300023486224205,8.504211395891616
+[30Dec2024 17:24:35.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 23.154399578709672,53.19513880912274,8.814847979418118
+[30Dec2024 17:24:35.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 23.973661407880627,53.97797558047063,9.12673982765773
+[30Dec2024 17:24:35.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 24.795863739178458,54.65298002881059,9.439751121000654
+[30Dec2024 17:24:35.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 25.62068841034852,55.22442231211812,9.753760735515698
+[30Dec2024 17:24:35.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 26.447851684283705,55.69640349019272,10.068660652877497
+[30Dec2024 17:24:35.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 27.27710052422526,56.07286222094248,10.384354542341043
+[30Dec2024 17:24:35.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 28.108209271984833,56.35758119149597,10.700756496145232
+[30Dec2024 17:24:35.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 28.940603803205704,56.55419329464215,11.018753840314048
+[30Dec2024 17:24:35.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 29.771277664069657,56.666187560683454,11.344753199086881
+[30Dec2024 17:24:35.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 30.59668514645773,56.69691485438756,11.684915463652715
+[30Dec2024 17:24:35.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 31.416739357565802,56.66852194955899,12.038815336150037
+[30Dec2024 17:24:35.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 32.23201952120871,56.60606162086495,12.404966407753818
+[30Dec2024 17:24:35.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 33.043042189199696,56.52397027946057,12.782043099035718
+[30Dec2024 17:24:35.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 33.85026802245875,56.43056676307182,13.168863258227248
+[30Dec2024 17:24:35.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 34.65410783840662,56.33064471884322,13.564372642351145
+[30Dec2024 17:24:36.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 35.45492800402917,56.226966438059065,13.967631077493024
+[30Dec2024 17:24:36.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 36.25279241228645,56.121123663480006,14.378234115965824
+[30Dec2024 17:24:36.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 37.04707326087009,56.0140336209723,14.79691110798035
+[30Dec2024 17:24:36.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 37.83660874013913,55.90622485277942,15.225154271387055
+[30Dec2024 17:24:36.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 38.62176997674351,55.798001926089626,15.662138557342132
+[30Dec2024 17:24:36.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 39.40245019776103,55.68954034470295,16.107762238014402
+[30Dec2024 17:24:36.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 40.17913424896324,55.580941240931054,16.561090531117316
+[30Dec2024 17:24:36.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 40.952254515821096,55.47226289125837,17.021289797783993
+[30Dec2024 17:24:36.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 41.72219659970915,55.363538876926896,17.48761659885122
+[30Dec2024 17:24:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.936870919655576,1.4141914176173032,-6.25367458234723
+[30Dec2024 17:24:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.936870919655576,1.4141914176173032,-6.25367458234723
+[30Dec2024 17:24:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.936870919655576,1.4141914176173032,-6.25367458234723
+[30Dec2024 17:24:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.936870919655576,1.4141914176173032,-6.25367458234723
+[30Dec2024 17:24:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.936870919655576,1.4141914176173032,-6.25367458234723
+[30Dec2024 17:24:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.936870919655576,1.4141914176173032,-6.25367458234723
+[30Dec2024 17:24:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.1506374516689,1.30540531256662,-5.809167840061718
+[30Dec2024 17:24:37.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -9.14253502939755,1.3054053064366258,-5.823681610827862
+[30Dec2024 17:24:37.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -8.349075821021415,1.196619197853579,-5.392118249684472
+[30Dec2024 17:24:47.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 9.369692380739025,-1.196647213729591,-3.362893095672689
+[30Dec2024 17:24:47.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 10.221386642018842,-1.3054333240686447,-3.670028013667661
+[30Dec2024 17:24:47.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 11.073071639974614,-1.4142194344076984,-3.9772997612167273
+[30Dec2024 17:24:47.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 11.92466168682654,-1.523005544746752,-4.284931944204573
+[30Dec2024 17:24:47.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 12.776079752878786,-1.6317916550858058,-4.593123749476035
+[30Dec2024 17:24:53.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -2.831437543520906,-1.3054333240686447,-9.94956759621141
+[30Dec2024 17:24:53.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.117275522816044,-1.4142194344076984,-10.851476526770284
+[30Dec2024 17:24:53.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.407352249279029,-1.523005544746752,-11.759569475090984
+[30Dec2024 17:24:53.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.7012090905750483,-1.6317916550858058,-12.67317733061077
+[30Dec2024 17:24:53.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.998437038376551,-1.7405777654248595,-13.591703380512172
+[30Dec2024 17:24:53.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.2843552212834766,-1.196647213729591,-10.12544838135409
+[30Dec2024 17:25:08.564] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.71916580200195) to NORMAL (avg. 43.135555267333984)
+[30Dec2024 17:25:16.086] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.135555267333984) to LOW (avg. 35.54843521118164)
+[30Dec2024 17:25:23.657] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.54843521118164) to MEDIUM (avg. 47.161258697509766)
+[30Dec2024 17:25:30.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[30Dec2024 17:25:30.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[30Dec2024 17:25:30.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[30Dec2024 17:25:30.951] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[30Dec2024 17:25:31.347] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.161258697509766) to LOW (avg. 38.24590301513672)
+[30Dec2024 17:25:53.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:52198] logged in with entity id 209701 at (-1924.9528562486869, 97.2304578804816, 949.4638191050843)
+[30Dec2024 17:25:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[30Dec2024 17:25:53.834] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/209701, l='ServerLevel[world]', x=-1924.95, y=97.23, z=949.46] logged in and will be protected for 90 secs.
+[30Dec2024 17:25:54.367] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[30Dec2024 17:25:54.368] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[30Dec2024 17:25:54.675] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[30Dec2024 17:25:55.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[30Dec2024 17:25:56.314] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 2 secs.
+[30Dec2024 17:25:56.314] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[30Dec2024 17:25:58.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no hay cofre
+[30Dec2024 17:26:01.064] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.67575454711914) to NORMAL (avg. 45.54305648803711)
+[30Dec2024 17:26:02.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 17:26:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> PITORRO DE COCO
+[30Dec2024 17:26:03.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 17:26:03.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[30Dec2024 17:26:03.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> ...
+[30Dec2024 17:26:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xd
+[30Dec2024 17:26:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> la cabeza es la recompensa
+[30Dec2024 17:26:25.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> con eso matas a cualquiera
+[30Dec2024 17:26:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> pero no deja loot...
