@@ -1751,6 +1751,7 @@
       "cooked_porkchop": "2024-12-29 21:53:11 +0000",
       "cooked_mutton": "2024-12-29 20:25:27 +0000",
       "cooked_beef": "2024-12-29 22:11:50 +0000",
+      "baked_potato": "2024-12-30 16:21:56 +0000",
       "apple": "2024-12-30 15:16:16 +0000",
       "bread": "2024-12-29 20:32:42 +0000",
       "rotten_flesh": "2024-12-29 20:01:42 +0000",
@@ -5359,6 +5360,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 16:21:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-30 16:21:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2024-12-30 16:06:43 +0000"
@@ -5377,9 +5390,27 @@
     },
     "done": true
   },
+  "rats:recipes/food/potato_pancake": {
+    "criteria": {
+      "has_potato": "2024-12-30 16:21:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2024-12-30 16:06:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-30 16:21:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "interact": "2024-12-30 16:36:02 +0000"
     },
     "done": true
   },
