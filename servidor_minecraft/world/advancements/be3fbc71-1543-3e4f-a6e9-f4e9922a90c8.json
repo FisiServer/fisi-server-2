@@ -1213,6 +1213,7 @@
       "minecraft:river": "2024-12-29 19:49:50 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 16:58:56 +0000",
       "minecraft:stony_shore": "2024-12-30 19:47:15 +0000",
+      "minecraft:dripstone_caves": "2024-12-30 20:57:56 +0000",
       "minecraft:grove": "2024-12-30 15:42:41 +0000",
       "minecraft:swamp": "2024-12-30 17:14:13 +0000",
       "minecraft:forest": "2024-12-30 15:43:07 +0000",
@@ -5378,15 +5379,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_subterranodon": {
-    "criteria": {
-      "killed": "2024-12-30 20:54:12 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "interact_subterranodon": "2024-12-30 20:53:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-30 20:54:12 +0000"
     },
     "done": true
   },
