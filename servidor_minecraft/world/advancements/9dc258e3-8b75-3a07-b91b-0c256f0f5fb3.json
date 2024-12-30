@@ -3103,6 +3103,7 @@
       "minecraft:cherry_grove": "2024-12-29 21:21:23 +0000",
       "minecraft:birch_forest": "2024-12-29 17:10:41 +0000",
       "minecraft:windswept_hills": "2024-12-30 17:19:21 +0000",
+      "minecraft:bamboo_jungle": "2024-12-30 18:36:25 +0000",
       "minecraft:badlands": "2024-12-29 21:06:48 +0000",
       "minecraft:savanna_plateau": "2024-12-29 16:12:10 +0000",
       "minecraft:beach": "2024-12-29 22:29:49 +0000",
@@ -6834,6 +6835,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2024-12-30 17:34:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 18:30:20 +0000"
     },
     "done": true
   },
