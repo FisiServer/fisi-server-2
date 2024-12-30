@@ -114,6 +114,7 @@
       "grassy_beach": "2024-12-30 16:42:19 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
+      "ochard": "2024-12-30 17:23:22 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
       "maple_forest": "2024-12-30 15:17:22 +0000",
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
@@ -145,6 +146,7 @@
       "grassy_beach": "2024-12-30 16:42:19 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
+      "ochard": "2024-12-30 17:23:22 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
       "maple_forest": "2024-12-30 15:17:22 +0000",
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
@@ -5472,6 +5474,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-30 17:15:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 17:28:08 +0000"
     },
     "done": true
   },
