@@ -103,7 +103,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-29 22:04:44 +0000",
       "shrubland": "2024-12-29 20:08:26 +0000",
+      "dry_bushland": "2024-12-29 22:04:52 +0000",
       "prismachasm": "2024-12-29 19:55:57 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
@@ -116,6 +118,7 @@
       "temperate_grove": "2024-12-29 21:19:50 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
       "grassland": "2024-12-29 19:53:29 +0000",
+      "prairie": "2024-12-29 22:11:19 +0000",
       "redwoods": "2024-12-29 19:49:29 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
@@ -123,7 +126,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-29 22:04:44 +0000",
       "shrubland": "2024-12-29 20:08:26 +0000",
+      "dry_bushland": "2024-12-29 22:04:52 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
@@ -135,6 +140,7 @@
       "temperate_grove": "2024-12-29 21:19:50 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
       "grassland": "2024-12-29 19:53:29 +0000",
+      "prairie": "2024-12-29 22:11:19 +0000",
       "redwoods": "2024-12-29 19:49:29 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
@@ -1114,7 +1120,9 @@
       "minecraft:sparse_jungle": "2024-12-29 22:03:16 +0000",
       "minecraft:river": "2024-12-29 21:37:58 +0000",
       "minecraft:grove": "2024-12-29 21:44:06 +0000",
+      "minecraft:jagged_peaks": "2024-12-29 22:10:11 +0000",
       "minecraft:forest": "2024-12-29 21:38:01 +0000",
+      "minecraft:desert": "2024-12-29 22:05:24 +0000",
       "minecraft:jungle": "2024-12-29 22:03:14 +0000",
       "minecraft:deep_dark": "2024-12-29 19:56:20 +0000",
       "minecraft:meadow": "2024-12-29 21:44:09 +0000",
@@ -1725,6 +1733,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-29 21:53:11 +0000",
       "cooked_mutton": "2024-12-29 20:25:27 +0000",
+      "cooked_beef": "2024-12-29 22:11:50 +0000",
       "bread": "2024-12-29 20:32:42 +0000",
       "rotten_flesh": "2024-12-29 20:01:42 +0000",
       "golden_carrot": "2024-12-29 20:01:46 +0000",
@@ -4756,63 +4765,9 @@
     },
     "done": true
   },
-  "naturalist:recipes/food/cooked_bass": {
-    "criteria": {
-      "has_bass": "2024-12-29 21:41:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_gunpowder": "2024-12-29 21:57:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2024-12-29 21:55:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/villager_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 21:45:26 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/tnt_upgrade": {
-    "criteria": {
-      "has_gunpowder": "2024-12-29 21:57:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-29 21:57:37 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-29 21:37:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_dark_marble": {
-    "criteria": {
-      "has_ingredient": "2024-12-29 21:55:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2024-12-29 21:45:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2024-12-29 21:55:37 +0000"
     },
     "done": true
   },
@@ -4822,45 +4777,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2024-12-29 21:45:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2024-12-29 21:55:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/vanishing": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 21:58:00 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/building_blocks/fish_barrel": {
     "criteria": {
       "has_fish": "2024-12-29 21:40:57 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 21:57:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 21:52:52 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/fisherman_upgrade": {
     "criteria": {
       "has_fish": "2024-12-29 21:40:57 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2024-12-29 21:41:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/villager_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-29 21:45:48 +0000"
     },
     "done": true
   },
@@ -4876,9 +4825,351 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:52:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-29 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 21:55:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2024-12-29 21:55:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-12-29 21:57:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-29 21:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-29 21:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-29 21:57:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:57:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-29 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-29 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-29 22:16:20 +0000"
     },
     "done": true
   },
