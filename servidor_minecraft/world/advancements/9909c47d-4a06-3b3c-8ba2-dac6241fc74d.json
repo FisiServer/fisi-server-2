@@ -5365,9 +5365,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-30 16:06:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 16:06:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_rich_soil": {
     "criteria": {
       "get_rich_soil": "2024-12-30 16:09:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 16:13:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-30 16:18:25 +0000"
     },
     "done": true
   },
@@ -5383,45 +5407,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/redwood_shrub": {
-    "criteria": {
-      "has_redwood_sapling": "2024-12-30 16:58:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2024-12-30 16:06:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_pray": {
-    "criteria": {
-      "coded_trigger": "2024-12-30 16:13:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2024-12-30 16:44:40 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2024-12-30 16:18:25 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/food/potato_pancake": {
     "criteria": {
       "has_potato": "2024-12-30 16:21:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/limestone": {
-    "criteria": {
-      "limestone": "2024-12-30 16:06:19 +0000"
     },
     "done": true
   },
@@ -5434,6 +5422,24 @@
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "interact": "2024-12-30 16:36:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-30 16:44:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2024-12-30 16:58:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-30 17:11:17 +0000"
     },
     "done": true
   },
