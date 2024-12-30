@@ -2758,3 +2758,71 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 20:47:19.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.263399124145508) to VERY_HIGH (avg. 62.528282165527344)
 [30Dec2024 20:47:23.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! -1.764083585640435,-10.814658123240903,-0.859922970865
 [30Dec2024 20:47:27.162] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.528282165527344) to LOW (avg. 22.79985237121582)
+[30Dec2024 20:47:34.999] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.79985237121582) to VERY_HIGH (avg. 71.6116943359375)
+[30Dec2024 20:47:42.205] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 71.6116943359375) to LOW (avg. 26.26149559020996)
+[30Dec2024 20:47:45.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! 1.1985697951652696,-10.728126108483131,0.06657475864108164
+[30Dec2024 20:47:57.426] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.26149559020996) to HIGH (avg. 49.67439270019531)
+[30Dec2024 20:48:04.765] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.67439270019531) to LOW (avg. 27.938766479492188)
+[30Dec2024 20:48:19.894] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.938766479492188) to MEDIUM (avg. 47.76519012451172)
+[30Dec2024 20:48:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> xd
+[30Dec2024 20:48:34.675] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.76519012451172) to LOW (avg. 25.11859893798828)
+[30Dec2024 20:48:37.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> <.C
+[30Dec2024 20:49:02.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! 0.16444192749105468,-10.653147757814596,-0.5141460066108721
+[30Dec2024 20:49:35.038] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.851634979248047) to VERY_HIGH (avg. 76.56980895996094)
+[30Dec2024 20:49:57.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.39128875732422) to LOW (avg. 24.49226188659668)
+[30Dec2024 20:50:10.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Tremorsaurus
+[30Dec2024 20:50:11.106] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[30Dec2024 20:50:14.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 20:50:21.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[30Dec2024 20:51:42.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.943437576293945) to VERY_LOW (avg. 19.222332000732422)
+[30Dec2024 20:51:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.222332000732422) to LOW (avg. 25.378406524658203)
+[30Dec2024 20:52:04.645] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.86319923400879) to NORMAL (avg. 42.29610824584961)
+[30Dec2024 20:52:19.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.29610824584961) to LOW (avg. 24.6384334564209)
+[30Dec2024 20:52:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> Q
+[30Dec2024 20:53:01.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[30Dec2024 20:53:01.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[30Dec2024 20:53:01.918] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[30Dec2024 20:53:01.918] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[30Dec2024 20:53:14.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:54458] logged in with entity id 67665 at (-512.6999999880791, -26.0, -1610.2112555518709)
+[30Dec2024 20:53:14.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[30Dec2024 20:53:14.911] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/67665, l='ServerLevel[world]', x=-512.70, y=-26.00, z=-1610.21] logged in and will be protected for 90 secs.
+[30Dec2024 20:53:14.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[30Dec2024 20:53:15.336] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[30Dec2024 20:53:15.337] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[30Dec2024 20:53:15.422] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[30Dec2024 20:53:20.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 20:53:21.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 20:53:21.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[30Dec2024 20:53:39.791] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Oicapse was successful validated after 24 secs.
+[30Dec2024 20:53:39.791] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Oicapse!
+[30Dec2024 20:53:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Life Finds A Way]
+[30Dec2024 20:54:12.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has reached the goal [Prehistoric Elytra]
+[30Dec2024 20:54:45.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 timed out
+[30Dec2024 20:54:45.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Oicapse
+[30Dec2024 20:54:45.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[30Dec2024 20:54:55.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 20:54:56.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 20:54:56.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[30Dec2024 20:55:22.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 timed out
+[30Dec2024 20:55:22.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Oicapse
+[30Dec2024 20:55:22.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[30Dec2024 20:55:30.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[30Dec2024 20:55:30.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[30Dec2024 20:55:30.171] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[30Dec2024 20:55:30.171] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[30Dec2024 20:55:42.414] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.54998779296875) to NORMAL (avg. 41.74081802368164)
+[30Dec2024 20:55:56.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:54689] logged in with entity id 68755 at (-507.3507214002716, -28.732641720202412, -1543.5497203034438)
+[30Dec2024 20:55:56.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[30Dec2024 20:55:56.266] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/68755, l='ServerLevel[world]', x=-507.35, y=-28.73, z=-1543.55] logged in and will be protected for 90 secs.
+[30Dec2024 20:55:56.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[30Dec2024 20:55:56.664] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[30Dec2024 20:55:56.664] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[30Dec2024 20:55:56.665] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[30Dec2024 20:55:57.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.74081802368164) to LOW (avg. 30.164085388183594)
+[30Dec2024 20:55:57.141] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Oicapse was successful validated after 0 secs.
+[30Dec2024 20:55:57.141] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Oicapse!
+[30Dec2024 20:56:01.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 20:56:02.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 20:56:02.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[30Dec2024 20:56:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> como te llevo
+[30Dec2024 20:57:00.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> lasacate la mochiñ

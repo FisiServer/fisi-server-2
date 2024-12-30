@@ -1205,6 +1205,7 @@
       "minecraft:birch_forest": "2024-12-30 15:44:12 +0000",
       "minecraft:windswept_hills": "2024-12-30 17:46:39 +0000",
       "minecraft:bamboo_jungle": "2024-12-30 17:32:58 +0000",
+      "minecraft:savanna_plateau": "2024-12-30 20:45:36 +0000",
       "minecraft:beach": "2024-12-30 17:14:02 +0000",
       "minecraft:dark_forest": "2024-12-30 17:33:17 +0000",
       "minecraft:mangrove_swamp": "2024-12-30 20:22:21 +0000",
@@ -5368,6 +5369,24 @@
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2024-12-30 20:44:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-30 20:46:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-30 20:54:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_subterranodon": "2024-12-30 20:53:57 +0000"
     },
     "done": true
   },
