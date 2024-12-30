@@ -6850,5 +6850,23 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2024-12-30 20:02:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-30 20:07:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-30 20:18:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
