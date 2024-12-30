@@ -2642,3 +2642,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 03:24:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.21160888671875) to VERY_LOW (avg. 17.378896713256836)
 [30Dec2024 03:25:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.721168518066406) to LOW (avg. 21.850994110107422)
 [30Dec2024 03:25:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.850994110107422) to VERY_LOW (avg. 19.224037170410156)
+[30Dec2024 03:27:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.262332916259766) to LOW (avg. 20.55978012084961)
+[30Dec2024 03:28:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.486740112304688) to VERY_LOW (avg. 19.0379581451416)
+[30Dec2024 03:29:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.854780197143555) to LOW (avg. 21.667984008789062)
+[30Dec2024 03:29:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Walk Without Rhythm]
+[30Dec2024 03:29:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.667984008789062) to VERY_LOW (avg. 19.532442092895508)
+[30Dec2024 03:30:27.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.363101959228516) to LOW (avg. 22.422054290771484)
+[30Dec2024 03:30:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.239795684814453) to VERY_LOW (avg. 18.699264526367188)
+[30Dec2024 03:31:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.699264526367188) to LOW (avg. 20.59176254272461)
+[30Dec2024 03:31:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.59176254272461) to VERY_LOW (avg. 19.66537094116211)
+[30Dec2024 03:31:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.66537094116211) to LOW (avg. 24.511377334594727)
+[30Dec2024 03:31:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.511377334594727) to VERY_LOW (avg. 13.876312255859375)
+[30Dec2024 03:31:42.961] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.876312255859375) to LOW (avg. 29.51787757873535)
+[30Dec2024 03:31:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.51787757873535) to VERY_LOW (avg. 15.20667839050293)
+[30Dec2024 03:33:10.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[30Dec2024 03:33:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[30Dec2024 03:33:57.905] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.11491870880127) to LOW (avg. 34.68328857421875)
+[30Dec2024 03:34:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.68328857421875) to VERY_LOW (avg. 18.039215087890625)
+[30Dec2024 03:34:58.115] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.991159439086914) to VERY_HIGH (avg. 71.78907775878906)
+[30Dec2024 03:35:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 71.78907775878906) to LOW (avg. 25.93711280822754)
+[30Dec2024 03:35:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[30Dec2024 03:35:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[30Dec2024 03:35:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.93711280822754) to VERY_LOW (avg. 13.716602325439453)
+[30Dec2024 03:35:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[30Dec2024 03:35:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[30Dec2024 03:36:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.467170715332031) to LOW (avg. 28.40017318725586)
+[30Dec2024 03:36:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.73373794555664) to VERY_LOW (avg. 15.969367027282715)
+[30Dec2024 03:36:47.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[30Dec2024 03:37:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[30Dec2024 03:38:05.419] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.53075408935547) to LOW (avg. 36.45130157470703)
+[30Dec2024 03:38:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[30Dec2024 03:38:20.847] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.45130157470703) to VERY_HIGH (avg. 81.8726806640625)
+[30Dec2024 03:38:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 81.8726806640625) to VERY_LOW (avg. 19.867477416992188)
+[30Dec2024 03:38:38.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [Dessert Power]
+[30Dec2024 03:38:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[30Dec2024 03:39:27.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.778108596801758) to LOW (avg. 22.625730514526367)
+[30Dec2024 03:39:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.625730514526367) to VERY_LOW (avg. 14.626546859741211)
+[30Dec2024 03:40:05.446] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.258941650390625) to LOW (avg. 20.934955596923828)
+[30Dec2024 03:40:27.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.42167091369629) to VERY_LOW (avg. 18.022308349609375)
+[30Dec2024 03:40:35.366] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.022308349609375) to LOW (avg. 24.377220153808594)
+[30Dec2024 03:40:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.377220153808594) to VERY_LOW (avg. 15.287965774536133)
+[30Dec2024 03:41:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.287965774536133) to LOW (avg. 20.42229461669922)
+[30Dec2024 03:41:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.221834182739258) to VERY_LOW (avg. 13.409531593322754)
+[30Dec2024 03:42:35.371] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.302724838256836) to LOW (avg. 22.332130432128906)
+[30Dec2024 03:42:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.332130432128906) to VERY_LOW (avg. 17.050701141357422)

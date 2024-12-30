@@ -1590,6 +1590,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
+      "minecraft:enderman": "2024-12-30 03:30:44 +0000",
       "minecraft:zombie": "2024-12-28 19:25:26 +0000"
     },
     "done": false
@@ -5522,6 +5523,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_gum_worm": {
+    "criteria": {
+      "ride_gum_worm": "2024-12-30 03:38:38 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_grass": {
+    "criteria": {
+      "has_grass": "2024-12-30 03:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 02:28:06 +0000"
@@ -5597,6 +5610,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-30 01:08:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gobthumper": {
+    "criteria": {
+      "gobthumper": "2024-12-30 03:29:48 +0000"
     },
     "done": true
   },
