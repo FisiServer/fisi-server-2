@@ -120,6 +120,7 @@
       "flower_fields": "2024-12-29 22:31:50 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
       "maple_forest": "2024-12-29 17:10:18 +0000",
+      "alpha_grove": "2024-12-30 13:02:18 +0000",
       "tropical_river": "2024-12-29 21:03:23 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
       "mountains": "2024-12-29 20:09:40 +0000",
@@ -137,6 +138,7 @@
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
+      "hyacinth_deeps": "2024-12-30 13:01:40 +0000",
       "lupine_plains": "2024-12-28 19:15:35 +0000"
     },
     "done": false
@@ -158,6 +160,7 @@
       "flower_fields": "2024-12-29 22:31:50 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
       "maple_forest": "2024-12-29 17:10:18 +0000",
+      "alpha_grove": "2024-12-30 13:02:18 +0000",
       "tropical_river": "2024-12-29 21:03:23 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
       "mountains": "2024-12-29 20:09:40 +0000",
@@ -175,6 +178,7 @@
       "grassland": "2024-12-28 19:18:16 +0000",
       "prairie": "2024-12-29 15:38:47 +0000",
       "redwoods": "2024-12-28 19:14:01 +0000",
+      "hyacinth_deeps": "2024-12-30 13:01:40 +0000",
       "lupine_plains": "2024-12-28 19:15:35 +0000"
     },
     "done": false
@@ -3093,8 +3097,11 @@
       "minecraft:grove": "2024-12-29 22:34:35 +0000",
       "minecraft:cold_ocean": "2024-12-30 01:10:49 +0000",
       "minecraft:forest": "2024-12-29 15:39:00 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-30 13:02:15 +0000",
+      "minecraft:frozen_ocean": "2024-12-30 13:01:02 +0000",
       "minecraft:jungle": "2024-12-29 17:02:51 +0000",
       "minecraft:ocean": "2024-12-30 01:05:38 +0000",
+      "minecraft:snowy_beach": "2024-12-30 13:01:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-29 22:30:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 17:10:40 +0000",
       "minecraft:deep_dark": "2024-12-29 19:57:14 +0000",
@@ -5679,9 +5686,69 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
+    "criteria": {
+      "has_paper": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_paper": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
       "coded_trigger": "2024-12-30 12:50:14 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_banner_pattern": {
+    "criteria": {
+      "has_paper": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/plague_doctorate": {
+    "criteria": {
+      "has_paper": "2024-12-30 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-30 13:03:12 +0000"
     },
     "done": true
   },
