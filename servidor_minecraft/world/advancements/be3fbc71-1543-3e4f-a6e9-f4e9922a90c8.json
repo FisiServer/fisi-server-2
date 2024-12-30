@@ -103,11 +103,16 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-30 16:10:42 +0000",
       "shrubland": "2024-12-29 19:50:39 +0000",
       "pine_taiga": "2024-12-30 15:44:10 +0000",
+      "autumnal_maple_forest": "2024-12-30 16:10:23 +0000",
       "prismachasm": "2024-12-30 14:49:17 +0000",
+      "poppy_fields": "2024-12-30 16:12:07 +0000",
+      "grassy_beach": "2024-12-30 16:05:33 +0000",
       "scorching_caves": "2024-12-30 15:15:51 +0000",
       "rocky_meadow": "2024-12-29 19:50:38 +0000",
+      "blackwood_taiga": "2024-12-30 15:50:34 +0000",
       "highland_fields": "2024-12-30 15:25:39 +0000",
       "magnolia_highlands": "2024-12-29 19:47:34 +0000",
       "sparse_redwoods": "2024-12-29 19:49:54 +0000",
@@ -115,8 +120,10 @@
       "deciduous_forest": "2024-12-29 19:53:29 +0000",
       "bamboo_forest": "2024-12-29 19:52:45 +0000",
       "temperate_grove": "2024-12-29 19:50:34 +0000",
+      "cold_river": "2024-12-30 16:11:11 +0000",
       "pine_slopes": "2024-12-30 15:27:54 +0000",
       "grassland": "2024-12-29 19:50:08 +0000",
+      "gravel_beach": "2024-12-30 16:11:52 +0000",
       "redwoods": "2024-12-29 19:43:12 +0000",
       "lupine_plains": "2024-12-29 19:42:15 +0000"
     },
@@ -124,9 +131,14 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-30 16:10:42 +0000",
       "shrubland": "2024-12-29 19:50:39 +0000",
       "pine_taiga": "2024-12-30 15:44:10 +0000",
+      "autumnal_maple_forest": "2024-12-30 16:10:23 +0000",
+      "poppy_fields": "2024-12-30 16:12:07 +0000",
+      "grassy_beach": "2024-12-30 16:05:33 +0000",
       "rocky_meadow": "2024-12-29 19:50:38 +0000",
+      "blackwood_taiga": "2024-12-30 15:50:34 +0000",
       "highland_fields": "2024-12-30 15:25:39 +0000",
       "magnolia_highlands": "2024-12-29 19:47:34 +0000",
       "sparse_redwoods": "2024-12-29 19:49:54 +0000",
@@ -134,8 +146,10 @@
       "deciduous_forest": "2024-12-29 19:53:29 +0000",
       "bamboo_forest": "2024-12-29 19:52:45 +0000",
       "temperate_grove": "2024-12-29 19:50:34 +0000",
+      "cold_river": "2024-12-30 16:11:11 +0000",
       "pine_slopes": "2024-12-30 15:27:54 +0000",
       "grassland": "2024-12-29 19:50:08 +0000",
+      "gravel_beach": "2024-12-30 16:11:52 +0000",
       "redwoods": "2024-12-29 19:43:12 +0000",
       "lupine_plains": "2024-12-29 19:42:15 +0000"
     },
@@ -1180,6 +1194,7 @@
       "minecraft:river": "2024-12-29 19:49:50 +0000",
       "minecraft:grove": "2024-12-30 15:42:41 +0000",
       "minecraft:forest": "2024-12-30 15:43:07 +0000",
+      "minecraft:ocean": "2024-12-30 16:08:21 +0000",
       "minecraft:frozen_peaks": "2024-12-30 15:41:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 15:48:15 +0000"
     },
@@ -1413,9 +1428,27 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/ratinator_upgrade": {
+    "criteria": {
+      "has_iron": "2024-12-30 16:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -1458,6 +1491,12 @@
   "rats:recipes/food/chef/little_black_squash_balls": {
     "criteria": {
       "has_input": "2024-12-30 14:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -1587,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2024-12-30 14:41:39 +0000"
@@ -1608,6 +1653,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-30 14:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -1775,6 +1826,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/biplane_upgrade": {
+    "criteria": {
+      "has_iron": "2024-12-30 16:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-30 15:00:11 +0000"
@@ -1823,6 +1880,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-30 15:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-30 14:43:18 +0000"
@@ -1850,6 +1931,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-30 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
     },
     "done": true
   },
@@ -1895,6 +1982,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-30 16:05:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
@@ -1907,6 +2000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
@@ -1916,6 +2015,18 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-30 15:20:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2024-12-30 16:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-30 16:08:24 +0000"
     },
     "done": true
   },
@@ -2130,6 +2241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
     "criteria": {
       "has_string": "2024-12-30 15:00:11 +0000"
@@ -2166,6 +2283,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/golem_mount_upgrade": {
+    "criteria": {
+      "has_iron": "2024-12-30 16:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
@@ -2184,6 +2307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-30 16:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2024-12-30 14:41:39 +0000"
@@ -2193,6 +2322,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-30 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
     },
     "done": true
   },
@@ -2280,6 +2415,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/purifying_liquid": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2024-12-30 14:41:39 +0000"
@@ -2307,6 +2448,12 @@
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2024-12-30 15:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -2346,6 +2493,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/big_bucket_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-30 15:20:26 +0000"
@@ -2355,6 +2508,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -2379,6 +2538,12 @@
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -2448,6 +2613,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/christmas_upgrade": {
     "criteria": {
       "has_coal": "2024-12-30 14:45:50 +0000"
@@ -2481,6 +2652,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -2565,6 +2742,18 @@
   "rats:recipes/misc/golden_rat_skull": {
     "criteria": {
       "has_gold": "2024-12-30 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-30 16:08:24 +0000"
     },
     "done": true
   },
@@ -2694,6 +2883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-30 16:08:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_iron_nugget": "2024-12-30 15:43:36 +0000"
@@ -2775,6 +2970,12 @@
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2024-12-30 14:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-30 16:05:59 +0000"
     },
     "done": true
   },
@@ -2952,6 +3153,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/teddy_bear": {
+    "criteria": {
+      "has_bear_fur": "2024-12-30 16:04:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
     "criteria": {
       "has_purple_coneflower": "2024-12-30 15:26:04 +0000"
@@ -2991,6 +3198,12 @@
   "rats:recipes/misc/rat_breeding_lantern": {
     "criteria": {
       "has_string": "2024-12-30 15:00:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-30 16:05:48 +0000"
     },
     "done": true
   },
@@ -3048,9 +3261,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-30 16:11:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/warrior_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
@@ -3093,6 +3318,12 @@
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-30 14:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-30 15:52:06 +0000"
     },
     "done": true
   },
@@ -3186,6 +3417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/tools/rat_sack": {
     "criteria": {
       "has_leather": "2024-12-30 15:30:05 +0000"
@@ -3234,6 +3471,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/placer_upgrade": {
+    "criteria": {
+      "has_cobble": "2024-12-30 16:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
@@ -3243,6 +3486,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-12-30 16:07:40 +0000"
     },
     "done": true
   },
@@ -3336,9 +3585,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/decorations/rat_trap": {
     "criteria": {
       "has_iron": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-30 16:03:44 +0000"
     },
     "done": true
   },
@@ -3423,6 +3684,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_feather": "2024-12-30 16:05:59 +0000"
     },
     "done": true
   },
@@ -3590,8 +3857,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-12-30 15:59:21 +0000",
       "cooked_beef": "2024-12-30 15:42:37 +0000",
       "bread": "2024-12-30 14:42:24 +0000",
+      "golden_apple": "2024-12-30 16:03:10 +0000",
       "rotten_flesh": "2024-12-30 15:04:30 +0000"
     },
     "done": false
@@ -3614,9 +3883,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 16:03:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-30 14:56:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 16:18:35 +0000"
     },
     "done": true
   },
@@ -3638,6 +3919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-30 16:00:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 14:42:32 +0000"
@@ -3653,6 +3940,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-30 15:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-30 15:55:35 +0000"
     },
     "done": true
   },
