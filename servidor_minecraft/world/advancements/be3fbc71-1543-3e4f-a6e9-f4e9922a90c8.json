@@ -121,6 +121,7 @@
       "mountains": "2024-12-30 15:28:22 +0000",
       "deciduous_forest": "2024-12-29 19:53:29 +0000",
       "towering_cliffs": "2024-12-30 16:41:12 +0000",
+      "chalk_cliffs": "2024-12-30 19:47:37 +0000",
       "bamboo_forest": "2024-12-29 19:52:45 +0000",
       "temperate_grove": "2024-12-29 19:50:34 +0000",
       "cold_river": "2024-12-30 16:11:11 +0000",
@@ -151,6 +152,7 @@
       "mountains": "2024-12-30 15:28:22 +0000",
       "deciduous_forest": "2024-12-29 19:53:29 +0000",
       "towering_cliffs": "2024-12-30 16:41:12 +0000",
+      "chalk_cliffs": "2024-12-30 19:47:37 +0000",
       "bamboo_forest": "2024-12-29 19:52:45 +0000",
       "temperate_grove": "2024-12-29 19:50:34 +0000",
       "cold_river": "2024-12-30 16:11:11 +0000",
@@ -1206,6 +1208,7 @@
       "minecraft:sparse_jungle": "2024-12-30 16:52:42 +0000",
       "minecraft:river": "2024-12-29 19:49:50 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 16:58:56 +0000",
+      "minecraft:stony_shore": "2024-12-30 19:47:15 +0000",
       "minecraft:grove": "2024-12-30 15:42:41 +0000",
       "minecraft:swamp": "2024-12-30 17:14:13 +0000",
       "minecraft:forest": "2024-12-30 15:43:07 +0000",
@@ -4956,6 +4959,12 @@
   "tombstone:adventure/villager_gift": {
     "criteria": {
       "coded_trigger": "2024-12-30 17:51:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/flowering_sapling_from_flowering_shrub": {
+    "criteria": {
+      "has_flowering_shrub": "2024-12-30 19:47:40 +0000"
     },
     "done": true
   },

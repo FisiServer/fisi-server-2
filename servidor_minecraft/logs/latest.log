@@ -2298,3 +2298,72 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 19:44:58.812] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.87824630737305) to VERY_HIGH (avg. 122.8111343383789)
 [30Dec2024 19:45:13.447] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 122.8111343383789) to MEDIUM (avg. 46.66947937011719)
 [30Dec2024 19:45:28.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.66947937011719) to LOW (avg. 35.189693450927734)
+[30Dec2024 19:45:43.397] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.189693450927734) to NORMAL (avg. 43.753623962402344)
+[30Dec2024 19:45:51.022] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.753623962402344) to VERY_HIGH (avg. 60.614585876464844)
+[30Dec2024 19:46:05.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.614585876464844) to NORMAL (avg. 45.840049743652344)
+[30Dec2024 19:46:35.996] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.402740478515625) to HIGH (avg. 51.280948638916016)
+[30Dec2024 19:46:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.280948638916016) to NORMAL (avg. 43.343292236328125)
+[30Dec2024 19:47:06.087] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.20144271850586) to HIGH (avg. 53.05500411987305)
+[30Dec2024 19:47:06.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddddd
+[30Dec2024 19:47:08.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> cris
+[30Dec2024 19:47:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> q
+[30Dec2024 19:47:14.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.05500411987305) to NORMAL (avg. 43.83192825317383)
+[30Dec2024 19:47:17.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> tengo para revivir a un jefe
+[30Dec2024 19:47:21.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> como mi mascota
+[30Dec2024 19:47:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> GOGOGO
+[30Dec2024 19:47:23.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddd
+[30Dec2024 19:47:26.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> A
+[30Dec2024 19:47:28.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.83192825317383) to LOW (avg. 39.921424865722656)
+[30Dec2024 19:47:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> Pense pa matarlo
+[30Dec2024 19:47:35.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xd
+[30Dec2024 19:47:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.921424865722656) to NORMAL (avg. 42.69013214111328)
+[30Dec2024 19:47:51.553] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.69013214111328) to MEDIUM (avg. 48.1076545715332)
+[30Dec2024 19:47:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> tengo miedo de sacarlo
+[30Dec2024 19:47:59.281] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.1076545715332) to NORMAL (avg. 44.99217987060547)
+[30Dec2024 19:48:01.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> porque el lugar es pequeño
+[30Dec2024 19:48:13.424] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.99217987060547) to LOW (avg. 33.1049690246582)
+[30Dec2024 19:48:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> otro
+[30Dec2024 19:48:31.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> otro que?
+[30Dec2024 19:48:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> barakoa?
+[30Dec2024 19:49:01.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> dragon
+[30Dec2024 19:49:02.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 19:49:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> tmrrrr
+[30Dec2024 19:49:45.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> q hiciste
+[30Dec2024 19:49:49.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ya lo reviví xd
+[30Dec2024 19:49:50.921] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.020469665527344) to NORMAL (avg. 43.69994354248047)
+[30Dec2024 19:50:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> todo el lugar se puso de rojo
+[30Dec2024 19:50:13.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.65516662597656) to LOW (avg. 30.679807662963867)
+[30Dec2024 19:50:28.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was shot by Skeleton
+[30Dec2024 19:50:28.624] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[30Dec2024 19:50:28.833] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.679807662963867) to VERY_HIGH (avg. 68.11327362060547)
+[30Dec2024 19:50:30.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[30Dec2024 19:50:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 19:50:35.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.11327362060547) to LOW (avg. 34.130470275878906)
+[30Dec2024 19:50:45.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> donde estoy tambien es rojo
+[30Dec2024 19:50:49.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xdddd
+[30Dec2024 19:50:50.901] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.130470275878906) to NORMAL (avg. 45.03825378417969)
+[30Dec2024 19:50:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.03825378417969) to LOW (avg. 34.265785217285156)
+[30Dec2024 19:51:04.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> lo matas? xd
+[30Dec2024 19:51:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no le puedo pegar al ser mío
+[30Dec2024 19:51:32.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no veo nada
+[30Dec2024 19:51:37.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> solo es rojo el cielo
+[30Dec2024 19:51:42.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddd
+[30Dec2024 19:51:59.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> y eso que estamos bien lejos
+[30Dec2024 19:52:19.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 timed out
+[30Dec2024 19:52:19.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Oicapse
+[30Dec2024 19:52:19.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[30Dec2024 19:52:29.332] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 19:52:30.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 19:52:30.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[30Dec2024 19:52:31.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Sea Serpent
+[30Dec2024 19:52:32.291] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[30Dec2024 19:52:35.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[30Dec2024 19:53:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.533647537231445) to NORMAL (avg. 40.85323715209961)
+[30Dec2024 19:54:05.933] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.85323715209961) to LOW (avg. 37.385780334472656)
+[30Dec2024 19:54:15.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ahora como muevo una cosa de 1k toneladas de mi casa xd
+[30Dec2024 19:54:25.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! -7.4748908403281575,-0.7518640014090607,-6.925934326845891
+[30Dec2024 19:54:30.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> xd
+[30Dec2024 19:54:33.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no c we
+[30Dec2024 19:54:44.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> esta cosa si se enoja literal causa el apocalipsis
+[30Dec2024 19:55:28.715] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.93912887573242) to MEDIUM (avg. 48.2481803894043)
+[30Dec2024 19:55:43.434] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.2481803894043) to NORMAL (avg. 40.65557861328125)
