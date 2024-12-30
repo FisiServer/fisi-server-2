@@ -1201,6 +1201,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-30 20:29:07 +0000",
       "minecraft:birch_forest": "2024-12-30 15:44:12 +0000",
       "minecraft:windswept_hills": "2024-12-30 17:46:39 +0000",
       "minecraft:bamboo_jungle": "2024-12-30 17:32:58 +0000",
@@ -2373,7 +2374,8 @@
   },
   "tombstone:adventure/expert_tasting": {
     "criteria": {
-      "eat_lollipop_3": "2024-12-30 14:44:16 +0000"
+      "eat_lollipop_3": "2024-12-30 14:44:16 +0000",
+      "eat_lollipop_0": "2024-12-30 20:27:03 +0000"
     },
     "done": false
   },
@@ -5318,6 +5320,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2024-12-30 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 20:35:12 +0000"
     },
     "done": true
   },
