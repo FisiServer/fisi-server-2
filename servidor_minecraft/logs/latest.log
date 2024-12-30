@@ -2192,3 +2192,34 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 19:13:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.415287017822266) to VERY_LOW (avg. 19.90978240966797)
 [30Dec2024 19:14:13.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.90978240966797) to LOW (avg. 20.07940673828125)
 [30Dec2024 19:14:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.42574119567871) to VERY_LOW (avg. 17.649002075195312)
+[30Dec2024 19:15:20.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.176618576049805) to LOW (avg. 21.715240478515625)
+[30Dec2024 19:15:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.625856399536133) to VERY_LOW (avg. 19.977750778198242)
+[30Dec2024 19:16:20.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.687076568603516) to LOW (avg. 20.14080238342285)
+[30Dec2024 19:16:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.347759246826172) to VERY_LOW (avg. 17.71209144592285)
+[30Dec2024 19:17:35.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.536800384521484) to LOW (avg. 25.683345794677734)
+[30Dec2024 19:17:50.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.683345794677734) to VERY_LOW (avg. 19.128944396972656)
+[30Dec2024 19:18:35.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.259510040283203) to LOW (avg. 22.103837966918945)
+[30Dec2024 19:18:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.103837966918945) to VERY_LOW (avg. 18.10915184020996)
+[30Dec2024 19:19:20.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.878786087036133) to LOW (avg. 22.607810974121094)
+[30Dec2024 19:19:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.043575286865234) to VERY_LOW (avg. 16.726940155029297)
+[30Dec2024 19:19:50.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.726940155029297) to LOW (avg. 27.56157875061035)
+[30Dec2024 19:19:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.56157875061035) to VERY_LOW (avg. 17.140552520751953)
+[30Dec2024 19:20:35.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.108978271484375) to LOW (avg. 22.465831756591797)
+[30Dec2024 19:20:50.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.465831756591797) to VERY_LOW (avg. 17.63519859313965)
+[30Dec2024 19:22:28.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.20108413696289) to LOW (avg. 22.70846176147461)
+[30Dec2024 19:22:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.70846176147461) to VERY_LOW (avg. 16.228912353515625)
+[30Dec2024 19:23:05.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.356414794921875) to LOW (avg. 20.583568572998047)
+[30Dec2024 19:23:13.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.583568572998047) to VERY_LOW (avg. 19.876937866210938)
+[30Dec2024 19:24:20.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.636701583862305) to LOW (avg. 22.319011688232422)
+[30Dec2024 19:24:35.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.319011688232422) to VERY_LOW (avg. 18.163761138916016)
+[30Dec2024 19:24:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.832252502441406) to LOW (avg. 20.013729095458984)
+[30Dec2024 19:25:13.683] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 20.013729095458984) to VERY_HIGH (avg. 57.181663513183594)
+[30Dec2024 19:25:47.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 timed out
+[30Dec2024 19:25:47.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player BillyVR15
+[30Dec2024 19:25:47.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[30Dec2024 19:25:50.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 104.79852294921875) to VERY_LOW (avg. 17.673992156982422)
+[30Dec2024 19:26:02.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Timed out
+[30Dec2024 19:26:02.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[30Dec2024 19:26:02.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[30Dec2024 19:26:02.678] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[30Dec2024 19:26:02.712] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
