@@ -2223,3 +2223,78 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 19:26:02.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
 [30Dec2024 19:26:02.678] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
 [30Dec2024 19:26:02.712] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 19:40:06.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:51014] logged in with entity id 17904 at (-1282.3821121596397, 63.0, 2705.380258809206)
+[30Dec2024 19:40:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[30Dec2024 19:40:07.370] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/17904, l='ServerLevel[world]', x=-1282.38, y=63.00, z=2705.38] logged in and will be protected for 90 secs.
+[30Dec2024 19:40:08.101] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[30Dec2024 19:40:08.102] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[30Dec2024 19:40:08.296] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[30Dec2024 19:40:08.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[30Dec2024 19:40:13.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 19:40:13.475] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.3428491353988647) to LOW (avg. 28.815214157104492)
+[30Dec2024 19:40:14.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[30Dec2024 19:40:14.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[30Dec2024 19:40:30.641] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Oicapse was successful validated after 23 secs.
+[30Dec2024 19:40:30.641] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Oicapse!
+[30Dec2024 19:40:35.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.129371643066406) to VERY_LOW (avg. 17.60575294494629)
+[30Dec2024 19:40:50.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.60575294494629) to LOW (avg. 28.78065299987793)
+[30Dec2024 19:41:06.071] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.34714889526367) to HIGH (avg. 50.50339126586914)
+[30Dec2024 19:41:20.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.50339126586914) to LOW (avg. 23.71942710876465)
+[30Dec2024 19:41:35.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.71942710876465) to VERY_LOW (avg. 14.582196235656738)
+[30Dec2024 19:41:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.582196235656738) to LOW (avg. 33.62790298461914)
+[30Dec2024 19:41:50.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.62790298461914) to VERY_LOW (avg. 17.743026733398438)
+[30Dec2024 19:42:29.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d638c31[id=<null>,name=BillyVR15,properties={},legacy=false] (/100.65.213.75:50018) lost connection: Disconnected
+[30Dec2024 19:42:46.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:50032] logged in with entity id 19323 at (-458.99851331333315, 100.0, -1314.4718364385383)
+[30Dec2024 19:42:46.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[30Dec2024 19:42:46.174] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/19323, l='ServerLevel[world]', x=-459.00, y=100.00, z=-1314.47] logged in and will be protected for 90 secs.
+[30Dec2024 19:42:47.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[30Dec2024 19:42:48.134] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[30Dec2024 19:42:48.135] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[30Dec2024 19:42:48.230] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[30Dec2024 19:42:50.950] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.45121955871582) to HIGH (avg. 50.161964416503906)
+[30Dec2024 19:42:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.161964416503906) to LOW (avg. 37.6247673034668)
+[30Dec2024 19:42:58.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 19:42:59.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 19:42:59.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[30Dec2024 19:43:03.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 19:43:06.441] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 20 secs.
+[30Dec2024 19:43:06.441] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[30Dec2024 19:43:07.986] [Worker-Main-61/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[30Dec2024 19:43:35.922] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.4681282043457) to NORMAL (avg. 40.330997467041016)
+[30Dec2024 19:43:36.725] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@30868fd5, suppressing error
+net.minecraft.ReportedException: Container click
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1548) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Bound must be positive
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at ovh.corail.tombstone.entity.AbstractMerchant.m_6996_(AbstractMerchant.java:212) ~[tombstone-1.20.1-8.8.6.jar%23295!/:8.8.6]
+	at net.minecraft.world.inventory.MerchantResultSlot.m_142406_(MerchantResultSlot.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150418_(AbstractContainerMenu.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:416) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	... 17 more
+[30Dec2024 19:43:43.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.330997467041016) to LOW (avg. 33.688011169433594)
+[30Dec2024 19:43:51.253] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.688011169433594) to HIGH (avg. 50.106624603271484)
+[30Dec2024 19:43:58.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.106624603271484) to NORMAL (avg. 40.69100570678711)
+[30Dec2024 19:44:28.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.160099029541016) to LOW (avg. 36.360286712646484)
+[30Dec2024 19:44:51.359] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.057647705078125) to NORMAL (avg. 45.87824630737305)
+[30Dec2024 19:44:58.812] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.87824630737305) to VERY_HIGH (avg. 122.8111343383789)
+[30Dec2024 19:45:13.447] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 122.8111343383789) to MEDIUM (avg. 46.66947937011719)
+[30Dec2024 19:45:28.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.66947937011719) to LOW (avg. 35.189693450927734)
