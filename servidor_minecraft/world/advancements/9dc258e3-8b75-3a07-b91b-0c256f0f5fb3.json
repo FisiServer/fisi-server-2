@@ -3123,6 +3123,7 @@
       "minecraft:snowy_beach": "2024-12-30 13:01:01 +0000",
       "minecraft:windswept_savanna": "2024-12-30 13:59:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-29 22:30:54 +0000",
+      "minecraft:frozen_peaks": "2024-12-30 16:52:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 17:10:40 +0000",
       "minecraft:deep_dark": "2024-12-29 19:57:14 +0000",
       "minecraft:meadow": "2024-12-29 17:02:56 +0000",
@@ -4208,7 +4209,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "baobab_log": "2024-12-29 21:09:07 +0000"
+      "baobab_log": "2024-12-29 21:09:07 +0000",
+      "redwood_log": "2024-12-30 17:01:20 +0000"
     },
     "done": false
   },
@@ -6463,6 +6465,78 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 16:44:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2024-12-30 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-30 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 17:01:20 +0000"
     },
     "done": true
   },

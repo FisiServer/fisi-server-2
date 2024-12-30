@@ -5383,6 +5383,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2024-12-30 16:58:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2024-12-30 16:06:43 +0000"
