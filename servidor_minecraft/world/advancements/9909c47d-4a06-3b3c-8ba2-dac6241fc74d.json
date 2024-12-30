@@ -108,6 +108,7 @@
       "dry_bushland": "2024-12-29 22:04:52 +0000",
       "prismachasm": "2024-12-29 19:55:57 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
+      "frozen_tundra": "2024-12-30 15:19:31 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
@@ -134,6 +135,7 @@
       "shrubland": "2024-12-29 20:08:26 +0000",
       "dry_bushland": "2024-12-29 22:04:52 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
+      "frozen_tundra": "2024-12-30 15:19:31 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
@@ -1123,6 +1125,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-30 15:19:47 +0000",
       "minecraft:birch_forest": "2024-12-30 15:14:35 +0000",
       "minecraft:bamboo_jungle": "2024-12-30 15:10:14 +0000",
       "minecraft:savanna_plateau": "2024-12-29 21:25:31 +0000",
@@ -1130,6 +1133,8 @@
       "minecraft:stony_peaks": "2024-12-29 19:59:25 +0000",
       "minecraft:sparse_jungle": "2024-12-29 22:03:16 +0000",
       "minecraft:river": "2024-12-29 21:37:58 +0000",
+      "minecraft:snowy_plains": "2024-12-30 15:20:17 +0000",
+      "minecraft:snowy_taiga": "2024-12-30 15:20:24 +0000",
       "minecraft:grove": "2024-12-29 21:44:06 +0000",
       "minecraft:jagged_peaks": "2024-12-29 22:10:11 +0000",
       "minecraft:cold_ocean": "2024-12-30 15:16:38 +0000",
@@ -5186,27 +5191,9 @@
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+  "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
-      "has_sand": "2024-12-30 15:15:47 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/eat_lollipop": {
-    "criteria": {
-      "coded_trigger": "2024-12-30 15:07:44 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2024-12-30 15:05:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2024-12-30 15:16:04 +0000"
+      "coded_trigger": "2024-12-30 14:57:16 +0000"
     },
     "done": true
   },
@@ -5216,33 +5203,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "tombstone:adventure/consume_soul": {
     "criteria": {
-      "has_smelts_to_glass": "2024-12-30 15:15:47 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2024-12-30 15:07:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/talk_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2024-12-30 14:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-30 15:15:47 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tame_gorilla": {
-    "criteria": {
-      "tame": "2024-12-30 15:11:43 +0000"
+      "coded_trigger": "2024-12-30 15:05:11 +0000"
     },
     "done": true
   },
@@ -5252,11 +5215,143 @@
     },
     "done": true
   },
+  "tombstone:adventure/eat_lollipop": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 15:07:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/expert_tasting": {
     "criteria": {
       "eat_lollipop_0": "2024-12-30 15:07:44 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-30 15:07:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2024-12-30 15:11:43 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-30 15:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-30 15:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-30 15:15:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-30 15:16:04 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2024-12-30 15:21:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-12-30 15:21:23 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/rat_toga": {
+    "criteria": {
+      "has_input": "2024-12-30 15:21:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-12-30 15:22:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2024-12-30 15:23:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "yellow": "2024-12-30 15:23:48 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2024-12-30 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2024-12-30 15:26:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2024-12-30 15:28:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2024-12-30 15:29:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2024-12-30 15:30:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2024-12-30 15:30:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2024-12-30 15:31:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-30 15:33:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 15:41:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

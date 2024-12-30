@@ -2618,3 +2618,170 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 15:20:31.526] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.78579330444336) to NORMAL (avg. 44.35950469970703)
 [30Dec2024 15:20:46.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.35950469970703) to LOW (avg. 28.96912384033203)
 [30Dec2024 15:21:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Cool, Cool Cave]
+[30Dec2024 15:21:23.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Pure Imagination]
+[30Dec2024 15:21:31.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.898893356323242) to HIGH (avg. 54.79142379760742)
+[30Dec2024 15:21:39.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.79142379760742) to NORMAL (avg. 42.46027374267578)
+[30Dec2024 15:21:54.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.46027374267578) to LOW (avg. 24.495637893676758)
+[30Dec2024 15:22:09.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [Eye of the Tiger]
+[30Dec2024 15:22:54.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Yellow Brick Road]
+[30Dec2024 15:23:10.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Carbonated Swim]
+[30Dec2024 15:25:51.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse moved too quickly! -10.118155441136395,1.0,1.5431337818686863
+[30Dec2024 15:25:59.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Where's Goopy?]
+[30Dec2024 15:26:57.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [No Slime No Service]
+[30Dec2024 15:28:02.075] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.495655059814453) to HIGH (avg. 50.95024871826172)
+[30Dec2024 15:28:16.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.95024871826172) to LOW (avg. 36.23844528198242)
+[30Dec2024 15:28:38.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [I Found the Coin Slot]
+[30Dec2024 15:29:09.020] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.90486717224121) to NORMAL (avg. 41.725215911865234)
+[30Dec2024 15:29:30.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [You're a Monster]
+[30Dec2024 15:29:31.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.30852508544922) to LOW (avg. 32.86986541748047)
+[30Dec2024 15:29:54.055] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.450653076171875) to HIGH (avg. 52.16390609741211)
+[30Dec2024 15:30:01.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.16390609741211) to LOW (avg. 34.00110626220703)
+[30Dec2024 15:30:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Hooked on a Feeling]
+[30Dec2024 15:30:31.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Oh Little Town of Gingerbread]
+[30Dec2024 15:31:09.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.491798400878906) to NORMAL (avg. 40.48388671875)
+[30Dec2024 15:31:16.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.48388671875) to LOW (avg. 33.68862533569336)
+[30Dec2024 15:31:24.050] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.68862533569336) to NORMAL (avg. 41.596099853515625)
+[30Dec2024 15:31:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Caniac No More]
+[30Dec2024 15:31:29.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Tis the Season]
+[30Dec2024 15:31:39.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.596099853515625) to LOW (avg. 34.125343322753906)
+[30Dec2024 15:32:09.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.335283279418945) to NORMAL (avg. 42.14115905761719)
+[30Dec2024 15:32:16.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.14115905761719) to LOW (avg. 31.934608459472656)
+[30Dec2024 15:32:51.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/99734, l='ServerLevel[world]', x=-802.17, y=113.00, z=-363.70] died, message: 'Fisherman was slain by Fire Dragon'
+[30Dec2024 15:33:04.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Fire Dragon
+[30Dec2024 15:33:05.192] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[30Dec2024 15:33:08.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 15:33:10.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[30Dec2024 15:33:20.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> odio todo
+[30Dec2024 15:33:25.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> x2
+[30Dec2024 15:33:47.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> puedes hacer tp billy?
+[30Dec2024 15:33:57.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Unwrapped Candy]
+[30Dec2024 15:34:02.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no puedo
+[30Dec2024 15:34:04.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has reached the goal [A Fast Comeback]
+[30Dec2024 15:34:16.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> usa la llave cuando estes en tu forma fantasmal
+[30Dec2024 15:34:21.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no te ve
+[30Dec2024 15:34:31.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> por unos segundos...
+[30Dec2024 15:34:36.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Fire Dragon
+[30Dec2024 15:34:36.304] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[30Dec2024 15:34:38.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[30Dec2024 15:34:39.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a}
+[30Dec2024 15:35:01.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.740406036376953) to NORMAL (avg. 40.37511444091797)
+[30Dec2024 15:35:02.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> usa la llave, recoge tus cosas y huye rápido
+[30Dec2024 15:35:09.018] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.37511444091797) to LOW (avg. 32.787757873535156)
+[30Dec2024 15:35:16.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> o ya vamos
+[30Dec2024 15:35:24.053] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.787757873535156) to NORMAL (avg. 43.79096603393555)
+[30Dec2024 15:35:39.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.79096603393555) to LOW (avg. 37.595272064208984)
+[30Dec2024 15:35:43.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> ya esta
+[30Dec2024 15:35:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 15:35:50.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 8.959817283277062,-0.24324071182273954,4.576864856549264
+[30Dec2024 15:35:53.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> okey
+[30Dec2024 15:36:01.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> encontre un bioma q esta bonito :C
+[30Dec2024 15:36:06.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -8.796172032648428,-1.0244240882136815,5.051651139877777
+[30Dec2024 15:36:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> dragon de mcrls
+[30Dec2024 15:36:22.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Sweet Dreams]
+[30Dec2024 15:36:24.040] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.23966979980469) to MEDIUM (avg. 48.87197494506836)
+[30Dec2024 15:36:31.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.87197494506836) to NORMAL (avg. 41.08406066894531)
+[30Dec2024 15:36:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xd
+[30Dec2024 15:36:44.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> más adelante les quitaremos sus tierras
+[30Dec2024 15:37:01.518] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.01029968261719) to LOW (avg. 37.671878814697266)
+[30Dec2024 15:38:09.050] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.00206756591797) to NORMAL (avg. 45.2850341796875)
+[30Dec2024 15:38:16.548] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.2850341796875) to MEDIUM (avg. 47.72704315185547)
+[30Dec2024 15:38:24.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.72704315185547) to HIGH (avg. 49.629676818847656)
+[30Dec2024 15:38:54.034] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.093894958496094) to MEDIUM (avg. 47.36155700683594)
+[30Dec2024 15:39:09.058] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.36155700683594) to HIGH (avg. 54.41650390625)
+[30Dec2024 15:39:39.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.19428253173828) to MEDIUM (avg. 47.08613586425781)
+[30Dec2024 15:40:01.568] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.36984634399414) to HIGH (avg. 49.98442077636719)
+[30Dec2024 15:40:09.023] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.98442077636719) to MEDIUM (avg. 47.97237014770508)
+[30Dec2024 15:40:31.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.113189697265625) to VERY_HIGH (avg. 56.72745132446289)
+[30Dec2024 15:40:46.521] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.72745132446289) to NORMAL (avg. 44.03118133544922)
+[30Dec2024 15:41:12.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ontas?
+[30Dec2024 15:41:16.688] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.9570198059082) to VERY_HIGH (avg. 57.47197341918945)
+[30Dec2024 15:41:18.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> en casa
+[30Dec2024 15:41:24.022] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.47197341918945) to NORMAL (avg. 45.832489013671875)
+[30Dec2024 15:41:39.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.832489013671875) to LOW (avg. 33.00881576538086)
+[30Dec2024 15:41:43.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Bargaining with Death]
+[30Dec2024 15:42:09.488] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.56521987915039) to VERY_HIGH (avg. 81.02096557617188)
+[30Dec2024 15:42:16.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 81.02096557617188) to NORMAL (avg. 41.118385314941406)
+[30Dec2024 15:42:53.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xd
+[30Dec2024 15:42:54.047] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.56315612792969) to MEDIUM (avg. 48.444580078125)
+[30Dec2024 15:43:01.545] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.444580078125) to NORMAL (avg. 41.75965881347656)
+[30Dec2024 15:43:14.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[30Dec2024 15:43:14.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[30Dec2024 15:43:14.700] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[30Dec2024 15:43:14.700] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[30Dec2024 15:43:16.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.75965881347656) to LOW (avg. 31.21959114074707)
+[30Dec2024 15:43:27.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:60130] logged in with entity id 107964 at (-459.3884701106224, 84.0, -1313.5867766220524)
+[30Dec2024 15:43:27.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[30Dec2024 15:43:27.326] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/107964, l='ServerLevel[world]', x=-459.39, y=84.00, z=-1313.59] logged in and will be protected for 90 secs.
+[30Dec2024 15:43:27.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[30Dec2024 15:43:27.583] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[30Dec2024 15:43:27.583] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[30Dec2024 15:43:27.621] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[30Dec2024 15:43:35.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 15:43:36.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 15:43:36.457] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[30Dec2024 15:43:38.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Enchanter]
+[30Dec2024 15:43:40.165] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 12 secs.
+[30Dec2024 15:43:40.165] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[30Dec2024 15:43:57.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1278, y=15, z=-156}
+[30Dec2024 15:43:57.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1278, y=40, z=3}
+[30Dec2024 15:44:16.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.065181732177734) to NORMAL (avg. 44.890316009521484)
+[30Dec2024 15:44:31.552] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.890316009521484) to LOW (avg. 31.162776947021484)
+[30Dec2024 15:44:33.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddddd
+[30Dec2024 15:44:36.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ptmr
+[30Dec2024 15:44:39.047] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.162776947021484) to NORMAL (avg. 45.506019592285156)
+[30Dec2024 15:44:46.527] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.506019592285156) to LOW (avg. 36.87058639526367)
+[30Dec2024 15:44:47.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ven con los 2
+[30Dec2024 15:44:55.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddd
+[30Dec2024 15:45:01.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> y el pájaro no se fue
+[30Dec2024 15:45:02.458] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.87058639526367) to MEDIUM (avg. 46.899742126464844)
+[30Dec2024 15:45:16.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.899742126464844) to LOW (avg. 33.19758224487305)
+[30Dec2024 15:45:46.517] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.742542266845703) to NORMAL (avg. 41.11254119873047)
+[30Dec2024 15:46:01.525] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.6705436706543) to MEDIUM (avg. 46.41887664794922)
+[30Dec2024 15:46:10.089] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.41887664794922) to VERY_HIGH (avg. 82.49900817871094)
+[30Dec2024 15:46:16.557] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 82.49900817871094) to MEDIUM (avg. 47.50715637207031)
+[30Dec2024 15:46:35.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> VACAS
+[30Dec2024 15:46:39.086] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.03275680541992) to VERY_HIGH (avg. 56.24011993408203)
+[30Dec2024 15:46:47.677] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.24011993408203) to HIGH (avg. 52.544212341308594)
+[30Dec2024 15:46:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> donde?
+[30Dec2024 15:46:56.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Who You Gonna Call?]
+[30Dec2024 15:47:00.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[30Dec2024 15:47:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> VEN
+[30Dec2024 15:47:11.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> SE FUE MI PAJARO PNJO
+[30Dec2024 15:47:15.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xdd
+[30Dec2024 15:47:19.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.796913146972656) to NORMAL (avg. 44.82377243041992)
+[30Dec2024 15:47:48.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.59920120239258) to MEDIUM (avg. 46.00645446777344)
+[30Dec2024 15:48:07.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Ghost
+[30Dec2024 15:48:08.083] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[30Dec2024 15:48:09.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[30Dec2024 15:48:19.410] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.516910552978516) to NORMAL (avg. 44.54536437988281)
+[30Dec2024 15:48:26.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.54536437988281) to MEDIUM (avg. 48.11101150512695)
+[30Dec2024 15:48:42.768] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.090240478515625) to VERY_HIGH (avg. 62.49250030517578)
+[30Dec2024 15:48:43.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[30Dec2024 15:49:02.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[30Dec2024 15:49:20.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[30Dec2024 15:49:27.910] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.31748580932617) to MEDIUM (avg. 47.47856903076172)
+[30Dec2024 15:49:41.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1346, y=-37, z=265}
+[30Dec2024 15:49:41.815] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1346, y=-37, z=273}
+[30Dec2024 15:49:42.103] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.47856903076172) to HIGH (avg. 50.049076080322266)
+[30Dec2024 15:50:01.752] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1388, y=24, z=29}
+[30Dec2024 15:50:04.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.308509826660156) to LOW (avg. 34.377986907958984)
+[30Dec2024 15:50:15.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.3266720406930972
+[30Dec2024 15:50:15.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.7464354940525482
+[30Dec2024 15:50:15.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 1.0291641847685469
+[30Dec2024 15:50:15.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 1.2362674064686416
+[30Dec2024 15:50:15.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 2.5633586450330768
+[30Dec2024 15:50:15.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 2.3176320319573733
+[30Dec2024 15:50:15.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 2.5633586450330768
+[30Dec2024 15:50:15.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 2.334252073018888
+[30Dec2024 15:50:15.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 2.5633586450330768
+[30Dec2024 15:50:19.593] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.377986907958984) to MEDIUM (avg. 48.91953659057617)
+[30Dec2024 15:50:27.086] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.91953659057617) to NORMAL (avg. 43.934722900390625)
+[30Dec2024 15:50:43.559] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.934722900390625) to MEDIUM (avg. 46.438636779785156)
+[30Dec2024 15:50:57.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/114557, l='ServerLevel[world]', x=-1389.00, y=70.94, z=218.31] died, message: 'Villager was slain by Grizzly Bear'
+[30Dec2024 15:50:57.325] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1425, y=-30, z=158}
+[30Dec2024 15:51:05.752] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.24418640136719) to VERY_HIGH (avg. 58.21415710449219)
+[30Dec2024 15:51:14.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/114600, l='ServerLevel[world]', x=-1382.88, y=71.00, z=209.72] died, message: 'Weaponsmith was slain by Grizzly Bear'
+[30Dec2024 15:51:18.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1427, y=11, z=478}
+[30Dec2024 15:51:34.564] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 71.3275375366211) to NORMAL (avg. 42.868690490722656)
+[30Dec2024 15:51:49.646] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.868690490722656) to HIGH (avg. 54.795082092285156)
+[30Dec2024 15:51:57.482] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.795082092285156) to VERY_HIGH (avg. 70.95548248291016)
