@@ -2141,3 +2141,165 @@ io.netty.channel.StacklessClosedChannelException: null
 [30Dec2024 13:24:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.71587371826172) to VERY_LOW (avg. 16.132570266723633)
 [30Dec2024 13:26:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.856212615966797) to LOW (avg. 21.739017486572266)
 [30Dec2024 13:27:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.739017486572266) to VERY_LOW (avg. 12.490338325500488)
+[30Dec2024 13:29:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.80073356628418) to LOW (avg. 25.886764526367188)
+[30Dec2024 13:29:22.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.886764526367188) to VERY_LOW (avg. 15.494064331054688)
+[30Dec2024 13:30:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.21409034729004) to LOW (avg. 21.64368438720703)
+[30Dec2024 13:30:52.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.64368438720703) to VERY_LOW (avg. 17.508989334106445)
+[30Dec2024 13:31:22.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.334638595581055) to LOW (avg. 21.778736114501953)
+[30Dec2024 13:31:35.377] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[30Dec2024 13:31:35.377] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[30Dec2024 13:31:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.778736114501953) to VERY_LOW (avg. 16.48523712158203)
+[30Dec2024 13:31:45.633] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[30Dec2024 13:31:45.633] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[30Dec2024 13:33:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.05071449279785) to LOW (avg. 21.77969741821289)
+[30Dec2024 13:33:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.77969741821289) to VERY_LOW (avg. 18.870849609375)
+[30Dec2024 13:33:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.870849609375) to LOW (avg. 20.908397674560547)
+[30Dec2024 13:34:07.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.908397674560547) to VERY_LOW (avg. 19.02366828918457)
+[30Dec2024 13:34:44.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.427589416503906) to LOW (avg. 32.908966064453125)
+[30Dec2024 13:35:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.38709259033203) to VERY_LOW (avg. 17.557716369628906)
+[30Dec2024 13:35:29.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.66107177734375) to LOW (avg. 28.872591018676758)
+[30Dec2024 13:35:37.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.872591018676758) to VERY_LOW (avg. 17.789138793945312)
+[30Dec2024 13:36:29.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.402478218078613) to LOW (avg. 21.31747055053711)
+[30Dec2024 13:36:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.31747055053711) to VERY_LOW (avg. 16.594528198242188)
+[30Dec2024 13:37:07.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.819683074951172) to LOW (avg. 20.207422256469727)
+[30Dec2024 13:37:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.207422256469727) to VERY_LOW (avg. 18.33846664428711)
+[30Dec2024 13:38:59.519] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.939395904541016) to LOW (avg. 31.99334716796875)
+[30Dec2024 13:39:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.99334716796875) to VERY_LOW (avg. 12.157503128051758)
+[30Dec2024 13:40:59.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.684080123901367) to LOW (avg. 21.293323516845703)
+[30Dec2024 13:41:37.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.390636444091797) to VERY_LOW (avg. 19.98274040222168)
+[30Dec2024 13:41:48.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Fishy Business]
+[30Dec2024 13:41:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.412349700927734) to LOW (avg. 20.12713623046875)
+[30Dec2024 13:42:22.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.026561737060547) to VERY_LOW (avg. 19.29766845703125)
+[30Dec2024 13:42:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.993499755859375) to LOW (avg. 21.212888717651367)
+[30Dec2024 13:43:07.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.212888717651367) to VERY_LOW (avg. 19.798744201660156)
+[30Dec2024 13:43:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.81832504272461) to LOW (avg. 21.228960037231445)
+[30Dec2024 13:44:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.501970291137695) to VERY_LOW (avg. 19.641223907470703)
+[30Dec2024 13:44:52.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.302278518676758) to LOW (avg. 20.19247817993164)
+[30Dec2024 13:44:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.19247817993164) to VERY_LOW (avg. 18.72720718383789)
+[30Dec2024 13:45:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.9410400390625) to LOW (avg. 20.048742294311523)
+[30Dec2024 13:46:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.421077728271484) to VERY_LOW (avg. 18.22010612487793)
+[30Dec2024 13:47:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.487117767333984) to LOW (avg. 20.73400115966797)
+[30Dec2024 13:48:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.949359893798828) to VERY_LOW (avg. 18.88719367980957)
+[30Dec2024 13:49:13.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Traveling lightning rod]
+[30Dec2024 13:49:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.908435821533203) to LOW (avg. 21.734233856201172)
+[30Dec2024 13:49:29.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.734233856201172) to VERY_LOW (avg. 19.356245040893555)
+[30Dec2024 13:49:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.356245040893555) to LOW (avg. 25.423023223876953)
+[30Dec2024 13:49:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.423023223876953) to VERY_LOW (avg. 19.818584442138672)
+[30Dec2024 13:50:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.15229034423828) to LOW (avg. 21.360780715942383)
+[30Dec2024 13:50:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.360780715942383) to VERY_LOW (avg. 19.038188934326172)
+[30Dec2024 13:50:22.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.038188934326172) to LOW (avg. 22.36597442626953)
+[30Dec2024 13:50:37.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.36597442626953) to VERY_LOW (avg. 18.67510223388672)
+[30Dec2024 13:51:29.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.969951629638672) to LOW (avg. 27.27446746826172)
+[30Dec2024 13:51:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.27446746826172) to VERY_LOW (avg. 18.83901596069336)
+[30Dec2024 13:52:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.740312576293945) to LOW (avg. 21.464855194091797)
+[30Dec2024 13:52:44.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.08751106262207) to VERY_LOW (avg. 15.068208694458008)
+[30Dec2024 13:52:59.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.068208694458008) to LOW (avg. 22.359153747558594)
+[30Dec2024 13:53:29.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.56499481201172) to VERY_LOW (avg. 14.79145336151123)
+[30Dec2024 13:53:37.031] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.79145336151123) to LOW (avg. 27.367328643798828)
+[30Dec2024 13:53:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.367328643798828) to VERY_LOW (avg. 15.336274147033691)
+[30Dec2024 13:53:52.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.336274147033691) to LOW (avg. 28.119495391845703)
+[30Dec2024 13:54:22.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.043018341064453) to VERY_LOW (avg. 14.820281982421875)
+[30Dec2024 13:55:14.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.882450103759766) to LOW (avg. 21.780548095703125)
+[30Dec2024 13:55:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Chompy]
+[30Dec2024 13:55:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.208173751831055) to VERY_LOW (avg. 15.27401351928711)
+[30Dec2024 13:56:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.028698921203613) to LOW (avg. 27.16750717163086)
+[30Dec2024 13:56:37.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.59105682373047) to VERY_LOW (avg. 19.42184829711914)
+[30Dec2024 13:56:40.743] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-113, y=10, z=-2514}
+[30Dec2024 13:57:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.691719055175781) to LOW (avg. 25.43324851989746)
+[30Dec2024 13:57:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.43324851989746) to VERY_LOW (avg. 17.375329971313477)
+[30Dec2024 13:57:29.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.375329971313477) to LOW (avg. 21.59328842163086)
+[30Dec2024 13:57:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.59328842163086) to VERY_LOW (avg. 13.182414054870605)
+[30Dec2024 13:57:46.688] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=17, y=-30, z=-2381}
+[30Dec2024 13:57:52.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.182414054870605) to LOW (avg. 23.14501190185547)
+[30Dec2024 13:57:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.14501190185547) to VERY_LOW (avg. 13.190811157226562)
+[30Dec2024 13:59:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.093758583068848) to LOW (avg. 21.7247371673584)
+[30Dec2024 13:59:42.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=82, y=-49, z=-2158}
+[30Dec2024 13:59:42.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=94, y=-49, z=-2145}
+[30Dec2024 13:59:42.624] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=99, y=-9, z=-2226}
+[30Dec2024 13:59:42.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=87, y=-49, z=-2130}
+[30Dec2024 13:59:42.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=89, y=-49, z=-2132}
+[30Dec2024 13:59:44.554] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=103, y=-49, z=-2134}
+[30Dec2024 13:59:44.554] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=108, y=-49, z=-2132}
+[30Dec2024 13:59:44.554] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=110, y=-49, z=-2130}
+[30Dec2024 13:59:54.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=162, y=-35, z=-2211}
+[30Dec2024 14:00:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.819843292236328) to VERY_LOW (avg. 19.11931037902832)
+[30Dec2024 14:00:29.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.11931037902832) to LOW (avg. 22.397113800048828)
+[30Dec2024 14:00:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.397113800048828) to VERY_LOW (avg. 16.56723403930664)
+[30Dec2024 14:01:03.955] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/54542, l='ServerLevel[world]', x=240.17, y=60.19, z=-2510.16]
+[30Dec2024 14:01:03.955] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/54543, l='ServerLevel[world]', x=240.38, y=61.07, z=-2512.23]
+[30Dec2024 14:01:03.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/54544, l='ServerLevel[world]', x=240.41, y=61.53, z=-2513.62]
+[30Dec2024 14:02:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.044706344604492) to LOW (avg. 23.906049728393555)
+[30Dec2024 14:02:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.906049728393555) to VERY_LOW (avg. 19.000137329101562)
+[30Dec2024 14:02:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Rotten to the Core]
+[30Dec2024 14:02:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Stay Out of my Peripheral!]
+[30Dec2024 14:03:14.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.574369430541992) to LOW (avg. 27.25583267211914)
+[30Dec2024 14:03:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.609642028808594) to VERY_LOW (avg. 19.218460083007812)
+[30Dec2024 14:04:22.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.99830436706543) to LOW (avg. 22.133180618286133)
+[30Dec2024 14:04:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.133180618286133) to VERY_LOW (avg. 18.94289779663086)
+[30Dec2024 14:05:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.157705307006836) to LOW (avg. 21.291250228881836)
+[30Dec2024 14:05:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.291250228881836) to VERY_LOW (avg. 18.3786678314209)
+[30Dec2024 14:05:29.603] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.3786678314209) to LOW (avg. 32.6568717956543)
+[30Dec2024 14:05:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.6568717956543) to VERY_LOW (avg. 16.28544044494629)
+[30Dec2024 14:05:59.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.28544044494629) to LOW (avg. 32.79479217529297)
+[30Dec2024 14:06:07.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.79479217529297) to VERY_LOW (avg. 17.849754333496094)
+[30Dec2024 14:06:44.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.278772354125977) to LOW (avg. 21.451967239379883)
+[30Dec2024 14:07:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.97588539123535) to VERY_LOW (avg. 18.145658493041992)
+[30Dec2024 14:07:22.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.145658493041992) to LOW (avg. 36.83810043334961)
+[30Dec2024 14:07:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.796581268310547) to VERY_LOW (avg. 15.573384284973145)
+[30Dec2024 14:08:15.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=64, z=-2250} BlockPos{x=255, y=62, z=-2250}
+[30Dec2024 14:08:15.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=64, z=-2250} BlockPos{x=255, y=62, z=-2250}
+[30Dec2024 14:08:21.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=274, y=64, z=-2241} BlockPos{x=275, y=62, z=-2241}
+[30Dec2024 14:08:22.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.146703720092773) to LOW (avg. 21.770395278930664)
+[30Dec2024 14:08:22.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=64, z=-2240} BlockPos{x=278, y=62, z=-2240}
+[30Dec2024 14:08:37.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.770395278930664) to VERY_LOW (avg. 12.128637313842773)
+[30Dec2024 14:09:10.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-15, y=-4, z=-2042}
+[30Dec2024 14:09:14.378] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=204, y=-9, z=-2029}
+[30Dec2024 14:09:14.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.87612247467041) to LOW (avg. 26.8366641998291)
+[30Dec2024 14:09:19.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-17, y=24, z=-2039}
+[30Dec2024 14:09:19.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=64, z=-2215} BlockPos{x=173, y=62, z=-2216}
+[30Dec2024 14:09:22.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.8366641998291) to VERY_LOW (avg. 16.671106338500977)
+[30Dec2024 14:09:22.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-33, y=25, z=-2039} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Dec2024 14:09:22.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-33, y=25, z=-2039}
+[30Dec2024 14:10:07.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.696395874023438) to LOW (avg. 26.000003814697266)
+[30Dec2024 14:10:35.786] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=515, y=-2, z=-1891}
+[30Dec2024 14:10:44.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.850954055786133) to VERY_LOW (avg. 17.197580337524414)
+[30Dec2024 14:11:34.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Gave 10 [Ink Sac] to BillyVR15]
+[30Dec2024 14:11:59.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.97907066345215) to LOW (avg. 26.968111038208008)
+[30Dec2024 14:12:01.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=50, y=23, z=-1905}
+[30Dec2024 14:13:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.028255462646484) to VERY_LOW (avg. 19.078941345214844)
+[30Dec2024 14:15:29.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.660377502441406) to LOW (avg. 20.62702751159668)
+[30Dec2024 14:15:37.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.62702751159668) to VERY_LOW (avg. 19.12363052368164)
+[30Dec2024 14:15:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.12363052368164) to LOW (avg. 20.857154846191406)
+[30Dec2024 14:16:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.178836822509766) to VERY_LOW (avg. 19.83749771118164)
+[30Dec2024 14:16:18.189] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@3218010e, suppressing error
+net.minecraft.ReportedException: Container click
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1548) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Bound must be positive
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at ovh.corail.tombstone.entity.AbstractMerchant.m_6996_(AbstractMerchant.java:212) ~[tombstone-1.20.1-8.8.6.jar%23295!/:8.8.6]
+	at net.minecraft.world.inventory.MerchantResultSlot.m_142406_(MerchantResultSlot.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150418_(AbstractContainerMenu.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:416) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	... 17 more
+[30Dec2024 14:16:29.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.83749771118164) to LOW (avg. 21.18278694152832)
+[30Dec2024 14:18:07.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.592655181884766) to VERY_LOW (avg. 19.254268646240234)
+[30Dec2024 14:18:29.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.614547729492188) to LOW (avg. 21.02185821533203)
