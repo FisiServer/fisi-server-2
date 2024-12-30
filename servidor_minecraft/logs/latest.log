@@ -2462,3 +2462,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 02:12:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Cover Me with Diamonds]
 [30Dec2024 02:12:54.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Cover Me with Diamonds]
 [30Dec2024 02:13:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.272817611694336) to VERY_LOW (avg. 15.928570747375488)
+[30Dec2024 02:18:13.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [The Secret Ingredient]
+[30Dec2024 02:18:35.369] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.70171546936035) to LOW (avg. 25.600051879882812)
+[30Dec2024 02:18:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.600051879882812) to VERY_LOW (avg. 16.28987693786621)
+[30Dec2024 02:19:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.375450134277344) to LOW (avg. 22.495527267456055)
+[30Dec2024 02:20:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.275617599487305) to VERY_LOW (avg. 13.895648002624512)
+[30Dec2024 02:20:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.153900146484375) to LOW (avg. 22.378807067871094)
+[30Dec2024 02:21:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.378807067871094) to VERY_LOW (avg. 13.9080228805542)
+[30Dec2024 02:21:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [It Spreads]
+[30Dec2024 02:21:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.355863571166992) to LOW (avg. 21.878114700317383)
+[30Dec2024 02:22:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.845075607299805) to VERY_LOW (avg. 17.911657333374023)
+[30Dec2024 02:22:42.866] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.01524543762207) to LOW (avg. 30.361948013305664)
+[30Dec2024 02:23:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.46151351928711) to VERY_LOW (avg. 19.488740921020508)
+[30Dec2024 02:23:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.952213287353516) to LOW (avg. 25.21041488647461)
+[30Dec2024 02:24:27.902] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.061140060424805) to NORMAL (avg. 44.848365783691406)
+[30Dec2024 02:24:35.432] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.848365783691406) to HIGH (avg. 49.9277458190918)
+[30Dec2024 02:24:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.9277458190918) to VERY_LOW (avg. 18.427030563354492)
+[30Dec2024 02:25:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.427030563354492) to LOW (avg. 24.07111930847168)
+[30Dec2024 02:25:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.07111930847168) to VERY_LOW (avg. 19.901111602783203)
+[30Dec2024 02:25:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.901111602783203) to LOW (avg. 23.39020538330078)
+[30Dec2024 02:26:27.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.095415115356445) to VERY_LOW (avg. 18.04837989807129)
+[30Dec2024 02:26:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.04837989807129) to LOW (avg. 22.898670196533203)
+[30Dec2024 02:26:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.898670196533203) to VERY_LOW (avg. 16.637683868408203)
+[30Dec2024 02:28:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.63884735107422) to LOW (avg. 23.673011779785156)
+[30Dec2024 02:28:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.673011779785156) to VERY_LOW (avg. 17.173315048217773)
+[30Dec2024 02:28:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.673545837402344) to LOW (avg. 23.269641876220703)
+[30Dec2024 02:28:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.269641876220703) to VERY_LOW (avg. 18.472105026245117)
+[30Dec2024 02:29:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.494071960449219) to LOW (avg. 20.798511505126953)
+[30Dec2024 02:29:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.798511505126953) to VERY_LOW (avg. 14.90954303741455)
+[30Dec2024 02:30:18.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Hooked on a Feeling]
+[30Dec2024 02:30:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.37936019897461) to LOW (avg. 21.504175186157227)
+[30Dec2024 02:30:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Hooked on a Feeling]
+[30Dec2024 02:30:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.504175186157227) to VERY_LOW (avg. 17.41944694519043)
+[30Dec2024 02:31:11.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3739, y=-25, z=-2354} BlockPos{x=-3739, y=-23, z=-2354}
+[30Dec2024 02:33:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.679317474365234) to LOW (avg. 21.250022888183594)
+[30Dec2024 02:34:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.67966651916504) to VERY_LOW (avg. 19.194889068603516)
+[30Dec2024 02:34:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.07312774658203) to LOW (avg. 30.460800170898438)
+[30Dec2024 02:34:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.460800170898438) to VERY_LOW (avg. 15.744807243347168)

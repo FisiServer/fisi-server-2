@@ -2802,6 +2802,7 @@
       "minecraft:snowy_taiga": "2024-12-30 01:41:22 +0000",
       "minecraft:forest": "2024-12-29 20:02:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 01:39:29 +0000",
+      "minecraft:deep_dark": "2024-12-30 02:20:40 +0000",
       "minecraft:meadow": "2024-12-29 20:02:52 +0000",
       "minecraft:savanna": "2024-12-29 20:15:20 +0000",
       "minecraft:plains": "2024-12-29 20:15:21 +0000"
@@ -3390,6 +3391,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2024-12-30 02:18:13 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/underwater_upgrade": {
     "criteria": {
       "has_bucket": "2024-12-30 01:46:06 +0000"
@@ -3454,7 +3461,8 @@
     "criteria": {
       "cooked_porkchop": "2024-12-30 01:51:26 +0000",
       "porkchop": "2024-12-30 01:43:30 +0000",
-      "mutton": "2024-12-30 02:14:12 +0000"
+      "mutton": "2024-12-30 02:14:12 +0000",
+      "golden_apple": "2024-12-30 02:14:42 +0000"
     },
     "done": false
   },
@@ -3473,6 +3481,12 @@
   "rats:recipes/misc/upgrades/bucket_upgrade": {
     "criteria": {
       "has_bucket": "2024-12-30 01:44:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2024-12-30 02:30:22 +0000"
     },
     "done": true
   },
