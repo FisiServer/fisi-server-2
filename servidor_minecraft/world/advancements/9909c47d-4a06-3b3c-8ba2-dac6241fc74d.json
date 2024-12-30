@@ -106,9 +106,12 @@
       "mauve_hills": "2024-12-29 22:04:44 +0000",
       "shrubland": "2024-12-29 20:08:26 +0000",
       "dry_bushland": "2024-12-29 22:04:52 +0000",
+      "pine_taiga": "2024-12-30 16:41:58 +0000",
       "prismachasm": "2024-12-29 19:55:57 +0000",
+      "marsh": "2024-12-30 16:42:50 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
       "frozen_tundra": "2024-12-30 15:19:31 +0000",
+      "grassy_beach": "2024-12-30 16:42:19 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
@@ -118,6 +121,7 @@
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
       "deciduous_forest": "2024-12-29 19:53:49 +0000",
       "boreal_forest": "2024-12-30 15:16:49 +0000",
+      "towering_cliffs": "2024-12-30 16:45:32 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
       "temperate_grove": "2024-12-29 21:19:50 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
@@ -134,8 +138,11 @@
       "mauve_hills": "2024-12-29 22:04:44 +0000",
       "shrubland": "2024-12-29 20:08:26 +0000",
       "dry_bushland": "2024-12-29 22:04:52 +0000",
+      "pine_taiga": "2024-12-30 16:41:58 +0000",
+      "marsh": "2024-12-30 16:42:50 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
       "frozen_tundra": "2024-12-30 15:19:31 +0000",
+      "grassy_beach": "2024-12-30 16:42:19 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
@@ -145,6 +152,7 @@
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
       "deciduous_forest": "2024-12-29 19:53:49 +0000",
       "boreal_forest": "2024-12-30 15:16:49 +0000",
+      "towering_cliffs": "2024-12-30 16:45:32 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
       "temperate_grove": "2024-12-29 21:19:50 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
@@ -1131,8 +1139,10 @@
       "minecraft:savanna_plateau": "2024-12-29 21:25:31 +0000",
       "minecraft:beach": "2024-12-30 15:15:09 +0000",
       "minecraft:stony_peaks": "2024-12-29 19:59:25 +0000",
+      "minecraft:mangrove_swamp": "2024-12-30 16:43:55 +0000",
       "minecraft:sparse_jungle": "2024-12-29 22:03:16 +0000",
       "minecraft:river": "2024-12-29 21:37:58 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-30 16:43:48 +0000",
       "minecraft:snowy_plains": "2024-12-30 15:20:17 +0000",
       "minecraft:snowy_taiga": "2024-12-30 15:20:24 +0000",
       "minecraft:grove": "2024-12-29 21:44:06 +0000",
@@ -1141,6 +1151,7 @@
       "minecraft:forest": "2024-12-29 21:38:01 +0000",
       "minecraft:desert": "2024-12-29 22:05:24 +0000",
       "minecraft:jungle": "2024-12-29 22:03:14 +0000",
+      "minecraft:ocean": "2024-12-30 16:42:28 +0000",
       "minecraft:deep_dark": "2024-12-29 19:56:20 +0000",
       "minecraft:meadow": "2024-12-29 21:44:09 +0000",
       "minecraft:savanna": "2024-12-29 21:37:52 +0000",
@@ -5381,6 +5392,12 @@
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2024-12-30 16:13:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-30 16:44:40 +0000"
     },
     "done": true
   },
