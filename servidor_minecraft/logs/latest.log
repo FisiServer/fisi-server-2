@@ -3701,3 +3701,306 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 21:16:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.873950958251953) to LOW (avg. 22.013193130493164)
 [30Dec2024 21:17:42.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.438798904418945) to VERY_LOW (avg. 18.92197608947754)
 [30Dec2024 21:17:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.92197608947754) to LOW (avg. 22.384550094604492)
+[30Dec2024 21:18:34.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.050884246826172) to VERY_LOW (avg. 19.689207077026367)
+[30Dec2024 21:18:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.689207077026367) to LOW (avg. 25.768783569335938)
+[30Dec2024 21:20:04.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.647130966186523) to VERY_LOW (avg. 19.614717483520508)
+[30Dec2024 21:20:27.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.233964920043945) to LOW (avg. 22.20578956604004)
+[30Dec2024 21:20:35.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JeaNF[/100.85.115.89:58589] logged in with entity id 76883 at (-461.7401130131698, 60.96895241004826, -2127.300000011921)
+[30Dec2024 21:20:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF joined the game
+[30Dec2024 21:20:35.996] [Server thread/INFO] [APTweaks(Player)/]: Player JeaNF ServerPlayer['JeaNF'/76883, l='ServerLevel[world]', x=-461.74, y=60.97, z=-2127.30] logged in and will be protected for 90 secs.
+[30Dec2024 21:20:37.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player JeaNF completed
+[30Dec2024 21:20:40.400] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JeaNF (18)
+[30Dec2024 21:20:40.400] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JeaNF
+[30Dec2024 21:20:40.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 04c9f937-9a61-34a8-ac75-05f5edba46de was loaded
+[30Dec2024 21:20:40.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 21:20:42.145] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 20.19312858581543) to NORMAL (avg. 40.87483215332031)
+[30Dec2024 21:20:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.87483215332031) to LOW (avg. 33.41984558105469)
+[30Dec2024 21:20:57.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.41984558105469) to NORMAL (avg. 42.46178436279297)
+[30Dec2024 21:21:04.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.46178436279297) to LOW (avg. 33.543434143066406)
+[30Dec2024 21:21:04.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 04c9f937-9a61-34a8-ac75-05f5edba46de
+[30Dec2024 21:21:05.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 04c9f937-9a61-34a8-ac75-05f5edba46de
+[30Dec2024 21:21:05.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JeaNF (04c9f937-9a61-34a8-ac75-05f5edba46de) successfully connected to voice chat
+[30Dec2024 21:21:14.141] [Server thread/INFO] [APTweaks(Player)/]: Protected Player JeaNF was successful validated after 38 secs.
+[30Dec2024 21:21:14.141] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player JeaNF!
+[30Dec2024 21:22:42.145] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.6505126953125) to NORMAL (avg. 44.79718780517578)
+[30Dec2024 21:22:57.142] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.2341194152832) to MEDIUM (avg. 46.566741943359375)
+[30Dec2024 21:23:12.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.566741943359375) to LOW (avg. 28.238956451416016)
+[30Dec2024 21:26:12.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.802152633666992) to VERY_LOW (avg. 16.984113693237305)
+[30Dec2024 21:26:27.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.984113693237305) to LOW (avg. 20.32197380065918)
+[30Dec2024 21:26:34.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.32197380065918) to VERY_LOW (avg. 18.552335739135742)
+[30Dec2024 21:26:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.552335739135742) to LOW (avg. 26.41365623474121)
+[30Dec2024 21:27:11.266] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@31a44ce9, suppressing error
+net.minecraft.ReportedException: Container click
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1548) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Bound must be positive
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at ovh.corail.tombstone.entity.AbstractMerchant.m_6996_(AbstractMerchant.java:212) ~[tombstone-1.20.1-8.8.6.jar%23295!/:8.8.6]
+	at net.minecraft.world.inventory.MerchantResultSlot.m_142406_(MerchantResultSlot.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.world.inventory.MerchantMenu.m_7648_(MerchantMenu.java:147) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:394) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23317!/:?]
+	... 17 more
+[30Dec2024 21:27:12.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.534082412719727) to VERY_LOW (avg. 18.91815185546875)
+[30Dec2024 21:27:19.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.91815185546875) to LOW (avg. 26.089832305908203)
+[30Dec2024 21:28:12.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.423503875732422) to VERY_LOW (avg. 16.83960723876953)
+[30Dec2024 21:28:25.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeaNF lost connection: Disconnected
+[30Dec2024 21:28:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF left the game
+[30Dec2024 21:28:25.317] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 04c9f937-9a61-34a8-ac75-05f5edba46de was unloaded
+[30Dec2024 21:28:25.317] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JeaNF
+[30Dec2024 21:28:27.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.83960723876953) to LOW (avg. 24.196697235107422)
+[30Dec2024 21:28:34.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.196697235107422) to VERY_LOW (avg. 19.645702362060547)
+[30Dec2024 21:28:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.645702362060547) to LOW (avg. 21.364885330200195)
+[30Dec2024 21:29:11.407] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2573020d[id=<null>,name=JeaNF,properties={},legacy=false] (/100.85.115.89:58885) lost connection: Disconnected
+[30Dec2024 21:29:19.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.288522720336914) to VERY_LOW (avg. 17.198034286499023)
+[30Dec2024 21:29:26.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JeaNF[/100.85.115.89:58894] logged in with entity id 84722 at (-429.0832576197056, 111.49999999403954, -1382.440724963213)
+[30Dec2024 21:29:27.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF joined the game
+[30Dec2024 21:29:27.006] [Server thread/INFO] [APTweaks(Player)/]: Player JeaNF ServerPlayer['JeaNF'/84722, l='ServerLevel[world]', x=-429.08, y=111.50, z=-1382.44] logged in and will be protected for 90 secs.
+[30Dec2024 21:29:27.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player JeaNF completed
+[30Dec2024 21:29:27.162] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.198034286499023) to LOW (avg. 35.04197692871094)
+[30Dec2024 21:29:27.439] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JeaNF (18)
+[30Dec2024 21:29:27.439] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JeaNF
+[30Dec2024 21:29:27.516] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 04c9f937-9a61-34a8-ac75-05f5edba46de was loaded
+[30Dec2024 21:29:44.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 04c9f937-9a61-34a8-ac75-05f5edba46de
+[30Dec2024 21:29:45.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 04c9f937-9a61-34a8-ac75-05f5edba46de
+[30Dec2024 21:29:45.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JeaNF (04c9f937-9a61-34a8-ac75-05f5edba46de) successfully connected to voice chat
+[30Dec2024 21:29:48.691] [Server thread/INFO] [APTweaks(Player)/]: Protected Player JeaNF was successful validated after 21 secs.
+[30Dec2024 21:29:48.691] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player JeaNF!
+[30Dec2024 21:29:56.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.3026122229946395
+[30Dec2024 21:29:56.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.7012218385120832
+[30Dec2024 21:29:56.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.968506480154474
+[30Dec2024 21:29:56.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 1.1655217466138765
+[30Dec2024 21:29:56.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 1.323680410701627
+[30Dec2024 21:30:14.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeaNF> 2
+[30Dec2024 21:30:19.909] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 21.86850357055664) to HIGH (avg. 52.908267974853516)
+[30Dec2024 21:30:34.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.908267974853516) to VERY_LOW (avg. 19.798519134521484)
+[30Dec2024 21:30:57.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.51302719116211) to LOW (avg. 21.538867950439453)
+[30Dec2024 21:31:04.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.538867950439453) to VERY_LOW (avg. 19.6594181060791)
+[30Dec2024 21:31:12.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.6594181060791) to LOW (avg. 24.02747344970703)
+[30Dec2024 21:31:24.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[30Dec2024 21:31:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[30Dec2024 21:31:24.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[30Dec2024 21:31:24.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[30Dec2024 21:31:40.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:51477] logged in with entity id 85705 at (-401.9381172173189, 94.0, -1409.8615068687375)
+[30Dec2024 21:31:40.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[30Dec2024 21:31:40.729] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/85705, l='ServerLevel[world]', x=-401.94, y=94.00, z=-1409.86] logged in and will be protected for 90 secs.
+[30Dec2024 21:31:40.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[30Dec2024 21:31:41.269] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[30Dec2024 21:31:41.269] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[30Dec2024 21:31:41.471] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[30Dec2024 21:31:52.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 21:31:53.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 21:31:53.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[30Dec2024 21:31:55.791] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 15 secs.
+[30Dec2024 21:31:55.791] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[30Dec2024 21:32:57.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.55074119567871) to VERY_HIGH (avg. 174.15660095214844)
+[30Dec2024 21:33:04.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 174.15660095214844) to LOW (avg. 30.842758178710938)
+[30Dec2024 21:33:12.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeaNF moved too quickly! -0.12209929121814866,-10.308097046462201,-0.46638771937773527
+[30Dec2024 21:33:25.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeaNF moved too quickly! 0.014026322741642616,-10.249608914682023,-0.07082877596326398
+[30Dec2024 21:33:26.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeaNF moved too quickly! -1.1635539053453385,-11.141611616128863,-0.21321973715157583
+[30Dec2024 21:33:27.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeaNF moved too quickly! -0.09298973399336319,-11.207870780463594,0.15283747391322322
+[30Dec2024 21:33:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF fell from a high place
+[30Dec2024 21:33:29.334] [Server thread/INFO] [tombstone/]: The player JeaNF has successfully been saved
+[30Dec2024 21:33:32.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddd
+[30Dec2024 21:33:32.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player JeaNF completed
+[30Dec2024 21:33:42.363] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.228897094726562) to HIGH (avg. 53.47089385986328)
+[30Dec2024 21:33:57.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.47089385986328) to LOW (avg. 25.453569412231445)
+[30Dec2024 21:34:12.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.453569412231445) to VERY_HIGH (avg. 79.89470672607422)
+[30Dec2024 21:34:20.157] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 79.89470672607422) to LOW (avg. 31.95989990234375)
+[30Dec2024 21:34:27.974] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.95989990234375) to VERY_HIGH (avg. 190.94247436523438)
+[30Dec2024 21:34:33.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 10.061556484924267,1.7647979520895731,-0.16647410257655793
+[30Dec2024 21:34:33.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 10.931581525172646,1.6614663709957185,-0.29059569802757323
+[30Dec2024 21:34:33.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 11.79601659267638,1.5558233786500963,-0.4432811472499907
+[30Dec2024 21:34:33.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 12.65491146289071,1.4488484586588228,-0.6225907854379784
+[30Dec2024 21:34:35.123] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 190.94247436523438) to MEDIUM (avg. 46.88006591796875)
+[30Dec2024 21:34:49.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.88006591796875) to LOW (avg. 20.753257751464844)
+[30Dec2024 21:35:04.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.753257751464844) to VERY_LOW (avg. 19.41640281677246)
+[30Dec2024 21:35:12.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.41640281677246) to LOW (avg. 30.527700424194336)
+[30Dec2024 21:35:17.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF has made the advancement [Getting an Upgrade]
+[30Dec2024 21:35:19.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.9441292373518877,4.94155173107833,8.004495552956087
+[30Dec2024 21:35:48.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -2.943142870294764,8.701676895488891,4.8910609014826605
+[30Dec2024 21:35:48.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.168694469707475,8.98716983699332,5.0705984586461454
+[30Dec2024 21:35:48.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.3698413918607457,9.184525261855255,5.230710056738872
+[30Dec2024 21:35:48.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.549224222206817,9.297233414086264,5.373497584033203
+[30Dec2024 21:35:50.175] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 21.114831924438477) to VERY_HIGH (avg. 77.15570068359375)
+[30Dec2024 21:35:56.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF was shot by Skeleton
+[30Dec2024 21:35:56.406] [Server thread/INFO] [tombstone/]: The player JeaNF has successfully been saved
+[30Dec2024 21:35:58.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player JeaNF completed
+[30Dec2024 21:36:12.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.626033782958984) to LOW (avg. 30.404924392700195)
+[30Dec2024 21:36:22.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:55524] logged in with entity id 88370 at (-1440.762499988079, 75.0, 1014.7076021420293)
+[30Dec2024 21:36:23.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[30Dec2024 21:36:23.087] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/88370, l='ServerLevel[world]', x=-1440.76, y=75.00, z=1014.71] logged in and will be protected for 90 secs.
+[30Dec2024 21:36:23.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[30Dec2024 21:36:25.374] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[30Dec2024 21:36:25.374] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[30Dec2024 21:36:25.374] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[30Dec2024 21:36:27.195] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.404924392700195) to NORMAL (avg. 41.5124626159668)
+[30Dec2024 21:36:33.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 21:36:34.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 21:36:34.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[30Dec2024 21:36:35.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.5124626159668) to VERY_HIGH (avg. 105.24202728271484)
+[30Dec2024 21:36:49.089] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 26 secs.
+[30Dec2024 21:36:49.089] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[30Dec2024 21:36:53.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.3138944341653769
+[30Dec2024 21:36:53.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.6099939164247985
+[30Dec2024 21:36:53.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.7684308457950237
+[30Dec2024 21:36:53.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.8532072878094823
+[30Dec2024 21:36:53.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.8985694716715216
+[30Dec2024 21:36:53.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.9228418718317357
+[30Dec2024 21:36:57.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 70.76710510253906) to NORMAL (avg. 42.81642532348633)
+[30Dec2024 21:37:19.733] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.56866455078125) to MEDIUM (avg. 47.31829071044922)
+[30Dec2024 21:37:27.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.31829071044922) to NORMAL (avg. 44.98802947998047)
+[30Dec2024 21:37:34.787] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.98802947998047) to HIGH (avg. 51.92604064941406)
+[30Dec2024 21:37:42.595] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.92604064941406) to MEDIUM (avg. 46.0594482421875)
+[30Dec2024 21:38:05.188] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.687416076660156) to VERY_HIGH (avg. 68.12176513671875)
+[30Dec2024 21:38:09.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! 10.503933837154932,-0.4306633843950056,2.0380316246039456
+[30Dec2024 21:38:09.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! 11.355527984865489,-0.06837644646737395,2.2040605058648453
+[30Dec2024 21:38:09.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! 12.201340786759602,0.3823299963097888,2.3690452870378067
+[30Dec2024 21:38:10.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! 9.035634379041994,4.923690711554144,2.4069246092751655
+[30Dec2024 21:38:10.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! 9.767582713148386,5.051772595908291,2.809593520889848
+[30Dec2024 21:38:10.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! 10.473728844714628,5.097950438540762,3.2508704217698323
+[30Dec2024 21:38:13.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.12176513671875) to MEDIUM (avg. 47.806976318359375)
+[30Dec2024 21:38:15.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.24961550190278,-6.495103915627422,-74.33625905109761
+[30Dec2024 21:38:15.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.24961550190278,-6.495103915627422,-74.33625905109761
+[30Dec2024 21:38:15.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.24961550190278,-6.495103915627422,-74.33625905109761
+[30Dec2024 21:38:15.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.7601001800673,-6.60388241778083,-73.64179374522564
+[30Dec2024 21:38:15.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.33605935404705,-6.712664143978899,-72.9252711772333
+[30Dec2024 21:38:15.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.98025079882132,-6.821447728000501,-72.19085919225722
+[30Dec2024 21:38:15.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.69466116100784,-6.930232382574357,-71.443186167553
+[30Dec2024 21:38:15.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.47169275554745,-7.039017654043255,-70.68368694727837
+[30Dec2024 21:38:15.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.30456996670898,-7.14780328099176,-69.91364112549013
+[30Dec2024 21:38:15.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.18725030020926,-7.256589112781836,-69.13418984420105
+[30Dec2024 21:38:15.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.11434505949114,-7.365375062609822,-68.34635077388725
+[30Dec2024 21:38:15.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.08104860482672,-7.474161080455976,-67.5510314731057
+[30Dec2024 21:38:15.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.08307526658291,-7.582947137496917,-66.74904130260074
+[30Dec2024 21:38:15.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.11479570746462,-7.691733217123464,-65.94110205030506
+[30Dec2024 21:38:15.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.17480443833995,-7.800519309764742,-65.12785740671552
+[30Dec2024 21:38:15.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.260040666958616,-7.909305409905628,-64.30988141503371
+[30Dec2024 21:38:15.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.36777477871317,-8.018091514368088,-63.487686007001685
+[30Dec2024 21:38:15.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -47.970583816846556,-1.7847762630709072,-72.29163679361614
+[30Dec2024 21:38:15.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -47.970583816846556,-1.7847762630709072,-72.29163679361614
+[30Dec2024 21:38:15.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -47.970583816846556,-1.7847762630709072,-72.29163679361614
+[30Dec2024 21:38:15.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -48.09838154135991,-1.8935623700236315,-71.4656785099744
+[30Dec2024 21:38:16.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -48.24407199624716,-2.002348478411345,-70.63636449376736
+[30Dec2024 21:38:16.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -48.405719188541866,-2.1111345876259557,-69.80405783517222
+[30Dec2024 21:38:16.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -48.583765659315645,-2.21992069731706,-68.969852928112
+[30Dec2024 21:38:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -48.77643700705869,-2.328706807282738,-68.13395516302171
+[30Dec2024 21:38:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -48.98215082045874,-2.4374929174066358,-67.29654770709658
+[30Dec2024 21:38:16.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -49.1994959050669,-2.546279027621707,-66.45779390884627
+[30Dec2024 21:38:16.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -49.4269756125758,-2.6550651378893155,-65.61775202808894
+[30Dec2024 21:38:16.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -49.65960873777067,-2.7638512481871986,-64.77523273079669
+[30Dec2024 21:38:16.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -49.88691725499598,-2.8726373585025256,-63.927904603742945
+[30Dec2024 21:38:16.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -50.10645005901267,-2.9814234688279067,-63.07571141275389
+[30Dec2024 21:38:16.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -50.31778824116202,-3.0902095791590805,-62.2189684663349
+[30Dec2024 21:38:16.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -50.52181845931955,-3.198995689493592,-61.3581680479067
+[30Dec2024 21:38:16.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -50.71933143500132,-3.3077817998300256,-60.49374917583623
+[30Dec2024 21:38:16.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -50.911032333675735,-3.4165679101675677,-59.62610336671469
+[30Dec2024 21:38:16.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -51.0975500219256,-3.525354020505749,-58.75557977504809
+[30Dec2024 21:38:16.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -51.279445322985566,-3.6341401308442984,-57.882489776833836
+[30Dec2024 21:38:16.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -51.45721837903079,-3.742926241183061,-57.00711105719438
+[30Dec2024 21:38:16.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -51.63131521686603,-3.851712351521944,-56.129691255729085
+[30Dec2024 21:38:16.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -51.80213360320704,-3.9604984618608983,-55.25045121743892
+[30Dec2024 21:38:16.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -51.970028266421195,-4.069284572199893,-54.3695878919018
+[30Dec2024 21:38:17.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -52.13379235247305,-4.178070682538912,-53.48704425571259
+[30Dec2024 21:38:17.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -52.28979809934265,-4.286856792877944,-52.60249935574825
+[30Dec2024 21:38:17.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -52.43581473250424,-4.3956429032169835,-51.715904740146925
+[30Dec2024 21:38:17.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -52.572923073804304,-4.504429013556028,-50.82748218808797
+[30Dec2024 21:38:17.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -52.70183392269257,-4.613215123895075,-49.937411976006615
+[30Dec2024 21:38:17.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -52.82343424763724,-4.722001234234123,-49.045872380675064
+[30Dec2024 21:38:17.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -52.93799938440111,-4.830787344573172,-48.15298874953328
+[30Dec2024 21:38:17.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.04449855289988,-4.939573454912222,-47.25881080409317
+[30Dec2024 21:38:17.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.14278114911349,-5.048359565251272,-46.36343868751305
+[30Dec2024 21:38:17.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.23348265749985,-5.157145675590322,-45.46699337875066
+[30Dec2024 21:38:17.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.31742335156707,-5.265931785929372,-44.569590997172554
+[30Dec2024 21:38:17.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.39533475125074,-5.374717896268423,-43.67133509803284
+[30Dec2024 21:38:17.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.46786922604815,-5.483504006607473,-42.77231803190966
+[30Dec2024 21:38:17.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.535608559093816,-5.592290116946523,-41.87262215705118
+[30Dec2024 21:38:17.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.59907158460203,-5.701076227285573,-40.972320920545144
+[30Dec2024 21:38:17.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.65872099893852,-5.809862337624623,-40.071479822506035
+[30Dec2024 21:38:17.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.71650912978157,-5.918648447963673,-39.17021738245603
+[30Dec2024 21:38:17.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.77468221294555,-6.027434558302724,-38.26869655793439
+[30Dec2024 21:38:17.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.83396705609471,-6.136220668641774,-37.36700050599757
+[30Dec2024 21:38:17.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.894496299026855,-6.245006778980824,-36.46516769019922
+[30Dec2024 21:38:17.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.94847627942943,-6.353792889319874,-35.66091316189181
+[30Dec2024 21:38:18.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -53.99661562733979,-6.462578999658924,-34.94367895287678
+[30Dec2024 21:38:18.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.039546299043536,-6.571365109997974,-34.304049466843026
+[30Dec2024 21:38:18.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.07783187317227,-6.680151220337025,-33.73362787475867
+[30Dec2024 21:38:18.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.11197494916428,-6.788937330676075,-33.22492588427713
+[30Dec2024 21:38:18.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.142423745211545,-6.897723441015125,-32.771265436091426
+[30Dec2024 21:38:18.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.16957798230908,-7.006509551354175,-32.36669103673944
+[30Dec2024 21:38:18.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.19379413165052,-7.115295661693225,-32.00589157699915
+[30Dec2024 21:38:18.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.21539009425567,-7.224081772032275,-31.684130609529802
+[30Dec2024 21:38:18.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.23464937426195,-7.332867882371326,-31.397184170470837
+[30Dec2024 21:38:18.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.251824800666554,-7.441653992710376,-31.14128532874315
+[30Dec2024 21:38:18.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.26714184637558,-7.550440103049426,-30.91307473511347
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.28080158813259,-7.659226213388476,-30.70955652184898
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.30294427690205,-7.768012323727526,-30.430566511500956
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.332652058035364,-7.876798434066576,-30.08427075057375
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.369106388733144,-7.985584544405627,-29.677951719550492
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.41284759761686,-8.094370654744676,-29.21824209792635
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.46334854810277,-8.203156765083726,-28.71094924342674
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.5198778363233,-8.311942875422776,-28.161221660625642
+[30Dec2024 21:38:18.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.58178319629042,-8.420728985761826,-27.573650786034705
+[30Dec2024 21:38:19.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.648482937179324,-8.529515096100877,-26.952331262852795
+[30Dec2024 21:38:19.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.719458307097625,-8.638301206439927,-26.300914693990308
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.794246683094116,-8.747087316778977,-25.622657579016277
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.87243549800917,-8.855873427118027,-24.920464064329963
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -54.953656824439236,-8.964659537457077,-24.196924067765167
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.037582544716315,-9.073445647796127,-23.454347278112664
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.12392004349556,-9.182231758135178,-22.69479347589504
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.21240836640516,-9.291017868474228,-21.920099573435664
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.30306668751575,-9.399803978813278,-21.13193380581538
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.38391578061214,-9.508590089152328,-20.42904755399468
+[30Dec2024 21:38:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.45601700391353,-9.617376199491378,-19.802213576555687
+[30Dec2024 21:38:19.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.52031687670683,-9.726162309830428,-19.243203019364955
+[30Dec2024 21:38:19.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.57765950491648,-9.834948420169479,-18.74467739009492
+[30Dec2024 21:38:19.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.62879766222761,-9.943734530508529,-18.30009222109902
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.67440267223196,-10.052520640847579,-17.903611155961926
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.71507322132595,-10.161306751186629,-17.55002933188257
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.75134321805331,-10.27009286152568,-17.234705052080926
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.78368880206699,-10.37887897186473,-16.953498851249606
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.81253459472168,-10.48766508220378,-16.702719154120814
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.83825927335249,-10.59645119254283,-16.479073813775813
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.86120054241667,-10.70523730288188,-16.279626893508066
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.88165956675766,-10.81402341322093,-16.101760124887278
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.89990492519087,-10.92280952355998,-15.943138536059905
+[30Dec2024 21:38:20.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.91617613631047,-11.03159563389903,-15.801679799066733
+[30Dec2024 21:38:20.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.9306868028051,-11.14038174423808,-15.675526893780443
+[30Dec2024 21:38:20.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.935848004615536,-11.24916785457713,-15.611402248000104
+[30Dec2024 21:38:20.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.93254614700106,-11.357953964916181,-15.602574104357927
+[30Dec2024 21:38:20.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.92464152947946,-11.466740075255231,-15.643059382744013
+[30Dec2024 21:38:20.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.917592191370545,-11.575526185594281,-15.679164155049193
+[30Dec2024 21:38:20.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.911305591463815,-11.684312295933331,-15.71136239191901
+[30Dec2024 21:38:20.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.9056992015054,-11.793098406272382,-15.740076780386971
+[30Dec2024 21:38:20.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.90069942279638,-11.901884516611432,-15.765684272760836
+[30Dec2024 21:38:20.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.89624062001519,-12.010670626950482,-15.788521035118038
+[30Dec2024 21:38:20.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.892264259580315,-12.119456737289532,-15.808886860374969
+[30Dec2024 21:38:20.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.88871814124229,-12.228242847628582,-15.827049103862691
+[30Dec2024 21:38:20.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.885555712817336,-12.337028957967632,-15.843246193071764
+[30Dec2024 21:38:20.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.885555712817336,-12.445815068306683,-15.857690757644605
+[30Dec2024 21:38:20.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.90136494786054,-12.554601178645733,-15.773855986476065
+[30Dec2024 21:38:20.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.93127285912158,-12.663387288984783,-15.602375701167148
+[30Dec2024 21:38:20.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -55.97375397019607,-12.772173399323833,-15.352733144095282
+[30Dec2024 21:38:20.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.027447861187284,-12.880959509662883,-15.033385471056363
+[30Dec2024 21:38:21.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.09114130959654,-12.989745620001933,-14.651874773806412
+[30Dec2024 21:38:21.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.16375236356805,-13.098531730340984,-14.21492708996766
+[30Dec2024 21:38:21.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.24431613840932,-13.207317840680034,-13.728540700063832
+[30Dec2024 21:38:21.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.331972149926514,-13.316103951019084,-13.198064870820872
+[30Dec2024 21:38:21.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.425953018293626,-13.424890061358134,-12.628270078441801
+[30Dec2024 21:38:28.202] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.806976318359375) to VERY_HIGH (avg. 55.749298095703125)
