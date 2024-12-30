@@ -1199,6 +1199,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-30 15:44:12 +0000",
+      "minecraft:windswept_hills": "2024-12-30 17:46:39 +0000",
       "minecraft:bamboo_jungle": "2024-12-30 17:32:58 +0000",
       "minecraft:beach": "2024-12-30 17:14:02 +0000",
       "minecraft:dark_forest": "2024-12-30 17:33:17 +0000",
@@ -4919,6 +4920,42 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-30 17:38:34 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2024-12-30 17:42:58 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/ratfish": {
+    "criteria": {
+      "has_input": "2024-12-30 17:48:36 +0000"
+    },
+    "done": true
+  },
+  "rats:rat_trap": {
+    "criteria": {
+      "make_trap": "2024-12-30 17:50:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-30 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/lumberjack_upgrade": {
+    "criteria": {
+      "has_sapling": "2024-12-30 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/villager_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 17:51:28 +0000"
     },
     "done": true
   },
