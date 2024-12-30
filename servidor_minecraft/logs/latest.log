@@ -2439,3 +2439,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 02:04:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.283750534057617) to LOW (avg. 21.7922306060791)
 [30Dec2024 02:04:05.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [The Secret Ingredient]
 [30Dec2024 02:04:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.7922306060791) to VERY_LOW (avg. 19.4388484954834)
+[30Dec2024 02:04:27.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.4388484954834) to LOW (avg. 37.78925323486328)
+[30Dec2024 02:04:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has reached the goal [Sweet Sweet Speeding Up]
+[30Dec2024 02:04:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.857765197753906) to VERY_LOW (avg. 18.994474411010742)
+[30Dec2024 02:04:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.994474411010742) to LOW (avg. 23.47050666809082)
+[30Dec2024 02:05:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.47050666809082) to VERY_LOW (avg. 19.608566284179688)
+[30Dec2024 02:05:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.923582077026367) to LOW (avg. 21.657855987548828)
+[30Dec2024 02:05:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.657855987548828) to VERY_LOW (avg. 19.313884735107422)
+[30Dec2024 02:06:39.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Biome Reactors]
+[30Dec2024 02:07:50.389] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.596924781799316) to LOW (avg. 26.01118278503418)
+[30Dec2024 02:07:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.01118278503418) to VERY_LOW (avg. 19.283533096313477)
+[30Dec2024 02:08:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.283533096313477) to LOW (avg. 25.95582389831543)
+[30Dec2024 02:08:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.834659576416016) to VERY_LOW (avg. 19.94315528869629)
+[30Dec2024 02:08:40.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Ice Dragon
+[30Dec2024 02:08:40.736] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[30Dec2024 02:08:42.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[30Dec2024 02:08:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[30Dec2024 02:08:49.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Drk147> xd
+[30Dec2024 02:08:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.94315528869629) to LOW (avg. 26.826419830322266)
+[30Dec2024 02:09:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.480281829833984) to VERY_LOW (avg. 17.659250259399414)
+[30Dec2024 02:12:50.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.622316360473633) to LOW (avg. 20.272817611694336)
+[30Dec2024 02:12:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Cover Me with Diamonds]
+[30Dec2024 02:12:54.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Cover Me with Diamonds]
+[30Dec2024 02:13:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.272817611694336) to VERY_LOW (avg. 15.928570747375488)

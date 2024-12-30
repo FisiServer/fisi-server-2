@@ -3312,9 +3312,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-30 02:11:33 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
       "killed": "2024-12-30 01:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-30 02:12:54 +0000"
     },
     "done": true
   },
@@ -3333,6 +3345,18 @@
   "yungscavebiomes:frosted_caves": {
     "criteria": {
       "frosted_caves": "2024-12-30 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2024-12-30 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2024-12-30 02:01:43 +0000"
     },
     "done": true
   },
@@ -3372,6 +3396,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/block_of_blue_cheese": {
+    "criteria": {
+      "has_sugar": "2024-12-30 02:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-30 01:48:29 +0000"
@@ -3387,6 +3417,18 @@
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2024-12-30 01:46:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-30 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-30 02:13:15 +0000"
     },
     "done": true
   },
@@ -3411,7 +3453,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-30 01:51:26 +0000",
-      "porkchop": "2024-12-30 01:43:30 +0000"
+      "porkchop": "2024-12-30 01:43:30 +0000",
+      "mutton": "2024-12-30 02:14:12 +0000"
     },
     "done": false
   },
