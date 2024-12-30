@@ -117,6 +117,7 @@
       "ochard": "2024-12-30 17:23:22 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
       "maple_forest": "2024-12-30 15:17:22 +0000",
+      "frozen_pine_taiga": "2024-12-30 23:13:48 +0000",
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
       "mountains": "2024-12-29 21:49:36 +0000",
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
@@ -125,11 +126,13 @@
       "towering_cliffs": "2024-12-30 16:45:32 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
       "temperate_grove": "2024-12-29 21:19:50 +0000",
+      "cold_river": "2024-12-30 23:22:48 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
       "grassland": "2024-12-29 19:53:29 +0000",
       "prairie": "2024-12-29 22:11:19 +0000",
       "gravel_beach": "2024-12-30 15:16:40 +0000",
       "redwoods": "2024-12-29 19:49:29 +0000",
+      "icy_heights": "2024-12-30 23:01:13 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
     "done": false
@@ -149,6 +152,7 @@
       "ochard": "2024-12-30 17:23:22 +0000",
       "highland_fields": "2024-12-29 20:08:11 +0000",
       "maple_forest": "2024-12-30 15:17:22 +0000",
+      "frozen_pine_taiga": "2024-12-30 23:13:48 +0000",
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
       "mountains": "2024-12-29 21:49:36 +0000",
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
@@ -157,11 +161,13 @@
       "towering_cliffs": "2024-12-30 16:45:32 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
       "temperate_grove": "2024-12-29 21:19:50 +0000",
+      "cold_river": "2024-12-30 23:22:48 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
       "grassland": "2024-12-29 19:53:29 +0000",
       "prairie": "2024-12-29 22:11:19 +0000",
       "gravel_beach": "2024-12-30 15:16:40 +0000",
       "redwoods": "2024-12-29 19:49:29 +0000",
+      "icy_heights": "2024-12-30 23:01:13 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
     "done": false
@@ -1135,6 +1141,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-30 23:23:39 +0000",
       "minecraft:frozen_river": "2024-12-30 15:19:47 +0000",
       "minecraft:cherry_grove": "2024-12-30 21:41:13 +0000",
       "minecraft:birch_forest": "2024-12-30 15:14:35 +0000",
@@ -1148,6 +1155,7 @@
       "minecraft:river": "2024-12-29 21:37:58 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 16:43:48 +0000",
       "minecraft:snowy_plains": "2024-12-30 15:20:17 +0000",
+      "minecraft:stony_shore": "2024-12-30 23:13:58 +0000",
       "minecraft:snowy_taiga": "2024-12-30 15:20:24 +0000",
       "minecraft:grove": "2024-12-29 21:44:06 +0000",
       "minecraft:jagged_peaks": "2024-12-29 22:10:11 +0000",
@@ -1157,6 +1165,7 @@
       "minecraft:jungle": "2024-12-29 22:03:14 +0000",
       "minecraft:ocean": "2024-12-30 16:42:28 +0000",
       "minecraft:windswept_savanna": "2024-12-30 17:17:26 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-30 23:24:02 +0000",
       "minecraft:deep_dark": "2024-12-29 19:56:20 +0000",
       "minecraft:meadow": "2024-12-29 21:44:09 +0000",
       "minecraft:savanna": "2024-12-29 21:37:52 +0000",
@@ -5577,6 +5586,240 @@
   "rats:recipes/misc/upgrades/support_upgrade": {
     "criteria": {
       "has_bottle": "2024-12-30 21:51:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-30 23:14:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-30 23:20:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2024-12-30 23:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-30 23:22:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-30 23:20:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 23:14:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_elephant": {
+    "criteria": {
+      "tame": "2024-12-30 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_elephant_tusked": {
+    "criteria": {
+      "tame": "2024-12-30 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-30 22:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-30 23:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-30 23:00:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-30 22:56:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-30 23:15:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-30 23:08:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-30 23:15:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-30 22:56:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-30 23:15:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 23:15:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-30 23:17:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 23:00:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-30 23:00:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-30 23:17:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-30 23:15:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-30 23:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 23:14:36 +0000"
     },
     "done": true
   },

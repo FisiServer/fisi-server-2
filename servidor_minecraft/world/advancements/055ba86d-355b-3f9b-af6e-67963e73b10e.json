@@ -3311,9 +3311,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/fiddlehead": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "fiddlehead": "2024-12-29 16:26:37 +0000"
+      "coded_trigger": "2024-12-29 16:07:08 +0000"
     },
     "done": true
   },
@@ -3323,21 +3323,21 @@
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-29 16:26:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-29 16:09:51 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/mysterious_gift": {
+  "alexscaves:alexscaves/fiddlehead": {
     "criteria": {
-      "coded_trigger": "2024-12-29 16:07:08 +0000"
+      "fiddlehead": "2024-12-29 16:26:37 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-29 16:26:45 +0000"
     },
     "done": true
   },
