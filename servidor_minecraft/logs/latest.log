@@ -2084,3 +2084,60 @@ io.netty.channel.StacklessClosedChannelException: null
 [30Dec2024 13:06:23.334] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 42.73457786) to LOW (avg. 25.856277579999997)
 [30Dec2024 13:07:01.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Bargaining with Death]
 [30Dec2024 13:07:06.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Not so bad]
+[30Dec2024 13:08:38.427] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 25.856277579999997) to NORMAL (avg. 35.723979920000005)
+[30Dec2024 13:10:59.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.267616271972656) to NORMAL (avg. 41.97564697265625)
+[30Dec2024 13:11:07.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.97564697265625) to LOW (avg. 37.043113708496094)
+[30Dec2024 13:13:22.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.32609748840332) to VERY_LOW (avg. 16.930721282958984)
+[30Dec2024 13:13:29.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.930721282958984) to LOW (avg. 23.066930770874023)
+[30Dec2024 13:13:44.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.066930770874023) to VERY_LOW (avg. 16.096454620361328)
+[30Dec2024 13:13:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Mine? Mine? Mine?]
+[30Dec2024 13:14:50.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1510, y=64, z=-1589} BlockPos{x=-1511, y=62, z=-1589}
+[30Dec2024 13:14:50.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1509, y=64, z=-1589} BlockPos{x=-1511, y=62, z=-1589}
+[30Dec2024 13:16:28.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [I see clearly now]
+[30Dec2024 13:18:59.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.829017639160156) to LOW (avg. 25.287622451782227)
+[30Dec2024 13:19:22.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.437496185302734) to VERY_LOW (avg. 13.784422874450684)
+[30Dec2024 13:20:07.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[30Dec2024 13:20:54.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[30Dec2024 13:20:54.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[30Dec2024 13:20:54.733] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[30Dec2024 13:20:54.734] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[30Dec2024 13:21:11.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:50825] logged in with entity id 30692 at (-1919.269376542526, 64.31200978652019, -1670.8573454397483)
+[30Dec2024 13:21:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[30Dec2024 13:21:11.926] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/30692, l='ServerLevel[world]', x=-1919.27, y=64.31, z=-1670.86] logged in and will be protected for 90 secs.
+[30Dec2024 13:21:12.190] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[30Dec2024 13:21:12.192] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[30Dec2024 13:21:12.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[30Dec2024 13:21:12.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[30Dec2024 13:21:14.575] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.7467362880706787) to NORMAL (avg. 44.378936767578125)
+[30Dec2024 13:21:20.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 13:21:21.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 13:21:21.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[30Dec2024 13:21:22.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.378936767578125) to VERY_LOW (avg. 16.208681106567383)
+[30Dec2024 13:21:24.015] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 12 secs.
+[30Dec2024 13:21:24.015] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[30Dec2024 13:21:52.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.69825267791748) to LOW (avg. 21.40156364440918)
+[30Dec2024 13:21:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.40156364440918) to VERY_LOW (avg. 16.941120147705078)
+[30Dec2024 13:22:04.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[30Dec2024 13:22:04.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[30Dec2024 13:22:04.326] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[30Dec2024 13:22:04.326] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[30Dec2024 13:22:16.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:50841] logged in with entity id 31787 at (-1934.4546176454542, 68.85607217337792, -1683.2399622948153)
+[30Dec2024 13:22:17.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[30Dec2024 13:22:17.124] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/31787, l='ServerLevel[world]', x=-1934.45, y=68.86, z=-1683.24] logged in and will be protected for 90 secs.
+[30Dec2024 13:22:17.441] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[30Dec2024 13:22:17.442] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[30Dec2024 13:22:17.600] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[30Dec2024 13:22:17.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[30Dec2024 13:22:24.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 13:22:25.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 13:22:25.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[30Dec2024 13:22:29.614] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 12 secs.
+[30Dec2024 13:22:29.614] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[30Dec2024 13:23:44.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.630451202392578) to LOW (avg. 26.940473556518555)
+[30Dec2024 13:23:52.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2205, y=45, z=-1580}
+[30Dec2024 13:24:01.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[30Dec2024 13:24:07.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.810752868652344) to VERY_LOW (avg. 19.09429931640625)
+[30Dec2024 13:24:44.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.74466896057129) to LOW (avg. 20.71587371826172)
+[30Dec2024 13:24:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.71587371826172) to VERY_LOW (avg. 16.132570266723633)
+[30Dec2024 13:26:59.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.856212615966797) to LOW (avg. 21.739017486572266)
+[30Dec2024 13:27:14.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.739017486572266) to VERY_LOW (avg. 12.490338325500488)
