@@ -5408,6 +5408,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2024-12-30 02:42:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/crimson_liquid": {
+    "criteria": {
+      "has_bottle": "2024-12-30 02:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-30 01:08:48 +0000"
@@ -5507,6 +5519,12 @@
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2024-12-30 01:38:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2024-12-30 02:35:30 +0000"
     },
     "done": true
   },

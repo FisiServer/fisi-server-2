@@ -2499,3 +2499,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [30Dec2024 02:34:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.67966651916504) to VERY_LOW (avg. 19.194889068603516)
 [30Dec2024 02:34:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.07312774658203) to LOW (avg. 30.460800170898438)
 [30Dec2024 02:34:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.460800170898438) to VERY_LOW (avg. 15.744807243347168)
+[30Dec2024 02:35:27.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.534456253051758) to LOW (avg. 20.52910804748535)
+[30Dec2024 02:35:30.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Easy like a Sundae Morning]
+[30Dec2024 02:35:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.52910804748535) to VERY_LOW (avg. 16.421667098999023)
+[30Dec2024 02:37:42.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drk147 has made the advancement [Easy like a Sundae Morning]
+[30Dec2024 02:38:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.63225555419922) to LOW (avg. 29.167861938476562)
+[30Dec2024 02:39:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.430044174194336) to VERY_LOW (avg. 17.688419342041016)
+[30Dec2024 02:40:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.41830825805664) to LOW (avg. 22.13231658935547)
+[30Dec2024 02:41:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.13231658935547) to VERY_LOW (avg. 12.195862770080566)
+[30Dec2024 02:42:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.68988037109375) to LOW (avg. 20.33049201965332)
+[30Dec2024 02:42:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.33049201965332) to VERY_LOW (avg. 18.150543212890625)
+[30Dec2024 02:42:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Spear Mint]
+[30Dec2024 02:43:42.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.23361587524414) to LOW (avg. 21.830856323242188)
+[30Dec2024 02:44:12.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.861215591430664) to VERY_LOW (avg. 14.499810218811035)
+[30Dec2024 02:44:20.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.499810218811035) to LOW (avg. 20.993253707885742)
+[30Dec2024 02:44:35.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.993253707885742) to VERY_LOW (avg. 14.519071578979492)
+[30Dec2024 02:44:57.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.01380443572998) to LOW (avg. 26.778467178344727)
+[30Dec2024 02:45:05.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.778467178344727) to VERY_LOW (avg. 17.21426773071289)

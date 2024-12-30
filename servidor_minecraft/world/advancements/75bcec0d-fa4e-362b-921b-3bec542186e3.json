@@ -3331,6 +3331,12 @@
     },
     "done": true
   },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-30 02:38:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2024-12-30 01:50:43 +0000"
@@ -3343,6 +3349,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bottler_upgrade": {
+    "criteria": {
+      "has_bottle": "2024-12-30 02:42:41 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:frosted_caves": {
     "criteria": {
       "frosted_caves": "2024-12-30 01:41:38 +0000"
@@ -3352,6 +3364,12 @@
   "alexscaves:alexscaves/sugar_rush": {
     "criteria": {
       "all_effects": "2024-12-30 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/remedy_upgrade": {
+    "criteria": {
+      "has_bottle": "2024-12-30 02:42:41 +0000"
     },
     "done": true
   },
@@ -3373,6 +3391,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/purifying_liquid": {
+    "criteria": {
+      "has_bottle": "2024-12-30 02:42:41 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/tnt_upgrade": {
     "criteria": {
       "has_gunpowder": "2024-12-30 01:50:43 +0000"
@@ -3391,6 +3415,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-30 02:38:48 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
       "mussel": "2024-12-30 02:18:13 +0000"
@@ -3400,6 +3430,12 @@
   "rats:recipes/misc/upgrades/underwater_upgrade": {
     "criteria": {
       "has_bucket": "2024-12-30 01:46:06 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/crimson_liquid": {
+    "criteria": {
+      "has_bottle": "2024-12-30 02:42:41 +0000"
     },
     "done": true
   },
@@ -3439,6 +3475,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/support_upgrade": {
+    "criteria": {
+      "has_bottle": "2024-12-30 02:42:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2024-12-30 01:46:06 +0000"
@@ -3451,9 +3493,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2024-12-30 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-30 02:38:48 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/rainbounce_boots": {
     "criteria": {
       "limestone": "2024-12-30 01:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-30 02:38:48 +0000"
     },
     "done": true
   },
