@@ -4004,3 +4004,153 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [30Dec2024 21:38:21.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.331972149926514,-13.316103951019084,-13.198064870820872
 [30Dec2024 21:38:21.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved too quickly! -56.425953018293626,-13.424890061358134,-12.628270078441801
 [30Dec2024 21:38:28.202] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.806976318359375) to VERY_HIGH (avg. 55.749298095703125)
+[30Dec2024 21:38:36.313] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.749298095703125) to HIGH (avg. 52.32849884033203)
+[30Dec2024 21:38:37.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[30Dec2024 21:38:46.655] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.32849884033203) to VERY_HIGH (avg. 62.7994384765625)
+[30Dec2024 21:38:50.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.812875387698341
+[30Dec2024 21:38:50.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.812875387698341
+[30Dec2024 21:38:50.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.812875387698341
+[30Dec2024 21:38:50.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.812875387698341
+[30Dec2024 21:38:50.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.812875387698341
+[30Dec2024 21:38:50.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.6021860816535991
+[30Dec2024 21:38:50.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.403392492432431
+[30Dec2024 21:38:56.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[30Dec2024 21:39:10.258] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 66.1573257446289) to NORMAL (avg. 43.61402893066406)
+[30Dec2024 21:39:40.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.883365631103516) to MEDIUM (avg. 46.944129943847656)
+[30Dec2024 21:39:47.659] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.944129943847656) to NORMAL (avg. 41.953041076660156)
+[30Dec2024 21:40:29.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.25452883313931807
+[30Dec2024 21:40:29.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.5675721685779536
+[30Dec2024 21:40:36.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.545000757582784,-2.719652758476343,-8.745880389452282
+[30Dec2024 21:40:36.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.871174860120959,-2.8284388688153967,-9.371089297067783
+[30Dec2024 21:40:36.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 5.21239063946814,-2.9372249791544505,-10.012736989471364
+[30Dec2024 21:40:36.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 5.57114057587853,-3.046011089493504,-10.666437224959623
+[30Dec2024 21:40:36.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 5.952749123188141,-3.154797199832558,-11.325565843462641
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 6.35729883910426,-3.2635833101716116,-11.987392658744625
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 6.782307489773416,-3.3723694205106653,-12.651625725983536
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 7.225561418980988,-3.481155530849719,-13.31800468877941
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 7.6850864880581184,-3.589941641188773,-13.986297361288166
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 8.159122160089169,-3.6987277515278265,-14.656296680167998
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 8.646098388207406,-3.8075138618668802,-15.327817986325499
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 9.144615004576849,-3.916299972205934,-16.000696600776223
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 9.653423339485244,-4.025086082544988,-16.67478566279783
+[30Dec2024 21:40:36.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 10.171409829251274,-4.133872192884041,-17.34995420199425
+[30Dec2024 21:40:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 10.69758139775513,-4.242658303223095,-18.026085418962907
+[30Dec2024 21:40:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 11.231052419687785,-4.351444413562149,-18.70307515199363
+[30Dec2024 21:40:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 11.771033094375866,-4.460230523901203,-19.38083050967043
+[30Dec2024 21:40:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 12.316819077558648,-4.569016634240256,-20.05926865142635
+[30Dec2024 21:40:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 12.867782235006075,-4.67780274457931,-20.738315700041653
+[30Dec2024 21:40:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 13.423362396595849,-4.786588854918364,-21.41790577180973
+[30Dec2024 21:40:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 13.983060002598336,-4.895374965257417,-22.09798011163946
+[30Dec2024 21:40:36.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[30Dec2024 21:40:36.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 10.366792767173933,-2.393294427459182,-14.734001492245284
+[30Dec2024 21:40:36.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 10.932317472598356,-2.5020805377982356,-15.415855691552906
+[30Dec2024 21:40:36.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 11.500106648462747,-2.6108666481372893,-16.098616356888556
+[30Dec2024 21:40:36.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 12.06991527912362,-2.719652758476343,-16.78218540865123
+[30Dec2024 21:40:36.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 12.641524859623928,-2.8284388688153967,-17.466475379450344
+[30Dec2024 21:40:37.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 13.214740527237382,-2.9372249791544505,-18.15140826586469
+[30Dec2024 21:40:42.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.52193069458008) to LOW (avg. 38.90872573852539)
+[30Dec2024 21:40:49.876] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.90872573852539) to MEDIUM (avg. 48.26298522949219)
+[30Dec2024 21:41:12.341] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.706520080566406) to LOW (avg. 38.219722747802734)
+[30Dec2024 21:41:23.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 3.1049677035650802,-1.196647213729591,-9.437283888200227
+[30Dec2024 21:41:49.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.26102505804601606
+[30Dec2024 21:42:04.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.2735216697876695
+[30Dec2024 21:42:04.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.8353072875275416
+[30Dec2024 21:42:04.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.0395099922576492
+[30Dec2024 21:42:04.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.8499168304979321
+[30Dec2024 21:42:05.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.6671264930754432
+[30Dec2024 21:42:25.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.39537979377234933
+[30Dec2024 21:42:25.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.5762402920526029
+[30Dec2024 21:42:25.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.5762402920526029
+[30Dec2024 21:42:26.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.26427507447471044
+[30Dec2024 21:42:26.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.8189864818101
+[30Dec2024 21:42:39.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.71435546875
+[30Dec2024 21:42:39.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 0.71435546875
+[30Dec2024 21:42:40.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 1.4839944503655715
+[30Dec2024 21:42:40.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of JeaNF) moved wrongly! 1.4839944503655715
+[30Dec2024 21:44:28.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[30Dec2024 21:44:28.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[30Dec2024 21:44:28.814] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[30Dec2024 21:44:28.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[30Dec2024 21:44:42.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 04c9f937-9a61-34a8-ac75-05f5edba46de timed out
+[30Dec2024 21:44:42.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JeaNF
+[30Dec2024 21:44:42.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JeaNF
+[30Dec2024 21:44:48.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:51649] logged in with entity id 95112 at (-397.61411892937247, 124.0, -1412.2407422112085)
+[30Dec2024 21:44:48.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[30Dec2024 21:44:48.865] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/95112, l='ServerLevel[world]', x=-397.61, y=124.00, z=-1412.24] logged in and will be protected for 90 secs.
+[30Dec2024 21:44:48.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[30Dec2024 21:44:49.467] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[30Dec2024 21:44:49.468] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[30Dec2024 21:44:49.712] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[30Dec2024 21:44:53.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeaNF lost connection: You logged in from another location
+[30Dec2024 21:44:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF left the game
+[30Dec2024 21:44:53.912] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 04c9f937-9a61-34a8-ac75-05f5edba46de was unloaded
+[30Dec2024 21:44:53.912] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JeaNF
+[30Dec2024 21:44:53.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JeaNF[/100.85.115.89:59040] logged in with entity id 95128 at (-399.5744157001627, 123.0, -1415.8034591435865)
+[30Dec2024 21:44:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF joined the game
+[30Dec2024 21:44:53.941] [Server thread/INFO] [APTweaks(Player)/]: Player JeaNF ServerPlayer['JeaNF'/95128, l='ServerLevel[world]', x=-399.57, y=123.00, z=-1415.80] logged in and will be protected for 90 secs.
+[30Dec2024 21:44:53.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player JeaNF completed
+[30Dec2024 21:44:54.334] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JeaNF (18)
+[30Dec2024 21:44:54.334] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JeaNF
+[30Dec2024 21:44:54.336] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 04c9f937-9a61-34a8-ac75-05f5edba46de was loaded
+[30Dec2024 21:45:08.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[30Dec2024 21:45:08.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[30Dec2024 21:45:08.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[30Dec2024 21:45:08.165] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[30Dec2024 21:45:08.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 21:45:09.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[30Dec2024 21:45:09.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[30Dec2024 21:45:10.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 04c9f937-9a61-34a8-ac75-05f5edba46de
+[30Dec2024 21:45:11.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 04c9f937-9a61-34a8-ac75-05f5edba46de
+[30Dec2024 21:45:11.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JeaNF (04c9f937-9a61-34a8-ac75-05f5edba46de) successfully connected to voice chat
+[30Dec2024 21:45:14.791] [Server thread/INFO] [APTweaks(Player)/]: Protected Player JeaNF was successful validated after 20 secs.
+[30Dec2024 21:45:14.791] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player JeaNF!
+[30Dec2024 21:45:18.891] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 30 secs.
+[30Dec2024 21:45:18.891] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[30Dec2024 21:45:45.911] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4af7685[id=<null>,name=Sgirano,properties={},legacy=false] (/100.112.142.109:55688) lost connection: Disconnected
+[30Dec2024 21:45:49.841] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.845447540283203) to VERY_LOW (avg. 19.554903030395508)
+[30Dec2024 21:46:02.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:55689] logged in with entity id 95344 at (-401.9503745889138, 121.0, -1428.475703532542)
+[30Dec2024 21:46:02.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[30Dec2024 21:46:02.297] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/95344, l='ServerLevel[world]', x=-401.95, y=121.00, z=-1428.48] logged in and will be protected for 90 secs.
+[30Dec2024 21:46:02.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[30Dec2024 21:46:02.727] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[30Dec2024 21:46:02.728] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[30Dec2024 21:46:02.776] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[30Dec2024 21:46:04.841] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.554903030395508) to LOW (avg. 24.272533416748047)
+[30Dec2024 21:46:08.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 21:46:09.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 21:46:09.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[30Dec2024 21:46:10.141] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 7 secs.
+[30Dec2024 21:46:10.141] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[30Dec2024 21:46:34.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.528135299682617) to NORMAL (avg. 41.60954284667969)
+[30Dec2024 21:46:41.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> BILLY MI PAJARO
+[30Dec2024 21:46:42.648] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.60954284667969) to LOW (avg. 34.016414642333984)
+[30Dec2024 21:46:49.888] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.016414642333984) to NORMAL (avg. 45.36296844482422)
+[30Dec2024 21:46:51.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeaNF moved too quickly! 0.0,-10.209545568776768,0.0
+[30Dec2024 21:47:04.841] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.00727462768555) to MEDIUM (avg. 46.068695068359375)
+[30Dec2024 21:47:10.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[30Dec2024 21:47:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[30Dec2024 21:47:10.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[30Dec2024 21:47:10.139] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[30Dec2024 21:47:22.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:55724] logged in with entity id 96689 at (-676.3145242732188, 112.8817340004116, -1121.0689947210167)
+[30Dec2024 21:47:22.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[30Dec2024 21:47:22.837] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/96689, l='ServerLevel[world]', x=-676.31, y=112.88, z=-1121.07] logged in and will be protected for 90 secs.
+[30Dec2024 21:47:22.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[30Dec2024 21:47:23.256] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[30Dec2024 21:47:23.256] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[30Dec2024 21:47:23.256] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[30Dec2024 21:47:28.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 21:47:29.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[30Dec2024 21:47:29.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[30Dec2024 21:47:30.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 0.0,-10.722248667987472,0.0
+[30Dec2024 21:47:30.621] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 7 secs.
+[30Dec2024 21:47:30.622] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[30Dec2024 21:47:42.668] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.579376220703125) to HIGH (avg. 49.659149169921875)
+[30Dec2024 21:47:57.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.659149169921875) to NORMAL (avg. 42.6540641784668)
+[30Dec2024 21:48:20.223] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.764060974121094) to MEDIUM (avg. 47.769447326660156)
+[30Dec2024 21:48:35.155] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.769447326660156) to HIGH (avg. 51.23698043823242)
+[30Dec2024 21:48:49.841] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.23698043823242) to LOW (avg. 31.776636123657227)
+[30Dec2024 21:48:57.482] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.776636123657227) to VERY_HIGH (avg. 55.943817138671875)
+[30Dec2024 21:49:01.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano burned to death
+[30Dec2024 21:49:01.436] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[30Dec2024 21:49:04.957] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.943817138671875) to LOW (avg. 34.35316467285156)
+[30Dec2024 21:49:05.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
