@@ -107,6 +107,7 @@
       "silver_birch_forest": "2024-12-29 22:33:34 +0000",
       "shrubland": "2024-12-28 19:27:52 +0000",
       "dry_bushland": "2024-12-29 21:01:40 +0000",
+      "steppe": "2024-12-31 02:55:59 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "muddy_river": "2024-12-30 00:58:05 +0000",
       "prismachasm": "2024-12-29 19:56:57 +0000",
@@ -128,6 +129,7 @@
       "alpha_grove": "2024-12-30 13:02:18 +0000",
       "tropical_river": "2024-12-29 21:03:23 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
+      "outback": "2024-12-31 02:54:39 +0000",
       "mountains": "2024-12-29 20:09:40 +0000",
       "sparse_redwoods": "2024-12-29 19:49:53 +0000",
       "joshua_desert": "2024-12-29 21:05:15 +0000",
@@ -159,6 +161,7 @@
       "silver_birch_forest": "2024-12-29 22:33:34 +0000",
       "shrubland": "2024-12-28 19:27:52 +0000",
       "dry_bushland": "2024-12-29 21:01:40 +0000",
+      "steppe": "2024-12-31 02:55:59 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "muddy_river": "2024-12-30 00:58:05 +0000",
       "marsh": "2024-12-30 16:42:48 +0000",
@@ -178,6 +181,7 @@
       "alpha_grove": "2024-12-30 13:02:18 +0000",
       "tropical_river": "2024-12-29 21:03:23 +0000",
       "magnolia_highlands": "2024-12-28 19:15:53 +0000",
+      "outback": "2024-12-31 02:54:39 +0000",
       "mountains": "2024-12-29 20:09:40 +0000",
       "sparse_redwoods": "2024-12-29 19:49:53 +0000",
       "joshua_desert": "2024-12-29 21:05:15 +0000",
@@ -1619,6 +1623,7 @@
       "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
       "minecraft:enderman": "2024-12-30 03:30:44 +0000",
+      "minecraft:stray": "2024-12-31 02:25:58 +0000",
       "minecraft:zombie": "2024-12-28 19:25:26 +0000"
     },
     "done": false
@@ -4220,7 +4225,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "baobab_log": "2024-12-29 21:09:07 +0000",
-      "redwood_log": "2024-12-30 17:01:20 +0000"
+      "redwood_log": "2024-12-30 17:01:20 +0000",
+      "bamboo_log": "2024-12-31 02:20:13 +0000"
     },
     "done": false
   },
@@ -7114,9 +7120,87 @@
     },
     "done": true
   },
+  "tombstone:adventure/candy_sick": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 02:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-31 02:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-31 02:15:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 02:39:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/feral_rat_claw": {
+    "criteria": {
+      "has_input": "2024-12-31 03:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-31 02:06:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-12-31 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_recall": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-31 02:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-31 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-31 02:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-31 02:15:50 +0000"
     },
     "done": true
   },
@@ -7126,9 +7210,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 02:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-31 02:06:51 +0000"
+    },
+    "done": true
+  },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_goat_horn": "2024-12-31 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-31 02:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2024-12-31 02:15:50 +0000"
     },
     "done": true
   },
@@ -7138,9 +7246,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-31 02:15:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_aster": {
+    "criteria": {
+      "has_aster": "2024-12-31 02:22:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/deathworm_egg": {
     "criteria": {
       "egg": "2024-12-31 02:05:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-31 02:28:48 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-31 02:28:48 +0000"
     },
     "done": true
   },
