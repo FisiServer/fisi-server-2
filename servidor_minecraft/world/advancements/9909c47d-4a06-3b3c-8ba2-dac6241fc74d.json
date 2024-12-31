@@ -5589,15 +5589,69 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+  "tombstone:adventure/versatility": {
     "criteria": {
-      "has_item": "2024-12-30 23:14:36 +0000"
+      "coded_trigger": "2024-12-30 22:48:21 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+  "alexsmobs:alexsmobs/tame_elephant": {
     "criteria": {
-      "has_bone_block": "2024-12-30 23:20:02 +0000"
+      "tame": "2024-12-30 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_elephant_tusked": {
+    "criteria": {
+      "tame": "2024-12-30 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-30 22:56:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-30 22:56:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-30 22:56:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 23:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-30 23:00:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-30 23:00:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-30 23:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-30 23:10:50 +0000"
     },
     "done": true
   },
@@ -5607,39 +5661,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/freezing/packed_ice": {
-    "criteria": {
-      "has_result": "2024-12-30 23:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-30 23:22:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/versatility": {
-    "criteria": {
-      "coded_trigger": "2024-12-30 22:48:21 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-30 23:12:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-30 23:20:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-12-30 23:12:31 +0000"
     },
     "done": true
   },
@@ -5661,27 +5685,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2024-12-30 23:14:36 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tame_elephant": {
-    "criteria": {
-      "tame": "2024-12-30 22:48:49 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-30 23:12:27 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tame_elephant_tusked": {
-    "criteria": {
-      "tame": "2024-12-30 22:48:49 +0000"
     },
     "done": true
   },
@@ -5691,39 +5697,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2024-12-30 22:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2024-12-30 23:10:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-30 23:00:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-30 22:56:14 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2024-12-30 23:12:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2024-12-30 23:15:45 +0000"
     },
     "done": true
   },
@@ -5733,9 +5709,45 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
-      "frostmaw": "2024-12-30 23:08:31 +0000"
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-30 23:12:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-30 23:14:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 23:14:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 23:14:36 +0000"
     },
     "done": true
   },
@@ -5745,15 +5757,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-30 22:56:41 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-30 23:15:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-30 23:15:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2024-12-30 23:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-30 23:15:45 +0000"
     },
     "done": true
   },
@@ -5769,57 +5793,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2024-12-30 23:12:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-30 23:00:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-30 23:00:55 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2024-12-30 23:17:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
-      "has_item": "2024-12-30 23:15:33 +0000"
+      "has_bone_block": "2024-12-30 23:20:02 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "has_item": "2024-12-30 23:12:27 +0000"
+      "has_bone_block": "2024-12-30 23:20:02 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_item": "2024-12-30 23:12:31 +0000"
+      "has_snowball": "2024-12-30 23:22:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-30 23:22:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
-    "criteria": {
-      "has_item": "2024-12-30 23:14:36 +0000"
     },
     "done": true
   },
