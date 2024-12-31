@@ -7319,6 +7319,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2024-12-31 04:24:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-31 04:21:10 +0000"
@@ -7457,6 +7463,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2024-12-31 04:24:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-31 04:21:10 +0000"
@@ -7586,6 +7598,12 @@
   "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 04:22:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-12-31 04:24:51 +0000"
     },
     "done": true
   },
