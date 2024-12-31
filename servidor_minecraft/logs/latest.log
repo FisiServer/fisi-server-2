@@ -3043,3 +3043,17 @@ Caused by: java.lang.IllegalArgumentException: Bound must be positive
 [31Dec2024 04:33:45.888] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.42205810546875) to VERY_LOW (avg. 18.785221099853516)
 [31Dec2024 04:34:38.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.42252540588379) to LOW (avg. 20.968555450439453)
 [31Dec2024 04:34:53.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.968555450439453) to VERY_LOW (avg. 15.527573585510254)
+[31Dec2024 04:37:08.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.490171432495117) to LOW (avg. 25.78439712524414)
+[31Dec2024 04:37:14.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Bath Bomb]
+[31Dec2024 04:37:23.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.78439712524414) to VERY_LOW (avg. 18.08106231689453)
+[31Dec2024 04:39:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[31Dec2024 04:40:59.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[31Dec2024 04:42:00.888] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.704425811767578) to LOW (avg. 20.122283935546875)
+[31Dec2024 04:42:08.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.122283935546875) to VERY_LOW (avg. 17.58050537109375)
+[31Dec2024 04:43:06.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[31Dec2024 04:43:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[31Dec2024 04:44:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[31Dec2024 04:44:44.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 3.992429018572352,0.0,-9.437675809128677
+[31Dec2024 04:44:55.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Crisis Adverted]
+[31Dec2024 04:45:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[31Dec2024 04:45:47.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
