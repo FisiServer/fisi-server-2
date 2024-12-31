@@ -1622,6 +1622,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
+      "minecraft:creeper": "2024-12-31 03:35:53 +0000",
       "minecraft:enderman": "2024-12-30 03:30:44 +0000",
       "minecraft:stray": "2024-12-31 02:25:58 +0000",
       "minecraft:zombie": "2024-12-28 19:25:26 +0000"
@@ -7150,6 +7151,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-31 03:35:17 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/archeologist/feral_rat_claw": {
     "criteria": {
       "has_input": "2024-12-31 03:14:07 +0000"
@@ -7222,6 +7229,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 03:31:02 +0000"
+    },
+    "done": true
+  },
   "endertrigon:recipes/tools/dragon_horn": {
     "criteria": {
       "has_goat_horn": "2024-12-31 02:19:25 +0000"
@@ -7261,6 +7274,12 @@
   "iceandfire:iceandfire/deathworm_egg": {
     "criteria": {
       "egg": "2024-12-31 02:05:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-31 03:35:00 +0000"
     },
     "done": true
   },
