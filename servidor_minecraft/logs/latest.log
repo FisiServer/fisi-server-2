@@ -2089,3 +2089,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01Jan2025 01:17:26.548] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.056034088134766) to VERY_HIGH (avg. 55.02654266357422)
 [01Jan2025 01:17:41.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.02654266357422) to LOW (avg. 20.475893020629883)
 [01Jan2025 01:18:33.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.466285705566406) to NORMAL (avg. 40.77635955810547)
+[01Jan2025 01:18:41.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.77635955810547) to LOW (avg. 29.21786117553711)
+[01Jan2025 01:18:49.026] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.21786117553711) to VERY_HIGH (avg. 68.7838363647461)
+[01Jan2025 01:18:50.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> un fokin dragon zzz
+[01Jan2025 01:18:56.298] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.7838363647461) to LOW (avg. 37.52727508544922)
+[01Jan2025 01:19:04.367] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.52727508544922) to VERY_HIGH (avg. 105.03741455078125)
+[01Jan2025 01:19:18.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 105.03741455078125) to LOW (avg. 26.391271591186523)
+[01Jan2025 01:19:48.914] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.64407730102539) to HIGH (avg. 54.5852165222168)
+[01Jan2025 01:19:56.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.5852165222168) to LOW (avg. 31.893657684326172)
+[01Jan2025 01:19:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> que dragón más resentido
+[01Jan2025 01:20:06.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[01Jan2025 01:20:10.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> y sigue
+[01Jan2025 01:20:48.898] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.056760787963867) to NORMAL (avg. 40.18916702270508)
+[01Jan2025 01:20:56.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.18916702270508) to LOW (avg. 27.946475982666016)
+[01Jan2025 01:21:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> aaaaa
+[01Jan2025 01:21:41.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.081809997558594) to VERY_LOW (avg. 11.525279998779297)
+[01Jan2025 01:24:33.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.690319061279297) to LOW (avg. 21.961145401000977)
+[01Jan2025 01:24:41.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.961145401000977) to VERY_LOW (avg. 18.72751235961914)
+[01Jan2025 01:28:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [What an excellent day for an exorcism]

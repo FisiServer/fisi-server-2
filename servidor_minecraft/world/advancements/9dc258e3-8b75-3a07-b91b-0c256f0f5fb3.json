@@ -7793,5 +7793,23 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-01-01 01:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-01 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/exorcism": {
+    "criteria": {
+      "coded_trigger": "2025-01-01 01:28:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
