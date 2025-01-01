@@ -2238,3 +2238,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01Jan2025 02:06:13.246] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
 [01Jan2025 02:07:18.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.00127410888672) to VERY_LOW (avg. 19.715192794799805)
 [01Jan2025 02:07:33.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.715192794799805) to LOW (avg. 23.96811294555664)
+[01Jan2025 02:09:56.330] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.767263412475586) to HIGH (avg. 49.05027770996094)
+[01Jan2025 02:10:11.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.05027770996094) to LOW (avg. 23.71060562133789)
+[01Jan2025 02:11:19.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.0625) to VERY_HIGH (avg. 97.27371978759766)
+[01Jan2025 02:11:41.387] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 67.57404327392578) to LOW (avg. 24.767173767089844)
+[01Jan2025 02:11:44.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -0.5428087038853846,10.47145954819102,1.4617745977825507
+[01Jan2025 02:11:49.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 3.1003474365318766,10.464597815464458,0.9673819778890902
+[01Jan2025 02:13:11.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.511878967285156) to VERY_LOW (avg. 19.19509506225586)
+[01Jan2025 02:13:18.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.19509506225586) to LOW (avg. 26.760343551635742)
+[01Jan2025 02:15:26.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.314847946166992) to VERY_LOW (avg. 19.16559410095215)
+[01Jan2025 02:15:31.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 2.430860142675897,-1.849363874235948,-9.88085384518672
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 2.615607228197291,-1.9581499845749448,-10.425797777358866
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 2.884669002249609,-2.06693609491397,-10.945328901986159
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 3.228922617700846,-2.1757222052529954,-11.442196884191844
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 3.6402323192441486,-2.284508315592035,-11.918853875403329
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.111342640087798,-2.3932944259310744,-12.377486704326884
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.6357831547605315,-2.502080536270114,-12.82004558485869
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.816970025405055,-2.6108666466091677,-13.248269717801577
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.816970025405055,-2.7196527569482214,-13.66371012247646
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.816970025405055,-2.828438867287275,-14.067749997953115
+[01Jan2025 02:15:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.816970025405055,-2.937224977626329,-14.461622881197854
+[01Jan2025 02:15:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.816970025405055,-3.0460110879653826,-14.846428840508906
+[01Jan2025 02:15:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.816970025405055,-3.1547971983044363,-15.223148916822993
+[01Jan2025 02:15:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 4.921274343841105,-2.2137888726818744,-15.59265800247249
+[01Jan2025 02:15:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 5.118597256139253,-2.2137888726818744,-15.955736326461874
+[01Jan2025 02:15:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 5.3284851307516305,-2.2137888726818744,-16.183562410538116
+[01Jan2025 02:15:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 5.545096266179996,-2.2137888726818744,-16.33901771767546
+[01Jan2025 02:15:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved too quickly! 5.765304884423642,-2.2137888726818744,-16.455748864990483
+[01Jan2025 02:15:31.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.1704684185906444
+[01Jan2025 02:15:31.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.3936319758883542
+[01Jan2025 02:15:31.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.6173466644331143
+[01Jan2025 02:15:31.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.8413562523197697
+[01Jan2025 02:15:34.200] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.16559410095215) to LOW (avg. 33.00901794433594)
+[01Jan2025 02:16:33.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.31304931640625) to NORMAL (avg. 44.170860290527344)
+[01Jan2025 02:16:48.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.170860290527344) to LOW (avg. 22.49433135986328)
+[01Jan2025 02:17:03.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.49433135986328) to VERY_LOW (avg. 19.794519424438477)
+[01Jan2025 02:17:26.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.884122848510742) to LOW (avg. 22.3829288482666)
+[01Jan2025 02:17:47.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 2.7452516806225162,22.097994071257716,2.624909162253516
+[01Jan2025 02:19:04.081] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.59592056274414) to NORMAL (avg. 41.62503433227539)
+[01Jan2025 02:19:11.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.62503433227539) to LOW (avg. 23.893308639526367)
