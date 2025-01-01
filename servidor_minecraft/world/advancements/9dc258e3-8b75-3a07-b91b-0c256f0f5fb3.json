@@ -110,6 +110,7 @@
       "steppe": "2024-12-31 02:55:59 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "muddy_river": "2024-12-30 00:58:05 +0000",
+      "autumnal_maple_forest": "2025-01-01 01:42:12 +0000",
       "prismachasm": "2024-12-29 19:56:57 +0000",
       "marsh": "2024-12-30 16:42:48 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
@@ -164,6 +165,7 @@
       "steppe": "2024-12-31 02:55:59 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "muddy_river": "2024-12-30 00:58:05 +0000",
+      "autumnal_maple_forest": "2025-01-01 01:42:12 +0000",
       "marsh": "2024-12-30 16:42:48 +0000",
       "willow_forest": "2024-12-28 19:16:04 +0000",
       "frozen_tundra": "2024-12-30 01:11:33 +0000",
@@ -1625,7 +1627,8 @@
       "minecraft:creeper": "2024-12-31 03:35:53 +0000",
       "minecraft:enderman": "2024-12-30 03:30:44 +0000",
       "minecraft:stray": "2024-12-31 02:25:58 +0000",
-      "minecraft:zombie": "2024-12-28 19:25:26 +0000"
+      "minecraft:zombie": "2024-12-28 19:25:26 +0000",
+      "minecraft:drowned": "2025-01-01 01:56:03 +0000"
     },
     "done": false
   },
@@ -7793,21 +7796,39 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/crafting/copycat_iron_door": {
-    "criteria": {
-      "has_item": "2025-01-01 01:27:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-01-01 01:23:26 +0000"
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-01-01 01:27:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/exorcism": {
     "criteria": {
       "coded_trigger": "2025-01-01 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-01 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-01 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_2": {
+    "criteria": {
+      "coded_trigger": "2025-01-01 01:50:52 +0000"
     },
     "done": true
   },
