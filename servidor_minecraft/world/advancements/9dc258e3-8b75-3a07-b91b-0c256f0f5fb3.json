@@ -7697,6 +7697,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2024-12-31 04:44:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-31 04:21:10 +0000"
