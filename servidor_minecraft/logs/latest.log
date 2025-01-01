@@ -2277,3 +2277,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [01Jan2025 02:17:47.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 2.7452516806225162,22.097994071257716,2.624909162253516
 [01Jan2025 02:19:04.081] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.59592056274414) to NORMAL (avg. 41.62503433227539)
 [01Jan2025 02:19:11.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.62503433227539) to LOW (avg. 23.893308639526367)
+[01Jan2025 02:22:18.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.880449295043945) to VERY_LOW (avg. 16.410240173339844)
+[01Jan2025 02:22:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> 1
+[01Jan2025 02:22:56.333] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.883262634277344) to LOW (avg. 30.44719696044922)
+[01Jan2025 02:22:57.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> 2
+[01Jan2025 02:22:59.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> 3
+[01Jan2025 02:23:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> 4
+[01Jan2025 02:23:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> 5
+[01Jan2025 02:23:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> GAAAAAAAAAAA
+[01Jan2025 02:23:19.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.19819259643555) to VERY_HIGH (avg. 72.1670913696289)
+[01Jan2025 02:24:11.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 63.604347229003906) to VERY_LOW (avg. 18.93288803100586)
+[01Jan2025 02:24:48.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.54357147216797) to LOW (avg. 23.965534210205078)
+[01Jan2025 02:24:56.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.965534210205078) to VERY_LOW (avg. 18.128433227539062)
+[01Jan2025 02:25:33.796] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.951753616333008) to LOW (avg. 21.378334045410156)
+[01Jan2025 02:25:41.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.378334045410156) to VERY_LOW (avg. 17.86410140991211)
+[01Jan2025 02:26:11.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.903018951416016) to LOW (avg. 20.976985931396484)
+[01Jan2025 02:26:41.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.897525787353516) to VERY_LOW (avg. 19.700016021728516)
+[01Jan2025 02:26:56.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.700016021728516) to LOW (avg. 20.340953826904297)
+[01Jan2025 02:27:11.295] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.340953826904297) to VERY_LOW (avg. 18.795785903930664)
+[01Jan2025 02:27:56.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 timed out
+[01Jan2025 02:27:56.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player BillyVR15
+[01Jan2025 02:27:56.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[01Jan2025 02:28:13.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Timed out
+[01Jan2025 02:28:13.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[01Jan2025 02:28:13.925] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[01Jan2025 02:28:13.925] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[01Jan2025 02:29:11.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.60797882080078) to LOW (avg. 25.805198669433594)
+[01Jan2025 02:29:24.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[01Jan2025 02:29:24.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[01Jan2025 02:29:24.445] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[01Jan2025 02:29:24.445] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[01Jan2025 02:29:26.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.805198669433594) to VERY_LOW (avg. 0.5389190912246704)

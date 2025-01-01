@@ -6004,6 +6004,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-01-01 02:25:05 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/rat_attractor": {
     "criteria": {
       "has_redstone": "2025-01-01 01:17:41 +0000"
@@ -6046,6 +6052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-01 02:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-01 01:17:41 +0000"
@@ -6067,6 +6079,18 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 01:35:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-01 02:25:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-01 02:25:05 +0000"
     },
     "done": true
   },
@@ -6118,9 +6142,33 @@
     },
     "done": true
   },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-01-01 02:25:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-01 02:25:05 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-01-01 02:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-01-01 01:29:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-01 02:25:05 +0000"
     },
     "done": true
   },
@@ -6139,6 +6187,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-01-01 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/plague_doctorate": {
+    "criteria": {
+      "has_paper": "2025-01-01 02:25:05 +0000"
     },
     "done": true
   },
@@ -6171,6 +6225,12 @@
       "in_better_monster_room": "2025-01-01 01:16:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-01 02:25:05 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
