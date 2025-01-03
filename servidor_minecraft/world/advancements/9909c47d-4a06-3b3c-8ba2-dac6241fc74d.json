@@ -6505,6 +6505,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-03 16:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 16:28:52 +0000"
