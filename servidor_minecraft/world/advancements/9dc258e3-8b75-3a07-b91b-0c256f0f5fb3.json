@@ -7988,6 +7988,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-03 16:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-01-03 16:23:06 +0000",
@@ -8018,9 +8024,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/convert_biome": {
+    "criteria": {
+      "convert_biome": "2025-01-03 16:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-03 17:03:53 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/caramel_apple": {
     "criteria": {
       "mussel": "2025-01-03 15:54:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
     },
     "done": true
   },
@@ -8060,6 +8108,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-01-03 16:19:53 +0000"
@@ -8069,6 +8123,24 @@
   "rats:recipes/misc/upgrades/elite_energy_upgrade": {
     "criteria": {
       "has_blaze": "2025-01-03 16:27:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-03 17:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-03 17:02:11 +0000"
     },
     "done": true
   },
@@ -8087,6 +8159,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-03 16:29:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-01-03 16:58:04 +0000"
     },
     "done": true
   },

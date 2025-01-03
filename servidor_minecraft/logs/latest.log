@@ -2427,3 +2427,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 16:58:04.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Hot Rod]
 [03Jan2025 16:58:13.146] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.448637008666992) to LOW (avg. 25.059009552001953)
 [03Jan2025 16:58:17.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [I Am Become Death]
+[03Jan2025 16:59:05.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.31559181213379) to VERY_LOW (avg. 18.556476593017578)
+[03Jan2025 16:59:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Look Mom, No World Edit!]
+[03Jan2025 16:59:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Look Mom, No World Edit!]
+[03Jan2025 16:59:20.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.556476593017578) to LOW (avg. 20.0936336517334)
+[03Jan2025 16:59:23.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Radiation Vibe]
+[03Jan2025 17:01:43.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.619491577148438) to VERY_LOW (avg. 14.901373863220215)
+[03Jan2025 17:01:48.726] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['Sgirano'/15420, l='ServerLevel[world]', x=-1003.63, y=96.00, z=-610.68] at TeleportTarget{pitch=8.099905, position=(-119.63385875423592, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-71.40015}
+[03Jan2025 17:01:48.727] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/6535, l='ServerLevel[world]', x=-1002.94, y=96.00, z=-610.23] at TeleportTarget{pitch=10.199858, position=(-118.9375272884671, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=172.50085}
+[03Jan2025 17:01:50.692] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.901373863220215) to LOW (avg. 33.89061737060547)
+[03Jan2025 17:01:53.495] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/6535, l='ServerLevel[world]', x=-1002.52, y=96.00, z=-610.74] at TeleportTarget{pitch=10.199858, position=(-118.5232781784332, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=172.50085}
+[03Jan2025 17:02:05.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.89061737060547) to VERY_LOW (avg. 13.182483673095703)
+[03Jan2025 17:06:59.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=66, z=-65} BlockPos{x=-129, y=66, z=-64}
+[03Jan2025 17:07:57.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=65, z=-38} BlockPos{x=-142, y=62, z=-37}
