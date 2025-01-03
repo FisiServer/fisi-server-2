@@ -107,6 +107,7 @@
       "silver_birch_forest": "2024-12-29 22:33:34 +0000",
       "shrubland": "2024-12-28 19:27:52 +0000",
       "dry_bushland": "2024-12-29 21:01:40 +0000",
+      "redstone_abyss": "2025-01-03 16:18:43 +0000",
       "steppe": "2024-12-31 02:55:59 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
       "muddy_river": "2024-12-30 00:58:05 +0000",
@@ -122,6 +123,7 @@
       "grassy_beach": "2024-12-29 22:30:40 +0000",
       "rocky_meadow": "2024-12-28 19:26:30 +0000",
       "blackwood_taiga": "2024-12-29 17:29:41 +0000",
+      "mycotoxic_undergrowth": "2025-01-03 16:17:33 +0000",
       "ochard": "2024-12-30 17:23:27 +0000",
       "flower_fields": "2024-12-29 22:31:50 +0000",
       "highland_fields": "2024-12-28 19:16:02 +0000",
@@ -1622,9 +1624,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-03 16:26:49 +0000",
       "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
       "minecraft:creeper": "2024-12-31 03:35:53 +0000",
+      "minecraft:wither_skeleton": "2025-01-03 16:26:45 +0000",
       "minecraft:enderman": "2024-12-30 03:30:44 +0000",
       "minecraft:stray": "2024-12-31 02:25:58 +0000",
       "minecraft:zombie": "2024-12-28 19:25:26 +0000",
@@ -7982,9 +7986,66 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-03 16:23:06 +0000",
+      "minecraft:nether_wastes": "2025-01-03 16:17:38 +0000",
+      "minecraft:warped_forest": "2025-01-03 16:18:29 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-01-03 16:17:33 +0000",
+      "redstone_abyss": "2025-01-03 16:18:43 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/caramel_apple": {
     "criteria": {
       "mussel": "2025-01-03 15:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-03 16:19:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-03 16:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-03 16:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-03 16:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-03 16:19:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-03 16:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-03 16:17:28 +0000"
     },
     "done": true
   },

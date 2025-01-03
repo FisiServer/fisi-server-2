@@ -2233,3 +2233,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 16:14:56.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.553077697753906) to LOW (avg. 35.984535217285156)
 [03Jan2025 16:15:03.803] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.984535217285156) to NORMAL (avg. 43.178611755371094)
 [03Jan2025 16:15:18.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.178611755371094) to LOW (avg. 22.81184959411621)
+[03Jan2025 16:17:03.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.038570404052734) to VERY_LOW (avg. 17.428861618041992)
+[03Jan2025 16:17:20.758] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal not located for entity ServerPlayer['BillyVR15'/6535, l='ServerLevel[world]', x=-1002.58, y=96.00, z=-610.29] at null
+[03Jan2025 16:17:21.215] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal not located for entity ServerPlayer['Sgirano'/15420, l='ServerLevel[world]', x=-1003.45, y=96.00, z=-610.24] at null
+[03Jan2025 16:17:28.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [We Need to Go Deeper]
+[03Jan2025 16:17:30.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7363ms or 147 ticks behind
+[03Jan2025 16:17:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [We Need to Go Deeper]
+[03Jan2025 16:17:34.897] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 60.2911996) to VERY_LOW (avg. 6.162983980000001)
+[03Jan2025 16:17:41.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.358171463012695) to LOW (avg. 21.17412567138672)
+[03Jan2025 16:17:42.397] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 5.729532610000001) to LOW (avg. 17.01926768)
+[03Jan2025 16:17:45.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Nightmare Fuel]
+[03Jan2025 16:17:53.726] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[03Jan2025 16:17:53.726] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[03Jan2025 16:18:11.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.612829208374023) to VERY_LOW (avg. 14.400439262390137)
+[03Jan2025 16:18:20.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Nightmare Fuel]
+[03Jan2025 16:18:56.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.510190963745117) to LOW (avg. 23.359037399291992)
+[03Jan2025 16:19:11.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.359037399291992) to VERY_LOW (avg. 17.18094253540039)
+[03Jan2025 16:19:21.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [A Terrible Fortress]
+[03Jan2025 16:19:32.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [A Terrible Fortress]
+[03Jan2025 16:19:56.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.08623695373535) to LOW (avg. 34.70396041870117)
+[03Jan2025 16:20:11.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.70396041870117) to VERY_LOW (avg. 17.23395538330078)
+[03Jan2025 16:20:38.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [The Soul Forge]
+[03Jan2025 16:20:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [The Soul Forge]
+[03Jan2025 16:21:33.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.509246826171875) to LOW (avg. 20.505441665649414)
+[03Jan2025 16:21:48.646] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.505441665649414) to VERY_LOW (avg. 16.555919647216797)
+[03Jan2025 16:22:09.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Spooky Scary Skeleton]
+[03Jan2025 16:22:40.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Wither Skeleton
+[03Jan2025 16:22:40.498] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[03Jan2025 16:22:43.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[03Jan2025 16:22:47.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Wither Skeleton
+[03Jan2025 16:22:48.015] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[03Jan2025 16:22:49.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[03Jan2025 16:22:49.206] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.78071403503418) to NORMAL (avg. 42.9385871887207)
+[03Jan2025 16:22:50.292] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 6.162983980000001) to LOW (avg. 33.699602399999996)
+[03Jan2025 16:22:58.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 33.699602399999996) to HIGH (avg. 49.059832060000005)
+[03Jan2025 16:23:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 withered away
+[03Jan2025 16:23:08.040] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[03Jan2025 16:23:09.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[03Jan2025 16:23:11.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.55866622924805) to LOW (avg. 24.238933563232422)
+[03Jan2025 16:23:26.351] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.238933563232422) to VERY_LOW (avg. 19.927959442138672)
+[03Jan2025 16:23:33.646] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.927959442138672) to NORMAL (avg. 41.062950134277344)
+[03Jan2025 16:23:34.696] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/6535, l='ServerLevel[world]', x=-1002.98, y=96.00, z=-610.45] at TeleportTarget{pitch=7.800105, position=(-118.97512621535577, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-139.19972}
+[03Jan2025 16:23:41.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.062950134277344) to LOW (avg. 25.491676330566406)
+[03Jan2025 16:24:11.146] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.123397827148438) to VERY_LOW (avg. 17.09315299987793)
+[03Jan2025 16:24:20.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[03Jan2025 16:26:26.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.14553451538086) to LOW (avg. 22.002399444580078)
+[03Jan2025 16:26:33.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.002399444580078) to VERY_LOW (avg. 15.677627563476562)
+[03Jan2025 16:26:50.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved wrongly!
