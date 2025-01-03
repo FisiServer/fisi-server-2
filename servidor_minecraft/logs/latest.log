@@ -2131,3 +2131,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 15:45:26.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.759090423583984) to HIGH (avg. 52.53697967529297)
 [03Jan2025 15:45:27.547] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 42.8035995) to HIGH (avg. 47.15074857)
 [03Jan2025 15:45:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> vi al boss pero no tengo gancho para engancharme
+[03Jan2025 15:45:41.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.53697967529297) to LOW (avg. 37.244529724121094)
+[03Jan2025 15:45:48.976] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.244529724121094) to VERY_HIGH (avg. 59.43704605102539)
+[03Jan2025 15:46:03.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.43704605102539) to LOW (avg. 30.998165130615234)
+[03Jan2025 15:46:13.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.3851647780907115
+[03Jan2025 15:46:13.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 0.8799956758762164
+[03Jan2025 15:46:13.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.2415223799671367
+[03Jan2025 15:46:13.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Sgirano) moved wrongly! 1.5307168714371073
+[03Jan2025 15:46:48.848] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.978490829467773) to VERY_LOW (avg. 19.747343063354492)
+[03Jan2025 15:47:03.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.747343063354492) to LOW (avg. 20.42303466796875)
+[03Jan2025 15:47:26.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.085567474365234) to VERY_LOW (avg. 18.569032669067383)
+[03Jan2025 15:48:03.852] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.198251724243164) to LOW (avg. 28.96987533569336)
+[03Jan2025 15:48:43.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [A Day at the Fair]
+[03Jan2025 15:48:44.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [The Secret Ingredient]
+[03Jan2025 15:49:58.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Spear Mint]
+[03Jan2025 15:51:15.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Biome Reactors]
+[03Jan2025 15:51:39.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> el bos
+[03Jan2025 15:52:03.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.32107162475586) to VERY_LOW (avg. 19.754796981811523)
+[03Jan2025 15:52:11.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.754796981811523) to LOW (avg. 23.98101234436035)
+[03Jan2025 15:52:48.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.61378288269043) to VERY_LOW (avg. 17.621337890625)
+[03Jan2025 15:52:56.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.621337890625) to LOW (avg. 31.973411560058594)
+[03Jan2025 15:53:03.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.973411560058594) to VERY_LOW (avg. 19.663267135620117)
+[03Jan2025 15:54:10.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [A Day at the Fair]
+[03Jan2025 15:54:48.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.383249282836914) to LOW (avg. 24.22966766357422)
+[03Jan2025 15:55:26.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.382638931274414) to VERY_LOW (avg. 19.712770462036133)
+[03Jan2025 15:55:48.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.85371208190918) to LOW (avg. 21.779937744140625)
