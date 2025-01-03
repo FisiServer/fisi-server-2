@@ -2440,3 +2440,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 17:02:05.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.89061737060547) to VERY_LOW (avg. 13.182483673095703)
 [03Jan2025 17:06:59.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=66, z=-65} BlockPos{x=-129, y=66, z=-64}
 [03Jan2025 17:07:57.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=65, z=-38} BlockPos{x=-142, y=62, z=-37}
+[03Jan2025 17:10:11.482] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/6535, l='ServerLevel[world]', x=-119.70, y=83.71, z=-77.53] at TeleportTarget{pitch=27.600048, position=(-1003.6999999880791, 96.71360001790524, -610.5), velocity=(0.0, 0.16477328182606651, 0.0), yaw=5.0928955}
+[03Jan2025 17:10:14.759] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/6535, l='ServerLevel[world]', x=-119.07, y=83.00, z=-78.35] at TeleportTarget{pitch=37.800106, position=(-1003.069856961789, 96.0, -610.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=23.092285}
+[03Jan2025 17:10:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.516138076782227) to LOW (avg. 20.074010848999023)
+[03Jan2025 17:10:31.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> usa la tableta
+[03Jan2025 17:10:37.951] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['Sgirano'/15420, l='ServerLevel[world]', x=-119.10, y=83.00, z=-78.50] at TeleportTarget{pitch=14.54984, position=(-1003.0973325327649, 96.0, -610.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=29.548218}
+[03Jan2025 17:13:13.378] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.38054847717285) to NORMAL (avg. 41.35051345825195)
+[03Jan2025 17:13:35.880] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.64107894897461) to LOW (avg. 33.36781692504883)
+[03Jan2025 17:13:37.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 7.023506934292584,8.068652028022669,1.8066196839429267
+[03Jan2025 17:13:40.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 5.209364247403528,8.462814114639215,1.94442248270866
+[03Jan2025 17:18:58.377] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.749954223632812) to MEDIUM (avg. 47.463623046875)
+[03Jan2025 17:19:05.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.463623046875) to LOW (avg. 23.714887619018555)
+[03Jan2025 17:21:43.334] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 24.488018035888672) to NORMAL (avg. 41.2347526550293)
+[03Jan2025 17:21:46.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 6.057055129063144,12.290751710977588,-1.7093888127226364
+[03Jan2025 17:22:03.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 3.0849867923091665,9.703182007792805,-0.6860976353923434
+[03Jan2025 17:22:13.418] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.77790451049805) to HIGH (avg. 50.29148483276367)
+[03Jan2025 17:22:28.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.29148483276367) to LOW (avg. 21.384817123413086)
+[03Jan2025 17:27:42.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 4.664146145412531,9.715258567398791,0.5292672809882788
