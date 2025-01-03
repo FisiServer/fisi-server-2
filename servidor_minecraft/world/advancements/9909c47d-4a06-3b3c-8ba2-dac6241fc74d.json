@@ -130,6 +130,7 @@
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
       "deciduous_forest": "2024-12-29 19:53:49 +0000",
       "boreal_forest": "2024-12-30 15:16:49 +0000",
+      "blackstone_basin": "2025-01-03 16:30:16 +0000",
       "towering_cliffs": "2024-12-30 16:45:32 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
       "cold_boreal_taiga": "2024-12-31 02:33:31 +0000",
@@ -1748,6 +1749,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-03 16:27:34 +0000",
       "minecraft:skeleton": "2024-12-29 20:10:59 +0000",
       "minecraft:spider": "2024-12-29 21:01:54 +0000",
       "minecraft:creeper": "2024-12-29 21:16:08 +0000",
@@ -6450,9 +6452,28 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-01-03 16:17:35 +0000",
+      "blackstone_basin": "2025-01-03 16:30:16 +0000",
       "redstone_abyss": "2025-01-03 16:18:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -6478,15 +6499,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-01-03 16:20:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 16:35:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-01-03 16:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
     },
     "done": true
   },
@@ -6499,6 +6550,12 @@
   "rats:recipes/building_blocks/marbled_cheese_grass": {
     "criteria": {
       "has_grass": "2025-01-03 16:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
     },
     "done": true
   },
@@ -6517,6 +6574,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-03 16:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 16:28:52 +0000"
     },
     "done": true
   },

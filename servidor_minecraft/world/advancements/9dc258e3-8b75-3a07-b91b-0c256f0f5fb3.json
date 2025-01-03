@@ -138,7 +138,9 @@
       "joshua_desert": "2024-12-29 21:05:15 +0000",
       "deciduous_forest": "2024-12-28 19:19:24 +0000",
       "boreal_forest": "2024-12-29 17:10:33 +0000",
+      "glistering_meadow": "2025-01-03 16:43:20 +0000",
       "fungal_fen": "2024-12-30 13:55:54 +0000",
+      "blackstone_basin": "2025-01-03 16:28:45 +0000",
       "towering_cliffs": "2024-12-30 14:00:02 +0000",
       "chalk_cliffs": "2024-12-29 22:31:41 +0000",
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
@@ -7990,16 +7992,31 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-03 16:23:06 +0000",
       "minecraft:nether_wastes": "2025-01-03 16:17:38 +0000",
+      "minecraft:basalt_deltas": "2025-01-03 16:43:23 +0000",
       "minecraft:warped_forest": "2025-01-03 16:18:29 +0000"
     },
     "done": false
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-03 16:27:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-01-03 16:17:33 +0000",
-      "redstone_abyss": "2025-01-03 16:18:43 +0000"
+      "blackstone_basin": "2025-01-03 16:28:45 +0000",
+      "redstone_abyss": "2025-01-03 16:18:43 +0000",
+      "glistering_meadow": "2025-01-03 16:43:20 +0000"
     },
     "done": false
+  },
+  "rats:recipes/misc/upgrades/strider_mount_upgrade": {
+    "criteria": {
+      "has_fungus": "2025-01-03 16:41:09 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/caramel_apple": {
     "criteria": {
@@ -8010,6 +8027,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-01-03 16:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-03 16:41:09 +0000"
     },
     "done": true
   },
@@ -8037,6 +8060,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/elite_energy_upgrade": {
+    "criteria": {
+      "has_blaze": "2025-01-03 16:27:30 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-01-03 16:20:38 +0000"
@@ -8046,6 +8075,30 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-03 16:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-03 16:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-03 16:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-03 16:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-03 16:27:30 +0000"
     },
     "done": true
   },
