@@ -2156,3 +2156,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [03Jan2025 15:54:48.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.383249282836914) to LOW (avg. 24.22966766357422)
 [03Jan2025 15:55:26.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.382638931274414) to VERY_LOW (avg. 19.712770462036133)
 [03Jan2025 15:55:48.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.85371208190918) to LOW (avg. 21.779937744140625)
+[03Jan2025 15:56:33.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.43218421936035) to VERY_LOW (avg. 17.0742244720459)
+[03Jan2025 15:56:48.825] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.0742244720459) to LOW (avg. 23.167686462402344)
+[03Jan2025 15:56:56.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.167686462402344) to VERY_LOW (avg. 17.795347213745117)
+[03Jan2025 15:57:03.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -2708.927383399787,-131.5,-376.0413465002189
+[03Jan2025 15:57:11.317] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.795347213745117) to LOW (avg. 29.89291000366211)
+[03Jan2025 15:57:23.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[03Jan2025 15:57:23.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[03Jan2025 15:57:23.325] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[03Jan2025 15:57:23.325] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[03Jan2025 15:57:35.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:62632] logged in with entity id 15420 at (-461.65447127906674, 84.0, -1313.2683692656672)
+[03Jan2025 15:57:35.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[03Jan2025 15:57:35.776] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/15420, l='ServerLevel[world]', x=-461.65, y=84.00, z=-1313.27] logged in and will be protected for 90 secs.
+[03Jan2025 15:57:35.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[03Jan2025 15:57:36.172] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[03Jan2025 15:57:36.173] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[03Jan2025 15:57:36.221] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[03Jan2025 15:57:43.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[03Jan2025 15:57:44.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[03Jan2025 15:57:44.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[03Jan2025 15:57:49.497] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 13 secs.
+[03Jan2025 15:57:49.497] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[03Jan2025 15:59:18.848] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.294994354248047) to HIGH (avg. 52.133140563964844)
+[03Jan2025 15:59:26.817] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.133140563964844) to LOW (avg. 39.945613861083984)
+[03Jan2025 15:59:48.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> tengo que tener hambre (acabo de comer)
+[03Jan2025 15:59:56.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.91318893432617) to NORMAL (avg. 40.29039001464844)
+[03Jan2025 16:00:00.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> haste daño xd
+[03Jan2025 16:00:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> aquí el ácido derrite mi armadura xd
+[03Jan2025 16:00:33.851] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.15398025512695) to LOW (avg. 37.47609329223633)
+[03Jan2025 16:02:11.596] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.750577926635742) to VERY_HIGH (avg. 68.4458999633789)
+[03Jan2025 16:02:26.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.4458999633789) to LOW (avg. 21.514129638671875)
+[03Jan2025 16:04:19.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.849884033203125) to NORMAL (avg. 40.80330276489258)
+[03Jan2025 16:04:26.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.80330276489258) to LOW (avg. 33.089378356933594)
+[03Jan2025 16:04:48.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.991344451904297) to NORMAL (avg. 42.95147705078125)
+[03Jan2025 16:04:56.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.95147705078125) to LOW (avg. 38.440879821777344)
+[03Jan2025 16:05:11.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.440879821777344) to NORMAL (avg. 40.09632873535156)
+[03Jan2025 16:05:33.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.14407730102539) to MEDIUM (avg. 46.504127502441406)
+[03Jan2025 16:05:48.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.504127502441406) to LOW (avg. 36.55812072753906)
