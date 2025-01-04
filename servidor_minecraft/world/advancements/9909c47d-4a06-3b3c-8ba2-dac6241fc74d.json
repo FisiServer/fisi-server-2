@@ -1754,6 +1754,7 @@
       "minecraft:spider": "2024-12-29 21:01:54 +0000",
       "minecraft:creeper": "2024-12-29 21:16:08 +0000",
       "minecraft:wither_skeleton": "2025-01-03 16:22:09 +0000",
+      "minecraft:piglin": "2025-01-04 19:25:08 +0000",
       "minecraft:enderman": "2024-12-29 20:59:46 +0000",
       "minecraft:zombie": "2024-12-29 20:01:33 +0000"
     },
@@ -6667,9 +6668,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-04 19:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-04 19:12:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ratinator_upgrade": {
+    "criteria": {
+      "has_iron": "2025-01-04 19:26:45 +0000"
     },
     "done": true
   },
@@ -6691,9 +6704,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-04 19:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-01-04 19:13:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_capture_net": {
+    "criteria": {
+      "has_iron": "2025-01-04 19:25:18 +0000"
     },
     "done": true
   },
@@ -6745,6 +6770,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-04 19:32:56 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/biplane_upgrade": {
+    "criteria": {
+      "has_iron": "2025-01-04 19:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-01-04 19:11:27 +0000"
@@ -6769,6 +6806,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-04 19:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-04 19:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-04 19:11:25 +0000"
@@ -6781,15 +6830,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-04 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-01-04 19:25:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_water_bottle": {
+    "criteria": {
+      "has_iron": "2025-01-04 19:25:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-01-04 19:11:25 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/golem_mount_upgrade": {
+    "criteria": {
+      "has_iron": "2025-01-04 19:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-04 19:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-04 19:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 19:26:45 +0000"
     },
     "done": true
   },
@@ -6811,9 +6896,27 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/idol_upgrade": {
+    "criteria": {
+      "has_gold": "2025-01-04 19:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-01-04 19:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-04 19:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-04 19:25:18 +0000"
     },
     "done": true
   },
@@ -6847,9 +6950,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
+    "criteria": {
+      "has_apple": "2025-01-04 19:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-04 19:11:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chef_upgrade": {
+    "criteria": {
+      "has_apple": "2025-01-04 19:25:17 +0000"
     },
     "done": true
   },
@@ -6895,6 +7010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-04 19:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-04 19:11:25 +0000"
@@ -6910,6 +7031,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-04 19:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-04 19:32:43 +0000"
     },
     "done": true
   },
@@ -6934,6 +7061,24 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-04 19:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-04 19:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 19:26:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_flute": {
+    "criteria": {
+      "has_iron": "2025-01-04 19:25:18 +0000"
     },
     "done": true
   },
