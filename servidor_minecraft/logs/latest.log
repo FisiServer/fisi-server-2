@@ -2193,3 +2193,27 @@ io.netty.channel.StacklessClosedChannelException: null
 [04Jan2025 19:46:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.74214744567871) to VERY_LOW (avg. 12.422646522521973)
 [04Jan2025 19:55:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.31661605834961) to LOW (avg. 21.058837890625)
 [04Jan2025 19:56:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.058837890625) to VERY_LOW (avg. 13.991120338439941)
+[04Jan2025 20:00:28.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Straddle My Ol' Saddle]
+[04Jan2025 20:00:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Straddle My Ol' Saddle]
+[04Jan2025 20:03:36.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 fell from a high place
+[04Jan2025 20:03:36.296] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[04Jan2025 20:03:38.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[04Jan2025 20:03:44.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.100955963134766) to LOW (avg. 27.186521530151367)
+[04Jan2025 20:03:44.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ??
+[04Jan2025 20:03:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> lla gran
+[04Jan2025 20:03:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> solo escuche a
+[04Jan2025 20:05:54.404] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 20:05:56.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Wither Skeleton
+[04Jan2025 20:05:56.932] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[04Jan2025 20:05:59.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[04Jan2025 20:06:07.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddd
+[04Jan2025 20:06:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> espera
+[04Jan2025 20:06:28.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> voy
+[04Jan2025 20:06:41.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> TENGO LLAVE ENCANTADA XD
+[04Jan2025 20:06:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[04Jan2025 20:07:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.395450592041016) to VERY_LOW (avg. 11.254573822021484)
+[04Jan2025 20:08:27.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Tomb Bound]
+[04Jan2025 20:08:31.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3445ms or 68 ticks behind
+[04Jan2025 20:08:33.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.907987594604492) to LOW (avg. 30.58881378173828)
+[04Jan2025 20:08:34.227] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from HIGH (avg. 47.23583063) to LOW (avg. 15.703598289999999)
+[04Jan2025 20:08:34.227] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 30.77858234) to VERY_LOW (avg. 4.28032034)
