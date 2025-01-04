@@ -2217,3 +2217,26 @@ io.netty.channel.StacklessClosedChannelException: null
 [04Jan2025 20:08:33.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.907987594604492) to LOW (avg. 30.58881378173828)
 [04Jan2025 20:08:34.227] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from HIGH (avg. 47.23583063) to LOW (avg. 15.703598289999999)
 [04Jan2025 20:08:34.227] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 30.77858234) to VERY_LOW (avg. 4.28032034)
+[04Jan2025 20:08:54.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.973417282104492) to VERY_LOW (avg. 19.797834396362305)
+[04Jan2025 20:09:02.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.797834396362305) to LOW (avg. 23.087364196777344)
+[04Jan2025 20:10:09.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.179244995117188) to VERY_LOW (avg. 18.31907844543457)
+[04Jan2025 20:10:17.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.31907844543457) to LOW (avg. 25.723562240600586)
+[04Jan2025 20:11:02.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.337862014770508) to VERY_LOW (avg. 19.39541244506836)
+[04Jan2025 20:11:17.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.39541244506836) to LOW (avg. 20.18654441833496)
+[04Jan2025 20:11:35.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano hit the ground too hard
+[04Jan2025 20:11:35.876] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[04Jan2025 20:11:37.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[04Jan2025 20:11:47.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.04974365234375) to VERY_LOW (avg. 19.546493530273438)
+[04Jan2025 20:12:09.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.598188400268555) to LOW (avg. 20.7508602142334)
+[04Jan2025 20:12:35.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has completed the challenge [Free Willy]
+[04Jan2025 20:12:39.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.835813522338867) to VERY_LOW (avg. 17.705257415771484)
+[04Jan2025 20:13:09.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.871562957763672) to LOW (avg. 21.091793060302734)
+[04Jan2025 20:13:32.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.9339656829834) to VERY_LOW (avg. 19.110965728759766)
+[04Jan2025 20:13:42.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Mastery 1]
+[04Jan2025 20:13:42.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Deliverance]
+[04Jan2025 20:14:09.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.623315811157227) to LOW (avg. 24.456745147705078)
+[04Jan2025 20:14:32.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.350202560424805) to VERY_LOW (avg. 17.196815490722656)
+[04Jan2025 20:17:39.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.8550968170166) to LOW (avg. 20.302953720092773)
+[04Jan2025 20:17:47.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.302953720092773) to VERY_LOW (avg. 17.90872573852539)
+[04Jan2025 20:18:32.558] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.945528030395508) to LOW (avg. 29.288909912109375)
+[04Jan2025 20:18:39.949] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.288909912109375) to VERY_LOW (avg. 19.33498191833496)
