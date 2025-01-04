@@ -1758,7 +1758,8 @@
       "minecraft:wither_skeleton": "2025-01-03 16:22:09 +0000",
       "minecraft:piglin": "2025-01-04 19:25:08 +0000",
       "minecraft:enderman": "2024-12-29 20:59:46 +0000",
-      "minecraft:zombie": "2024-12-29 20:01:33 +0000"
+      "minecraft:zombie": "2024-12-29 20:01:33 +0000",
+      "minecraft:drowned": "2025-01-04 20:37:35 +0000"
     },
     "done": false
   },
@@ -7287,6 +7288,96 @@
   "rats:recipes/misc/archeologist/ratlantean_flame": {
     "criteria": {
       "has_input": "2025-01-04 20:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-04 20:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-04 20:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-04 20:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 20:42:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-04 20:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-04 20:42:08 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_underwater_city": {
+    "criteria": {
+      "locate_underwater_city": "2025-01-04 20:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 20:42:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-04 20:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-04 20:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-04 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-04 20:45:07 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-01-04 20:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-04 20:37:22 +0000"
     },
     "done": true
   },
