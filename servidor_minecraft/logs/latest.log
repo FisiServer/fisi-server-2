@@ -2055,3 +2055,72 @@ io.netty.channel.StacklessClosedChannelException: null
 [04Jan2025 18:53:52.799] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 1.03434071) to LOW (avg. 30.68563166)
 [04Jan2025 18:54:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.84893035888672) to VERY_LOW (avg. 11.667301177978516)
 [04Jan2025 18:54:28.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved wrongly!
+[04Jan2025 18:57:09.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Into Fire]
+[04Jan2025 18:57:20.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Light Snack]
+[04Jan2025 19:01:52.124] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/977, l='ServerLevel[world]', x=-118.30, y=83.00, z=-78.18] at TeleportTarget{pitch=9.070476, position=(-1002.3000030517578, 96.0, -610.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=20.131592}
+[04Jan2025 19:01:52.125] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['Sgirano'/1519, l='ServerLevel[world]', x=-119.38, y=83.00, z=-79.00] at TeleportTarget{pitch=4.343039, position=(-1003.3767335135303, 96.0, -610.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-76.18128}
+[04Jan2025 19:02:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.45042610168457) to LOW (avg. 30.162803649902344)
+[04Jan2025 19:02:14.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.162803649902344) to VERY_LOW (avg. 19.779199600219727)
+[04Jan2025 19:02:29.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.779199600219727) to LOW (avg. 20.314428329467773)
+[04Jan2025 19:03:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.468700408935547) to VERY_LOW (avg. 19.866838455200195)
+[04Jan2025 19:04:06.887] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.866838455200195) to VERY_HIGH (avg. 84.19450378417969)
+[04Jan2025 19:04:14.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 84.19450378417969) to LOW (avg. 22.732698440551758)
+[04Jan2025 19:04:29.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.732698440551758) to VERY_LOW (avg. 18.910663604736328)
+[04Jan2025 19:05:14.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.996431350708008) to LOW (avg. 20.7382869720459)
+[04Jan2025 19:05:36.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.430072784423828) to VERY_LOW (avg. 18.346139907836914)
+[04Jan2025 19:05:51.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.346139907836914) to LOW (avg. 20.21329116821289)
+[04Jan2025 19:06:44.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.09977149963379) to VERY_LOW (avg. 19.552555084228516)
+[04Jan2025 19:06:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.552555084228516) to LOW (avg. 22.939956665039062)
+[04Jan2025 19:07:14.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.939956665039062) to VERY_LOW (avg. 18.689727783203125)
+[04Jan2025 19:07:29.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.689727783203125) to LOW (avg. 22.682937622070312)
+[04Jan2025 19:07:45.545] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/977, l='ServerLevel[world]', x=-1003.43, y=96.00, z=-610.31] at TeleportTarget{pitch=11.700945, position=(-119.42890173219325, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=0.45025635}
+[04Jan2025 19:07:48.795] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['Sgirano'/1519, l='ServerLevel[world]', x=-1002.78, y=96.00, z=-610.85] at TeleportTarget{pitch=16.34987, position=(-118.77976191088294, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=88.950226}
+[04Jan2025 19:08:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.271926879882812) to VERY_LOW (avg. 15.744256973266602)
+[04Jan2025 19:10:47.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=73, z=103} BlockPos{x=30, y=71, z=103}
+[04Jan2025 19:10:47.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=73, z=103} BlockPos{x=30, y=71, z=103}
+[04Jan2025 19:10:47.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=73, z=103} BlockPos{x=30, y=71, z=103}
+[04Jan2025 19:10:48.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=73, z=103} BlockPos{x=30, y=71, z=103}
+[04Jan2025 19:10:48.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=73, z=103} BlockPos{x=30, y=71, z=103}
+[04Jan2025 19:11:27.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Hidden in the Depths]
+[04Jan2025 19:11:41.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Hidden in the Depths]
+[04Jan2025 19:11:51.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.548097610473633) to LOW (avg. 20.817419052124023)
+[04Jan2025 19:11:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.817419052124023) to VERY_LOW (avg. 14.947558403015137)
+[04Jan2025 19:12:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.947558403015137) to LOW (avg. 23.021198272705078)
+[04Jan2025 19:12:14.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.021198272705078) to VERY_LOW (avg. 15.52978515625)
+[04Jan2025 19:12:46.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Not Today, Thank You]
+[04Jan2025 19:12:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Not Today, Thank You]
+[04Jan2025 19:14:36.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.631149291992188) to LOW (avg. 25.99541473388672)
+[04Jan2025 19:14:51.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.99541473388672) to VERY_LOW (avg. 14.66540813446045)
+[04Jan2025 19:15:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.66540813446045) to LOW (avg. 21.43848419189453)
+[04Jan2025 19:15:14.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.43848419189453) to VERY_LOW (avg. 18.372419357299805)
+[04Jan2025 19:16:47.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was burnt to a crisp whilst fighting Netherite Monstrosity
+[04Jan2025 19:16:47.587] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[04Jan2025 19:16:52.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[04Jan2025 19:16:56.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Netherite Monstrosity
+[04Jan2025 19:16:56.839] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[04Jan2025 19:16:58.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[04Jan2025 19:16:59.593] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.758319854736328) to LOW (avg. 36.5166130065918)
+[04Jan2025 19:17:07.209] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.5166130065918) to VERY_HIGH (avg. 130.18426513671875)
+[04Jan2025 19:17:08.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 43.27404784) to HIGH (avg. 47.23583063)
+[04Jan2025 19:17:22.663] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 130.18426513671875) to LOW (avg. 31.61017417907715)
+[04Jan2025 19:17:51.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.9261474609375) to VERY_LOW (avg. 14.908053398132324)
+[04Jan2025 19:18:14.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Netherite Monstrosity
+[04Jan2025 19:18:14.635] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[04Jan2025 19:18:18.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[04Jan2025 19:18:21.914] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.343067169189453) to NORMAL (avg. 44.81261444091797)
+[04Jan2025 19:18:29.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.81261444091797) to LOW (avg. 30.213640213012695)
+[04Jan2025 19:18:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was burnt to a crisp whilst fighting Netherite Monstrosity
+[04Jan2025 19:18:36.671] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[04Jan2025 19:18:39.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[04Jan2025 19:18:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.077625274658203) to VERY_LOW (avg. 19.864564895629883)
+[04Jan2025 19:19:10.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved wrongly!
+[04Jan2025 19:20:21.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.943593978881836) to LOW (avg. 24.790889739990234)
+[04Jan2025 19:20:36.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.790889739990234) to VERY_LOW (avg. 18.40469741821289)
+[04Jan2025 19:21:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [Prayer of Empathy]
+[04Jan2025 19:24:15.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Those Were the Days]
+[04Jan2025 19:24:20.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Those Were the Days]
+[04Jan2025 19:25:15.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [War Pigs]
+[04Jan2025 19:25:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [War Pigs]
+[04Jan2025 19:26:45.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Who is Cutting Onions?]
+[04Jan2025 19:27:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Ol' Betsy]
+[04Jan2025 19:27:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Take Aim]
