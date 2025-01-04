@@ -2191,3 +2191,5 @@ io.netty.channel.StacklessClosedChannelException: null
 [04Jan2025 19:41:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Light Snack]
 [04Jan2025 19:46:44.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.747785568237305) to LOW (avg. 20.74214744567871)
 [04Jan2025 19:46:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.74214744567871) to VERY_LOW (avg. 12.422646522521973)
+[04Jan2025 19:55:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.31661605834961) to LOW (avg. 21.058837890625)
+[04Jan2025 19:56:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.058837890625) to VERY_LOW (avg. 13.991120338439941)
