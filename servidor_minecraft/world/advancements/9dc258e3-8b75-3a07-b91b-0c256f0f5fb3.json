@@ -9024,9 +9024,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-04 20:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-04 20:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-04 20:50:52 +0000"
     },
     "done": true
   },
@@ -9036,9 +9048,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-04 20:50:52 +0000"
+    },
+    "done": true
+  },
   "hopo:minecraft/adventure/locate_underwater_city": {
     "criteria": {
       "locate_underwater_city": "2025-01-04 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-01-04 20:54:08 +0000"
     },
     "done": true
   },
@@ -9051,6 +9075,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-04 20:37:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flute_upgrade": {
+    "criteria": {
+      "has_clay": "2025-01-04 20:50:52 +0000"
     },
     "done": true
   },
