@@ -4982,3 +4982,10 @@ io.netty.channel.StacklessClosedChannelException: null
 [04Jan2025 21:52:47.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.886443138122559) to LOW (avg. 20.241031646728516)
 [04Jan2025 21:52:55.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.241031646728516) to VERY_LOW (avg. 15.941915512084961)
 [04Jan2025 21:55:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[04Jan2025 22:06:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[04Jan2025 22:07:07.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[04Jan2025 22:07:16.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[04Jan2025 22:07:22.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[04Jan2025 22:07:26.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[04Jan2025 22:10:25.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.938552856445312) to LOW (avg. 27.60873031616211)
+[04Jan2025 22:10:32.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.60873031616211) to VERY_LOW (avg. 14.070503234863281)
