@@ -9204,9 +9204,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-01-04 21:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-04 21:31:23 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/sculked_upgrade": {
     "criteria": {
       "has_paw": "2025-01-04 21:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-04 21:30:28 +0000"
     },
     "done": true
   },
