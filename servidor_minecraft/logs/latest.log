@@ -2147,3 +2147,47 @@ io.netty.channel.StacklessClosedChannelException: null
 [04Jan2025 19:32:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
 [04Jan2025 19:32:21.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.70285701751709) to LOW (avg. 30.035335540771484)
 [04Jan2025 19:33:14.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.49598503112793) to VERY_LOW (avg. 17.626909255981445)
+[04Jan2025 19:38:26.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:26.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:26.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:26.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:26.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:26.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:26.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.106] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:27.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.206] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.407] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:28.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:38:29.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 19:39:59.051] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.774236679077148) to LOW (avg. 21.5245361328125)
+[04Jan2025 19:40:06.549] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.5245361328125) to VERY_LOW (avg. 16.14175033569336)
+[04Jan2025 19:40:41.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:41.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:41.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:41.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:41.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:41.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:41.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:41.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:42.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:42.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:40:42.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-310, y=86, z=376} BlockPos{x=-310, y=86, z=377}
+[04Jan2025 19:41:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Light Snack]
+[04Jan2025 19:46:44.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.747785568237305) to LOW (avg. 20.74214744567871)
+[04Jan2025 19:46:59.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.74214744567871) to VERY_LOW (avg. 12.422646522521973)
