@@ -4854,3 +4854,69 @@ io.netty.channel.StacklessClosedChannelException: null
 [04Jan2025 20:59:23.268] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.111743927001953) to LOW (avg. 23.845870971679688)
 [04Jan2025 20:59:38.665] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.301660537719727) to VERY_HIGH (avg. 77.35205841064453)
 [04Jan2025 20:59:45.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 77.35205841064453) to LOW (avg. 28.530567169189453)
+[04Jan2025 21:00:15.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.32010269165039) to VERY_LOW (avg. 19.880306243896484)
+[04Jan2025 21:00:38.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.73602867126465) to LOW (avg. 21.18514060974121)
+[04Jan2025 21:00:45.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.18514060974121) to VERY_LOW (avg. 19.566307067871094)
+[04Jan2025 21:01:00.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.566307067871094) to LOW (avg. 21.128643035888672)
+[04Jan2025 21:01:15.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.128643035888672) to VERY_LOW (avg. 19.11570930480957)
+[04Jan2025 21:01:38.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.971569061279297) to LOW (avg. 20.481666564941406)
+[04Jan2025 21:01:45.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.481666564941406) to VERY_LOW (avg. 19.689302444458008)
+[04Jan2025 21:02:15.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.162731170654297) to LOW (avg. 23.649402618408203)
+[04Jan2025 21:02:18.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Tactical Fishing]
+[04Jan2025 21:02:22.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> salio bienn
+[04Jan2025 21:02:24.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no mori
+[04Jan2025 21:02:26.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[04Jan2025 21:02:28.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[04Jan2025 21:03:00.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.872928619384766) to VERY_LOW (avg. 19.758682250976562)
+[04Jan2025 21:03:15.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.758682250976562) to LOW (avg. 23.148258209228516)
+[04Jan2025 21:03:23.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano fell from a high place
+[04Jan2025 21:03:23.525] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[04Jan2025 21:03:25.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[04Jan2025 21:03:38.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.430721282958984) to VERY_LOW (avg. 18.33320426940918)
+[04Jan2025 21:04:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano fell from a high place
+[04Jan2025 21:04:14.353] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[04Jan2025 21:04:15.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[04Jan2025 21:04:15.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.895475387573242) to LOW (avg. 27.857341766357422)
+[04Jan2025 21:04:28.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano fell from a high place
+[04Jan2025 21:04:28.427] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[04Jan2025 21:04:29.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[04Jan2025 21:04:30.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.857341766357422) to VERY_LOW (avg. 17.90603256225586)
+[04Jan2025 21:04:53.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.530048370361328) to LOW (avg. 26.01220703125)
+[04Jan2025 21:05:08.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.01220703125) to VERY_LOW (avg. 17.553943634033203)
+[04Jan2025 21:06:00.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.564809799194336) to LOW (avg. 20.563133239746094)
+[04Jan2025 21:06:15.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.563133239746094) to VERY_LOW (avg. 18.488101959228516)
+[04Jan2025 21:07:45.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.317546844482422) to LOW (avg. 23.682409286499023)
+[04Jan2025 21:07:53.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.682409286499023) to VERY_LOW (avg. 19.69481086730957)
+[04Jan2025 21:08:08.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.69481086730957) to LOW (avg. 20.4183349609375)
+[04Jan2025 21:08:38.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.24199676513672) to VERY_LOW (avg. 18.962356567382812)
+[04Jan2025 21:09:45.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.83884048461914) to LOW (avg. 21.186573028564453)
+[04Jan2025 21:09:53.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.186573028564453) to VERY_LOW (avg. 18.87428855895996)
+[04Jan2025 21:10:15.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.57925796508789) to LOW (avg. 20.282485961914062)
+[04Jan2025 21:10:30.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.282485961914062) to VERY_LOW (avg. 18.34046173095703)
+[04Jan2025 21:12:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Once Upon a Cave]
+[04Jan2025 21:13:23.705] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.900774002075195) to LOW (avg. 28.85893440246582)
+[04Jan2025 21:13:45.794] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.58803176879883) to NORMAL (avg. 40.3629150390625)
+[04Jan2025 21:14:01.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 21:14:08.269] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.57704162597656) to VERY_LOW (avg. 18.95408821105957)
+[04Jan2025 21:14:30.768] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.60785675048828) to LOW (avg. 30.606111526489258)
+[04Jan2025 21:15:00.820] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.086463928222656) to MEDIUM (avg. 48.99384307861328)
+[04Jan2025 21:15:15.757] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.99384307861328) to LOW (avg. 25.827613830566406)
+[04Jan2025 21:15:45.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.04867172241211) to VERY_LOW (avg. 14.908530235290527)
+[04Jan2025 21:15:56.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Sea? Not a Problem]
+[04Jan2025 21:18:15.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[04Jan2025 21:18:15.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[04Jan2025 21:18:15.462] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[04Jan2025 21:18:15.463] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[04Jan2025 21:18:31.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:55151] logged in with entity id 63592 at (-2843.2524060759597, 65.0, 2359.0309622896048)
+[04Jan2025 21:18:31.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[04Jan2025 21:18:31.825] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/63592, l='ServerLevel[world]', x=-2843.25, y=65.00, z=2359.03] logged in and will be protected for 90 secs.
+[04Jan2025 21:18:31.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[04Jan2025 21:18:32.261] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[04Jan2025 21:18:32.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[04Jan2025 21:18:32.396] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[04Jan2025 21:18:40.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[04Jan2025 21:18:41.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[04Jan2025 21:18:41.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[04Jan2025 21:18:45.699] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 13 secs.
+[04Jan2025 21:18:45.699] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[04Jan2025 21:20:08.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.471101760864258) to LOW (avg. 38.83210754394531)
