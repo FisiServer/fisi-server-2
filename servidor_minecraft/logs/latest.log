@@ -2367,3 +2367,78 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05Jan2025 03:06:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
 [05Jan2025 03:06:49.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
 [05Jan2025 03:06:49.306] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[05Jan2025 03:06:56.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.53156280517578) to LOW (avg. 25.93265151977539)
+[05Jan2025 03:07:29.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:52521] logged in with entity id 82215 at (-452.92500001192093, 86.0625, -1319.8617153547386)
+[05Jan2025 03:07:29.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[05Jan2025 03:07:29.749] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/82215, l='ServerLevel[world]', x=-452.93, y=86.06, z=-1319.86] logged in and will be protected for 90 secs.
+[05Jan2025 03:07:29.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[05Jan2025 03:07:30.107] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[05Jan2025 03:07:30.107] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[05Jan2025 03:07:30.158] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[05Jan2025 03:07:43.182] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Oicapse was successful validated after 13 secs.
+[05Jan2025 03:07:43.182] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Oicapse!
+[05Jan2025 03:07:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> intenet de mrd
+[05Jan2025 03:07:49.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[05Jan2025 03:07:51.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[05Jan2025 03:07:51.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[05Jan2025 03:08:28.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 timed out
+[05Jan2025 03:08:28.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Oicapse
+[05Jan2025 03:08:28.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[05Jan2025 03:08:29.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[05Jan2025 03:08:29.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[05Jan2025 03:08:29.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[05Jan2025 03:08:29.903] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[05Jan2025 03:09:18.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.222124099731445) to VERY_LOW (avg. 19.2742862701416)
+[05Jan2025 03:09:33.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.2742862701416) to LOW (avg. 22.65513038635254)
+[05Jan2025 03:10:18.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.763307571411133) to VERY_LOW (avg. 19.955406188964844)
+[05Jan2025 03:10:33.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.955406188964844) to LOW (avg. 21.065397262573242)
+[05Jan2025 03:11:03.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.027799606323242) to VERY_LOW (avg. 18.73508644104004)
+[05Jan2025 03:11:26.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.065937042236328) to LOW (avg. 20.276857376098633)
+[05Jan2025 03:11:33.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.276857376098633) to VERY_LOW (avg. 18.787458419799805)
+[05Jan2025 03:11:56.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.054540634155273) to LOW (avg. 23.527137756347656)
+[05Jan2025 03:12:11.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.527137756347656) to VERY_LOW (avg. 19.267995834350586)
+[05Jan2025 03:12:26.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.267995834350586) to LOW (avg. 20.353599548339844)
+[05Jan2025 03:12:41.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.353599548339844) to VERY_LOW (avg. 18.12547492980957)
+[05Jan2025 03:13:11.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.49427604675293) to LOW (avg. 22.14679718017578)
+[05Jan2025 03:13:18.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.14679718017578) to VERY_LOW (avg. 18.716337203979492)
+[05Jan2025 03:14:33.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.510082244873047) to LOW (avg. 24.49266242980957)
+[05Jan2025 03:14:48.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.49266242980957) to VERY_LOW (avg. 18.936359405517578)
+[05Jan2025 03:16:48.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.36440658569336) to LOW (avg. 20.03476333618164)
+[05Jan2025 03:17:03.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.03476333618164) to VERY_LOW (avg. 19.623411178588867)
+[05Jan2025 03:17:26.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.48012351989746) to LOW (avg. 20.05913543701172)
+[05Jan2025 03:17:33.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.05913543701172) to VERY_LOW (avg. 19.906166076660156)
+[05Jan2025 03:18:26.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.373273849487305) to LOW (avg. 20.781841278076172)
+[05Jan2025 03:18:41.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.781841278076172) to VERY_LOW (avg. 18.450939178466797)
+[05Jan2025 03:18:53.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[05Jan2025 03:18:56.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.450939178466797) to LOW (avg. 23.904308319091797)
+[05Jan2025 03:19:05.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -9.357435287509134,3.3748430458755934,-2.0061349697791684
+[05Jan2025 03:19:18.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.100540161132812) to VERY_LOW (avg. 19.920825958251953)
+[05Jan2025 03:19:26.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.920825958251953) to LOW (avg. 22.464433670043945)
+[05Jan2025 03:19:41.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.464433670043945) to VERY_LOW (avg. 19.537172317504883)
+[05Jan2025 03:19:56.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.537172317504883) to LOW (avg. 22.788511276245117)
+[05Jan2025 03:21:43.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[05Jan2025 03:22:03.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.87906837463379) to VERY_LOW (avg. 19.911312103271484)
+[05Jan2025 03:22:18.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.911312103271484) to LOW (avg. 21.73027992248535)
+[05Jan2025 03:23:33.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.150535583496094) to VERY_LOW (avg. 17.93314552307129)
+[05Jan2025 03:24:03.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.77389907836914) to LOW (avg. 20.147663116455078)
+[05Jan2025 03:24:26.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.062061309814453) to VERY_LOW (avg. 19.18073844909668)
+[05Jan2025 03:24:33.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.18073844909668) to LOW (avg. 20.292089462280273)
+[05Jan2025 03:25:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[05Jan2025 03:25:15.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[05Jan2025 03:25:20.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
+[05Jan2025 03:25:20.557] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[05Jan2025 03:25:22.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[05Jan2025 03:25:26.489] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.13491439819336) to VERY_HIGH (avg. 95.369873046875)
+[05Jan2025 03:25:34.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[05Jan2025 03:25:38.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -4.335560671411315,2.279522050454105,8.801553163158587
+[05Jan2025 03:25:39.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -9.099444870549291,3.7499660797817,3.3562221949812283
+[05Jan2025 03:25:43.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -9.259053660324867,3.4145408691216517,4.084441465747659
+[05Jan2025 03:25:45.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -8.291923668591835,2.3676747815152055,5.124370592131072
+[05Jan2025 03:26:03.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.88161087036133) to LOW (avg. 25.16844940185547)
+[05Jan2025 03:26:18.779] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.16844940185547) to NORMAL (avg. 40.43815612792969)
+[05Jan2025 03:26:20.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 8.312094080305314,0.0,-6.926767222155149
+[05Jan2025 03:26:26.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 8.55731016839593,-4.874999986728966,-2.5389718714568517
+[05Jan2025 03:26:26.435] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.43815612792969) to LOW (avg. 36.345001220703125)
+[05Jan2025 03:26:35.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[05Jan2025 03:26:56.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.577739715576172) to VERY_LOW (avg. 19.6961727142334)
+[05Jan2025 03:26:58.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
