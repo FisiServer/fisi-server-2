@@ -9288,6 +9288,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet_exploration": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 04:50:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2025-01-05 04:43:30 +0000"
@@ -9390,15 +9396,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet_treasure": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:00:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ancient_fishing_rod": {
     "criteria": {
       "has_fishing_rod": "2025-01-05 04:43:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:50:06 +0000"
+    },
+    "done": true
+  },
   "rats:cheese_stick": {
     "criteria": {
       "get_stick": "2025-01-05 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-05 05:03:36 +0000"
     },
     "done": true
   },
@@ -9477,6 +9501,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
       "has_sea_serpent_scales_green": "2025-01-05 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-05 05:03:36 +0000"
     },
     "done": true
   },
