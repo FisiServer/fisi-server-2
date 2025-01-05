@@ -141,6 +141,7 @@
       "prairie": "2024-12-29 22:11:19 +0000",
       "gravel_beach": "2024-12-30 15:16:40 +0000",
       "redwoods": "2024-12-29 19:49:29 +0000",
+      "golden_boreal_taiga": "2025-01-05 04:29:56 +0000",
       "icy_heights": "2024-12-30 23:01:13 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
@@ -180,6 +181,7 @@
       "prairie": "2024-12-29 22:11:19 +0000",
       "gravel_beach": "2024-12-30 15:16:40 +0000",
       "redwoods": "2024-12-29 19:49:29 +0000",
+      "golden_boreal_taiga": "2025-01-05 04:29:56 +0000",
       "icy_heights": "2024-12-30 23:01:13 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
@@ -1166,6 +1168,7 @@
       "minecraft:savanna_plateau": "2024-12-29 21:25:31 +0000",
       "minecraft:beach": "2024-12-30 15:15:09 +0000",
       "minecraft:stony_peaks": "2024-12-29 19:59:25 +0000",
+      "minecraft:dark_forest": "2025-01-05 03:46:07 +0000",
       "minecraft:mangrove_swamp": "2024-12-30 16:43:55 +0000",
       "minecraft:sparse_jungle": "2024-12-29 22:03:16 +0000",
       "minecraft:river": "2024-12-29 21:37:58 +0000",
@@ -1181,6 +1184,7 @@
       "minecraft:desert": "2024-12-29 22:05:24 +0000",
       "minecraft:jungle": "2024-12-29 22:03:14 +0000",
       "minecraft:ocean": "2024-12-30 16:42:28 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-05 04:26:13 +0000",
       "minecraft:windswept_savanna": "2024-12-30 17:17:26 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 23:24:02 +0000",
       "minecraft:deep_dark": "2024-12-29 19:56:20 +0000",
@@ -1759,7 +1763,8 @@
       "minecraft:piglin": "2025-01-04 19:25:08 +0000",
       "minecraft:enderman": "2024-12-29 20:59:46 +0000",
       "minecraft:zombie": "2024-12-29 20:01:33 +0000",
-      "minecraft:drowned": "2025-01-04 20:37:35 +0000"
+      "minecraft:drowned": "2025-01-04 20:37:35 +0000",
+      "minecraft:zombie_villager": "2025-01-05 03:55:55 +0000"
     },
     "done": false
   },
@@ -7291,129 +7296,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-01-04 20:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-01-04 20:37:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_helmet": {
-    "criteria": {
-      "has_item": "2025-01-04 21:17:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-01-04 20:55:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-04 21:17:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_green_leggings": {
-    "criteria": {
-      "has_item": "2025-01-04 21:15:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-01-04 20:45:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-04 21:08:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-01-04 20:42:08 +0000"
-    },
-    "done": true
-  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-01-04 20:35:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_water_bucket": "2025-01-04 21:02:14 +0000"
+      "has_prismarine_crystals": "2025-01-04 20:37:22 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/baking/sea_salt": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_ingredient": "2025-01-04 21:02:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
-    "criteria": {
-      "has_sea_serpent_scales_purple": "2025-01-04 21:17:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-01-04 20:42:08 +0000"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/locate_underwater_city": {
-    "criteria": {
-      "locate_underwater_city": "2025-01-04 20:38:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_assistance": {
-    "criteria": {
-      "coded_trigger": "2025-01-04 21:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-01-04 20:42:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-01-04 20:55:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_leggings": {
-    "criteria": {
-      "has_item": "2025-01-04 21:17:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-04 20:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-04 21:08:25 +0000"
+      "has_prismarine_shard": "2025-01-04 20:37:54 +0000"
     },
     "done": true
   },
@@ -7429,9 +7326,99 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_underwater_city": {
+    "criteria": {
+      "locate_underwater_city": "2025-01-04 20:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 20:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-04 20:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 20:42:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-01-04 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-04 20:45:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-04 20:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-04 20:46:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-01-04 20:47:51 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/enchanter_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-01-04 20:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-04 20:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-04 20:55:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bucket_upgrade": {
+    "criteria": {
+      "has_bucket": "2025-01-04 21:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-04 21:02:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-01-04 21:02:14 +0000"
     },
     "done": true
   },
@@ -7447,27 +7434,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-01-04 21:12:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2025-01-04 21:02:18 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_sherd": "2025-01-04 20:45:07 +0000"
+      "has_dandelion": "2025-01-04 21:08:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "iceandfire:iceandfire/tame_hippocampus": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "tame_rat": "2025-01-04 20:47:51 +0000"
+      "has_dandelion": "2025-01-04 21:08:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-04 21:12:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-04 21:15:58 +0000"
     },
     "done": true
   },
@@ -7483,27 +7476,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-01-04 20:37:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_boots": {
-    "criteria": {
-      "has_item": "2025-01-04 21:17:00 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
       "has_sea_serpent_scales_green": "2025-01-04 21:15:58 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/bucket_upgrade": {
-    "criteria": {
-      "has_bucket": "2025-01-04 21:02:12 +0000"
     },
     "done": true
   },
@@ -7513,9 +7488,345 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/enchanter_upgrade": {
+  "iceandfire:recipes/combat/tide_purple_helmet": {
     "criteria": {
-      "has_bottle": "2025-01-04 20:54:43 +0000"
+      "has_item": "2025-01-04 21:17:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-04 21:17:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-01-04 21:17:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-01-04 21:17:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-01-04 21:17:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-01-04 21:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 04:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-01-05 04:43:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/marbled_cheese_rat_head": {
+    "criteria": {
+      "has_input": "2025-01-05 03:38:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-05 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2025-01-05 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 04:08:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-05 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-05 04:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-01-05 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 04:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 04:32:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-05 04:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-05 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-01-05 03:39:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-01-05 03:47:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-05 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 03:55:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-01-05 04:08:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:32:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-01-05 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-05 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-05 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-05 04:32:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-01-05 04:32:25 +0000"
     },
     "done": true
   },
