@@ -9264,9 +9264,39 @@
     },
     "done": true
   },
+  "ratlantis:ratlantean_spirit": {
+    "criteria": {
+      "hurt_ratlantean_spirit": "2025-01-05 05:15:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ally_enhancer": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_pillar": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-01-05 01:27:37 +0000"
+    },
+    "done": true
+  },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-01-05 05:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-05 05:15:28 +0000"
     },
     "done": true
   },
@@ -9276,9 +9306,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/automaton_upgrade": {
+    "criteria": {
+      "has_head": "2025-01-05 05:33:27 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/archeologist/rat_upgrade_basic_ratlantean": {
     "criteria": {
       "has_input": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/buccaneer_upgrade": {
+    "criteria": {
+      "has_cannonball": "2025-01-05 05:46:34 +0000"
     },
     "done": true
   },
@@ -9288,15 +9342,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/mossy_marbled_cheese_brick_to_slab": {
+    "criteria": {
+      "has_input": "2025-01-05 05:12:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet_exploration": {
     "criteria": {
       "coded_trigger": "2025-01-05 04:50:10 +0000"
     },
     "done": true
   },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_stairs": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2025-01-05 04:43:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
     },
     "done": true
   },
@@ -9312,6 +9390,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-05 05:15:28 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_brick_mossy_stairs": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:12:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2025-01-05 01:26:45 +0000"
@@ -9324,9 +9414,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2025-01-05 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/ghost_pirat_hat": {
+    "criteria": {
+      "has_ectoplasm": "2025-01-05 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "ratlantis:ratlantis": {
+    "criteria": {
+      "visit_ratlantis": "2025-01-05 05:09:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_tile": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
     },
     "done": true
   },
@@ -9351,6 +9477,12 @@
   "tombstone:adventure/create_fishing_rod": {
     "criteria": {
       "has_fishing_rod": "2025-01-05 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_stairs": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:13:01 +0000"
     },
     "done": true
   },
@@ -9384,9 +9516,51 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick_chiseled": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_pelt_to_leather": {
+    "criteria": {
+      "has_pelt": "2025-01-05 05:14:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/ectoplasm_from_hat": {
+    "criteria": {
+      "has_hat": "2025-01-05 05:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_pillar": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "ratlantis:pirat": {
+    "criteria": {
+      "hurt_by_pirat": "2025-01-05 05:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-01-05 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
     },
     "done": true
   },
@@ -9396,15 +9570,135 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/marbled_cheese_brick_mossy_slab": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:12:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_black": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet_treasure": {
     "criteria": {
       "coded_trigger": "2025-01-05 05:00:10 +0000"
     },
     "done": true
   },
+  "rats:recipes/building_blocks/stonecutting/mossy_marbled_cheese_brick_to_stairs": {
+    "criteria": {
+      "has_input": "2025-01-05 05:12:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/upgrade_combiner": {
+    "criteria": {
+      "has_pillar": "2025-01-05 05:13:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick_slab": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/cracked_marble_cheese_smelting": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/decorations/dutchrat_bell": {
+    "criteria": {
+      "has_ectoplasm": "2025-01-05 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/pirat_planks": {
+    "criteria": {
+      "has_ectoplasm": "2025-01-05 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_chiseled": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_scribe": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:55:33 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/ratlantis_rat_skull": {
+    "criteria": {
+      "has_wing": "2025-01-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_slab": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "ratlantis:ratlantean_ratbot": {
+    "criteria": {
+      "hurt_ratlantean_ratbot": "2025-01-05 05:15:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ancient_fishing_rod": {
     "criteria": {
       "has_fishing_rod": "2025-01-05 04:43:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_brick": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_ratlantean_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:14:09 +0000"
     },
     "done": true
   },
@@ -9420,15 +9714,45 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/black_marbled_cheese": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-01-05 05:03:36 +0000"
     },
     "done": true
   },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick_stairs": {
+    "criteria": {
+      "has_input": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "ratlantis:feral_ratlantean": {
+    "criteria": {
+      "hurt_by_feral_ratlantean": "2025-01-05 05:14:31 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/beast_mount_upgrade": {
     "criteria": {
       "has_upgrade": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_tile": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:13:01 +0000"
     },
     "done": true
   },
@@ -9462,15 +9786,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ethereal_upgrade": {
+    "criteria": {
+      "has_ectoplasm": "2025-01-05 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_slab": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marble_cheese_smelting": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:14:09 +0000"
+    },
+    "done": true
+  },
+  "ratlantis:defeat_rat_baron": {
+    "criteria": {
+      "killed_baron": "2025-01-05 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/token_fragment": {
+    "criteria": {
+      "has_coin": "2025-01-05 05:33:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet_village": {
     "criteria": {
       "coded_trigger": "2025-01-05 04:44:46 +0000"
     },
     "done": true
   },
+  "rats:recipes/building_blocks/upgrade_separator": {
+    "criteria": {
+      "has_pillar": "2025-01-05 05:13:32 +0000"
+    },
+    "done": true
+  },
   "rats:all_hats": {
     "criteria": {
-      "has_farmer_hat": "2025-01-05 01:56:46 +0000"
+      "has_ghost_pirat_hat": "2025-01-05 05:34:29 +0000",
+      "has_aviator_hat": "2025-01-05 05:47:02 +0000",
+      "has_farmer_hat": "2025-01-05 01:56:46 +0000",
+      "has_santa_hat": "2025-01-05 05:49:54 +0000"
     },
     "done": false
   },
@@ -9486,9 +9861,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-05 05:18:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchanted_bundle": {
     "criteria": {
       "coded_trigger": "2025-01-05 01:09:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/idol_of_ratlantis": {
+    "criteria": {
+      "has_fish": "2025-01-05 05:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 05:20:22 +0000"
     },
     "done": true
   },
@@ -9498,9 +9891,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/scribe": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:55:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
       "has_sea_serpent_scales_green": "2025-01-05 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/ghost_pirat_cutlass": {
+    "criteria": {
+      "has_ectoplasm": "2025-01-05 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-01-05 05:08:54 +0000"
     },
     "done": true
   },
@@ -9516,9 +9927,21 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/marbled_cheese_golem_core": {
+    "criteria": {
+      "has_cheese": "2025-01-05 05:14:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-05 04:34:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/ratlantis_leggings": {
+    "criteria": {
+      "has_wing": "2025-01-05 05:46:57 +0000"
     },
     "done": true
   },
