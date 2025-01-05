@@ -2977,3 +2977,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05Jan2025 05:57:56.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.644737243652344) to LOW (avg. 20.285343170166016)
 [05Jan2025 05:58:03.682] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.285343170166016) to VERY_LOW (avg. 19.73333740234375)
 [05Jan2025 05:58:26.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.12887191772461) to LOW (avg. 20.36292266845703)
+[05Jan2025 05:59:40.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> baja
+[05Jan2025 06:00:26.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.63198471069336) to VERY_LOW (avg. 19.561187744140625)
+[05Jan2025 06:00:33.682] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.561187744140625) to LOW (avg. 21.000085830688477)
+[05Jan2025 06:04:04.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.914260864257812) to VERY_HIGH (avg. 96.82637023925781)
+[05Jan2025 06:04:11.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 96.82637023925781) to LOW (avg. 32.173152923583984)
+[05Jan2025 06:04:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> pergamino de suerte 4
+[05Jan2025 06:04:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[05Jan2025 06:04:35.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> guardalo
+[05Jan2025 06:04:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> luego lo duplico
+[05Jan2025 06:04:57.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> curacion instantanea 3 xd
+[05Jan2025 06:05:03.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> en area?
+[05Jan2025 06:05:10.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> o sea el azul
+[05Jan2025 06:05:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> morado
+[05Jan2025 06:05:28.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> eso no lo quiero
+[05Jan2025 06:05:35.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> en área si sirve más
+[05Jan2025 06:05:50.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> daña a los no vivos
+[05Jan2025 06:06:17.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> si pero no sirve si es a un solo objetivo
+[05Jan2025 06:06:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> si fue el pergamino azul ahí si
+[05Jan2025 06:06:51.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> el pndjo de tu cocodrilo me anda acosando
+[05Jan2025 06:06:57.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xdddd
+[05Jan2025 06:07:46.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> wild rat
+[05Jan2025 06:07:50.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> y esqueleto
+[05Jan2025 06:07:51.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[05Jan2025 06:07:53.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> voyyyy
+[05Jan2025 06:08:03.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Not even afraid of death]
+[05Jan2025 06:08:03.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Back to childhood]
+[05Jan2025 06:09:05.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[05Jan2025 06:09:05.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[05Jan2025 06:09:05.902] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[05Jan2025 06:09:05.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[05Jan2025 06:09:26.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.19512939453125) to VERY_LOW (avg. 19.230817794799805)
+[05Jan2025 06:09:42.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jan2025 06:09:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: se me crasheó xdddd<--[HERE]
+[05Jan2025 06:09:48.682] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.95262908935547) to LOW (avg. 21.410245895385742)
+[05Jan2025 06:09:53.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jan2025 06:09:53.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ya entro<--[HERE]
