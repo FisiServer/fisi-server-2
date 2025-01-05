@@ -2314,3 +2314,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05Jan2025 02:43:07.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk left the game
 [05Jan2025 02:43:07.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 055ba86d-355b-3f9b-af6e-67963e73b10e was unloaded
 [05Jan2025 02:43:07.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client StackOk
+[05Jan2025 02:50:36.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[05Jan2025 02:51:09.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[05Jan2025 02:54:56.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[05Jan2025 02:55:14.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[05Jan2025 02:58:40.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[05Jan2025 03:02:34.543] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.374895095825195) to NORMAL (avg. 40.57000732421875)
+[05Jan2025 03:02:40.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 4.754412105318636,-5.840145017979708,-7.19941499846459
+[05Jan2025 03:02:40.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! 5.049579813673802,-6.415479291644061,-7.629479485644879
+[05Jan2025 03:02:48.889] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.57000732421875) to VERY_HIGH (avg. 56.85910415649414)
+[05Jan2025 03:03:11.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.92646026611328) to LOW (avg. 22.405805587768555)
+[05Jan2025 03:03:34.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[05Jan2025 03:04:27.618] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5654b0fa[id=<null>,name=Oicapse,properties={},legacy=false] (/100.92.66.87:52298) lost connection: Disconnected
+[05Jan2025 03:04:41.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:52303] logged in with entity id 81706 at (-456.30000001192093, 86.0, -1323.6003120182584)
+[05Jan2025 03:04:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[05Jan2025 03:04:41.384] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/81706, l='ServerLevel[world]', x=-456.30, y=86.00, z=-1323.60] logged in and will be protected for 90 secs.
+[05Jan2025 03:04:41.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[05Jan2025 03:04:42.815] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[05Jan2025 03:04:42.816] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[05Jan2025 03:04:42.881] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[05Jan2025 03:04:47.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[05Jan2025 03:04:48.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[05Jan2025 03:04:48.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[05Jan2025 03:04:53.032] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Oicapse was successful validated after 11 secs.
+[05Jan2025 03:04:53.032] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Oicapse!
+[05Jan2025 03:05:03.871] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 24.25490951538086) to VERY_HIGH (avg. 63.753013610839844)
+[05Jan2025 03:05:04.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> oka
+[05Jan2025 03:05:14.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 timed out
+[05Jan2025 03:05:14.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Oicapse
+[05Jan2025 03:05:14.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[05Jan2025 03:05:18.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 63.753013610839844) to LOW (avg. 23.99565887451172)
+[05Jan2025 03:05:26.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Disconnected
+[05Jan2025 03:05:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[05Jan2025 03:05:26.407] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[05Jan2025 03:05:26.407] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[05Jan2025 03:05:26.455] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 03:06:04.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:52346] logged in with entity id 82002 at (-452.58757481544427, 86.5, -1320.6294023086393)
+[05Jan2025 03:06:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[05Jan2025 03:06:04.159] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/82002, l='ServerLevel[world]', x=-452.59, y=86.50, z=-1320.63] logged in and will be protected for 90 secs.
+[05Jan2025 03:06:04.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[05Jan2025 03:06:04.509] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[05Jan2025 03:06:04.510] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[05Jan2025 03:06:04.511] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[05Jan2025 03:06:10.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[05Jan2025 03:06:11.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[05Jan2025 03:06:11.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[05Jan2025 03:06:19.138] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Oicapse was successful validated after 14 secs.
+[05Jan2025 03:06:19.138] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Oicapse!
+[05Jan2025 03:06:22.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Mariachi?]
+[05Jan2025 03:06:48.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.655282974243164) to VERY_LOW (avg. 19.53156280517578)
+[05Jan2025 03:06:49.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[05Jan2025 03:06:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[05Jan2025 03:06:49.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[05Jan2025 03:06:49.306] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
