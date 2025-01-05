@@ -9266,6 +9266,24 @@
     },
     "done": true
   },
+  "rats:recipes/misc/archeologist/rat_upgrade_basic_ratlantean": {
+    "criteria": {
+      "has_input": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_upgrade_block": {
+    "criteria": {
+      "has_upgrade": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/filter_upgrade": {
+    "criteria": {
+      "has_upgrade": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2025-01-05 01:26:45 +0000"
@@ -9284,9 +9302,39 @@
     },
     "done": true
   },
+  "rats:rat_upgrade_basic": {
+    "criteria": {
+      "get_upgrade": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-01-05 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/blacklist_upgrade": {
+    "criteria": {
+      "has_upgrade": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-01-05 01:53:24 +0000"
+    },
+    "done": true
+  },
+  "rats:cheese_stick": {
+    "criteria": {
+      "get_stick": "2025-01-05 01:58:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/beast_mount_upgrade": {
+    "criteria": {
+      "has_upgrade": "2025-01-05 01:55:44 +0000"
     },
     "done": true
   },
@@ -9296,11 +9344,29 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/placer_upgrade": {
+    "criteria": {
+      "has_upgrade": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-01-05 01:26:45 +0000"
     },
     "done": true
+  },
+  "rats:recipes/misc/upgrades/whitelist_upgrade": {
+    "criteria": {
+      "has_upgrade": "2025-01-05 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "rats:all_hats": {
+    "criteria": {
+      "has_farmer_hat": "2025-01-05 01:56:46 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/tide_green_boots": {
     "criteria": {
