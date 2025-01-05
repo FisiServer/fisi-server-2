@@ -2191,3 +2191,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [05Jan2025 02:24:20.355] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.22181510925293) to NORMAL (avg. 44.63871383666992)
 [05Jan2025 02:24:27.980] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.63871383666992) to VERY_HIGH (avg. 107.38967895507812)
 [05Jan2025 02:24:57.532] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 104.60467529296875) to LOW (avg. 22.19791030883789)
+[05Jan2025 02:25:57.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 21.246946334838867) to VERY_HIGH (avg. 57.981876373291016)
+[05Jan2025 02:26:05.040] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.981876373291016) to NORMAL (avg. 43.5224494934082)
+[05Jan2025 02:26:21.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.5224494934082) to VERY_HIGH (avg. 60.63489532470703)
+[05Jan2025 02:26:29.194] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.63489532470703) to HIGH (avg. 53.51346969604492)
+[05Jan2025 02:26:43.884] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.51346969604492) to VERY_HIGH (avg. 61.78526306152344)
+[05Jan2025 02:27:40.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[05Jan2025 02:27:44.532] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.126014709472656) to NORMAL (avg. 42.264198303222656)
+[05Jan2025 02:27:58.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jan2025 02:28:01.532] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.264198303222656) to LOW (avg. 38.24113845825195)
+[05Jan2025 02:28:09.566] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.24113845825195) to NORMAL (avg. 43.591697692871094)
+[05Jan2025 02:28:16.534] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.591697692871094) to MEDIUM (avg. 46.41419982910156)
+[05Jan2025 02:28:24.048] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.41419982910156) to HIGH (avg. 49.15727996826172)
+[05Jan2025 02:28:31.855] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.15727996826172) to MEDIUM (avg. 47.522239685058594)
+[05Jan2025 02:28:46.532] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.522239685058594) to LOW (avg. 32.67120361328125)
+[05Jan2025 02:29:51.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: StackOk[/100.71.204.76:61784] logged in with entity id 62084 at (-624.2168719689017, -36.0, -1343.862829844312)
+[05Jan2025 02:29:52.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk joined the game
+[05Jan2025 02:29:52.099] [Server thread/INFO] [APTweaks(Player)/]: Player StackOk ServerPlayer['StackOk'/62084, l='ServerLevel[world]', x=-624.22, y=-36.00, z=-1343.86] logged in and will be protected for 90 secs.
+[05Jan2025 02:29:52.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player StackOk completed
+[05Jan2025 02:29:52.844] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of StackOk (18)
+[05Jan2025 02:29:52.844] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to StackOk
+[05Jan2025 02:29:52.919] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 055ba86d-355b-3f9b-af6e-67963e73b10e was loaded
+[05Jan2025 02:29:56.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[05Jan2025 02:29:58.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 055ba86d-355b-3f9b-af6e-67963e73b10e
+[05Jan2025 02:29:59.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 055ba86d-355b-3f9b-af6e-67963e73b10e
+[05Jan2025 02:29:59.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player StackOk (055ba86d-355b-3f9b-af6e-67963e73b10e) successfully connected to voice chat
+[05Jan2025 02:30:01.863] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.6098747253418) to HIGH (avg. 49.212806701660156)
+[05Jan2025 02:30:09.109] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.212806701660156) to NORMAL (avg. 41.934600830078125)
+[05Jan2025 02:30:16.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.934600830078125) to HIGH (avg. 52.20958709716797)
+[05Jan2025 02:30:21.091] [Server thread/INFO] [APTweaks(Player)/]: Protected Player StackOk was successful validated after 28 secs.
+[05Jan2025 02:30:21.091] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player StackOk!
+[05Jan2025 02:30:39.225] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.332252502441406) to NORMAL (avg. 45.19318389892578)
+[05Jan2025 02:30:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Hot Stuff]
+[05Jan2025 02:31:09.032] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.41938018798828) to LOW (avg. 34.91183090209961)
+[05Jan2025 02:31:24.044] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.91183090209961) to MEDIUM (avg. 47.06959915161133)
+[05Jan2025 02:31:39.032] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.06959915161133) to LOW (avg. 34.13330841064453)
+[05Jan2025 02:31:52.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [StackOk: Teleported StackOk to BillyVR15]
+[05Jan2025 02:32:08.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk was doomed to fall by Demon Rat
+[05Jan2025 02:32:08.174] [Server thread/INFO] [tombstone/]: The player StackOk has successfully been saved
+[05Jan2025 02:32:12.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player StackOk completed
+[05Jan2025 02:32:16.534] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.970325469970703) to NORMAL (avg. 44.641395568847656)
+[05Jan2025 02:32:24.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.641395568847656) to MEDIUM (avg. 46.291648864746094)
+[05Jan2025 02:32:39.032] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.291648864746094) to NORMAL (avg. 40.765865325927734)
+[05Jan2025 02:32:46.955] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.765865325927734) to VERY_HIGH (avg. 109.58771514892578)
+[05Jan2025 02:33:01.532] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 109.58771514892578) to LOW (avg. 39.098690032958984)
+[05Jan2025 02:33:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [StackOk: Teleported StackOk to BillyVR15]
+[05Jan2025 02:34:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StackOk has made the advancement [Suit Up]
+[05Jan2025 02:35:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> ._.
+[05Jan2025 02:35:48.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> a
+[05Jan2025 02:35:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> por la update quizas
+[05Jan2025 02:35:56.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> xd
+[05Jan2025 02:36:03.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> en la anterior si atacaba
+[05Jan2025 02:36:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <StackOk> o.O

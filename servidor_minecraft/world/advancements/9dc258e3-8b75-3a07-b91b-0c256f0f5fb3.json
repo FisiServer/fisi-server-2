@@ -9302,6 +9302,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-05 02:30:45 +0000"
+    },
+    "done": true
+  },
   "rats:rat_upgrade_basic": {
     "criteria": {
       "get_upgrade": "2025-01-05 01:55:44 +0000"
