@@ -1303,6 +1303,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-28 18:54:15 +0000",
+      "minecraft:spider": "2025-01-05 02:39:45 +0000",
       "minecraft:zombie": "2024-12-28 18:52:33 +0000"
     },
     "done": false
@@ -3166,6 +3167,7 @@
       "minecraft:river": "2024-12-29 15:41:21 +0000",
       "minecraft:dripstone_caves": "2024-12-29 16:29:37 +0000",
       "minecraft:forest": "2024-12-29 15:41:34 +0000",
+      "minecraft:meadow": "2025-01-05 02:41:31 +0000",
       "minecraft:savanna": "2025-01-05 02:33:43 +0000",
       "minecraft:plains": "2025-01-05 02:32:01 +0000"
     },
@@ -3387,9 +3389,45 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-05 02:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 02:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-05 02:34:16 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2025-01-05 02:38:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-01-05 02:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-05 02:38:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-01-05 02:38:05 +0000"
     },
     "done": true
   },
