@@ -2200,3 +2200,17 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jan2025 21:48:18.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 1.4378147766333882,18.354401258028005,-2.790199882086199
 [06Jan2025 21:48:27.809] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.694766998291016) to VERY_HIGH (avg. 113.9466552734375)
 [06Jan2025 21:48:42.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 113.9466552734375) to LOW (avg. 36.329254150390625)
+[06Jan2025 21:52:46.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved wrongly!
+[06Jan2025 21:53:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano fell from a high place
+[06Jan2025 21:53:05.044] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[06Jan2025 21:53:06.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[06Jan2025 21:53:07.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[06Jan2025 21:54:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Ice Bucket Challenge]
+[06Jan2025 21:55:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> cuanta?
+[06Jan2025 21:55:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> 3 stacks
+[06Jan2025 21:55:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> usa el shift mientras talas para talar todo el arbol
+[06Jan2025 21:56:42.341] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.145118713378906) to VERY_HIGH (avg. 70.84309387207031)
+[06Jan2025 21:56:49.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 70.84309387207031) to LOW (avg. 35.07141876220703)
+[06Jan2025 21:57:25.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> tenemos oro?
+[06Jan2025 21:58:25.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-433, y=111, z=-1366} BlockPos{x=-433, y=110, z=-1366}
+[06Jan2025 21:59:12.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.086421966552734) to NORMAL (avg. 43.70166778564453)

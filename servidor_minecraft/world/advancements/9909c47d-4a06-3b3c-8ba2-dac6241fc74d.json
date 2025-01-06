@@ -8222,6 +8222,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-06 21:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-01-06 21:08:19 +0000"
@@ -8231,6 +8237,12 @@
   "rats:recipes/building_blocks/manhole": {
     "criteria": {
       "has_bars": "2025-01-06 21:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-06 21:47:16 +0000"
     },
     "done": true
   },
@@ -8333,6 +8345,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-06 21:49:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-06 21:01:36 +0000"
@@ -8349,6 +8367,12 @@
     "criteria": {
       "kill_lich": "2025-01-06 21:25:30 +0000",
       "kill_naga": "2025-01-06 21:01:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_2_from_backpack_stack_upgrade_tier_1": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-01-06 21:49:32 +0000"
     },
     "done": true
   },
@@ -8370,9 +8394,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-06 21:47:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/twilight_scepter": {
     "criteria": {
       "has_item": "2025-01-06 21:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-06 21:54:35 +0000"
     },
     "done": true
   },
@@ -8478,6 +8514,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-06 21:47:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "bighorn_sheep": "2025-01-06 20:40:56 +0000"
@@ -8499,6 +8541,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-06 21:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-06 21:47:16 +0000"
     },
     "done": true
   },
@@ -8547,6 +8595,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
     "criteria": {
       "has_item": "2025-01-06 20:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-06 21:47:16 +0000"
     },
     "done": true
   },
@@ -8610,6 +8664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-06 21:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-06 21:01:36 +0000"
@@ -8619,6 +8679,18 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-01-06 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-06 21:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-06 21:54:35 +0000"
     },
     "done": true
   },
