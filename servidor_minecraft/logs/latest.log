@@ -2161,3 +2161,13 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jan2025 21:15:47.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.538537979125977) to VERY_LOW (avg. 15.344766616821289)
 [06Jan2025 21:16:10.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.222768783569336) to LOW (avg. 28.97409439086914)
 [06Jan2025 21:16:32.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.17086410522461) to VERY_LOW (avg. 15.46635627746582)
+[06Jan2025 21:18:47.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.841621398925781) to LOW (avg. 21.248613357543945)
+[06Jan2025 21:18:55.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.248613357543945) to VERY_LOW (avg. 18.026424407958984)
+[06Jan2025 21:19:40.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.257938385009766) to LOW (avg. 23.410476684570312)
+[06Jan2025 21:19:55.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.410476684570312) to VERY_LOW (avg. 15.695980072021484)
+[06Jan2025 21:23:40.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.730300903320312) to LOW (avg. 20.30541229248047)
+[06Jan2025 21:23:47.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.30541229248047) to VERY_LOW (avg. 16.925174713134766)
+[06Jan2025 21:24:05.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [A second youth]
+[06Jan2025 21:25:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Strong Undead]
+[06Jan2025 21:25:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Bring Out Your Dead]
+[06Jan2025 21:25:30.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Bring Out Your Dead]
