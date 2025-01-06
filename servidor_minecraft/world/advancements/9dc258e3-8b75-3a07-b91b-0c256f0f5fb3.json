@@ -10006,15 +10006,35 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-01-06 21:06:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-01-06 20:46:40 +0000",
+      "dark_planks": "2025-01-06 21:08:33 +0000",
       "twilight_oak_slab": "2025-01-06 20:44:35 +0000",
       "canopy_planks": "2025-01-06 20:45:34 +0000",
       "canopy_stairs": "2025-01-06 20:45:29 +0000",
-      "liveroot": "2025-01-06 20:50:41 +0000"
+      "liveroot": "2025-01-06 20:50:41 +0000",
+      "twilight_oak_sapling": "2025-01-06 21:06:30 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_stairs": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
@@ -10034,6 +10054,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_fence": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-06 20:45:41 +0000"
@@ -10043,6 +10069,18 @@
   "twilightforest:recipes/decorations/wood/canopy_fence": {
     "criteria": {
       "has_item": "2025-01-06 20:45:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_slab": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
     },
     "done": true
   },
@@ -10082,9 +10120,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_button": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/material/raw_ironwood": {
     "criteria": {
       "has_item": "2025-01-06 20:50:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_door": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
     },
     "done": true
   },
@@ -10142,9 +10192,21 @@
     },
     "done": true
   },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-01-06 21:11:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "boar": "2025-01-06 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-01-06 21:06:31 +0000"
     },
     "done": true
   },
@@ -10160,6 +10222,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-01-06 21:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-01-06 20:56:49 +0000"
@@ -10172,9 +10240,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-01-06 21:06:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_plate": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/canopy_gate": {
     "criteria": {
       "has_item": "2025-01-06 20:45:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_sign": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
     },
     "done": true
   },
@@ -10199,6 +10285,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-06 20:30:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_chest": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:33 +0000"
     },
     "done": true
   },

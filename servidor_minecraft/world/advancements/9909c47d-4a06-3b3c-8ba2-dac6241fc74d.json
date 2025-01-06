@@ -8216,17 +8216,43 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-01-06 21:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-01-06 21:08:19 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/manhole": {
     "criteria": {
       "has_bars": "2025-01-06 21:03:17 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
-      "twilight_oak_planks": "2025-01-06 20:44:33 +0000"
+      "twilight_oak_planks": "2025-01-06 20:44:33 +0000",
+      "dark_planks": "2025-01-06 21:08:29 +0000",
+      "dark_stairs": "2025-01-06 21:08:19 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_stairs": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
@@ -8246,6 +8272,24 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/wood/dark_fence": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-06 21:08:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-06 20:45:16 +0000"
@@ -8261,6 +8305,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-06 20:45:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_slab": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
     },
     "done": true
   },
@@ -8281,6 +8331,24 @@
       "kill_naga": "2025-01-06 21:01:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-01-06 21:08:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_button": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_door": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
@@ -8372,6 +8440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-06 21:08:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-01-06 20:44:42 +0000"
@@ -8384,6 +8458,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_plate": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_sign": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2025-01-06 20:44:33 +0000"
@@ -8393,6 +8479,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
     "criteria": {
       "has_item": "2025-01-06 20:44:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_chest": {
+    "criteria": {
+      "has_item": "2025-01-06 21:08:29 +0000"
     },
     "done": true
   },
@@ -8426,9 +8518,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-06 21:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-06 21:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-06 21:13:14 +0000"
     },
     "done": true
   },
