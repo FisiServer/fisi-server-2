@@ -10064,6 +10064,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-01-06 21:01:51 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-06 20:30:09 +0000"
@@ -10088,6 +10094,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-01-06 21:01:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/canopy_chest": {
     "criteria": {
       "has_item": "2025-01-06 20:45:34 +0000"
@@ -10106,9 +10118,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-06 20:56:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
       "has_item": "2025-01-06 20:46:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-06 21:02:55 +0000"
     },
     "done": true
   },
@@ -10133,6 +10157,12 @@
   "twilightforest:recipes/building_blocks/wood/canopy_slab": {
     "criteria": {
       "has_item": "2025-01-06 20:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-06 20:56:49 +0000"
     },
     "done": true
   },

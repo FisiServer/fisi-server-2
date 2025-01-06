@@ -2125,3 +2125,20 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jan2025 20:58:09.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
 [06Jan2025 20:58:10.062] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.997840881347656) to NORMAL (avg. 41.00981903076172)
 [06Jan2025 20:58:17.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.00981903076172) to VERY_LOW (avg. 19.35488510131836)
+[06Jan2025 20:58:40.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.933948516845703) to LOW (avg. 31.99457359313965)
+[06Jan2025 20:59:02.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.58214569091797) to VERY_LOW (avg. 17.524574279785156)
+[06Jan2025 20:59:17.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.524574279785156) to LOW (avg. 31.239139556884766)
+[06Jan2025 20:59:47.537] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 21.43868064880371) to NORMAL (avg. 42.34410858154297)
+[06Jan2025 21:00:02.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.34410858154297) to VERY_LOW (avg. 15.344104766845703)
+[06Jan2025 21:00:25.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.874385833740234) to LOW (avg. 21.293319702148438)
+[06Jan2025 21:00:32.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.293319702148438) to VERY_LOW (avg. 13.871917724609375)
+[06Jan2025 21:01:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Time To Even The Scales]
+[06Jan2025 21:01:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Time To Even The Scales]
+[06Jan2025 21:03:55.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.20396614074707) to LOW (avg. 20.57182502746582)
+[06Jan2025 21:04:17.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.104583740234375) to VERY_LOW (avg. 15.274247169494629)
+[06Jan2025 21:04:32.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.274247169494629) to LOW (avg. 25.070945739746094)
+[06Jan2025 21:05:02.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.92322540283203) to VERY_LOW (avg. 19.346527099609375)
+[06Jan2025 21:05:17.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.346527099609375) to LOW (avg. 21.196216583251953)
+[06Jan2025 21:05:32.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.196216583251953) to VERY_LOW (avg. 16.6734561920166)
+[06Jan2025 21:05:55.066] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.34898567199707) to LOW (avg. 32.232154846191406)
+[06Jan2025 21:06:17.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.368898391723633) to VERY_LOW (avg. 15.265846252441406)
