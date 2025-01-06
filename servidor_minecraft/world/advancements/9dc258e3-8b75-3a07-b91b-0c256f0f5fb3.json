@@ -10111,9 +10111,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2025-01-06 21:01:51 +0000"
+      "kill_naga": "2025-01-06 21:01:51 +0000",
+      "was_in_fight": "2025-01-06 21:25:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
@@ -10130,6 +10131,12 @@
   "twilightforest:recipes/redstone/wood/dark_button": {
     "criteria": {
       "has_item": "2025-01-06 21:08:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-01-06 21:33:42 +0000"
     },
     "done": true
   },
@@ -10211,6 +10218,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-01-06 21:25:30 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-01-06 21:20:11 +0000"
@@ -10228,6 +10241,12 @@
       "has_item": "2025-01-06 21:06:31 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-01-06 21:25:30 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
@@ -10360,6 +10379,12 @@
       "has_item": "2025-01-06 20:45:34 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-01-06 21:25:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {

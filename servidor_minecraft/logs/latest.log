@@ -2171,3 +2171,20 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jan2025 21:25:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Strong Undead]
 [06Jan2025 21:25:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Bring Out Your Dead]
 [06Jan2025 21:25:30.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Bring Out Your Dead]
+[06Jan2025 21:30:02.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.112821578979492) to LOW (avg. 33.914676666259766)
+[06Jan2025 21:30:10.052] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.914676666259766) to VERY_LOW (avg. 17.59138298034668)
+[06Jan2025 21:30:26.731] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.59138298034668) to VERY_HIGH (avg. 181.36390686035156)
+[06Jan2025 21:30:28.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[06Jan2025 21:30:34.705] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 181.36390686035156) to LOW (avg. 23.454612731933594)
+[06Jan2025 21:30:36.064] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 31.454617149999997) to NORMAL (avg. 38.88707627)
+[06Jan2025 21:30:43.556] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 38.88707627) to MEDIUM (avg. 41.080156609999996)
+[06Jan2025 21:30:50.962] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 41.080156609999996) to HIGH (avg. 48.41964351)
+[06Jan2025 21:31:04.932] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.410247802734375) to VERY_HIGH (avg. 77.00216674804688)
+[06Jan2025 21:31:19.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 77.00216674804688) to LOW (avg. 29.55657958984375)
+[06Jan2025 21:31:49.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.43023681640625) to VERY_HIGH (avg. 65.88814544677734)
+[06Jan2025 21:31:57.158] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 65.88814544677734) to LOW (avg. 32.710994720458984)
+[06Jan2025 21:32:04.997] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.710994720458984) to VERY_HIGH (avg. 108.11988830566406)
+[06Jan2025 21:32:19.603] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 108.11988830566406) to LOW (avg. 27.801376342773438)
+[06Jan2025 21:32:36.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.58348406) to VERY_HIGH (avg. 52.878717619999996)
+[06Jan2025 21:32:57.368] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.70868682861328) to VERY_HIGH (avg. 70.7552719116211)
+[06Jan2025 21:33:35.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 187.98928833007812) to LOW (avg. 27.300609588623047)
