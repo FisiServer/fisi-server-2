@@ -2188,3 +2188,15 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jan2025 21:32:36.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.58348406) to VERY_HIGH (avg. 52.878717619999996)
 [06Jan2025 21:32:57.368] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.70868682861328) to VERY_HIGH (avg. 70.7552719116211)
 [06Jan2025 21:33:35.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 187.98928833007812) to LOW (avg. 27.300609588623047)
+[06Jan2025 21:45:57.829] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.37574005126953) to VERY_HIGH (avg. 162.03477478027344)
+[06Jan2025 21:46:05.096] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 162.03477478027344) to LOW (avg. 33.17127990722656)
+[06Jan2025 21:46:20.170] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.17127990722656) to MEDIUM (avg. 47.447715759277344)
+[06Jan2025 21:46:35.014] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.447715759277344) to LOW (avg. 25.387502670288086)
+[06Jan2025 21:46:42.646] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.387502670288086) to VERY_HIGH (avg. 57.335567474365234)
+[06Jan2025 21:46:49.898] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.335567474365234) to LOW (avg. 26.16107177734375)
+[06Jan2025 21:47:14.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -1.6337822029526592,-10.531546555149887,-8.868720042300993E-4
+[06Jan2025 21:47:20.294] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.907886505126953) to VERY_HIGH (avg. 108.03956604003906)
+[06Jan2025 21:47:27.494] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 108.03956604003906) to LOW (avg. 32.213348388671875)
+[06Jan2025 21:48:18.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 1.4378147766333882,18.354401258028005,-2.790199882086199
+[06Jan2025 21:48:27.809] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.694766998291016) to VERY_HIGH (avg. 113.9466552734375)
+[06Jan2025 21:48:42.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 113.9466552734375) to LOW (avg. 36.329254150390625)
