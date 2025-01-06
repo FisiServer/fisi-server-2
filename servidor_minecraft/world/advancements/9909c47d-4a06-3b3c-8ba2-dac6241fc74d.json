@@ -110,6 +110,7 @@
       "redstone_abyss": "2025-01-03 16:18:45 +0000",
       "pine_taiga": "2024-12-30 16:41:58 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:13 +0000",
+      "muddy_river": "2025-01-06 22:21:57 +0000",
       "prismachasm": "2024-12-29 19:55:57 +0000",
       "ancient_delta": "2024-12-31 02:42:22 +0000",
       "marsh": "2024-12-30 16:42:50 +0000",
@@ -155,6 +156,7 @@
       "dry_bushland": "2024-12-29 22:04:52 +0000",
       "pine_taiga": "2024-12-30 16:41:58 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:13 +0000",
+      "muddy_river": "2025-01-06 22:21:57 +0000",
       "marsh": "2024-12-30 16:42:50 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
       "frozen_tundra": "2024-12-30 15:19:31 +0000",
@@ -1181,6 +1183,7 @@
       "minecraft:jagged_peaks": "2024-12-29 22:10:11 +0000",
       "minecraft:cold_ocean": "2024-12-30 15:16:38 +0000",
       "minecraft:forest": "2024-12-29 21:38:01 +0000",
+      "minecraft:lush_caves": "2025-01-06 22:29:59 +0000",
       "minecraft:desert": "2024-12-29 22:05:24 +0000",
       "minecraft:jungle": "2024-12-29 22:03:14 +0000",
       "minecraft:ocean": "2024-12-30 16:42:28 +0000",
@@ -8222,6 +8225,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-01-06 21:47:16 +0000"
@@ -8234,15 +8243,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/manhole": {
     "criteria": {
       "has_bars": "2025-01-06 21:03:17 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-01-06 22:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-01-06 21:47:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 22:25:04 +0000"
     },
     "done": true
   },
@@ -8266,9 +8323,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-01-06 20:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
     },
     "done": true
   },
@@ -8297,6 +8366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-06 21:08:19 +0000"
@@ -8309,15 +8384,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 22:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-06 20:45:16 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-06 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-06 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-01-06 20:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
     },
     "done": true
   },
@@ -8333,9 +8450,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-06 22:05:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-01-06 21:25:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-01-06 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/dye_sponge": {
+    "criteria": {
+      "has_sponge": "2025-01-06 22:37:46 +0000"
     },
     "done": true
   },
@@ -8357,9 +8498,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-01-06 22:22:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
       "has_item": "2025-01-06 20:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
     },
     "done": true
   },
@@ -8376,9 +8535,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 22:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 22:37:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-01-06 21:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-06 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-06 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
     },
     "done": true
   },
@@ -8406,6 +8595,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-06 21:54:35 +0000"
@@ -8421,6 +8616,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-01-06 21:01:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
     },
     "done": true
   },
@@ -8451,6 +8652,18 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-06 20:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-06 22:10:49 +0000"
     },
     "done": true
   },
@@ -8490,9 +8703,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-06 20:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
     },
     "done": true
   },
@@ -8520,9 +8745,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-06 22:05:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "bighorn_sheep": "2025-01-06 20:40:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-01-06 22:08:21 +0000"
     },
     "done": true
   },
@@ -8535,6 +8790,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-01-06 20:44:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 22:25:04 +0000"
     },
     "done": true
   },
@@ -8556,6 +8817,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-06 20:44:42 +0000"
@@ -8574,6 +8841,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-06 22:31:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_sign": {
     "criteria": {
       "has_item": "2025-01-06 21:08:29 +0000"
@@ -8583,6 +8856,12 @@
   "twilightforest:recipes/food/food/campfired_venison": {
     "criteria": {
       "has_food": "2025-01-06 21:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
     },
     "done": true
   },
@@ -8598,6 +8877,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-01-06 21:47:16 +0000"
@@ -8607,6 +8904,30 @@
   "twilightforest:recipes/decorations/wood/dark_chest": {
     "criteria": {
       "has_item": "2025-01-06 21:08:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-01-06 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-06 22:33:10 +0000"
     },
     "done": true
   },
@@ -8628,6 +8949,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-06 20:45:16 +0000"
@@ -8646,15 +8973,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2025-01-06 21:25:30 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-06 22:05:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
     "criteria": {
       "has_backpack_stack_upgrade": "2025-01-06 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-06 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-01-06 22:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
     },
     "done": true
   },
@@ -8670,6 +9033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 22:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-06 21:01:36 +0000"
@@ -8679,6 +9048,18 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-01-06 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:08:21 +0000"
     },
     "done": true
   },

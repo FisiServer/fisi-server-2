@@ -144,6 +144,7 @@
       "towering_cliffs": "2024-12-30 14:00:02 +0000",
       "chalk_cliffs": "2024-12-29 22:31:41 +0000",
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
+      "cold_boreal_taiga": "2025-01-06 22:26:03 +0000",
       "saguaro_desert": "2024-12-29 21:03:24 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
       "cold_river": "2024-12-29 17:10:19 +0000",
@@ -198,6 +199,7 @@
       "towering_cliffs": "2024-12-30 14:00:02 +0000",
       "chalk_cliffs": "2024-12-29 22:31:41 +0000",
       "bamboo_forest": "2024-12-28 19:15:46 +0000",
+      "cold_boreal_taiga": "2025-01-06 22:26:03 +0000",
       "saguaro_desert": "2024-12-29 21:03:24 +0000",
       "temperate_grove": "2024-12-28 19:16:07 +0000",
       "cold_river": "2024-12-29 17:10:19 +0000",
@@ -1634,6 +1636,7 @@
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
       "minecraft:piglin_brute": "2025-01-04 19:25:01 +0000",
       "minecraft:creeper": "2024-12-31 03:35:53 +0000",
+      "minecraft:wither": "2025-01-06 22:13:49 +0000",
       "minecraft:witch": "2025-01-06 21:23:30 +0000",
       "minecraft:wither_skeleton": "2025-01-03 16:26:45 +0000",
       "minecraft:piglin": "2025-01-04 19:08:10 +0000",
@@ -10013,6 +10016,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:34:59 +0000"
@@ -10022,6 +10031,12 @@
   "sophisticatedstorage:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10067,6 +10082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-06 22:29:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:42:15 +0000"
@@ -10076,6 +10097,12 @@
   "twilightforest:recipes/decorations/wood/canopy_sign": {
     "criteria": {
       "has_item": "2025-01-06 20:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10091,6 +10118,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:42:15 +0000"
@@ -10100,6 +10133,12 @@
   "sophisticatedstorage:recipes/misc/decoration_table": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10133,6 +10172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:34:59 +0000"
@@ -10142,6 +10187,12 @@
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:34:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10175,6 +10226,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 22:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1_plus": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:46:35 +0000"
@@ -10193,9 +10256,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10248,6 +10323,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-06 20:30:09 +0000"
@@ -10272,9 +10353,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10320,6 +10419,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 21:34:59 +0000"
@@ -10350,6 +10461,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/dark_door": {
     "criteria": {
       "has_item": "2025-01-06 21:08:33 +0000"
@@ -10359,6 +10476,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-01-06 20:44:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10422,6 +10545,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-06 22:10:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
       "has_item": "2025-01-06 20:46:40 +0000"
@@ -10434,6 +10563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
     "criteria": {
       "has_item": "2025-01-06 20:46:40 +0000"
@@ -10443,6 +10578,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-01-06 21:36:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-06 22:12:20 +0000"
     },
     "done": true
   },
@@ -10512,9 +10653,21 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/god_upgrade": {
+    "criteria": {
+      "has_star": "2025-01-06 22:13:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-01-06 20:46:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10530,6 +10683,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
     "criteria": {
       "has_item": "2025-01-06 21:06:31 +0000"
@@ -10539,6 +10698,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-01-06 20:56:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10602,9 +10767,27 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-06 22:30:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/canopy_gate": {
     "criteria": {
       "has_item": "2025-01-06 20:45:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/time_manipulator_upgrade": {
+    "criteria": {
+      "has_star": "2025-01-06 22:13:50 +0000"
     },
     "done": true
   },
@@ -10632,9 +10815,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2025-01-06 20:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-06 22:13:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10698,6 +10899,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-06 20:44:34 +0000"
@@ -10716,9 +10923,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-01-06 20:46:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10731,6 +10956,12 @@
   "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
     "criteria": {
       "has_item": "2025-01-06 20:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-06 22:30:26 +0000"
     },
     "done": true
   },
@@ -10851,6 +11082,12 @@
   "twilightforest:recipes/food/food/smoked_venison": {
     "criteria": {
       "has_food": "2025-01-06 21:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-06 22:29:15 +0000"
     },
     "done": true
   },
