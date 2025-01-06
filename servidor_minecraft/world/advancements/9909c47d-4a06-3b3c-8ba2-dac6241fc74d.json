@@ -7716,6 +7716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 06:21:18 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/marbled_cheese_stairs": {
     "criteria": {
       "has_cheese": "2025-01-05 05:13:09 +0000"
@@ -8004,6 +8010,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-05 06:08:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick_stairs": {
     "criteria": {
       "has_input": "2025-01-05 05:13:09 +0000"
@@ -8049,6 +8061,12 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-05 05:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 06:21:18 +0000"
     },
     "done": true
   },
@@ -8175,6 +8193,12 @@
   "rats:recipes/building_blocks/stonecutting/marbled_cheese_brick_to_stairs": {
     "criteria": {
       "has_input": "2025-01-05 05:12:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-05 06:08:03 +0000"
     },
     "done": true
   },
