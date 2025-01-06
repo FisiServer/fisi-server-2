@@ -2106,3 +2106,22 @@ io.netty.channel.StacklessClosedChannelException: null
 [06Jan2025 20:47:32.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.924602508544922) to VERY_LOW (avg. 17.020750045776367)
 [06Jan2025 20:47:47.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.020750045776367) to LOW (avg. 28.2207088470459)
 [06Jan2025 20:47:55.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.2207088470459) to VERY_LOW (avg. 19.54030990600586)
+[06Jan2025 20:48:24.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano fell from a high place
+[06Jan2025 20:48:24.648] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[06Jan2025 20:48:27.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[06Jan2025 20:48:33.443] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.373809814453125) to VERY_HIGH (avg. 224.9524688720703)
+[06Jan2025 20:48:47.517] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 224.9524688720703) to VERY_LOW (avg. 11.97738265991211)
+[06Jan2025 20:49:32.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.74972915649414) to LOW (avg. 20.7718505859375)
+[06Jan2025 20:50:25.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.482192993164062) to VERY_LOW (avg. 15.768182754516602)
+[06Jan2025 20:50:47.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.86408805847168) to LOW (avg. 22.367156982421875)
+[06Jan2025 20:51:10.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.37582778930664) to VERY_LOW (avg. 13.925979614257812)
+[06Jan2025 20:51:41.180] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[06Jan2025 20:52:10.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.130401611328125) to LOW (avg. 28.73678207397461)
+[06Jan2025 20:52:25.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.73678207397461) to VERY_LOW (avg. 15.11624526977539)
+[06Jan2025 20:57:17.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.91791534423828) to LOW (avg. 21.77458953857422)
+[06Jan2025 20:57:47.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.34578514099121) to VERY_LOW (avg. 14.512811660766602)
+[06Jan2025 20:58:06.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano fell from a high place
+[06Jan2025 20:58:06.670] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[06Jan2025 20:58:09.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[06Jan2025 20:58:10.062] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.997840881347656) to NORMAL (avg. 41.00981903076172)
+[06Jan2025 20:58:17.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.00981903076172) to VERY_LOW (avg. 19.35488510131836)
