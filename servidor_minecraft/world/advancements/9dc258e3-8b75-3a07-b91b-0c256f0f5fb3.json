@@ -1633,6 +1633,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-03 16:26:49 +0000",
       "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
+      "minecraft:guardian": "2025-01-08 04:53:44 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
       "minecraft:piglin_brute": "2025-01-04 19:25:01 +0000",
       "minecraft:creeper": "2024-12-31 03:35:53 +0000",
@@ -11188,6 +11189,12 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_deepslate_mineshaft": "2025-01-08 04:57:05 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-01-08 03:37:54 +0000"
@@ -11221,6 +11228,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-08 03:33:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mangrove_shrub": {
+    "criteria": {
+      "has_mangrove_propagule": "2025-01-08 05:00:24 +0000"
     },
     "done": true
   },
@@ -11281,6 +11294,12 @@
   "alexscaves:alexscaves/radon_bottle": {
     "criteria": {
       "radon_bottle": "2025-01-08 03:21:24 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_deepslate_mineshaft": "2025-01-08 04:57:05 +0000"
     },
     "done": true
   },
@@ -11353,6 +11372,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-08 03:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-08 04:58:00 +0000"
     },
     "done": true
   },
@@ -11467,6 +11492,12 @@
   "alexsmobs:alexsmobs/tame_capuchin": {
     "criteria": {
       "tame": "2025-01-08 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-08 04:48:05 +0000"
     },
     "done": true
   },
