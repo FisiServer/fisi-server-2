@@ -5439,6 +5439,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/buccaneer_upgrade": {
+    "criteria": {
+      "has_eye": "2025-01-08 03:01:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_fishing_rod": {
     "criteria": {
       "has_fishing_rod": "2025-01-08 02:34:14 +0000"
@@ -5481,9 +5487,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-08 03:05:24 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_tile": {
     "criteria": {
       "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/ectoplasm_from_cutlass": {
+    "criteria": {
+      "has_cutlass": "2025-01-08 03:02:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_2_from_backpack_stack_upgrade_tier_1": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-01-08 03:05:24 +0000"
     },
     "done": true
   },
@@ -5583,6 +5607,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-01-08 03:02:09 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_chiseled": {
     "criteria": {
       "has_input": "2025-01-08 02:15:37 +0000"
@@ -5673,6 +5703,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/ethereal_upgrade": {
+    "criteria": {
+      "has_cutlass": "2025-01-08 03:02:30 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/marbled_cheese_slab": {
     "criteria": {
       "has_cheese": "2025-01-08 02:15:37 +0000"
@@ -5700,6 +5736,12 @@
   "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
     "criteria": {
       "has_felicia_daisy": "2025-01-08 02:17:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/ghost_pirat_cutlass": {
+    "criteria": {
+      "has_cutlass": "2025-01-08 03:01:56 +0000"
     },
     "done": true
   },

@@ -2190,3 +2190,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [08Jan2025 03:01:37.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
 [08Jan2025 03:01:41.390] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 12 secs.
 [08Jan2025 03:01:41.390] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[08Jan2025 03:02:09.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Re-Extinct]
+[08Jan2025 03:02:43.139] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.039020538330078) to LOW (avg. 35.00194549560547)
+[08Jan2025 03:04:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> billy
+[08Jan2025 03:04:21.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[08Jan2025 03:04:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> cristina esta usando abuso verbal
+[08Jan2025 03:04:34.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddd
+[08Jan2025 03:04:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ahora fisico
+[08Jan2025 03:04:39.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no dije nd
+[08Jan2025 03:05:48.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[08Jan2025 03:05:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[08Jan2025 03:05:48.679] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[08Jan2025 03:05:48.679] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[08Jan2025 03:05:48.722] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 03:06:05.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.64406204223633) to VERY_LOW (avg. 11.08607292175293)
+[08Jan2025 03:08:05.639] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.532620429992676) to LOW (avg. 26.98457145690918)
+[08Jan2025 03:08:20.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.98457145690918) to VERY_LOW (avg. 11.652408599853516)
+[08Jan2025 03:12:13.614] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.60513687133789) to VERY_HIGH (avg. 104.43568420410156)
