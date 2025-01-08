@@ -5403,6 +5403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-08 02:45:57 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_pillar": {
     "criteria": {
       "has_input": "2025-01-08 02:15:37 +0000"
@@ -5430,6 +5436,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-08 02:34:14 +0000"
     },
     "done": true
   },
@@ -5472,6 +5484,12 @@
   "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_tile": {
     "criteria": {
       "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-08 02:34:14 +0000"
     },
     "done": true
   },
@@ -5589,6 +5607,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-08 02:34:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-01-08 02:16:08 +0000"
@@ -5660,6 +5684,12 @@
       "has_acacia_planks": "2025-01-08 02:16:08 +0000"
     },
     "done": true
+  },
+  "rats:all_hats": {
+    "criteria": {
+      "has_santa_hat": "2025-01-08 02:51:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
