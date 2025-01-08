@@ -5397,5 +5397,281 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_pillar": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_stairs": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_tile": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_stairs": {
+    "criteria": {
+      "has_cheese": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick_chiseled": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_pillar": {
+    "criteria": {
+      "has_cheese": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-01-08 02:18:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_black": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick_slab": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/cracked_marble_cheese_smelting": {
+    "criteria": {
+      "has_cheese": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_chiseled": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_slab": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_brick": {
+    "criteria": {
+      "has_cheese": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/black_marbled_cheese": {
+    "criteria": {
+      "has_cheese": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/stonecutting/marbled_cheese_to_brick_stairs": {
+    "criteria": {
+      "has_input": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_tile": {
+    "criteria": {
+      "has_cheese": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_slab": {
+    "criteria": {
+      "has_cheese": "2025-01-08 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+    "criteria": {
+      "has_felicia_daisy": "2025-01-08 02:17:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
