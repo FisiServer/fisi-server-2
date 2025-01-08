@@ -11188,6 +11188,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-01-08 03:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-01-08 03:02:57 +0000"
@@ -11212,6 +11218,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-01-08 03:21:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_starter_tier_from_storage_stack_upgrade_tier_1_plus": {
     "criteria": {
       "has_storage_stack_upgrade": "2025-01-08 03:03:45 +0000"
@@ -11230,9 +11242,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-08 03:19:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/stack_upgrade_tier_2_from_tier_1_plus": {
     "criteria": {
       "has_upgrade_base": "2025-01-08 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-08 03:19:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-08 03:19:44 +0000"
     },
     "done": true
   },
