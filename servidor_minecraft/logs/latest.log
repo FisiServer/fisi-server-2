@@ -2319,3 +2319,13 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 17:28:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.51511573791504) to LOW (avg. 22.8773193359375)
 [09Jan2025 17:30:00.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> estoy en una estructura
 [09Jan2025 17:30:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> hay 2 fortalezas en una
+[09Jan2025 17:31:22.358] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.573474884033203) to NORMAL (avg. 45.137229919433594)
+[09Jan2025 17:31:23.548] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from LOW (avg. 27.34102589) to NORMAL (avg. 38.33253094)
+[09Jan2025 17:31:29.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.137229919433594) to LOW (avg. 27.562877655029297)
+[09Jan2025 17:37:06.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Piglin Brute
+[09Jan2025 17:37:06.735] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[09Jan2025 17:37:09.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[09Jan2025 17:37:14.708] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.536849975585938) to MEDIUM (avg. 47.98719024658203)
+[09Jan2025 17:37:28.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Oh Shiny]
+[09Jan2025 17:37:29.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.98719024658203) to LOW (avg. 23.32269287109375)
+[09Jan2025 17:40:11.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [Return to Sender]
