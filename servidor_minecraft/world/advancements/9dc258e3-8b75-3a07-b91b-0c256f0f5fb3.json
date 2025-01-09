@@ -11673,6 +11673,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-01-09 18:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
@@ -11691,9 +11697,21 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-01-09 18:34:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/dye_sponge": {
+    "criteria": {
+      "has_sponge": "2025-01-09 18:46:51 +0000"
     },
     "done": true
   },
@@ -11724,6 +11742,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-01-09 18:35:36 +0000"
     },
     "done": true
   },
