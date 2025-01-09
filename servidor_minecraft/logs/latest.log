@@ -2343,3 +2343,85 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 18:00:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
 [09Jan2025 18:00:24.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
 [09Jan2025 18:01:21.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -9.30368411896643,0.6367499999999993,-5.550837979614698
+[09Jan2025 18:04:44.699] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.686128616333008) to LOW (avg. 21.060277938842773)
+[09Jan2025 18:04:52.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.060277938842773) to VERY_LOW (avg. 17.95345687866211)
+[09Jan2025 18:04:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.95345687866211) to LOW (avg. 24.03653907775879)
+[09Jan2025 18:05:07.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.03653907775879) to VERY_LOW (avg. 18.552656173706055)
+[09Jan2025 18:05:22.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.552656173706055) to LOW (avg. 21.84198570251465)
+[09Jan2025 18:06:13.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[09Jan2025 18:06:44.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.809274673461914) to VERY_LOW (avg. 19.907466888427734)
+[09Jan2025 18:06:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[09Jan2025 18:07:52.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.9820556640625) to LOW (avg. 20.340389251708984)
+[09Jan2025 18:07:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.340389251708984) to VERY_LOW (avg. 19.291858673095703)
+[09Jan2025 18:08:29.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.386281967163086) to LOW (avg. 21.2847843170166)
+[09Jan2025 18:08:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[09Jan2025 18:08:44.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.2847843170166) to VERY_LOW (avg. 18.045061111450195)
+[09Jan2025 18:09:10.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[09Jan2025 18:09:14.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.507976531982422) to LOW (avg. 23.860807418823242)
+[09Jan2025 18:11:36.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:36.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:36.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.528] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:37.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.371] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.467] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.572] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.770] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.871] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:38.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:39.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:42.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:42.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:42.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:42.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:11:52.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[09Jan2025 18:12:04.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[09Jan2025 18:12:11.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no hay nadaaaaaaa
+[09Jan2025 18:12:25.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[09Jan2025 18:12:29.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> yo sigo buscando
+[09Jan2025 18:12:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> que se me acabe el efecto y te llamo
+[09Jan2025 18:13:07.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.804325103759766) to VERY_LOW (avg. 12.854902267456055)
+[09Jan2025 18:14:38.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:38.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:14:39.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2488, y=51, z=-2060} BlockPos{x=-2490, y=51, z=-2063}
+[09Jan2025 18:15:22.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> 2 segundos te descuide
+[09Jan2025 18:15:26.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[09Jan2025 18:15:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> y desapareces
+[09Jan2025 18:15:30.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[09Jan2025 18:16:26.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2544, y=57, z=-2155} BlockPos{x=-2544, y=56, z=-2154}
+[09Jan2025 18:17:07.299] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.44028377532959) to LOW (avg. 38.3233528137207)
+[09Jan2025 18:17:14.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 38.3233528137207) to VERY_LOW (avg. 18.876373291015625)
+[09Jan2025 18:19:52.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.40433120727539) to LOW (avg. 20.198715209960938)
+[09Jan2025 18:19:55.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[09Jan2025 18:19:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.198715209960938) to VERY_LOW (avg. 18.221635818481445)
+[09Jan2025 18:20:06.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
