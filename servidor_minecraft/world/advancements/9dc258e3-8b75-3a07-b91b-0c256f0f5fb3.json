@@ -110,6 +110,7 @@
       "redstone_abyss": "2025-01-03 16:18:43 +0000",
       "steppe": "2024-12-31 02:55:59 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
+      "bayou": "2025-01-09 15:47:53 +0000",
       "muddy_river": "2024-12-30 00:58:05 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:12 +0000",
       "prismachasm": "2024-12-29 19:56:57 +0000",
@@ -170,6 +171,7 @@
       "dry_bushland": "2024-12-29 21:01:40 +0000",
       "steppe": "2024-12-31 02:55:59 +0000",
       "pine_taiga": "2024-12-29 17:06:00 +0000",
+      "bayou": "2025-01-09 15:47:53 +0000",
       "muddy_river": "2024-12-30 00:58:05 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:12 +0000",
       "marsh": "2024-12-30 16:42:48 +0000",
@@ -3151,6 +3153,7 @@
       "minecraft:dripstone_caves": "2024-12-29 20:27:58 +0000",
       "minecraft:snowy_taiga": "2024-12-30 01:13:35 +0000",
       "minecraft:grove": "2024-12-29 22:34:35 +0000",
+      "minecraft:swamp": "2025-01-09 15:47:56 +0000",
       "minecraft:jagged_peaks": "2025-01-05 03:02:29 +0000",
       "minecraft:cold_ocean": "2024-12-30 01:10:49 +0000",
       "minecraft:forest": "2024-12-29 15:39:00 +0000",
@@ -11528,6 +11531,48 @@
   "regions_unexplored:recipes/decorations/mangrove_shrub": {
     "criteria": {
       "has_mangrove_propagule": "2025-01-08 05:00:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-01-09 15:46:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/ratfish": {
+    "criteria": {
+      "has_input": "2025-01-09 15:49:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/rat_toga": {
+    "criteria": {
+      "has_input": "2025-01-09 15:45:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:48 +0000"
     },
     "done": true
   },
