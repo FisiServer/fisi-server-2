@@ -8043,10 +8043,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-03 16:23:06 +0000",
       "minecraft:nether_wastes": "2025-01-03 16:17:38 +0000",
+      "minecraft:soul_sand_valley": "2025-01-09 16:51:16 +0000",
       "minecraft:basalt_deltas": "2025-01-03 16:43:23 +0000",
       "minecraft:warped_forest": "2025-01-03 16:18:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
@@ -11538,9 +11539,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/stolen_magic": {
+  "rats:recipes/misc/archeologist/rat_toga": {
     "criteria": {
-      "coded_trigger": "2025-01-09 16:12:52 +0000"
+      "has_input": "2025-01-09 15:45:09 +0000"
     },
     "done": true
   },
@@ -11550,31 +11551,25 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
-    "criteria": {
-      "has_brimwood_planks": "2025-01-09 16:23:33 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-01-09 15:46:48 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
-    "criteria": {
-      "has_brimwood_planks": "2025-01-09 16:23:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
-    "criteria": {
-      "has_logs": "2025-01-09 16:23:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-01-09 15:46:48 +0000"
     },
@@ -11586,27 +11581,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+  "tombstone:adventure/stolen_magic": {
     "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-01-09 16:33:04 +0000"
+      "coded_trigger": "2025-01-09 16:12:52 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/archeologist/rat_toga": {
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
     "criteria": {
-      "has_input": "2025-01-09 15:45:09 +0000"
+      "has_logs": "2025-01-09 16:23:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-09 16:33:04 +0000"
+      "has_log": "2025-01-09 16:23:27 +0000"
     },
     "done": true
   },
-  "regions_unexplored:downer": {
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
     "criteria": {
-      "dorcel": "2025-01-09 16:24:18 +0000"
+      "has_brimwood_planks": "2025-01-09 16:23:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-09 16:23:33 +0000"
     },
     "done": true
   },
@@ -11628,21 +11629,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 16:23:27 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/brimwood_button": {
     "criteria": {
       "has_brimwood_planks": "2025-01-09 16:23:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-09 15:46:48 +0000"
     },
     "done": true
   },
@@ -11658,15 +11647,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2025-01-09 15:46:48 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/brimwood_door": {
     "criteria": {
       "has_brimwood_planks": "2025-01-09 16:23:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-01-09 16:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-09 16:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-09 16:33:04 +0000"
     },
     "done": true
   },

@@ -6472,10 +6472,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-03 16:23:35 +0000",
       "minecraft:nether_wastes": "2025-01-03 16:17:33 +0000",
+      "minecraft:soul_sand_valley": "2025-01-09 16:51:52 +0000",
       "minecraft:warped_forest": "2025-01-03 16:18:36 +0000",
       "minecraft:basalt_deltas": "2025-01-04 19:58:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
