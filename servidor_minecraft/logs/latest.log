@@ -2164,3 +2164,20 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 16:25:18.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
 [09Jan2025 16:26:04.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
 [09Jan2025 16:27:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Downer]
+[09Jan2025 16:31:23.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.428651809692383) to LOW (avg. 24.16471290588379)
+[09Jan2025 16:31:39.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no hay nada xd
+[09Jan2025 16:31:59.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> espera
+[09Jan2025 16:33:08.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.569202423095703) to VERY_LOW (avg. 11.666099548339844)
+[09Jan2025 16:35:54.241] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[09Jan2025 16:38:04.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved wrongly!
+[09Jan2025 16:40:49.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved wrongly!
+[09Jan2025 16:41:06.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved wrongly!
+[09Jan2025 16:41:26.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved wrongly!
+[09Jan2025 16:44:45.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.906597137451172) to LOW (avg. 21.611391067504883)
+[09Jan2025 16:44:53.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.611391067504883) to VERY_LOW (avg. 17.32064437866211)
+[09Jan2025 16:48:00.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.457693099975586) to LOW (avg. 21.060646057128906)
+[09Jan2025 16:48:08.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.060646057128906) to VERY_LOW (avg. 18.349063873291016)
+[09Jan2025 16:50:00.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.73837661743164) to LOW (avg. 20.6472225189209)
+[09Jan2025 16:50:01.090] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[09Jan2025 16:50:01.091] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[09Jan2025 16:50:08.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.6472225189209) to VERY_LOW (avg. 19.593019485473633)
