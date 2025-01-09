@@ -2329,3 +2329,10 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 17:37:28.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Oh Shiny]
 [09Jan2025 17:37:29.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.98719024658203) to LOW (avg. 23.32269287109375)
 [09Jan2025 17:40:11.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [Return to Sender]
+[09Jan2025 17:47:00.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> te fuiste a casa?
+[09Jan2025 17:47:05.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no
+[09Jan2025 17:47:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> donde poronga estas? xd
+[09Jan2025 17:47:36.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> sigo en los pilares xd
+[09Jan2025 17:47:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.02125358581543) to VERY_LOW (avg. 18.884681701660156)
+[09Jan2025 17:49:22.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.46689224243164) to LOW (avg. 20.791597366333008)
+[09Jan2025 17:49:44.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.08855438232422) to VERY_LOW (avg. 18.217269897460938)

@@ -1636,6 +1636,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-03 16:26:49 +0000",
       "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
+      "minecraft:ghast": "2025-01-09 17:40:11 +0000",
       "minecraft:guardian": "2025-01-08 04:53:44 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
       "minecraft:piglin_brute": "2025-01-04 19:25:01 +0000",
@@ -11740,6 +11741,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-09 17:40:11 +0000"
     },
     "done": true
   },
