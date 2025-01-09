@@ -131,8 +131,10 @@
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
       "deciduous_forest": "2024-12-29 19:53:49 +0000",
       "boreal_forest": "2024-12-30 15:16:49 +0000",
+      "glistering_meadow": "2025-01-09 16:23:17 +0000",
       "blackstone_basin": "2025-01-03 16:30:16 +0000",
       "towering_cliffs": "2024-12-30 16:45:32 +0000",
+      "infernal_holt": "2025-01-09 16:23:20 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
       "cold_boreal_taiga": "2024-12-31 02:33:31 +0000",
       "temperate_grove": "2024-12-29 21:19:50 +0000",
@@ -1759,6 +1761,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-03 16:27:34 +0000",
       "minecraft:skeleton": "2024-12-29 20:10:59 +0000",
+      "minecraft:hoglin": "2025-01-09 16:25:59 +0000",
       "minecraft:guardian": "2025-01-08 04:54:22 +0000",
       "minecraft:magma_cube": "2025-01-04 20:01:28 +0000",
       "minecraft:spider": "2024-12-29 21:01:54 +0000",
@@ -6477,9 +6480,11 @@
     "criteria": {
       "mycotoxic_undergrowth": "2025-01-03 16:17:35 +0000",
       "blackstone_basin": "2025-01-03 16:30:16 +0000",
-      "redstone_abyss": "2025-01-03 16:18:45 +0000"
+      "infernal_holt": "2025-01-09 16:23:20 +0000",
+      "redstone_abyss": "2025-01-03 16:18:45 +0000",
+      "glistering_meadow": "2025-01-09 16:23:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
@@ -9404,6 +9409,12 @@
   "rats:recipes/misc/archeologist/ratfish": {
     "criteria": {
       "has_input": "2025-01-09 16:02:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-01-09 16:27:03 +0000"
     },
     "done": true
   },
