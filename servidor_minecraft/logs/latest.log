@@ -2425,3 +2425,15 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 18:19:55.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
 [09Jan2025 18:19:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.198715209960938) to VERY_LOW (avg. 18.221635818481445)
 [09Jan2025 18:20:06.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[09Jan2025 18:22:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[09Jan2025 18:22:33.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[09Jan2025 18:22:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[09Jan2025 18:23:11.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> oeste?
+[09Jan2025 18:23:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[09Jan2025 18:26:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.932405471801758) to LOW (avg. 20.149194717407227)
+[09Jan2025 18:27:29.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.83815574645996) to VERY_LOW (avg. 17.169715881347656)
+[09Jan2025 18:29:29.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.859935760498047) to LOW (avg. 20.54191017150879)
+[09Jan2025 18:29:44.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.54191017150879) to VERY_LOW (avg. 17.143932342529297)
+[09Jan2025 18:30:02.769] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 18:30:52.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.63461685180664) to LOW (avg. 21.20768165588379)
+[09Jan2025 18:30:59.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.20768165588379) to VERY_LOW (avg. 18.287193298339844)
