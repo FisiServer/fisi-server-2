@@ -11671,5 +11671,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 17:10:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
