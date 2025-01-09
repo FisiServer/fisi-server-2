@@ -9401,5 +9401,11 @@
     },
     "done": true
   },
+  "rats:recipes/misc/archeologist/ratfish": {
+    "criteria": {
+      "has_input": "2025-01-09 16:02:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

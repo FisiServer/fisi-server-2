@@ -2114,3 +2114,36 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 15:58:38.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.677371978759766) to LOW (avg. 31.127117156982422)
 [09Jan2025 15:58:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> las casas de afuera tambien?
 [09Jan2025 15:59:01.749] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 20.222015380859375) to VERY_HIGH (avg. 236.3158416748047)
+[09Jan2025 15:59:08.619] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 236.3158416748047) to LOW (avg. 22.605388641357422)
+[09Jan2025 15:59:24.255] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.605388641357422) to MEDIUM (avg. 47.070045471191406)
+[09Jan2025 15:59:25.581] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 46.81785391) to VERY_HIGH (avg. 54.058125659999995)
+[09Jan2025 15:59:30.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.070045471191406) to LOW (avg. 24.380054473876953)
+[09Jan2025 16:03:13.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-469, y=73, z=-1342} BlockPos{x=-469, y=72, z=-1342}
+[09Jan2025 16:03:13.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-469, y=73, z=-1342} BlockPos{x=-469, y=72, z=-1342}
+[09Jan2025 16:07:08.442] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 24.25128746032715) to HIGH (avg. 53.30669403076172)
+[09Jan2025 16:07:23.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.30669403076172) to LOW (avg. 23.470600128173828)
+[09Jan2025 16:08:11.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 0.0,10.520414203607942,1.8695573769030034
+[09Jan2025 16:11:28.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -6.6467153152831315,5.8325645604495975,5.405563551770456
+[09Jan2025 16:12:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Stolen Magic]
+[09Jan2025 16:14:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was exterminated by The Baby Leviathan 's laser
+[09Jan2025 16:14:36.742] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[09Jan2025 16:14:38.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[09Jan2025 16:14:41.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[09Jan2025 16:15:59.160] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/977, l='ServerLevel[world]', x=-1002.97, y=96.00, z=-610.90] at TeleportTarget{pitch=24.029087, position=(-118.97066239050673, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=8.999461}
+[09Jan2025 16:16:00.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.5573616027832) to NORMAL (avg. 42.168094635009766)
+[09Jan2025 16:16:02.576] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['Sgirano'/1621, l='ServerLevel[world]', x=-1002.88, y=96.00, z=-610.63] at TeleportTarget{pitch=39.299984, position=(-118.88125164546966, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-131.39958}
+[09Jan2025 16:16:09.447] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 12.382864300000001) to LOW (avg. 20.63270059)
+[09Jan2025 16:16:15.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.168094635009766) to VERY_LOW (avg. 13.799408912658691)
+[09Jan2025 16:18:00.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.995641708374023) to LOW (avg. 23.386245727539062)
+[09Jan2025 16:18:15.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.386245727539062) to VERY_LOW (avg. 17.312419891357422)
+[09Jan2025 16:18:26.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:26.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2025 16:18:27.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
