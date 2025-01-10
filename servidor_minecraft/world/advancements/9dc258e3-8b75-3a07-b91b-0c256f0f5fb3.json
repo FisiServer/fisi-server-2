@@ -11673,9 +11673,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/acacia_banister": {
+  "tombstone:adventure/ancient_knowledge": {
     "criteria": {
-      "has_item": "2025-01-09 18:43:02 +0000"
+      "coded_trigger": "2025-01-09 17:10:28 +0000"
     },
     "done": true
   },
@@ -11697,27 +11697,9 @@
     },
     "done": true
   },
-  "cataclysm:find_burning_arena": {
-    "criteria": {
-      "arena": "2025-01-09 18:34:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/dye_sponge": {
-    "criteria": {
-      "has_sponge": "2025-01-09 18:46:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2025-01-09 17:37:28 +0000"
     },
     "done": true
   },
@@ -11733,21 +11715,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/ancient_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-09 17:10:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_revenant": {
-    "criteria": {
-      "endergolem": "2025-01-09 18:35:36 +0000"
     },
     "done": true
   },
@@ -11766,12 +11736,6 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-01-09 17:40:11 +0000"
     },
     "done": true
   },
@@ -11796,6 +11760,90 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 17:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-01-09 17:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-09 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-01-09 18:34:40 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-01-09 18:35:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-01-09 18:43:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/dye_sponge": {
+    "criteria": {
+      "has_sponge": "2025-01-09 18:46:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-09 18:51:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-09 18:51:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-09 18:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-09 18:51:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 18:57:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-10 20:33:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-10 20:33:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-10 20:33:19 +0000"
     },
     "done": true
   },
