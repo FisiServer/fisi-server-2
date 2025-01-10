@@ -9540,5 +9540,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-01-10 20:34:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
