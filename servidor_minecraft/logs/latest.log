@@ -2098,3 +2098,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Jan2025 20:46:49.733] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for twilightforest:twilight_forest changed from VERY_LOW (avg. 0.20296312) to LOW (avg. 23.61811774)
 [10Jan2025 20:48:40.983] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.80333137512207) to LOW (avg. 20.163354873657227)
 [10Jan2025 20:48:48.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.163354873657227) to VERY_LOW (avg. 18.087318420410156)
+[10Jan2025 20:49:18.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.691974639892578) to LOW (avg. 29.248355865478516)
+[10Jan2025 20:49:27.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[10Jan2025 20:49:28.619] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.248355865478516) to HIGH (avg. 52.65497589111328)
+[10Jan2025 20:49:35.560] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.65497589111328) to LOW (avg. 37.295448303222656)
+[10Jan2025 20:49:56.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> llivoa acida?
+[10Jan2025 20:49:58.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.145381927490234) to HIGH (avg. 50.01728820800781)
+[10Jan2025 20:50:00.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[10Jan2025 20:50:05.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.01728820800781) to LOW (avg. 33.893924713134766)
+[10Jan2025 20:50:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [With Fire It Writes]
+[10Jan2025 20:50:50.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.223026275634766) to VERY_LOW (avg. 12.627959251403809)
+[10Jan2025 20:50:59.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [I Can See Forever]
+[10Jan2025 20:52:20.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.109537124633789) to LOW (avg. 21.63373374938965)
+[10Jan2025 20:52:28.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.63373374938965) to VERY_LOW (avg. 19.13943099975586)
+[10Jan2025 20:54:57.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano walked into some thorns
+[10Jan2025 20:54:57.860] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[10Jan2025 20:55:00.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[10Jan2025 20:55:05.846] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.291047096252441) to NORMAL (avg. 42.634647369384766)
+[10Jan2025 20:55:20.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.634647369384766) to VERY_LOW (avg. 8.861933708190918)
+[10Jan2025 20:57:20.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.623964309692383) to LOW (avg. 24.973487854003906)
+[10Jan2025 20:57:28.044] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.973487854003906) to VERY_LOW (avg. 16.821748733520508)
+[10Jan2025 20:59:20.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.861957550048828) to LOW (avg. 22.7402400970459)
+[10Jan2025 20:59:28.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.7402400970459) to VERY_LOW (avg. 13.658886909484863)
