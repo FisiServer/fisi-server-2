@@ -9613,6 +9613,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/servant_of_rest": {
+    "criteria": {
+      "coded_trigger": "2025-01-10 21:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-01-10 20:47:26 +0000"

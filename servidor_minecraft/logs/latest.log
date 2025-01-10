@@ -2138,3 +2138,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Jan2025 21:23:44.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
 [10Jan2025 21:23:50.807] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.904643058776855) to LOW (avg. 39.381500244140625)
 [10Jan2025 21:23:58.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.381500244140625) to VERY_LOW (avg. 13.656569480895996)
+[10Jan2025 21:36:07.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.57518482208252) to VERY_HIGH (avg. 267.2557373046875)
+[10Jan2025 21:36:08.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 3434.0278755225227,56.32352912385573,9341.256394427892
+[10Jan2025 21:36:09.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[10Jan2025 21:36:16.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 267.2557373046875) to HIGH (avg. 53.257728576660156)
+[10Jan2025 21:36:30.181] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.257728576660156) to LOW (avg. 28.914310455322266)
+[10Jan2025 21:36:37.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.914310455322266) to VERY_HIGH (avg. 65.62137603759766)
+[10Jan2025 21:36:42.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -3.318451653170314,-9.62624542126288,-3.098487189230127
+[10Jan2025 21:36:44.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -0.7801256461502817,-11.207870780463566,-1.688825786508687
+[10Jan2025 21:36:52.854] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 65.62137603759766) to HIGH (avg. 51.754573822021484)
+[10Jan2025 21:37:07.911] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.754573822021484) to VERY_HIGH (avg. 85.55216979980469)
+[10Jan2025 21:37:21.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 4.549873770617012,10.410997533023348,1.9158350086806877
+[10Jan2025 21:37:26.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 2.245893266182975,10.375477522313588,2.1667972881568858
+[10Jan2025 21:37:37.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 146.5276641845703) to LOW (avg. 22.511913299560547)
+[10Jan2025 21:37:45.831] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.511913299560547) to VERY_HIGH (avg. 150.1046905517578)
+[10Jan2025 21:37:52.988] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 150.1046905517578) to LOW (avg. 34.06454086303711)
+[10Jan2025 21:39:15.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.64948844909668) to VERY_LOW (avg. 19.939714431762695)
+[10Jan2025 21:39:22.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.939714431762695) to LOW (avg. 22.302886962890625)
+[10Jan2025 21:39:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Servant of Rest]
+[10Jan2025 21:39:52.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.408077239990234) to VERY_LOW (avg. 19.560409545898438)
