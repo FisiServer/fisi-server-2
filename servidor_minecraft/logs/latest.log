@@ -2192,3 +2192,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Jan2025 22:00:30.093] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 7.70395565032959) to LOW (avg. 39.48183059692383)
 [10Jan2025 22:00:37.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
 [10Jan2025 22:00:37.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.48183059692383) to VERY_LOW (avg. 17.14985466003418)
+[10Jan2025 22:01:07.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.07580280303955) to LOW (avg. 23.710168838500977)
+[10Jan2025 22:01:15.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.710168838500977) to VERY_LOW (avg. 13.153362274169922)
+[10Jan2025 22:03:29.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[10Jan2025 22:07:52.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.004247665405273) to LOW (avg. 23.117229461669922)
+[10Jan2025 22:08:00.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.117229461669922) to VERY_LOW (avg. 19.19266700744629)
+[10Jan2025 22:08:42.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[10Jan2025 22:09:08.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[10Jan2025 22:09:21.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
