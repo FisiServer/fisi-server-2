@@ -2133,3 +2133,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Jan2025 21:09:58.058] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.695610046386719) to NORMAL (avg. 40.14128112792969)
 [10Jan2025 21:10:05.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.14128112792969) to LOW (avg. 20.77410888671875)
 [10Jan2025 21:10:50.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.745174407958984) to VERY_LOW (avg. 10.910666465759277)
+[10Jan2025 21:23:42.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was schooled by Death Tome
+[10Jan2025 21:23:42.120] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[10Jan2025 21:23:44.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[10Jan2025 21:23:50.807] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.904643058776855) to LOW (avg. 39.381500244140625)
+[10Jan2025 21:23:58.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.381500244140625) to VERY_LOW (avg. 13.656569480895996)
