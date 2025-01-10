@@ -2130,3 +2130,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Jan2025 21:06:43.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.334545135498047) to VERY_LOW (avg. 10.73006820678711)
 [10Jan2025 21:08:20.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.691056251525879) to LOW (avg. 21.475914001464844)
 [10Jan2025 21:08:43.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.138269424438477) to VERY_LOW (avg. 13.860157012939453)
+[10Jan2025 21:09:58.058] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.695610046386719) to NORMAL (avg. 40.14128112792969)
+[10Jan2025 21:10:05.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.14128112792969) to LOW (avg. 20.77410888671875)
+[10Jan2025 21:10:50.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.745174407958984) to VERY_LOW (avg. 10.910666465759277)
