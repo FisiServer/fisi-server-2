@@ -11871,6 +11871,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-01-10 21:08:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
       "has_upgrade_base": "2025-01-10 20:42:36 +0000"
@@ -11964,6 +11970,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-10 20:41:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-01-10 21:07:34 +0000"
     },
     "done": true
   },

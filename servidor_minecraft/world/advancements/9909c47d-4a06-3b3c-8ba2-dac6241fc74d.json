@@ -8286,6 +8286,7 @@
     "criteria": {
       "twilight_oak_planks": "2025-01-06 20:44:33 +0000",
       "dark_planks": "2025-01-06 21:08:29 +0000",
+      "twilight_oak_log": "2025-01-10 21:09:09 +0000",
       "dark_stairs": "2025-01-06 21:08:19 +0000"
     },
     "done": false
@@ -9564,6 +9565,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-01-10 21:09:09 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sugar_rush": {
     "criteria": {
       "all_effects": "2025-01-10 20:34:52 +0000"
@@ -9579,6 +9586,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-01-10 20:47:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-01-10 21:09:09 +0000"
     },
     "done": true
   },
