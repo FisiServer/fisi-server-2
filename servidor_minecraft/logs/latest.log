@@ -2161,3 +2161,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Jan2025 21:41:00.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.660764694213867) to VERY_LOW (avg. 15.100193977355957)
 [10Jan2025 21:44:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> BILLYYYYYYYYYYYYYYYYYYYY
 [10Jan2025 21:50:00.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.50245475769043) to LOW (avg. 31.199295043945312)
+[10Jan2025 21:51:09.077] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.725540161132812) to HIGH (avg. 51.79110336303711)
+[10Jan2025 21:51:22.775] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.79110336303711) to LOW (avg. 20.90802764892578)
+[10Jan2025 21:51:23.666] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['Sgirano'/1397, l='ServerLevel[world]', x=-1003.19, y=96.00, z=-610.67] at TeleportTarget{pitch=21.600004, position=(-119.18723018346088, 83.0, -78.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=148.35017}
+[10Jan2025 21:51:31.333] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 0.62134327) to LOW (avg. 22.52938766)
+[10Jan2025 21:54:02.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[10Jan2025 21:54:21.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[10Jan2025 21:54:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[10Jan2025 21:54:43.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[10Jan2025 21:55:52.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.740575790405273) to VERY_LOW (avg. 19.90999412536621)
+[10Jan2025 21:56:14.071] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['Sgirano'/1397, l='ServerLevel[world]', x=-119.12, y=83.00, z=-78.44] at TeleportTarget{pitch=21.282639, position=(-1003.1168663048985, 96.0, -610.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=22.411377}
+[10Jan2025 21:56:15.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.21150779724121) to LOW (avg. 36.392112731933594)
+[10Jan2025 21:56:37.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.12230110168457) to VERY_LOW (avg. 12.317758560180664)
+[10Jan2025 21:56:41.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d timed out
+[10Jan2025 21:56:41.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Sgirano
+[10Jan2025 21:56:41.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[10Jan2025 21:56:48.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Timed out
+[10Jan2025 21:56:48.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[10Jan2025 21:56:48.194] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[10Jan2025 21:56:48.195] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[10Jan2025 21:56:48.243] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jan2025 21:58:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[10Jan2025 21:59:01.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[10Jan2025 21:59:24.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[10Jan2025 21:59:29.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[10Jan2025 21:59:52.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[10Jan2025 22:00:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was killed
+[10Jan2025 22:00:25.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Killed 292 entities]
+[10Jan2025 22:00:27.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[10Jan2025 22:00:30.093] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 7.70395565032959) to LOW (avg. 39.48183059692383)
+[10Jan2025 22:00:37.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[10Jan2025 22:00:37.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.48183059692383) to VERY_LOW (avg. 17.14985466003418)
