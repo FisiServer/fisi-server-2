@@ -10094,6 +10094,7 @@
       "dark_planks": "2025-01-06 21:08:33 +0000",
       "twilight_oak_slab": "2025-01-06 20:44:35 +0000",
       "canopy_planks": "2025-01-06 20:45:34 +0000",
+      "twilight_oak_log": "2025-01-10 21:41:01 +0000",
       "canopy_stairs": "2025-01-06 20:45:29 +0000",
       "liveroot": "2025-01-06 20:50:41 +0000",
       "twilight_oak_sapling": "2025-01-06 21:06:30 +0000"
@@ -11895,6 +11896,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-01-10 21:41:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
     "criteria": {
       "has_castle_brick": "2025-01-10 20:53:50 +0000"
@@ -11946,6 +11953,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-01-10 21:36:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-01-10 21:41:01 +0000"
     },
     "done": true
   },

@@ -2157,3 +2157,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Jan2025 21:39:22.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.939714431762695) to LOW (avg. 22.302886962890625)
 [10Jan2025 21:39:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Servant of Rest]
 [10Jan2025 21:39:52.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.408077239990234) to VERY_LOW (avg. 19.560409545898438)
+[10Jan2025 21:40:22.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.877073287963867) to LOW (avg. 24.872068405151367)
+[10Jan2025 21:41:00.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.660764694213867) to VERY_LOW (avg. 15.100193977355957)
+[10Jan2025 21:44:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> BILLYYYYYYYYYYYYYYYYYYYY
+[10Jan2025 21:50:00.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.50245475769043) to LOW (avg. 31.199295043945312)

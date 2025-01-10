@@ -8287,6 +8287,7 @@
       "twilight_oak_planks": "2025-01-06 20:44:33 +0000",
       "dark_planks": "2025-01-06 21:08:29 +0000",
       "twilight_oak_log": "2025-01-10 21:09:09 +0000",
+      "twilight_oak_sapling": "2025-01-10 21:41:15 +0000",
       "dark_stairs": "2025-01-06 21:08:19 +0000"
     },
     "done": false
@@ -9577,6 +9578,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/tick_accelerator_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-01-10 21:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2025-01-10 20:47:26 +0000"
@@ -9616,6 +9623,12 @@
   "tombstone:adventure/servant_of_rest": {
     "criteria": {
       "coded_trigger": "2025-01-10 21:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-10 21:43:17 +0000"
     },
     "done": true
   },
