@@ -9542,6 +9542,30 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-01-10 20:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-01-10 20:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-01-10 20:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-01-10 20:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-01-10 20:47:27 +0000"
@@ -9549,6 +9573,12 @@
     "done": true
   },
   "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-10 20:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-01-10 20:47:27 +0000"
     },
@@ -9566,39 +9596,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-01-10 20:48:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
     "criteria": {
       "has_item": "2025-01-10 21:09:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sugar_rush": {
-    "criteria": {
-      "all_effects": "2025-01-10 20:34:52 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/tick_accelerator_upgrade": {
-    "criteria": {
-      "has_lapis": "2025-01-10 21:43:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-01-10 20:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-10 21:10:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-01-10 20:47:26 +0000"
     },
     "done": true
   },
@@ -9608,15 +9614,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_brown_wool": "2025-01-10 20:47:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-01-10 20:48:28 +0000"
+      "has_stone_slab": "2025-01-10 21:10:28 +0000"
     },
     "done": true
   },
@@ -9626,15 +9626,45 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/tick_accelerator_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-01-10 21:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-01-10 21:43:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
-      "has_blue_wool": "2025-01-10 20:47:26 +0000"
+      "has_item": "2025-01-11 19:08:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-01-11 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-11 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-01-11 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-11 19:06:28 +0000"
     },
     "done": true
   },
