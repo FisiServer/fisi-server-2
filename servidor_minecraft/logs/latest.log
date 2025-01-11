@@ -2257,3 +2257,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Jan2025 19:43:59.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
 [11Jan2025 19:44:08.170] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 184.23728942871094) to VERY_LOW (avg. 16.871854782104492)
 [11Jan2025 19:44:09.420] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 5.5272932599999995) to LOW (avg. 19.977237350000003)
+[11Jan2025 19:45:25.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [Master Ally Enhancer]
+[11Jan2025 19:47:02.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Netherite Monstrosity
+[11Jan2025 19:47:02.178] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[11Jan2025 19:47:04.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[11Jan2025 19:47:08.187] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.922931671142578) to NORMAL (avg. 45.380985260009766)
+[11Jan2025 19:47:15.670] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.380985260009766) to VERY_LOW (avg. 15.041444778442383)
+[11Jan2025 19:47:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has completed the challenge [The broken Nether's warmachine]
+[11Jan2025 19:49:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ven
+[11Jan2025 19:54:30.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Who is Cutting Onions?]
