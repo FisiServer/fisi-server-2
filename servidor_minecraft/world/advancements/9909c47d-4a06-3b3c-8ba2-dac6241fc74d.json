@@ -131,6 +131,7 @@
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
       "mountains": "2024-12-29 21:49:36 +0000",
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
+      "joshua_desert": "2025-01-11 19:36:23 +0000",
       "deciduous_forest": "2024-12-29 19:53:49 +0000",
       "boreal_forest": "2024-12-30 15:16:49 +0000",
       "glistering_meadow": "2025-01-09 16:23:17 +0000",
@@ -178,6 +179,7 @@
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
       "mountains": "2024-12-29 21:49:36 +0000",
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
+      "joshua_desert": "2025-01-11 19:36:23 +0000",
       "deciduous_forest": "2024-12-29 19:53:49 +0000",
       "boreal_forest": "2024-12-30 15:16:49 +0000",
       "towering_cliffs": "2024-12-30 16:45:32 +0000",
@@ -9645,6 +9647,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2025-01-11 19:08:00 +0000"
@@ -9657,9 +9683,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-11 19:35:55 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
       "killed_by": "2025-01-11 19:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
     },
     "done": true
   },
@@ -9687,9 +9725,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-01-11 19:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
     },
     "done": true
   },

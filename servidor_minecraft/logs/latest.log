@@ -2158,3 +2158,102 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Jan2025 19:32:06.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.23471450805664) to LOW (avg. 20.28376579284668)
 [11Jan2025 19:32:21.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.28376579284668) to VERY_LOW (avg. 17.139680862426758)
 [11Jan2025 19:33:43.669] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.686317443847656) to LOW (avg. 22.4289493560791)
+[11Jan2025 19:34:06.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.599098205566406) to VERY_LOW (avg. 17.315093994140625)
+[11Jan2025 19:35:06.170] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.683547973632812) to LOW (avg. 23.721651077270508)
+[11Jan2025 19:36:13.669] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.394001007080078) to VERY_LOW (avg. 19.446704864501953)
+[11Jan2025 19:36:36.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.025049209594727) to LOW (avg. 21.012893676757812)
+[11Jan2025 19:36:43.669] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.012893676757812) to VERY_LOW (avg. 18.94204330444336)
+[11Jan2025 19:36:58.670] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.94204330444336) to LOW (avg. 22.12729835510254)
+[11Jan2025 19:37:06.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.12729835510254) to VERY_LOW (avg. 19.33769989013672)
+[11Jan2025 19:37:36.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.701309204101562) to LOW (avg. 20.742895126342773)
+[11Jan2025 19:37:51.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.742895126342773) to VERY_LOW (avg. 13.454946517944336)
+[11Jan2025 19:38:06.170] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.454946517944336) to LOW (avg. 24.097557067871094)
+[11Jan2025 19:38:13.670] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.097557067871094) to VERY_LOW (avg. 19.643924713134766)
+[11Jan2025 19:39:43.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ven a ver esta mnamada
+[11Jan2025 19:39:43.669] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.786348342895508) to LOW (avg. 22.155607223510742)
+[11Jan2025 19:40:06.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.487592697143555) to VERY_LOW (avg. 17.198993682861328)
+[11Jan2025 19:40:08.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.33194225911915964
+[11Jan2025 19:40:51.279] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.989753723144531) to LOW (avg. 24.237226486206055)
+[11Jan2025 19:41:00.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -9.956366899296583,-1.196647213729591,0.20507641178232916
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -10.861805061702185,-1.3054333240686447,0.2163452065635738
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -11.767274514464006,-1.4142194344076984,0.22664839983622187
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -12.672771871966305,-1.523005544746752,0.23609046965839298
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -13.578294114916872,-1.6317916550858058,0.24476458956542047
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -14.483838550710843,-1.7405777654248595,0.25275385171835296
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -15.389402778083138,-1.8493638757639133,0.2601323577086987
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -16.294984982695794,-1.958149986102967,0.2667125095404117
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -17.200577769520592,-2.0669360964420207,0.27154718867814154
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -18.106173328690048,-2.1757222067810744,0.2743179354381482
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -19.011735021786762,-2.284508317120128,0.27123667577620836
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -19.917180728442304,-2.393294427459182,0.2661090027488626
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -20.822479662112897,-2.5020805377982356,0.25563925083019967
+[11Jan2025 19:41:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -21.727542893986296,-2.6108666481372893,0.23886813305102805
+[11Jan2025 19:41:00.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -13.580772757079643,-1.6317916550858058,0.017341112227995836
+[11Jan2025 19:41:00.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -14.483924303799256,-1.7405777654248595,-0.0234271201413776
+[11Jan2025 19:41:00.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -15.386147457207457,-1.8493638757639133,-0.07512037674405292
+[11Jan2025 19:41:12.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.275308884515141
+[11Jan2025 19:41:12.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.8883029299335021
+[11Jan2025 19:41:13.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 1.536429722012116
+[11Jan2025 19:41:13.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 2.2158878984653114
+[11Jan2025 19:41:13.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.40844674297044037
+[11Jan2025 19:41:13.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4294894144219512
+[11Jan2025 19:41:13.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.44593161504899115
+[11Jan2025 19:41:13.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4112636625864923
+[11Jan2025 19:41:13.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 1.0711398413655928
+[11Jan2025 19:41:13.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.3120720031065076
+[11Jan2025 19:41:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.26641050196616334
+[11Jan2025 19:41:13.669] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.46148109436035) to VERY_LOW (avg. 17.87049102783203)
+[11Jan2025 19:41:15.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4283140695217753
+[11Jan2025 19:41:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Rigged from the Start]
+[11Jan2025 19:41:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Big Iron]
+[11Jan2025 19:41:43.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -7.991296696698441,-1.196647213729591,5.948182467888955
+[11Jan2025 19:41:43.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -8.728023962066004,-1.3054333240686447,6.4743635342611014
+[11Jan2025 19:41:43.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -9.468326911448912,-1.4142194344076984,6.99525338617741
+[11Jan2025 19:41:43.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -10.211818655928653,-1.523005544746752,7.511424532905949
+[11Jan2025 19:41:43.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -10.958694139447061,-1.6317916550858058,8.022506303073897
+[11Jan2025 19:41:43.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -11.708587241527141,-1.7405777654248595,8.52904936709433
+[11Jan2025 19:41:43.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -12.461171455918077,-1.8493638757639133,9.0315448128556
+[11Jan2025 19:41:43.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -13.216155604336961,-1.958149986102967,9.530430592549465
+[11Jan2025 19:41:43.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -13.973280013983697,-2.0669360964420207,10.026097271951585
+[11Jan2025 19:41:43.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -8.234927554557089,-1.196647213729591,5.592328209949073
+[11Jan2025 19:41:44.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -8.241893504303505,-1.196647213729591,5.5820349213097415
+[11Jan2025 19:41:44.554] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.87492561340332) to LOW (avg. 39.67668914794922)
+[11Jan2025 19:41:46.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -9.374666637946405,0.027469081215656388,4.9031052654968335
+[11Jan2025 19:41:52.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -8.726267589284475,-1.1966472137291362,4.7605967641759435
+[11Jan2025 19:41:52.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -9.517970240267857,-1.30543332406819,5.198513514236765
+[11Jan2025 19:41:52.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -10.309518970720262,-1.4142194344072436,5.636926009052104
+[11Jan2025 19:41:52.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 44.393888679999996) to HIGH (avg. 48.04046666)
+[11Jan2025 19:41:54.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -10.349443344709243,-1.3054333240686447,1.8092035961772126
+[11Jan2025 19:41:55.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -6.139570300291382,-5.857899193421602,5.988598395164217
+[11Jan2025 19:41:55.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -6.747017880235319,-6.390504787382696,6.493045888419374
+[11Jan2025 19:41:58.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -0.8618644609155695,-5.8586699099491995,8.199867898498496
+[11Jan2025 19:41:58.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -1.1213805918412163,-6.391276265399128,8.87125987078798
+[11Jan2025 19:41:58.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved too quickly! -1.370217267093608,-6.9238826208490565,9.556272949108461
+[11Jan2025 19:41:59.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.82206153869629) to VERY_HIGH (avg. 78.65472412109375)
+[11Jan2025 19:41:59.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.3887241319566783
+[11Jan2025 19:41:59.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:41:59.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dr.sexooo (vehicle of Sgirano) moved wrongly! 0.4375
+[11Jan2025 19:42:53.049] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.13095727) to VERY_HIGH (avg. 53.579943289999996)
+[11Jan2025 19:42:58.911] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 75.31085205078125) to LOW (avg. 25.71088218688965)
+[11Jan2025 19:43:22.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -9.102501812422076,8.939953411395422,4.679701839280369
+[11Jan2025 19:43:23.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -4.831126406888245,8.997198807304457,9.067656541129509
+[11Jan2025 19:43:25.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -4.7891452738167,4.953730946490083,8.776370213608516
+[11Jan2025 19:43:28.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -4.596182147693639,0.0,11.054882245525732
+[11Jan2025 19:43:31.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 4.222940199928644,0.0,-10.151074424241415
+[11Jan2025 19:43:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[11Jan2025 19:43:33.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 2.3927560056013704,0.0,-19.531994460375472
+[11Jan2025 19:43:35.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 0.0,-10.499630228738326,0.0
+[11Jan2025 19:43:42.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[11Jan2025 19:43:44.321] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.64543914794922) to HIGH (avg. 53.70375442504883)
+[11Jan2025 19:43:51.946] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.70375442504883) to VERY_HIGH (avg. 184.23728942871094)
+[11Jan2025 19:43:59.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[11Jan2025 19:44:08.170] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 184.23728942871094) to VERY_LOW (avg. 16.871854782104492)
+[11Jan2025 19:44:09.420] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 5.5272932599999995) to LOW (avg. 19.977237350000003)
