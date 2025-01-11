@@ -11860,75 +11860,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
-    "criteria": {
-      "has_castle_brick": "2025-01-10 20:53:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
-    "criteria": {
-      "has_item": "2025-01-10 20:53:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/cicada_jar": {
-    "criteria": {
-      "has_item": "2025-01-10 21:08:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-10 20:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-01-10 21:36:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_tile": {
-    "criteria": {
-      "has_castle_brick": "2025-01-10 20:53:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
-    "criteria": {
-      "has_item": "2025-01-10 21:41:01 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
-    "criteria": {
-      "has_castle_brick": "2025-01-10 20:53:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-01-10 20:41:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick": {
-    "criteria": {
-      "has_item": "2025-01-10 20:53:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2025-01-10 20:50:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
-    "criteria": {
-      "has_castle_brick": "2025-01-10 20:53:50 +0000"
     },
     "done": true
   },
@@ -11944,45 +11878,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/magic_map": {
-    "criteria": {
-      "has_item": "2025-01-10 20:50:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-01-10 21:36:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
-    "criteria": {
-      "has_item": "2025-01-10 21:41:01 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-01-10 20:41:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2025-01-10 20:50:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-01-10 21:36:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2025-01-10 20:42:36 +0000"
     },
     "done": true
   },
@@ -12004,18 +11902,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-01-10 21:36:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-01-10 21:07:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-01-10 20:41:27 +0000"
@@ -12034,6 +11920,72 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-10 20:42:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-01-10 20:42:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-01-10 20:50:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-01-10 20:50:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-01-10 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-01-10 20:53:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
+    "criteria": {
+      "has_item": "2025-01-10 20:53:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-01-10 20:53:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-01-10 20:53:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick": {
+    "criteria": {
+      "has_item": "2025-01-10 20:53:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-01-10 20:53:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/castleblock/castle_brick_stairs": {
     "criteria": {
       "has_item": "2025-01-10 20:53:50 +0000"
@@ -12043,6 +11995,60 @@
   "twilightforest:recipes/building_blocks/castleblock/thick_castle_brick": {
     "criteria": {
       "has_castle_brick": "2025-01-10 20:53:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-01-10 21:07:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-01-10 21:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 21:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 21:36:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-01-10 21:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 21:36:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-01-10 21:41:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-01-10 21:41:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 19:13:00 +0000"
     },
     "done": true
   },

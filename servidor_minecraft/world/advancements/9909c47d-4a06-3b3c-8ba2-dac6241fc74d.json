@@ -109,6 +109,7 @@
       "dry_bushland": "2024-12-29 22:04:52 +0000",
       "redstone_abyss": "2025-01-03 16:18:45 +0000",
       "pine_taiga": "2024-12-30 16:41:58 +0000",
+      "sparse_rainforest": "2025-01-11 19:28:27 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:13 +0000",
       "muddy_river": "2025-01-06 22:21:57 +0000",
       "prismachasm": "2024-12-29 19:55:57 +0000",
@@ -126,6 +127,7 @@
       "highland_fields": "2024-12-29 20:08:11 +0000",
       "maple_forest": "2024-12-30 15:17:22 +0000",
       "frozen_pine_taiga": "2024-12-30 23:13:48 +0000",
+      "tropical_river": "2025-01-11 19:28:25 +0000",
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
       "mountains": "2024-12-29 21:49:36 +0000",
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
@@ -146,6 +148,7 @@
       "redwoods": "2024-12-29 19:49:29 +0000",
       "golden_boreal_taiga": "2025-01-05 04:29:56 +0000",
       "icy_heights": "2024-12-30 23:01:13 +0000",
+      "rainforest": "2025-01-11 19:28:21 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
     "done": false
@@ -157,6 +160,7 @@
       "shrubland": "2024-12-29 20:08:26 +0000",
       "dry_bushland": "2024-12-29 22:04:52 +0000",
       "pine_taiga": "2024-12-30 16:41:58 +0000",
+      "sparse_rainforest": "2025-01-11 19:28:27 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:13 +0000",
       "muddy_river": "2025-01-06 22:21:57 +0000",
       "marsh": "2024-12-30 16:42:50 +0000",
@@ -170,6 +174,7 @@
       "highland_fields": "2024-12-29 20:08:11 +0000",
       "maple_forest": "2024-12-30 15:17:22 +0000",
       "frozen_pine_taiga": "2024-12-30 23:13:48 +0000",
+      "tropical_river": "2025-01-11 19:28:25 +0000",
       "magnolia_highlands": "2024-12-29 19:53:06 +0000",
       "mountains": "2024-12-29 21:49:36 +0000",
       "sparse_redwoods": "2024-12-30 15:10:14 +0000",
@@ -187,6 +192,7 @@
       "redwoods": "2024-12-29 19:49:29 +0000",
       "golden_boreal_taiga": "2025-01-05 04:29:56 +0000",
       "icy_heights": "2024-12-30 23:01:13 +0000",
+      "rainforest": "2025-01-11 19:28:21 +0000",
       "lupine_plains": "2024-12-29 19:52:47 +0000"
     },
     "done": false
@@ -1164,6 +1170,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-30 23:23:39 +0000",
       "minecraft:deep_ocean": "2025-01-04 20:32:44 +0000",
+      "minecraft:eroded_badlands": "2025-01-11 19:24:16 +0000",
       "minecraft:frozen_river": "2024-12-30 15:19:47 +0000",
       "minecraft:cherry_grove": "2024-12-30 21:41:13 +0000",
       "minecraft:birch_forest": "2024-12-30 15:14:35 +0000",
@@ -9644,6 +9651,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-01-11 19:27:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-01-11 19:29:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-11 19:22:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-01-11 19:07:36 +0000"
@@ -9656,9 +9681,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-11 19:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-11 19:22:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-01-11 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-11 19:28:57 +0000"
     },
     "done": true
   },
