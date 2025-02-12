@@ -4277,12 +4277,6 @@
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "steal_crystal": "2024-12-29 21:11:35 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/acacia_shrub": {
     "criteria": {
       "has_acacia_sapling": "2024-12-29 21:13:47 +0000"
@@ -12319,6 +12313,18 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-02-12 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2025-02-12 17:56:21 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-02-12 17:56:23 +0000"
     },
     "done": true
   },
