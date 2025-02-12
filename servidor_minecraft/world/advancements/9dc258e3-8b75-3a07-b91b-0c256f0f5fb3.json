@@ -12310,5 +12310,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-02-12 00:30:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

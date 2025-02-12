@@ -2085,3 +2085,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Feb2025 00:24:36.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ven
 [12Feb2025 00:24:40.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 3434.0286169109777,56.32352912385573,9341.325533859392
 [12Feb2025 00:25:40.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Dragon Commander]
+[12Feb2025 00:26:28.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.696701049804688) to NORMAL (avg. 40.55399703979492)
+[12Feb2025 00:26:35.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.55399703979492) to LOW (avg. 35.130767822265625)
+[12Feb2025 00:26:43.489] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.130767822265625) to HIGH (avg. 51.48274230957031)
+[12Feb2025 00:26:58.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.48274230957031) to LOW (avg. 32.062076568603516)
+[12Feb2025 00:27:06.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has completed the challenge [Cover Me in Debris]
+[12Feb2025 00:28:28.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.815113067626953) to VERY_LOW (avg. 19.096105575561523)
+[12Feb2025 00:29:00.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[12Feb2025 00:29:00.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[12Feb2025 00:29:00.110] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[12Feb2025 00:29:00.111] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[12Feb2025 00:29:59.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[12Feb2025 00:30:13.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.779454231262207) to LOW (avg. 21.20320701599121)
+[12Feb2025 00:30:28.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.20320701599121) to VERY_LOW (avg. 13.362897872924805)
+[12Feb2025 00:30:29.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[12Feb2025 00:30:55.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Wingin' It]
+[12Feb2025 00:31:35.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.477657318115234) to LOW (avg. 20.744462966918945)
+[12Feb2025 00:31:50.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.744462966918945) to VERY_LOW (avg. 16.5222110748291)
+[12Feb2025 00:32:05.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.5222110748291) to LOW (avg. 23.09430503845215)
+[12Feb2025 00:32:20.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.09430503845215) to VERY_LOW (avg. 15.897026062011719)
+[12Feb2025 00:32:43.472] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.687572479248047) to NORMAL (avg. 44.76762390136719)
+[12Feb2025 00:32:58.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.76762390136719) to VERY_LOW (avg. 17.518800735473633)
+[12Feb2025 00:33:13.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.518800735473633) to LOW (avg. 20.268592834472656)
+[12Feb2025 00:33:28.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.268592834472656) to VERY_LOW (avg. 14.25164794921875)
+[12Feb2025 00:36:20.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.09556770324707) to LOW (avg. 22.333049774169922)
+[12Feb2025 00:36:28.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.333049774169922) to VERY_LOW (avg. 18.461469650268555)
+[12Feb2025 00:38:13.781] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.48157787322998) to VERY_HIGH (avg. 56.43004608154297)
+[12Feb2025 00:38:20.995] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.43004608154297) to LOW (avg. 28.366281509399414)
+[12Feb2025 00:40:43.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.234729766845703) to VERY_LOW (avg. 8.74691104888916)
+[12Feb2025 00:42:28.488] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.874628067016602) to LOW (avg. 20.9206485748291)
+[12Feb2025 00:42:43.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.9206485748291) to VERY_LOW (avg. 9.185194969177246)
+[12Feb2025 00:44:35.982] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.846064567565918) to LOW (avg. 36.561058044433594)
+[12Feb2025 00:46:58.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.8389949798584) to VERY_LOW (avg. 12.66305160522461)
+[12Feb2025 00:47:20.945] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.517950057983398) to LOW (avg. 22.190629959106445)
