@@ -2118,3 +2118,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Feb2025 00:44:35.982] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.846064567565918) to LOW (avg. 36.561058044433594)
 [12Feb2025 00:46:58.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.8389949798584) to VERY_LOW (avg. 12.66305160522461)
 [12Feb2025 00:47:20.945] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.517950057983398) to LOW (avg. 22.190629959106445)
+[12Feb2025 00:48:58.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.77659797668457) to VERY_LOW (avg. 15.687799453735352)
+[12Feb2025 00:49:51.067] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.514154434204102) to LOW (avg. 27.097793579101562)
+[12Feb2025 00:49:58.831] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.097793579101562) to VERY_HIGH (avg. 57.6966438293457)
+[12Feb2025 00:50:13.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.6966438293457) to LOW (avg. 21.427087783813477)
+[12Feb2025 00:55:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Crafting a New Look]
+[12Feb2025 00:57:35.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.60816192626953) to VERY_LOW (avg. 8.662574768066406)
