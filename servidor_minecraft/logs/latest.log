@@ -4183,3 +4183,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Feb2025 18:13:29.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.625673294067383) to VERY_LOW (avg. 15.623489379882812)
 [12Feb2025 18:13:37.031] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.623489379882812) to LOW (avg. 23.047698974609375)
 [12Feb2025 18:13:59.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.296091079711914) to VERY_LOW (avg. 9.59618854522705)
+[12Feb2025 18:21:37.031] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.27571964263916) to LOW (avg. 20.87518882751465)
+[12Feb2025 18:21:44.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.87518882751465) to VERY_LOW (avg. 14.804401397705078)
+[12Feb2025 18:21:59.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.804401397705078) to LOW (avg. 25.794828414916992)
+[12Feb2025 18:22:02.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 2.9535838808687913,-0.5710256889613454,-9.54322088463232
+[12Feb2025 18:22:14.531] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.794828414916992) to VERY_LOW (avg. 10.13256549835205)
+[12Feb2025 18:25:26.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[12Feb2025 18:25:26.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[12Feb2025 18:25:26.694] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[12Feb2025 18:25:26.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
