@@ -108,6 +108,7 @@
       "shrubland": "2024-12-29 20:08:26 +0000",
       "dry_bushland": "2024-12-29 22:04:52 +0000",
       "redstone_abyss": "2025-01-03 16:18:45 +0000",
+      "steppe": "2025-01-11 20:24:17 +0000",
       "pine_taiga": "2024-12-30 16:41:58 +0000",
       "sparse_rainforest": "2025-01-11 19:28:27 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:13 +0000",
@@ -117,6 +118,8 @@
       "marsh": "2024-12-30 16:42:50 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
       "frozen_tundra": "2024-12-30 15:19:31 +0000",
+      "barley_fields": "2025-01-11 20:24:06 +0000",
+      "rocky_reef": "2025-01-11 20:23:42 +0000",
       "redstone_caves": "2024-12-31 02:20:06 +0000",
       "grassy_beach": "2024-12-30 16:42:19 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
@@ -136,6 +139,7 @@
       "boreal_forest": "2024-12-30 15:16:49 +0000",
       "glistering_meadow": "2025-01-09 16:23:17 +0000",
       "blackstone_basin": "2025-01-03 16:30:16 +0000",
+      "fungal_fen": "2025-01-11 20:23:34 +0000",
       "towering_cliffs": "2024-12-30 16:45:32 +0000",
       "infernal_holt": "2025-01-09 16:23:20 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
@@ -143,6 +147,7 @@
       "temperate_grove": "2024-12-29 21:19:50 +0000",
       "cold_river": "2024-12-30 23:22:48 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
+      "baobab_savanna": "2025-01-11 20:24:19 +0000",
       "grassland": "2024-12-29 19:53:29 +0000",
       "prairie": "2024-12-29 22:11:19 +0000",
       "gravel_beach": "2024-12-30 15:16:40 +0000",
@@ -160,6 +165,7 @@
       "silver_birch_forest": "2024-12-31 02:37:19 +0000",
       "shrubland": "2024-12-29 20:08:26 +0000",
       "dry_bushland": "2024-12-29 22:04:52 +0000",
+      "steppe": "2025-01-11 20:24:17 +0000",
       "pine_taiga": "2024-12-30 16:41:58 +0000",
       "sparse_rainforest": "2025-01-11 19:28:27 +0000",
       "autumnal_maple_forest": "2025-01-01 01:42:13 +0000",
@@ -167,6 +173,8 @@
       "marsh": "2024-12-30 16:42:50 +0000",
       "willow_forest": "2024-12-29 20:08:13 +0000",
       "frozen_tundra": "2024-12-30 15:19:31 +0000",
+      "barley_fields": "2025-01-11 20:24:06 +0000",
+      "rocky_reef": "2025-01-11 20:23:42 +0000",
       "grassy_beach": "2024-12-30 16:42:19 +0000",
       "rocky_meadow": "2024-12-29 20:08:21 +0000",
       "blackwood_taiga": "2024-12-29 21:45:26 +0000",
@@ -182,12 +190,14 @@
       "joshua_desert": "2025-01-11 19:36:23 +0000",
       "deciduous_forest": "2024-12-29 19:53:49 +0000",
       "boreal_forest": "2024-12-30 15:16:49 +0000",
+      "fungal_fen": "2025-01-11 20:23:34 +0000",
       "towering_cliffs": "2024-12-30 16:45:32 +0000",
       "bamboo_forest": "2024-12-29 19:52:50 +0000",
       "cold_boreal_taiga": "2024-12-31 02:33:31 +0000",
       "temperate_grove": "2024-12-29 21:19:50 +0000",
       "cold_river": "2024-12-30 23:22:48 +0000",
       "pine_slopes": "2024-12-29 20:01:52 +0000",
+      "baobab_savanna": "2025-01-11 20:24:19 +0000",
       "grassland": "2024-12-29 19:53:29 +0000",
       "prairie": "2024-12-29 22:11:19 +0000",
       "gravel_beach": "2024-12-30 15:16:40 +0000",
@@ -1200,6 +1210,7 @@
       "minecraft:ocean": "2024-12-30 16:42:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-05 04:26:13 +0000",
       "minecraft:windswept_savanna": "2024-12-30 17:17:26 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-11 20:31:54 +0000",
       "minecraft:frozen_peaks": "2025-01-11 20:07:13 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 23:24:02 +0000",
       "minecraft:deep_dark": "2024-12-29 19:56:20 +0000",
@@ -1779,6 +1790,7 @@
       "minecraft:creeper": "2024-12-29 21:16:08 +0000",
       "minecraft:zombified_piglin": "2025-01-08 04:32:01 +0000",
       "minecraft:wither_skeleton": "2025-01-03 16:22:09 +0000",
+      "minecraft:husk": "2025-01-11 20:28:13 +0000",
       "minecraft:piglin": "2025-01-04 19:25:08 +0000",
       "minecraft:enderman": "2024-12-29 20:59:46 +0000",
       "minecraft:silverfish": "2025-01-06 20:51:12 +0000",
@@ -9648,9 +9660,183 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-11 19:06:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-01-11 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-11 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-01-11 19:07:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-01-11 19:08:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-11 19:22:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-11 19:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-11 19:22:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-01-11 19:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-11 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-01-11 19:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-11 19:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-01-11 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-01-11 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-01-11 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-01-11 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-11 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-11 19:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-11 19:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-11 19:54:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/raw_plastic_smelting": {
+    "criteria": {
+      "has_plastic": "2025-01-11 20:02:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/raw_plastic_blasting": {
+    "criteria": {
+      "has_plastic": "2025-01-11 20:02:31 +0000"
+    },
+    "done": true
+  },
+  "rats:rat_cage": {
+    "criteria": {
+      "get_cage": "2025-01-11 20:02:48 +0000"
     },
     "done": true
   },
@@ -9672,51 +9858,9 @@
     },
     "done": true
   },
-  "rats:rat_cage": {
-    "criteria": {
-      "get_cage": "2025-01-11 20:02:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/tubes/rat_tube_orange": {
     "criteria": {
       "has_tube": "2025-01-11 20:02:50 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_magenta": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-01-11 19:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_orange": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_gray": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
     },
     "done": true
   },
@@ -9726,51 +9870,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/hammock_dyed_brown": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_yellow": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_light_blue": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-01-11 19:47:12 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/tubes/rat_tube_light_gray": {
     "criteria": {
       "has_tube": "2025-01-11 20:02:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-01-11 19:47:12 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_purple": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
     },
     "done": true
   },
@@ -9780,45 +9882,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-01-11 19:47:12 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/tubes/rat_tube_light_blue": {
     "criteria": {
       "has_tube": "2025-01-11 20:02:50 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_pink": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-01-11 19:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-01-11 19:47:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-01-11 19:08:00 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-01-11 19:27:58 +0000"
     },
     "done": true
   },
@@ -9828,21 +9894,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-01-11 19:35:55 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/tubes/rat_tube_blue": {
     "criteria": {
       "has_tube": "2025-01-11 20:02:50 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_light_gray": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
     },
     "done": true
   },
@@ -9852,33 +9906,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/hammock_dyed_white": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_black": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed_by": "2025-01-11 19:29:25 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/tubes/rat_tube_yellow": {
     "criteria": {
       "has_tube": "2025-01-11 20:02:50 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/raw_plastic_smelting": {
-    "criteria": {
-      "has_plastic": "2025-01-11 20:02:31 +0000"
     },
     "done": true
   },
@@ -9894,105 +9924,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/hammocks/hammock_dyed_green": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-11 19:35:44 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/tubes/rat_tube_cyan": {
     "criteria": {
       "has_tube": "2025-01-11 20:02:50 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_red": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-11 19:47:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-01-11 19:22:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-01-11 19:07:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-11 19:07:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-01-11 19:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-01-11 19:22:42 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_cyan": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-01-11 19:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-01-11 19:35:45 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/raw_plastic_blasting": {
-    "criteria": {
-      "has_plastic": "2025-01-11 20:02:31 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/hammock_dyed_lime": {
-    "criteria": {
-      "has_hammock": "2025-01-11 20:02:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-01-11 19:07:36 +0000"
     },
     "done": true
   },
@@ -10002,21 +9936,117 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/hammock_dyed_magenta": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_orange": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_gray": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_brown": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_yellow": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_light_blue": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_purple": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_pink": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_light_gray": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_white": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_black": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_green": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_red": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_cyan": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_lime": {
+    "criteria": {
+      "has_hammock": "2025-01-11 20:02:54 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/hammock_dyed_blue": {
     "criteria": {
       "has_hammock": "2025-01-11 20:02:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
-      "has_hay_block": "2025-01-11 19:28:57 +0000"
+      "has_any_ingredient": "2025-01-11 20:30:26 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_reach": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_magic_scroll": "2025-01-11 19:06:28 +0000"
+      "has_carrot": "2025-01-11 20:30:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-11 20:30:26 +0000"
     },
     "done": true
   },
