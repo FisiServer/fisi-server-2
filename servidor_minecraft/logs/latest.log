@@ -2124,3 +2124,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Feb2025 00:50:13.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.6966438293457) to LOW (avg. 21.427087783813477)
 [12Feb2025 00:55:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Crafting a New Look]
 [12Feb2025 00:57:35.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.60816192626953) to VERY_LOW (avg. 8.662574768066406)
+[12Feb2025 01:13:29.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[12Feb2025 01:15:28.447] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.82929515838623) to LOW (avg. 38.7131462097168)
+[12Feb2025 01:15:30.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -3433.6255531397155,-55.92159999847412,-9343.335890531327
+[12Feb2025 01:15:35.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 38.7131462097168) to VERY_LOW (avg. 8.85380744934082)
+[12Feb2025 01:17:49.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
