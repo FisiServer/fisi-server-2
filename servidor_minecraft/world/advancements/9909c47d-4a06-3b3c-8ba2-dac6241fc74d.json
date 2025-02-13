@@ -1791,6 +1791,7 @@
       "minecraft:zombified_piglin": "2025-01-08 04:32:01 +0000",
       "minecraft:wither_skeleton": "2025-01-03 16:22:09 +0000",
       "minecraft:husk": "2025-01-11 20:28:13 +0000",
+      "minecraft:cave_spider": "2025-02-13 02:22:23 +0000",
       "minecraft:piglin": "2025-01-04 19:25:08 +0000",
       "minecraft:enderman": "2024-12-29 20:59:46 +0000",
       "minecraft:silverfish": "2025-01-06 20:51:12 +0000",
@@ -5509,12 +5510,6 @@
   "regions_unexplored:recipes/decorations/redwood_shrub": {
     "criteria": {
       "has_redwood_sapling": "2024-12-30 16:58:46 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "steal_crystal": "2024-12-30 17:11:17 +0000"
     },
     "done": true
   },
@@ -10050,6 +10045,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-02-12 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-12 00:27:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2025-02-12 00:27:06 +0000"
@@ -10068,15 +10075,93 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
     "criteria": {
-      "bestiary": "2025-02-12 00:25:40 +0000"
+      "grant_book_on_first_join_adv": "2025-02-13 02:11:01 +0000"
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+  "twilightforest:recipes/misc/maze_map": {
     "criteria": {
-      "has_item": "2025-02-12 00:27:05 +0000"
+      "has_item": "2025-02-13 02:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-13 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-02-13 02:23:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-02-13 02:22:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-02-13 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-13 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-02-13 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_slimeball": "2025-02-13 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-02-13 02:23:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-02-13 02:23:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-02-13 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-02-13 02:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-13 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-02-13 02:25:38 +0000"
     },
     "done": true
   },
