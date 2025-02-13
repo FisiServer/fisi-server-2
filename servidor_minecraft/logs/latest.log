@@ -2866,3 +2866,5 @@ io.netty.channel.StacklessClosedChannelException: null
 [13Feb2025 01:37:47.160] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
 [13Feb2025 01:39:06.928] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.905522346496582) to LOW (avg. 21.863805770874023)
 [13Feb2025 01:39:14.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.863805770874023) to VERY_LOW (avg. 12.140493392944336)
+[13Feb2025 01:49:36.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.448514938354492) to LOW (avg. 28.20340347290039)
+[13Feb2025 01:49:59.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.442935943603516) to VERY_LOW (avg. 9.286116600036621)
