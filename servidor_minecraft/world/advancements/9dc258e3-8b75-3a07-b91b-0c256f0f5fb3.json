@@ -1643,6 +1643,7 @@
       "minecraft:blaze": "2025-01-03 16:26:49 +0000",
       "minecraft:skeleton": "2024-12-29 16:54:08 +0000",
       "minecraft:ghast": "2025-01-09 17:40:11 +0000",
+      "minecraft:hoglin": "2025-02-13 23:01:53 +0000",
       "minecraft:guardian": "2025-01-08 04:53:44 +0000",
       "minecraft:magma_cube": "2025-01-09 18:19:03 +0000",
       "minecraft:spider": "2024-12-29 15:53:01 +0000",
@@ -10458,9 +10459,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-01-06 21:25:30 +0000"
+      "previous_progression": "2025-01-06 21:25:30 +0000",
+      "was_in_fight": "2025-02-13 22:37:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/combat/equipment/twilight_scepter": {
     "criteria": {
@@ -13039,6 +13041,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-02-13 02:30:10 +0000",
+      "hydra_chop": "2025-02-13 22:38:12 +0000",
       "cooked_meef": "2025-02-13 02:24:31 +0000"
     },
     "done": false
@@ -13051,9 +13054,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "stroganoff": "2025-02-13 02:30:10 +0000"
+      "stroganoff": "2025-02-13 02:30:10 +0000",
+      "was_in_fight": "2025-02-13 22:33:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
@@ -13949,11 +13953,23 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-02-13 22:34:16 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_pike": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-02-13 22:33:54 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:scythe": {
     "criteria": {
@@ -13970,6 +13986,24 @@
   "spartanfire:recipes/dragon_bone_flanged_mace": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-02-13 22:50:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-02-13 22:34:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-02-13 22:34:16 +0000"
     },
     "done": true
   },
@@ -13991,9 +14025,22 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-02-13 22:54:27 +0000",
+      "blaze_head": "2025-02-13 23:08:39 +0000"
+    },
+    "done": false
+  },
   "spartanfire:recipes/dragon_bone_longbow": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-13 22:34:16 +0000"
     },
     "done": true
   },
@@ -14009,6 +14056,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-13 22:34:16 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_battleaxe": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
@@ -14018,6 +14071,12 @@
   "spartanfire:recipes/dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-02-13 22:34:16 +0000"
     },
     "done": true
   },
@@ -14036,6 +14095,18 @@
   "spartanfire:recipes/dragon_bone_rapier": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-02-13 22:37:47 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-13 22:34:28 +0000"
     },
     "done": true
   },
@@ -14075,6 +14146,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-02-13 22:34:16 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_lance": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
@@ -14110,6 +14187,12 @@
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
     },
     "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2025-02-13 22:41:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
