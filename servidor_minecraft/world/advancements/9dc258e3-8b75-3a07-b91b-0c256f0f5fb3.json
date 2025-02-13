@@ -12858,6 +12858,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_javelin": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/cestus": {
     "criteria": {
       "has_leather": "2025-02-13 01:58:42 +0000"
@@ -12873,6 +12879,18 @@
   "spartanweaponry:recipes/copper_glaive": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
     },
     "done": true
   },
@@ -12894,9 +12912,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_longbow": {
     "criteria": {
       "has_leather": "2025-02-13 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/misc/iron_nugget_from_blasting_iron_weapons": {
+    "criteria": {
+      "has_the_recipe": "2025-02-13 02:38:13 +0000"
     },
     "done": true
   },
@@ -12912,6 +12960,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
@@ -12924,9 +12984,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
     },
     "done": true
   },
@@ -12954,6 +13026,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
@@ -12978,12 +13062,42 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-02-13 02:30:10 +0000",
       "cooked_meef": "2025-02-13 02:24:31 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-02-13 02:38:03 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/copper_dagger": {
     "criteria": {
@@ -12997,11 +13111,41 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "stroganoff": "2025-02-13 02:30:10 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/copper_quarterstaff": {
     "criteria": {
@@ -13012,6 +13156,12 @@
   "spartanweaponry:recipes/copper_greatsword": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
     },
     "done": true
   },
@@ -13030,6 +13180,12 @@
   "spartanweaponry:recipes/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-13 02:37:29 +0000"
     },
     "done": true
   },

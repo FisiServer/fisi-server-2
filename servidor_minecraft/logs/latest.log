@@ -3102,3 +3102,19 @@ io.netty.channel.StacklessClosedChannelException: null
 [13Feb2025 02:40:12.462] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.937690734863281) to LOW (avg. 31.454978942871094)
 [13Feb2025 02:40:19.740] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.454978942871094) to NORMAL (avg. 42.230167388916016)
 [13Feb2025 02:40:27.240] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.230167388916016) to LOW (avg. 36.04283142089844)
+[13Feb2025 02:41:19.741] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.785356521606445) to NORMAL (avg. 41.90776824951172)
+[13Feb2025 02:41:34.740] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.90776824951172) to LOW (avg. 26.334728240966797)
+[13Feb2025 02:48:35.617] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:monastery took 5242 ms
+[13Feb2025 02:48:35.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5227ms or 104 ticks behind
+[13Feb2025 02:48:41.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from MEDIUM (avg. 44.383902840000005) to LOW (avg. 24.79358937)
+[13Feb2025 02:49:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> 2592 ~5904
+[13Feb2025 02:49:17.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.920791625976562) to NORMAL (avg. 44.45076370239258)
+[13Feb2025 02:49:32.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.45076370239258) to VERY_LOW (avg. 12.950575828552246)
+[13Feb2025 02:50:23.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Beyond the Sea]
+[13Feb2025 02:50:24.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.534366607666016) to LOW (avg. 21.796998977661133)
+[13Feb2025 02:50:39.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Shell City]
+[13Feb2025 02:50:46.999] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-5982, y=-51, z=1363}
+[13Feb2025 02:50:50.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Shell City]
+[13Feb2025 02:50:52.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [The Shadow Over Mine's Craft]
+[13Feb2025 02:51:09.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.461238861083984) to VERY_LOW (avg. 18.71673583984375)
+[13Feb2025 02:51:24.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.71673583984375) to LOW (avg. 23.480709075927734)
