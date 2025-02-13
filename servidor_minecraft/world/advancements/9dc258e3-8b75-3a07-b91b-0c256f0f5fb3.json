@@ -12894,6 +12894,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-02-13 03:32:32 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_mine_guardian": {
     "criteria": {
       "killed": "2025-02-13 03:22:26 +0000"
@@ -12903,6 +12909,12 @@
   "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-02-13 03:47:38 +0000"
     },
     "done": true
   },
@@ -12921,6 +12933,18 @@
   "spartanweaponry:recipes/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-02-13 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_nuclear_bomb": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-02-13 04:20:38 +0000"
     },
     "done": true
   },
@@ -12978,6 +13002,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-02-13 04:02:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
@@ -12987,6 +13017,12 @@
   "spartanweaponry:recipes/copper_javelin": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-02-13 04:20:52 +0000"
     },
     "done": true
   },
@@ -13011,6 +13047,12 @@
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-02-13 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-02-13 04:02:45 +0000"
     },
     "done": true
   },
@@ -13041,6 +13083,12 @@
   "alexscaves:alexscaves/mussel": {
     "criteria": {
       "mussel": "2025-02-13 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-02-13 04:02:45 +0000"
     },
     "done": true
   },
@@ -13105,6 +13153,12 @@
     },
     "done": false
   },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-02-13 04:02:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
@@ -13129,15 +13183,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-02-13 04:02:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:35:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:35:47 +0000"
     },
     "done": true
   },
@@ -13183,6 +13255,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:35:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
@@ -13198,6 +13276,12 @@
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2025-02-13 04:02:02 +0000"
     },
     "done": true
   },
@@ -13246,6 +13330,12 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-02-13 04:02:45 +0000"
     },
     "done": true
   },

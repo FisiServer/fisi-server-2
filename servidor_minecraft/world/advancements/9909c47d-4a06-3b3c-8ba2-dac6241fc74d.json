@@ -10086,9 +10086,21 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_pike": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2025-02-13 04:01:36 +0000"
     },
     "done": true
   },
@@ -10146,6 +10158,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_dagger": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_glaive": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 03:04:43 +0000"
@@ -10161,6 +10179,12 @@
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-02-13 02:31:51 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10182,6 +10206,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-02-13 03:44:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-02-13 02:59:55 +0000"
@@ -10191,6 +10221,12 @@
   "spartanweaponry:recipes/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-02-13 04:22:12 +0000"
     },
     "done": true
   },
@@ -10254,9 +10290,21 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-02-13 03:32:50 +0000"
     },
     "done": true
   },
@@ -10272,15 +10320,39 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_warhammer": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_longsword": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_saber": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-02-13 04:01:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-02-13 04:00:18 +0000"
     },
     "done": true
   },
@@ -10311,6 +10383,12 @@
   "spartanweaponry:recipes/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_longbow": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10362,6 +10440,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-02-13 03:59:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 03:04:43 +0000"
@@ -10380,6 +10464,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-02-13 04:20:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 03:11:41 +0000"
@@ -10389,6 +10479,12 @@
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-02-13 02:22:50 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_boomerang": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10422,15 +10518,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-02-13 04:01:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:32:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-13 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-02-13 03:59:47 +0000"
     },
     "done": true
   },
@@ -10446,9 +10560,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:32:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-13 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_spear": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-02-13 04:01:36 +0000"
     },
     "done": true
   },
@@ -10476,15 +10608,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-02-13 04:09:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/mussel": {
     "criteria": {
       "mussel": "2025-02-13 02:51:37 +0000"
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_battleaxe": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-13 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-02-13 03:59:47 +0000"
     },
     "done": true
   },
@@ -10512,9 +10662,27 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 03:04:43 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-02-13 04:00:18 +0000"
     },
     "done": true
   },
@@ -10554,9 +10722,21 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_rapier": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2025-02-13 02:59:55 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-02-13 04:00:18 +0000"
     },
     "done": true
   },
@@ -10578,6 +10758,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-02-13 03:59:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2025-02-13 02:59:55 +0000"
@@ -10593,6 +10779,24 @@
   "spartanweaponry:recipes/iron_parrying_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-02-13 04:00:18 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_scythe": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-02-13 04:12:02 +0000"
     },
     "done": true
   },
@@ -10614,6 +10818,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-02-13 04:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-02-13 02:50:52 +0000"
@@ -10632,9 +10842,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-02-13 03:59:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_tomahawk": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_greatsword": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10662,6 +10884,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:32:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-02-13 02:59:55 +0000"
@@ -10686,9 +10914,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:32:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_glaive": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10716,6 +10962,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_glaive": {
     "criteria": {
       "has_diamond": "2025-02-13 02:59:55 +0000"
@@ -10737,6 +10989,12 @@
   "spartanweaponry:recipes/stone_greatsword": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10782,6 +11040,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:32:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 03:04:43 +0000"
@@ -10800,6 +11064,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-13 03:38:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_lance": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-02-13 04:00:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-13 03:03:17 +0000"
@@ -10813,9 +11095,21 @@
     },
     "done": false
   },
+  "spartanfire:recipes/dragon_bone_halberd": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2025-02-13 02:14:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_katana": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10828,6 +11122,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-13 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_javelin": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
     },
     "done": true
   },
@@ -10855,6 +11155,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_tomahawk": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-13 02:24:26 +0000"
@@ -10879,6 +11185,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_saber": {
+    "criteria": {
+      "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-13 03:03:17 +0000"
@@ -10894,6 +11206,12 @@
   "spartanweaponry:recipes/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-02-13 03:32:24 +0000"
     },
     "done": true
   },
@@ -10924,6 +11242,12 @@
   "spartanweaponry:recipes/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-02-13 03:59:47 +0000"
     },
     "done": true
   },
