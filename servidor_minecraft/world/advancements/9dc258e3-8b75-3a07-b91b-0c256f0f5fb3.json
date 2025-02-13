@@ -10441,9 +10441,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-02-13 02:30:10 +0000",
       "kill_lich": "2025-01-06 21:25:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -12887,6 +12888,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-13 02:29:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_longbow": {
     "criteria": {
       "has_leather": "2025-02-13 01:58:42 +0000"
@@ -12973,6 +12980,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "meef_stroganoff": "2025-02-13 02:30:10 +0000",
       "cooked_meef": "2025-02-13 02:24:31 +0000"
     },
     "done": false
@@ -12988,6 +12996,12 @@
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-02-13 02:30:10 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/copper_quarterstaff": {
     "criteria": {
