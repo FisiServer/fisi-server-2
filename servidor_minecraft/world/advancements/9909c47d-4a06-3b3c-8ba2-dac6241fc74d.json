@@ -1812,6 +1812,7 @@
       "minecraft:spider": "2024-12-29 21:01:54 +0000",
       "minecraft:piglin_brute": "2025-01-09 16:47:05 +0000",
       "minecraft:creeper": "2024-12-29 21:16:08 +0000",
+      "minecraft:wither": "2025-02-13 23:18:48 +0000",
       "minecraft:zombified_piglin": "2025-01-08 04:32:01 +0000",
       "minecraft:wither_skeleton": "2025-01-03 16:22:09 +0000",
       "minecraft:husk": "2025-01-11 20:28:13 +0000",
@@ -12235,13 +12236,50 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "zombie_head": "2025-02-13 22:54:55 +0000",
-      "wither_skeleton_skull": "2025-02-13 23:00:42 +0000"
+      "wither_skeleton_skull": "2025-02-13 23:00:42 +0000",
+      "husk_head": "2025-02-13 23:24:56 +0000"
     },
     "done": false
   },
   "regions_unexplored:recipes/building_blocks/blackstone_from_blackstone_cluster": {
     "criteria": {
       "has_blackstone_cluster": "2025-02-13 23:01:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/time_manipulator_upgrade": {
+    "criteria": {
+      "has_star": "2025-02-13 23:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-13 23:18:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/god_upgrade": {
+    "criteria": {
+      "has_star": "2025-02-13 23:18:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_fall": "2025-02-13 23:33:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-02-13 23:48:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2025-02-13 23:33:52 +0000"
     },
     "done": true
   },

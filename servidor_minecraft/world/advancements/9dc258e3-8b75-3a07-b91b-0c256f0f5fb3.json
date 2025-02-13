@@ -13959,6 +13959,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_pike": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
@@ -13971,9 +13977,21 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-02-13 22:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -13989,9 +14007,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/ominous_catalyst": {
     "criteria": {
       "nuclear_bomb": "2025-02-13 22:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_cosmaw": {
+    "criteria": {
+      "tame": "2025-02-13 23:40:02 +0000"
     },
     "done": true
   },
@@ -14004,6 +14046,12 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
     "criteria": {
       "has_item": "2025-02-13 22:34:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -14025,16 +14073,41 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:collect_heads": {
     "criteria": {
       "wither_skeleton_skull": "2025-02-13 22:54:27 +0000",
-      "blaze_head": "2025-02-13 23:08:39 +0000"
+      "blaze_head": "2025-02-13 23:08:39 +0000",
+      "husk_head": "2025-02-13 23:24:52 +0000"
     },
     "done": false
   },
   "spartanfire:recipes/dragon_bone_longbow": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -14050,15 +14123,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_spear": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-02-13 22:34:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -14092,9 +14183,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_rapier": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -14103,6 +14218,12 @@
       "previous_progression": "2025-02-13 22:37:47 +0000"
     },
     "done": false
+  },
+  "rats:recipes/transportation/pirat_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
@@ -14116,9 +14237,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_greatsword": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -14128,9 +14273,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_parrying_dagger": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -14140,9 +14297,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "ice_and_fire_delight:kill_pixie": {
     "criteria": {
       "killed_pixie": "2025-02-13 21:51:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
@@ -14164,15 +14345,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_katana": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_javelin": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 23:16:15 +0000"
     },
     "done": true
   },
