@@ -2908,3 +2908,150 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Feb2025 21:56:28.446] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.378746032714844) to LOW (avg. 38.53205490112305)
 [13Feb2025 21:57:23.386] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2702, y=52, z=-3832}
 [13Feb2025 21:57:27.255] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2708, y=52, z=-3832}
+[13Feb2025 21:57:36.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> llegue
+[13Feb2025 21:57:36.909] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.175655364990234) to HIGH (avg. 54.15418243408203)
+[13Feb2025 21:57:38.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[13Feb2025 21:57:41.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Feb2025 21:57:48.934] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 47.96630803) to VERY_HIGH (avg. 53.4577061)
+[13Feb2025 21:57:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> estoy en casa ya
+[13Feb2025 21:57:57.981] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.446327209472656) to VERY_HIGH (avg. 83.31231689453125)
+[13Feb2025 21:58:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no sé lo que encontré
+[13Feb2025 21:58:03.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6464ms or 129 ticks behind
+[13Feb2025 21:58:31.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13910ms or 278 ticks behind
+[13Feb2025 21:59:05.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18360ms or 367 ticks behind
+[13Feb2025 21:59:38.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18201ms or 364 ticks behind
+[13Feb2025 21:59:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ???
+[13Feb2025 21:59:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> mira el grupo
+[13Feb2025 21:59:57.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.29212456031564216
+[13Feb2025 21:59:57.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4549ms or 90 ticks behind
+[13Feb2025 22:00:17.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4838ms or 96 ticks behind
+[13Feb2025 22:00:34.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> un alma
+[13Feb2025 22:00:35.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[13Feb2025 22:00:46.687] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.39129638671875) to MEDIUM (avg. 48.17989730834961)
+[13Feb2025 22:00:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> pesca
+[13Feb2025 22:01:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> para que obtengas la tableta para que vaya a tí
+[13Feb2025 22:01:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> estoy a 7k bloques xd
+[13Feb2025 22:01:17.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.387565943719892,6.920635379826024,-6.9416567840180505
+[13Feb2025 22:01:17.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -3.699938535716683,7.198900594033631,-7.759541565636027
+[13Feb2025 22:01:17.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -4.004215343979013,7.389314509464583,-8.583500575521612
+[13Feb2025 22:01:17.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -4.301272332098961,7.495356035908344,-9.412876582332501
+[13Feb2025 22:01:17.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -4.591890684429927,7.5203663183916944,-10.247083467140328
+[13Feb2025 22:01:17.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -4.876767061199189,7.48867904295318,-11.085598529070012
+[13Feb2025 22:01:17.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -5.156522744014637,7.424320366101881,-11.927955623467824
+[13Feb2025 22:01:17.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -5.421428528956312,7.341135120534091,-12.775949011400371
+[13Feb2025 22:01:17.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -5.67106521839878,7.247101252797933,-13.629269962768376
+[13Feb2025 22:01:17.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -5.9068242708226535,7.146815974901841,-14.487377643637046
+[13Feb2025 22:01:17.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -6.130207246196733,7.0429283843450605,-15.349754129997564
+[13Feb2025 22:01:17.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -6.342553235739615,6.93696499710029,-16.21593753720572
+[13Feb2025 22:01:17.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -6.545056441034831,6.8298054527487295,-17.085515956522613
+[13Feb2025 22:01:17.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -6.7387818510846955,6.721956634812557,-17.958122047726647
+[13Feb2025 22:01:17.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -6.924679223109251,6.613710629858247,-18.833428216797074
+[13Feb2025 22:01:17.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -7.103595550621776,6.505235749852147,-19.7111423153774
+[13Feb2025 22:01:17.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -7.276286182458989,6.396628982883641,-20.591003805557193
+[13Feb2025 22:01:17.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -7.443424738733029,6.287946217370461,-21.47278033962084
+[13Feb2025 22:01:17.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -7.605611953877087,6.179219658455025,-22.35626470986881
+[13Feb2025 22:01:17.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -7.763383562873969,6.070467864028984,-23.241272128469973
+[13Feb2025 22:01:17.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -4.851102008376529,-0.5891949839708275,-17.997054599307376
+[13Feb2025 22:01:17.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -5.001424015958037,-0.6979696996234281,-18.884631563921175
+[13Feb2025 22:01:17.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -5.148614232545697,-0.8067492438882482,-19.773288758283343
+[13Feb2025 22:01:19.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.2839290171309585,-1.1966466477576319,-9.858310874601557
+[13Feb2025 22:01:19.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.377212899974893,-1.3054327575374884,-10.757988816239049
+[13Feb2025 22:01:19.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.4679313438955433,-1.4142188675542968,-11.658032074211405
+[13Feb2025 22:01:19.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.5563619293184274,-1.5230049777076715,-12.558401121300449
+[13Feb2025 22:01:19.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.6427522024741847,-1.6317910879397175,-13.459060707132267
+[13Feb2025 22:01:19.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.7273229250977238,-1.7405771982171245,-14.35997939542176
+[13Feb2025 22:01:19.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.8102709725098975,-1.8493633085206511,-15.261129151290334
+[13Feb2025 22:01:19.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.8912565828622974,-1.9581494188392412,-16.162523309390963
+[13Feb2025 22:01:19.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.970239036928433,-2.0669355291665,-17.064153252918913
+[13Feb2025 22:01:19.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -2.0474350761669484,-2.175721639498761,-17.96599346989842
+[13Feb2025 22:01:19.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -2.123037990616467,-2.2845077498338924,-18.86802120874654
+[13Feb2025 22:01:19.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -2.199514527708743,-2.3932938601706724,-19.770030451045386
+[13Feb2025 22:01:19.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -2.2762648483658268,-2.5020799705084187,-20.672068765755284
+[13Feb2025 22:01:19.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -2.3530065861236835,-2.610866080846705,-21.57415480680629
+[13Feb2025 22:01:19.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[13Feb2025 22:01:19.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.241972232885928,-1.6317916527963234,-13.51724083795034
+[13Feb2025 22:01:19.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.3197194662934635,-1.7405777631351214,-14.419315375324004
+[13Feb2025 22:01:19.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved too quickly! -1.3986227289260569,-1.849363873474033,-15.321317256798466
+[13Feb2025 22:01:19.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.28781509399414) to VERY_HIGH (avg. 107.68949127197266)
+[13Feb2025 22:01:36.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[13Feb2025 22:01:36.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 107.68949127197266) to MEDIUM (avg. 48.65391540527344)
+[13Feb2025 22:01:38.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2404, y=34, z=-4785}
+[13Feb2025 22:01:52.538] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.65391540527344) to NORMAL (avg. 44.431922912597656)
+[13Feb2025 22:02:14.290] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.189788818359375) to HIGH (avg. 53.915184020996094)
+[13Feb2025 22:02:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no tienes suerte
+[13Feb2025 22:02:44.441] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.82048797607422) to MEDIUM (avg. 48.544193267822266)
+[13Feb2025 22:02:51.930] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.544193267822266) to HIGH (avg. 50.15748596191406)
+[13Feb2025 22:02:58.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> debí de haber dejado una en un cofre para esta situación
+[13Feb2025 22:03:06.744] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.15748596191406) to NORMAL (avg. 43.73546600341797)
+[13Feb2025 22:03:07.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> pero subestimé tu pendejidad
+[13Feb2025 22:03:14.758] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.73546600341797) to HIGH (avg. 51.35297393798828)
+[13Feb2025 22:03:30.158] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.8538818359375) to VERY_HIGH (avg. 58.86183166503906)
+[13Feb2025 22:04:08.237] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.45561981201172) to NORMAL (avg. 44.39872360229492)
+[13Feb2025 22:04:16.231] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.39872360229492) to VERY_HIGH (avg. 71.24270629882812)
+[13Feb2025 22:04:16.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Feb2025 22:04:24.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> donde estas?
+[13Feb2025 22:04:24.941] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 71.24270629882812) to HIGH (avg. 49.10841369628906)
+[13Feb2025 22:04:26.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[13Feb2025 22:04:34.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[13Feb2025 22:04:41.294] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.10841369628906) to LOW (avg. 29.16176986694336)
+[13Feb2025 22:04:59.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> corriendo por mi vida
+[13Feb2025 22:05:27.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of BillyVR15) moved wrongly! 0.26199406822462307
+[13Feb2025 22:05:27.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> por que parte?
+[13Feb2025 22:05:31.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[13Feb2025 22:05:33.794] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.84370422363281) to NORMAL (avg. 41.143035888671875)
+[13Feb2025 22:05:44.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> un hada me robó sangre de dragón
+[13Feb2025 22:05:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> a
+[13Feb2025 22:06:08.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> toy que la busco
+[13Feb2025 22:06:18.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.45206069946289) to LOW (avg. 39.77607727050781)
+[13Feb2025 22:06:31.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2516, y=-34, z=-5839}
+[13Feb2025 22:06:33.191] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:33.237] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:38.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:39.101] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:39.102] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:39.102] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:39.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no te veo en el mapa ptmr
+[13Feb2025 22:06:41.325] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.363216400146484) to MEDIUM (avg. 46.65813446044922)
+[13Feb2025 22:06:43.356] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[13Feb2025 22:06:46.093] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:49.065] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:49.065] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[13Feb2025 22:06:50.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> waystone
+[13Feb2025 22:06:56.297] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.65813446044922) to NORMAL (avg. 43.32975769042969)
+[13Feb2025 22:06:57.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> cual de todas
+[13Feb2025 22:07:02.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
+[13Feb2025 22:07:06.979] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.32975769042969) to MEDIUM (avg. 47.2136116027832)
+[13Feb2025 22:07:08.335] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 71.39501853) to NORMAL (avg. 40.24940915)
+[13Feb2025 22:07:09.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ven a casa
+[13Feb2025 22:07:14.853] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.2136116027832) to VERY_HIGH (avg. 73.26708221435547)
+[13Feb2025 22:07:15.860] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.24940915) to MEDIUM (avg. 44.77796138)
+[13Feb2025 22:07:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> de una aldea era la waystone
+[13Feb2025 22:07:37.061] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 98.92867279052734) to LOW (avg. 37.330875396728516)
+[13Feb2025 22:07:46.004] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.25775908) to VERY_HIGH (avg. 50.69875104)
+[13Feb2025 22:08:22.374] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.99266815185547) to VERY_HIGH (avg. 100.2950668334961)
+[13Feb2025 22:08:44.687] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 98.04473876953125) to LOW (avg. 39.510009765625)
+[13Feb2025 22:09:07.599] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.60582160949707) to VERY_HIGH (avg. 79.1412582397461)
+[13Feb2025 22:09:29.500] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.13888168334961) to LOW (avg. 29.92974090576172)
+[13Feb2025 22:10:13.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [A not-so-pointy Stick!]
+[13Feb2025 22:12:34.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Reaping What You Sow]
+[13Feb2025 22:12:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Reaping What You Sow]
+[13Feb2025 22:14:50.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SubterranodonEntity['dr.sexooo'/12767, l='ServerLevel[world]', x=-458.38, y=84.00, z=-1312.22] died: dr.sexooo was slain by BillyVR15
+[13Feb2025 22:15:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [A not-so-pointy Stick!]
+[13Feb2025 22:15:36.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.54396057128906) to NORMAL (avg. 43.38164520263672)
+[13Feb2025 22:16:00.002] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.322086334228516) to LOW (avg. 39.61577606201172)
+[13Feb2025 22:16:14.457] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.61577606201172) to MEDIUM (avg. 47.94375228881836)
+[13Feb2025 22:16:21.954] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.94375228881836) to NORMAL (avg. 40.86677932739258)
+[13Feb2025 22:17:29.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.610694885253906) to LOW (avg. 39.47727966308594)
+[13Feb2025 22:17:42.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Blunt-force Trauma]
+[13Feb2025 22:17:44.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.47727966308594) to NORMAL (avg. 40.83842849731445)
+[13Feb2025 22:17:45.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Take Aim, Chaps!]
+[13Feb2025 22:17:48.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Smash And Bash!]
+[13Feb2025 22:17:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[13Feb2025 22:18:36.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.287940979003906) to LOW (avg. 30.029199600219727)
+[13Feb2025 22:19:29.445] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.882654190063477) to NORMAL (avg. 42.08308029174805)
+[13Feb2025 22:19:36.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.08308029174805) to LOW (avg. 36.375938415527344)
+[13Feb2025 22:19:59.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.28673553466797) to NORMAL (avg. 43.20714569091797)
+[13Feb2025 22:20:06.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[13Feb2025 22:20:14.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.29012680053711) to HIGH (avg. 53.91387176513672)
+[13Feb2025 22:20:17.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[13Feb2025 22:20:29.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.91387176513672) to LOW (avg. 38.77832794189453)

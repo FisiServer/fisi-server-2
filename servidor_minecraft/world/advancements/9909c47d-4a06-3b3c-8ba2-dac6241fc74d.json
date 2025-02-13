@@ -11959,5 +11959,179 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_scythe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-02-13 22:12:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_halberd": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_javelin": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_spear": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_glaive": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-02-13 22:17:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-02-13 22:17:42 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_katana": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_rapier": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-02-13 22:17:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_lance": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-02-13 22:15:25 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_boomerang": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_saber": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_greatsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_pike": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_warhammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-02-13 22:12:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
