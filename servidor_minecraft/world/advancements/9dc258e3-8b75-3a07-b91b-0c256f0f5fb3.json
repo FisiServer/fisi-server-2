@@ -13032,6 +13032,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-02-13 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-02-13 02:50:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
@@ -13053,6 +13065,18 @@
   "spartanweaponry:recipes/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-02-13 02:59:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/bioluminesscence": {
+    "criteria": {
+      "bioluminesscence": "2025-02-13 03:01:11 +0000"
     },
     "done": true
   },
@@ -13123,6 +13147,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "ortholance": "2025-02-13 03:05:02 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/iron_halberd": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
@@ -13183,6 +13213,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-02-13 02:50:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
@@ -13198,6 +13234,12 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-02-13 02:50:52 +0000"
     },
     "done": true
   },

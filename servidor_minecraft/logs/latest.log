@@ -3118,3 +3118,68 @@ io.netty.channel.StacklessClosedChannelException: null
 [13Feb2025 02:50:52.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [The Shadow Over Mine's Craft]
 [13Feb2025 02:51:09.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.461238861083984) to VERY_LOW (avg. 18.71673583984375)
 [13Feb2025 02:51:24.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.71673583984375) to LOW (avg. 23.480709075927734)
+[13Feb2025 02:51:37.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Bring Forth The Mollusk]
+[13Feb2025 02:52:09.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6132, y=-51, z=1269}
+[13Feb2025 02:52:11.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 34.15590491) to NORMAL (avg. 38.2192996)
+[13Feb2025 02:53:17.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.010053634643555) to VERY_LOW (avg. 19.829957962036133)
+[13Feb2025 02:53:24.942] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.829957962036133) to LOW (avg. 36.33483123779297)
+[13Feb2025 02:55:23.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -6.158580454157345,0.9780183620591103,-10.4598669899583
+[13Feb2025 02:56:12.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[13Feb2025 02:56:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[13Feb2025 02:57:17.462] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.631656646728516) to NORMAL (avg. 42.29230499267578)
+[13Feb2025 02:57:23.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6149, y=-54, z=1372}
+[13Feb2025 02:57:39.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.79159927368164) to LOW (avg. 32.22243881225586)
+[13Feb2025 02:57:42.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [The Shadow Over Mine's Craft]
+[13Feb2025 02:57:55.196] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.22243881225586) to HIGH (avg. 51.211517333984375)
+[13Feb2025 02:57:56.695] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 38.2192996) to HIGH (avg. 47.714802549999995)
+[13Feb2025 02:58:03.792] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.211517333984375) to MEDIUM (avg. 48.1861686706543)
+[13Feb2025 02:58:05.285] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 47.714802549999995) to VERY_HIGH (avg. 52.1067777)
+[13Feb2025 02:58:14.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13Feb2025 02:58:19.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.1861686706543) to LOW (avg. 36.0579833984375)
+[13Feb2025 02:58:57.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.22063446044922) to VERY_HIGH (avg. 60.0924072265625)
+[13Feb2025 02:59:05.148] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.0924072265625) to MEDIUM (avg. 46.18196487426758)
+[13Feb2025 02:59:19.475] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.18196487426758) to NORMAL (avg. 45.49794387817383)
+[13Feb2025 02:59:27.316] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.49794387817383) to MEDIUM (avg. 48.41644287109375)
+[13Feb2025 02:59:27.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Diamonds of the Sea]
+[13Feb2025 02:59:34.765] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.41644287109375) to HIGH (avg. 52.58622360229492)
+[13Feb2025 02:59:35.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6037, y=-34, z=1272} BlockPos{x=-6051, y=-19, z=1274}
+[13Feb2025 02:59:35.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6037, y=-34, z=1272} BlockPos{x=-6051, y=-19, z=1274}
+[13Feb2025 02:59:35.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6037, y=-34, z=1272} BlockPos{x=-6051, y=-19, z=1274}
+[13Feb2025 02:59:35.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6037, y=-34, z=1272} BlockPos{x=-6051, y=-19, z=1274}
+[13Feb2025 02:59:35.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6037, y=-34, z=1272} BlockPos{x=-6051, y=-19, z=1274}
+[13Feb2025 02:59:35.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6037, y=-34, z=1272} BlockPos{x=-6051, y=-19, z=1274}
+[13Feb2025 02:59:35.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6037, y=-34, z=1272} BlockPos{x=-6051, y=-19, z=1274}
+[13Feb2025 02:59:38.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-5893, y=-47, z=1452}
+[13Feb2025 02:59:41.948] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6238, y=-50, z=1379}
+[13Feb2025 02:59:42.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6226, y=-51, z=1437}
+[13Feb2025 02:59:45.987] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6172, y=-53, z=1467}
+[13Feb2025 03:00:04.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.70133590698242) to NORMAL (avg. 41.686100006103516)
+[13Feb2025 03:00:41.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.01930236816406) to LOW (avg. 20.766361236572266)
+[13Feb2025 03:01:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Another Kind of Slime]
+[13Feb2025 03:01:33.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 4.336046063003778,-0.5809223644381163,10.25656699297383
+[13Feb2025 03:01:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Bring Forth The Mollusk]
+[13Feb2025 03:02:34.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.87033462524414) to NORMAL (avg. 44.716766357421875)
+[13Feb2025 03:03:19.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.74755096435547) to LOW (avg. 36.120853424072266)
+[13Feb2025 03:03:41.950] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.4870719909668) to MEDIUM (avg. 46.441062927246094)
+[13Feb2025 03:03:49.454] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.441062927246094) to HIGH (avg. 50.790863037109375)
+[13Feb2025 03:03:56.976] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.790863037109375) to MEDIUM (avg. 48.70222473144531)
+[13Feb2025 03:04:04.610] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.70222473144531) to VERY_HIGH (avg. 62.895450592041016)
+[13Feb2025 03:04:11.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.895450592041016) to HIGH (avg. 50.576229095458984)
+[13Feb2025 03:04:26.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.576229095458984) to NORMAL (avg. 44.802734375)
+[13Feb2025 03:04:34.483] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.802734375) to HIGH (avg. 51.89807891845703)
+[13Feb2025 03:04:49.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.89807891845703) to NORMAL (avg. 41.387516021728516)
+[13Feb2025 03:05:04.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.387516021728516) to LOW (avg. 31.912355422973633)
+[13Feb2025 03:05:11.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.912355422973633) to NORMAL (avg. 45.23804473876953)
+[13Feb2025 03:05:19.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.23804473876953) to LOW (avg. 37.55586242675781)
+[13Feb2025 03:06:19.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.785594940185547) to VERY_LOW (avg. 19.070964813232422)
+[13Feb2025 03:06:34.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.070964813232422) to LOW (avg. 30.425006866455078)
+[13Feb2025 03:07:26.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.36414337158203) to VERY_LOW (avg. 13.893315315246582)
+[13Feb2025 03:09:26.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.200942993164062) to LOW (avg. 22.179677963256836)
+[13Feb2025 03:10:19.452] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.13414001464844) to NORMAL (avg. 42.999107360839844)
+[13Feb2025 03:10:34.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.999107360839844) to LOW (avg. 29.213363647460938)
+[13Feb2025 03:10:44.536] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6147, y=-48, z=1522}
+[13Feb2025 03:10:50.904] [Worker-Main-23/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[13Feb2025 03:11:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Alex's Caves]
+[13Feb2025 03:11:05.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> a
+[13Feb2025 03:11:42.162] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.73271560668945) to MEDIUM (avg. 46.496864318847656)
+[13Feb2025 03:11:50.034] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.496864318847656) to VERY_HIGH (avg. 58.9733772277832)
