@@ -3409,3 +3409,74 @@ io.netty.channel.StacklessClosedChannelException: null
 [13Feb2025 04:21:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
 [13Feb2025 04:22:02.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
 [13Feb2025 04:23:00.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.16263771057129) to LOW (avg. 20.383569717407227)
+[13Feb2025 04:23:45.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.329242706298828) to VERY_LOW (avg. 19.1071720123291)
+[13Feb2025 04:23:53.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.1071720123291) to LOW (avg. 20.347373962402344)
+[13Feb2025 04:24:08.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.347373962402344) to VERY_LOW (avg. 15.891271591186523)
+[13Feb2025 04:24:38.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.875009536743164) to LOW (avg. 22.234786987304688)
+[13Feb2025 04:24:45.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.234786987304688) to VERY_LOW (avg. 18.071182250976562)
+[13Feb2025 04:24:53.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.071182250976562) to LOW (avg. 22.48406982421875)
+[13Feb2025 04:25:30.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.28190040588379) to VERY_LOW (avg. 18.946468353271484)
+[13Feb2025 04:25:38.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.946468353271484) to LOW (avg. 26.638809204101562)
+[13Feb2025 04:26:00.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.542621612548828) to VERY_LOW (avg. 14.968155860900879)
+[13Feb2025 04:26:38.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.75578498840332) to LOW (avg. 33.68398666381836)
+[13Feb2025 04:27:00.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.363929748535156) to NORMAL (avg. 43.03963851928711)
+[13Feb2025 04:27:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[13Feb2025 04:27:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[13Feb2025 04:27:23.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.68556213378906) to LOW (avg. 20.45112419128418)
+[13Feb2025 04:27:38.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.45112419128418) to VERY_LOW (avg. 15.099145889282227)
+[13Feb2025 04:28:00.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [King of Monsters]
+[13Feb2025 04:29:38.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.28368377685547) to LOW (avg. 26.1468505859375)
+[13Feb2025 04:29:53.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.1468505859375) to VERY_LOW (avg. 15.466928482055664)
+[13Feb2025 04:30:53.500] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.504501342773438) to LOW (avg. 26.520709991455078)
+[13Feb2025 04:31:08.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.520709991455078) to VERY_LOW (avg. 14.937896728515625)
+[13Feb2025 04:32:46.042] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.511761665344238) to LOW (avg. 31.269670486450195)
+[13Feb2025 04:32:53.503] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.269670486450195) to MEDIUM (avg. 47.58906173706055)
+[13Feb2025 04:33:08.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.58906173706055) to LOW (avg. 28.175676345825195)
+[13Feb2025 04:33:16.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 6.628179457062572,7.95703752428291,1.2161140841215001
+[13Feb2025 04:33:53.753] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.131542205810547) to HIGH (avg. 51.842769622802734)
+[13Feb2025 04:34:08.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.053253173828125) to VERY_HIGH (avg. 66.2465591430664)
+[13Feb2025 04:34:31.078] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.5123291015625) to LOW (avg. 29.91969871520996)
+[13Feb2025 04:34:38.787] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.91969871520996) to VERY_HIGH (avg. 61.86601257324219)
+[13Feb2025 04:34:53.664] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.86601257324219) to LOW (avg. 36.55851745605469)
+[13Feb2025 04:34:54.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 4.816671751035756,6.9425354357613855,8.128228695823964
+[13Feb2025 04:35:46.342] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.851917266845703) to VERY_HIGH (avg. 90.3388442993164)
+[13Feb2025 04:35:53.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 90.3388442993164) to LOW (avg. 27.911611557006836)
+[13Feb2025 04:36:08.804] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.911611557006836) to VERY_HIGH (avg. 55.279666900634766)
+[13Feb2025 04:36:16.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.279666900634766) to LOW (avg. 29.74656105041504)
+[13Feb2025 04:36:18.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 3.3314130584543022,4.776593287255793,-8.730097722356504
+[13Feb2025 04:36:30.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7369ms or 147 ticks behind
+[13Feb2025 04:36:30.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! -3433.2169013525686,-55.67647087614428,-9343.507177913441
+[13Feb2025 04:36:31.320] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.74656105041504) to VERY_HIGH (avg. 123.13212585449219)
+[13Feb2025 04:36:31.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! -3432.8641802019456,-55.92159999847412,-9343.083658301683
+[13Feb2025 04:36:32.244] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 60.38470409000001) to NORMAL (avg. 40.23279176)
+[13Feb2025 04:36:45.840] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 123.13212585449219) to VERY_LOW (avg. 10.163856506347656)
+[13Feb2025 04:39:47.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
+[13Feb2025 04:39:48.944] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.97426986694336) to MEDIUM (avg. 46.8428955078125)
+[13Feb2025 04:39:49.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 40.23279176) to VERY_LOW (avg. 12.76665633)
+[13Feb2025 04:39:55.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.8428955078125) to LOW (avg. 34.07808303833008)
+[13Feb2025 04:39:56.840] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.76665633) to LOW (avg. 27.480698320000002)
+[13Feb2025 04:42:22.601] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3736, y=15, z=-1186}
+[13Feb2025 04:42:28.948] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3790, y=37, z=-1250}
+[13Feb2025 04:42:51.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Take Aim, Chaps!]
+[13Feb2025 04:43:10.597] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.84429931640625) to NORMAL (avg. 40.58294677734375)
+[13Feb2025 04:43:23.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3765, y=62, z=-1042} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3765, y=62, z=-1041} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=62, z=-1041} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=62, z=-1041} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=62, z=-1041} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3765, y=62, z=-1042} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3765, y=63, z=-1042} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=63, z=-1042} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3767, y=63, z=-1042} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3767, y=64, z=-1042} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:24.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3765, y=62, z=-1042} BlockPos{x=-3764, y=61, z=-1042}
+[13Feb2025 04:43:25.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3765, y=62, z=-1042} BlockPos{x=-3765, y=64, z=-1042}
+[13Feb2025 04:43:25.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.58294677734375) to LOW (avg. 23.91887855529785)
+[13Feb2025 04:43:25.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=63, z=-1042} BlockPos{x=-3765, y=64, z=-1042}
+[13Feb2025 04:43:25.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3767, y=64, z=-1042} BlockPos{x=-3766, y=64, z=-1042}
+[13Feb2025 04:43:25.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3767, y=64, z=-1042} BlockPos{x=-3766, y=64, z=-1042}
+[13Feb2025 04:43:25.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=63, z=-1042} BlockPos{x=-3766, y=64, z=-1042}
+[13Feb2025 04:43:25.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=62, z=-1042} BlockPos{x=-3766, y=64, z=-1042}
+[13Feb2025 04:43:25.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3768, y=63, z=-1042} BlockPos{x=-3766, y=64, z=-1042}
+[13Feb2025 04:43:27.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3766, y=61, z=-1042} BlockPos{x=-3766, y=60, z=-1042}
+[13Feb2025 04:43:34.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Smash And Bash!]

@@ -12900,6 +12900,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_tremorzilla": {
+    "criteria": {
+      "killed": "2025-02-13 04:28:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_mine_guardian": {
     "criteria": {
       "killed": "2025-02-13 03:22:26 +0000"
@@ -13050,6 +13056,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2025-02-13 04:25:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-02-13 04:02:45 +0000"
@@ -13168,6 +13180,12 @@
   "spartanweaponry:recipes/iron_parrying_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-02-13 04:24:59 +0000"
     },
     "done": true
   },

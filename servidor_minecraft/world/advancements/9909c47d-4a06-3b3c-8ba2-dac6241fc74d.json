@@ -10482,6 +10482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-13 04:41:48 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_boomerang": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 03:59:41 +0000"
@@ -10521,6 +10527,12 @@
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-02-13 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2025-02-13 04:23:11 +0000"
     },
     "done": true
   },
@@ -10575,6 +10587,12 @@
   "spartanfire:recipes/dragon_bone_spear": {
     "criteria": {
       "has_dragon_bone": "2025-02-13 03:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-13 04:41:48 +0000"
     },
     "done": true
   },
