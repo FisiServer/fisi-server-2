@@ -12894,6 +12894,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-02-13 03:22:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 02:22:16 +0000"
@@ -13194,6 +13200,12 @@
       "has_iron_ingot": "2025-02-13 02:37:29 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "pants": "2025-02-13 03:19:48 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {

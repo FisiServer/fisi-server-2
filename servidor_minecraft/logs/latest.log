@@ -3210,3 +3210,46 @@ io.netty.channel.StacklessClosedChannelException: null
 [13Feb2025 03:17:13.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.51801681518555) to NORMAL (avg. 40.66827392578125)
 [13Feb2025 03:17:28.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.66827392578125) to LOW (avg. 35.247291564941406)
 [13Feb2025 03:20:56.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[13Feb2025 03:22:06.682] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.03000259399414) to HIGH (avg. 49.46793746948242)
+[13Feb2025 03:22:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Those Aren't Balloons...]
+[13Feb2025 03:22:28.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.195186614990234) to LOW (avg. 29.63010025024414)
+[13Feb2025 03:23:58.999] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.977664947509766) to NORMAL (avg. 42.962120056152344)
+[13Feb2025 03:24:14.050] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.577110290527344) to HIGH (avg. 53.241485595703125)
+[13Feb2025 03:24:19.571] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6251, y=-52, z=788}
+[13Feb2025 03:24:21.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.241485595703125) to NORMAL (avg. 41.23598861694336)
+[13Feb2025 03:24:51.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.01375961303711) to LOW (avg. 32.0989875793457)
+[13Feb2025 03:24:59.079] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.0989875793457) to NORMAL (avg. 44.701026916503906)
+[13Feb2025 03:25:02.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[13Feb2025 03:25:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> casa
+[13Feb2025 03:25:12.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> tengo 40 segundos
+[13Feb2025 03:25:14.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.865562438964844) to MEDIUM (avg. 46.750831604003906)
+[13Feb2025 03:25:22.164] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.750831604003906) to HIGH (avg. 53.24241638183594)
+[13Feb2025 03:25:27.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Feb2025 03:26:00.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.348304748535156) to LOW (avg. 31.968677520751953)
+[13Feb2025 03:26:16.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.968677520751953) to VERY_HIGH (avg. 85.01386260986328)
+[13Feb2025 03:27:01.184] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.90512466430664) to LOW (avg. 34.23115921020508)
+[13Feb2025 03:27:31.243] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.38675308227539) to MEDIUM (avg. 48.273658752441406)
+[13Feb2025 03:27:46.332] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.273658752441406) to VERY_HIGH (avg. 61.517555236816406)
+[13Feb2025 03:27:50.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 0.300128167586422,11.192308314976131,-2.0078513375599414
+[13Feb2025 03:28:01.094] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.517555236816406) to LOW (avg. 31.344818115234375)
+[13Feb2025 03:28:38.757] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.100683212280273) to NORMAL (avg. 45.22703552246094)
+[13Feb2025 03:28:46.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.22703552246094) to LOW (avg. 36.196632385253906)
+[13Feb2025 03:28:52.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 2.6907545006936857,9.707543005413726,-2.2958059902621244
+[13Feb2025 03:29:12.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 3.514647590163861,9.384615650713982,-0.5586557876733877
+[13Feb2025 03:29:16.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.88740539550781) to VERY_HIGH (avg. 86.85231018066406)
+[13Feb2025 03:29:29.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano moved too quickly! 4.953139296411166,8.337255933010852,-3.483089933037718
+[13Feb2025 03:29:38.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 87.40618133544922) to LOW (avg. 34.37363815307617)
+[13Feb2025 03:30:08.799] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.78727340698242) to HIGH (avg. 53.961219787597656)
+[13Feb2025 03:30:12.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> mi tableta está en cooldown
+[13Feb2025 03:30:15.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[13Feb2025 03:30:16.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.961219787597656) to LOW (avg. 38.571346282958984)
+[13Feb2025 03:30:46.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 0.2802538068766012,-11.19886200217774,-0.42137120303573283
+[13Feb2025 03:30:46.460] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.319766998291016) to HIGH (avg. 51.526058197021484)
+[13Feb2025 03:30:52.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 0.36456415453540103,-10.125473803508331,-0.2851247870271436
+[13Feb2025 03:30:54.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved too quickly! 0.0,-11.558953062305577,0.0
+[13Feb2025 03:31:01.093] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.526058197021484) to LOW (avg. 33.5695686340332)
+[13Feb2025 03:31:16.325] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.5695686340332) to VERY_HIGH (avg. 99.37522888183594)
+[13Feb2025 03:31:23.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 99.37522888183594) to NORMAL (avg. 41.627769470214844)
+[13Feb2025 03:31:53.638] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.89126205444336) to LOW (avg. 33.08897018432617)
+[13Feb2025 03:32:16.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Re-Extinct]
+[13Feb2025 03:32:16.427] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 24.649494171142578) to VERY_HIGH (avg. 109.93608856201172)
