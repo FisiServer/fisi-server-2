@@ -14243,6 +14243,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-02-14 00:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-02-13 23:16:15 +0000"

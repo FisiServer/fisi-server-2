@@ -12271,6 +12271,12 @@
     },
     "done": false
   },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-02-13 23:51:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-02-13 23:48:50 +0000"
