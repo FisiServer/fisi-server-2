@@ -3561,3 +3561,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 20:24:21.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.795303344726562) to VERY_LOW (avg. 19.263572692871094)
 [22Feb2025 20:24:43.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.9935245513916) to LOW (avg. 20.755672454833984)
 [22Feb2025 20:24:58.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.755672454833984) to VERY_LOW (avg. 17.53864860534668)
+[22Feb2025 20:26:06.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.317554473876953) to LOW (avg. 20.475858688354492)
+[22Feb2025 20:26:21.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.475858688354492) to VERY_LOW (avg. 15.851045608520508)
+[22Feb2025 20:26:51.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.349781036376953) to LOW (avg. 20.558252334594727)
+[22Feb2025 20:26:58.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.558252334594727) to VERY_LOW (avg. 18.94705581665039)
+[22Feb2025 20:27:13.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.94705581665039) to LOW (avg. 20.738666534423828)
+[22Feb2025 20:27:28.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.738666534423828) to VERY_LOW (avg. 17.310482025146484)
+[22Feb2025 20:28:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Diamonds!]
+[22Feb2025 20:28:56.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> compaltan
+[22Feb2025 20:29:36.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.10773277282715) to LOW (avg. 20.196910858154297)
+[22Feb2025 20:29:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ya me hice un pico de diamante
+[22Feb2025 20:29:43.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.196910858154297) to VERY_LOW (avg. 19.984468460083008)
+[22Feb2025 20:29:57.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> sube ven
+[22Feb2025 20:30:13.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.90654945373535) to LOW (avg. 23.332433700561523)
+[22Feb2025 20:30:21.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.332433700561523) to VERY_LOW (avg. 19.716690063476562)
+[22Feb2025 20:30:43.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.820650100708008) to LOW (avg. 20.22640609741211)
+[22Feb2025 20:32:03.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> sube mrd
+[22Feb2025 20:32:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> estoy buscando artifacts
+[22Feb2025 20:32:28.029] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-858, y=-5, z=-781}
+[22Feb2025 20:32:28.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.56596565246582) to NORMAL (avg. 41.98747634887695)
+[22Feb2025 20:32:43.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.98747634887695) to LOW (avg. 20.624095916748047)
+[22Feb2025 20:32:44.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Pic-A-Nic Basket?]
+[22Feb2025 20:33:09.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
+[22Feb2025 20:33:09.356] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[22Feb2025 20:33:11.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[22Feb2025 20:33:13.575] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.028297424316406) to NORMAL (avg. 40.80738830566406)
+[22Feb2025 20:33:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[22Feb2025 20:33:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Teleported BillyVR15 to Sgirano]
+[22Feb2025 20:33:21.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Bison
+[22Feb2025 20:33:21.942] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[22Feb2025 20:33:23.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[22Feb2025 20:33:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[22Feb2025 20:33:36.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.67081832885742) to VERY_LOW (avg. 15.828514099121094)
+[22Feb2025 20:34:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Bison
+[22Feb2025 20:34:04.105] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[22Feb2025 20:34:05.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[22Feb2025 20:34:06.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.798748016357422) to LOW (avg. 26.7897891998291)
+[22Feb2025 20:35:18.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 moved wrongly!
+[22Feb2025 20:35:57.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Ashes 'n Bones]

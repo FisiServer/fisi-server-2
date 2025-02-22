@@ -102,6 +102,7 @@
       "willow_forest": "2025-02-22 19:52:32 +0000",
       "redstone_caves": "2025-02-22 19:37:22 +0000",
       "blackwood_taiga": "2025-02-22 19:34:38 +0000",
+      "rocky_meadow": "2025-02-22 20:34:29 +0000",
       "maple_forest": "2025-02-22 18:52:24 +0000",
       "magnolia_highlands": "2025-02-22 18:55:21 +0000",
       "boreal_forest": "2025-02-22 19:06:03 +0000",
@@ -117,6 +118,7 @@
       "muddy_river": "2025-02-22 19:05:47 +0000",
       "willow_forest": "2025-02-22 19:52:32 +0000",
       "blackwood_taiga": "2025-02-22 19:34:38 +0000",
+      "rocky_meadow": "2025-02-22 20:34:29 +0000",
       "maple_forest": "2025-02-22 18:52:24 +0000",
       "magnolia_highlands": "2025-02-22 18:55:21 +0000",
       "boreal_forest": "2025-02-22 19:06:03 +0000",
@@ -2936,7 +2938,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-22 19:35:20 +0000",
       "minecraft:spider": "2025-02-22 19:03:51 +0000",
-      "minecraft:zombie": "2025-02-22 19:10:19 +0000"
+      "minecraft:zombie": "2025-02-22 19:10:19 +0000",
+      "minecraft:drowned": "2025-02-22 20:26:06 +0000"
     },
     "done": false
   },
@@ -4422,6 +4425,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_water_bottle": {
+    "criteria": {
+      "has_water": "2025-02-22 20:25:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-22 20:11:46 +0000"
@@ -4437,6 +4446,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-22 20:09:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-02-22 20:25:19 +0000"
     },
     "done": true
   },
@@ -4467,6 +4482,12 @@
   "rats:recipes/misc/upgrades/speed_upgrade": {
     "criteria": {
       "has_dust": "2025-02-22 20:13:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/underwater_upgrade": {
+    "criteria": {
+      "has_bucket": "2025-02-22 20:25:19 +0000"
     },
     "done": true
   },
@@ -4521,6 +4542,12 @@
   "spartanweaponry:recipes/large_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-02-22 20:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-22 20:25:34 +0000"
     },
     "done": true
   },
@@ -4614,6 +4641,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-22 20:32:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-02-22 20:21:47 +0000"
@@ -4647,6 +4680,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-02-22 20:03:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bucket_upgrade": {
+    "criteria": {
+      "has_bucket": "2025-02-22 20:25:15 +0000"
     },
     "done": true
   },
@@ -4836,6 +4875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-22 20:25:19 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/health_upgrade": {
     "criteria": {
       "has_bread": "2025-02-22 19:54:11 +0000"
@@ -4977,6 +5022,18 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-02-22 20:18:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-02-22 20:25:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-02-22 20:25:19 +0000"
     },
     "done": true
   },
