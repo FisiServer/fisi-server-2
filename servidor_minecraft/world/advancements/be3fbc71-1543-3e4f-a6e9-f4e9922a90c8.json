@@ -4734,6 +4734,12 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-02-22 22:42:05 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/archeologist/marbled_cheese_rat_head": {
     "criteria": {
       "has_input": "2025-02-22 22:32:04 +0000"
@@ -4749,6 +4755,12 @@
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-22 22:42:46 +0000"
     },
     "done": true
   },
@@ -4830,6 +4842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-22 22:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-22 22:25:25 +0000"
@@ -4839,6 +4857,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 22:48:40 +0000"
     },
     "done": true
   },
@@ -5012,6 +5036,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 22:44:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-02-22 22:26:27 +0000"
@@ -5081,6 +5111,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-02-22 22:40:53 +0000"
     },
     "done": true
   },
@@ -5156,6 +5192,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-02-22 22:42:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
@@ -5189,6 +5231,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 22:42:42 +0000"
     },
     "done": true
   },
@@ -5249,6 +5297,12 @@
   "spartanweaponry:recipes/copper_greatsword": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-22 22:42:49 +0000"
     },
     "done": true
   },

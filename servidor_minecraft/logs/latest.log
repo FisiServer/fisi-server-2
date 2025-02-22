@@ -3188,3 +3188,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 22:42:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> picamos no?
 [22Feb2025 22:42:46.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Alex's Caves]
 [22Feb2025 22:42:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [It Belongs in a Museum]
+[22Feb2025 22:44:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Ashes 'n Bones]
+[22Feb2025 22:48:16.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
+[22Feb2025 22:48:40.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has reached the goal [Strong or Careful]
+[22Feb2025 22:48:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse drowned
+[22Feb2025 22:48:40.912] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[22Feb2025 22:48:44.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[22Feb2025 22:48:52.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> odio todo
+[22Feb2025 22:49:02.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> por eso no me gusta hacer un pa arriba
+[22Feb2025 22:49:09.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> te dije escaleras
+[22Feb2025 22:49:54.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[22Feb2025 22:50:02.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no te veo
+[22Feb2025 22:50:29.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Strong or Careful]
+[22Feb2025 22:50:29.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was shot by Pillager
+[22Feb2025 22:50:29.652] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[22Feb2025 22:50:31.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[22Feb2025 22:50:38.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.917917251586914) to LOW (avg. 25.835969924926758)
+[22Feb2025 22:51:01.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.674415588378906) to VERY_LOW (avg. 12.698443412780762)
+[22Feb2025 22:51:02.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Ambush]
+[22Feb2025 22:51:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Zombie
+[22Feb2025 22:51:14.196] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
+[22Feb2025 22:51:15.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
