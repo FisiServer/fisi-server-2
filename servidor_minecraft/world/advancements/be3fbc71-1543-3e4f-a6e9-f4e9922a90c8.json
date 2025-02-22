@@ -5726,6 +5726,30 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_hanging_sign": {
+    "criteria": {
+      "has_stripped_magnolia_log": "2025-02-22 23:36:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-22 23:32:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-22 23:32:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2025-02-22 23:37:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blue_magnolia_shrub": {
     "criteria": {
       "has_blue_magnolia_sapling": "2025-02-22 23:26:16 +0000"
@@ -5738,15 +5762,51 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/misc/orange_dye_from_day_lily": {
+    "criteria": {
+      "has_day_lily": "2025-02-22 23:37:02 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/bucket_upgrade": {
     "criteria": {
       "has_bucket": "2025-02-22 23:24:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-22 23:32:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_sapling": "2025-02-22 23:31:38 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-02-22 23:23:49 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-02-22 23:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-22 23:32:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 23:36:32 +0000"
     },
     "done": true
   },
