@@ -3267,3 +3267,110 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 23:13:01.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.3558349609375) to LOW (avg. 21.027725219726562)
 [22Feb2025 23:13:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [A Small Cemetery]
 [22Feb2025 23:13:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [First Prayer]
+[22Feb2025 23:13:53.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.36665153503418) to VERY_LOW (avg. 19.0510311126709)
+[22Feb2025 23:13:54.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:57396] logged in with entity id 20935 at (-1152.3354463268302, 154.0, 99.48506296311135)
+[22Feb2025 23:13:54.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[22Feb2025 23:13:54.452] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/20935, l='ServerLevel[world]', x=-1152.34, y=154.00, z=99.49] logged in and will be protected for 90 secs.
+[22Feb2025 23:13:55.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[22Feb2025 23:13:57.240] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[22Feb2025 23:13:57.240] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[22Feb2025 23:13:57.240] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[22Feb2025 23:13:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[22Feb2025 23:14:01.430] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.0510311126709) to NORMAL (avg. 41.716392517089844)
+[22Feb2025 23:14:08.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.716392517089844) to LOW (avg. 39.27410888671875)
+[22Feb2025 23:14:09.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[22Feb2025 23:14:10.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[22Feb2025 23:14:10.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[22Feb2025 23:14:23.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> como se llama la cosa pa mostrar el mapa
+[22Feb2025 23:14:23.879] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 29 secs.
+[22Feb2025 23:14:23.879] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[22Feb2025 23:14:32.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> desactive todo y no lo encuentro xddd
+[22Feb2025 23:14:35.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a?
+[22Feb2025 23:14:54.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> osea como se llama
+[22Feb2025 23:14:59.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no la tecla
+[22Feb2025 23:15:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> si no donde esta
+[22Feb2025 23:15:11.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1392, y=23, z=-97}
+[22Feb2025 23:15:15.443] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1365, y=37, z=-117}
+[22Feb2025 23:15:24.057] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.10021209716797) to MEDIUM (avg. 48.16545104980469)
+[22Feb2025 23:15:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> osea yo apretaba la M para abrir el mapa, pero no se abre porq lo desactive. Pero no se cual es
+[22Feb2025 23:15:31.457] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.16545104980469) to LOW (avg. 36.60041809082031)
+[22Feb2025 23:15:34.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1416, y=-13, z=-39}
+[22Feb2025 23:15:35.926] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[22Feb2025 23:15:38.024] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1438, y=-37, z=53}
+[22Feb2025 23:15:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> la J?
+[22Feb2025 23:15:46.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> en el journey map
+[22Feb2025 23:15:49.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1450, y=-44, z=-15}
+[22Feb2025 23:15:49.579] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1447, y=-36, z=89}
+[22Feb2025 23:15:53.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> cuaaaaaaaal
+[22Feb2025 23:15:53.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.26456832885742) to NORMAL (avg. 41.97536087036133)
+[22Feb2025 23:15:54.550] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1463, y=13, z=322}
+[22Feb2025 23:16:05.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1113, y=-17, z=373}
+[22Feb2025 23:16:06.470] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1486, y=20, z=1}
+[22Feb2025 23:16:07.975] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1236, y=-38, z=398}
+[22Feb2025 23:16:08.596] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1326, y=9, z=393}
+[22Feb2025 23:16:09.027] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.37184143066406) to VERY_HIGH (avg. 55.432743072509766)
+[22Feb2025 23:16:10.198] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 39.451959439999996) to MEDIUM (avg. 42.86198453)
+[22Feb2025 23:16:22.464] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1205, y=-49, z=441}
+[22Feb2025 23:16:23.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.432743072509766) to LOW (avg. 37.27616500854492)
+[22Feb2025 23:16:24.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> en el de mostrar/esconder
+[22Feb2025 23:16:25.627] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1519, y=-10, z=352}
+[22Feb2025 23:16:26.524] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1511, y=-36, z=306}
+[22Feb2025 23:16:28.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1345, y=22, z=463}
+[22Feb2025 23:16:33.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Light as a Frog]
+[22Feb2025 23:16:34.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ahí antes era la j
+[22Feb2025 23:16:37.173] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1229, y=7, z=476}
+[22Feb2025 23:16:38.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.27616500854492) to NORMAL (avg. 42.423744201660156)
+[22Feb2025 23:16:43.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1409, y=-34, z=492}
+[22Feb2025 23:16:43.901] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1149, y=-7, z=483}
+[22Feb2025 23:16:46.467] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.423744201660156) to LOW (avg. 38.22406005859375)
+[22Feb2025 23:16:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no es
+[22Feb2025 23:16:58.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1550, y=-50, z=311}
+[22Feb2025 23:16:58.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1548, y=-41, z=495}
+[22Feb2025 23:17:03.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1568, y=-33, z=401}
+[22Feb2025 23:17:03.265] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1560, y=4, z=161}
+[22Feb2025 23:17:08.679] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1574, y=19, z=222}
+[22Feb2025 23:17:08.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.94621658325195) to NORMAL (avg. 42.27617645263672)
+[22Feb2025 23:17:18.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ustedes no abren el mapa con la J? XD
+[22Feb2025 23:17:22.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> manda captura al whats de tus teclas en el journey
+[22Feb2025 23:17:24.097] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1600, y=18, z=228}
+[22Feb2025 23:17:29.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> si
+[22Feb2025 23:17:38.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.93869400024414) to LOW (avg. 38.29335021972656)
+[22Feb2025 23:17:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> el de mostrar es con N entonces
+[22Feb2025 23:18:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [The Parrots and the Bats]
+[22Feb2025 23:18:16.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.07185363769531) to NORMAL (avg. 42.65180969238281)
+[22Feb2025 23:18:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Herc was on a Roll!]
+[22Feb2025 23:18:31.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.65180969238281) to LOW (avg. 35.799957275390625)
+[22Feb2025 23:19:01.441] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.79244613647461) to NORMAL (avg. 45.74974822998047)
+[22Feb2025 23:19:04.948] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1574, y=-40, z=560}
+[22Feb2025 23:19:08.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.74974822998047) to LOW (avg. 38.892887115478516)
+[22Feb2025 23:19:16.454] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.892887115478516) to MEDIUM (avg. 47.171783447265625)
+[22Feb2025 23:19:23.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.171783447265625) to LOW (avg. 39.9682731628418)
+[22Feb2025 23:19:39.066] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.9682731628418) to NORMAL (avg. 42.31979751586914)
+[22Feb2025 23:19:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> billy duerme
+[22Feb2025 23:19:50.123] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1446, y=-39, z=718}
+[22Feb2025 23:19:53.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.31979751586914) to LOW (avg. 39.272640228271484)
+[22Feb2025 23:21:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> duermeeeeeeeeeeee
+[22Feb2025 23:21:01.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.40068435668945) to NORMAL (avg. 41.86395263671875)
+[22Feb2025 23:21:08.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.86395263671875) to LOW (avg. 38.759544372558594)
+[22Feb2025 23:21:38.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.76371765136719) to NORMAL (avg. 43.48728561401367)
+[22Feb2025 23:21:46.520] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.48728561401367) to LOW (avg. 39.068111419677734)
+[22Feb2025 23:22:01.488] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.068111419677734) to NORMAL (avg. 41.296730041503906)
+[22Feb2025 23:22:23.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.35813522338867) to LOW (avg. 30.71183967590332)
+[22Feb2025 23:22:40.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> ya esta
+[22Feb2025 23:22:45.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sgirano) moved wrongly! 0.28138291583559294
+[22Feb2025 23:22:45.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sgirano) moved wrongly! 0.35072319537596286
+[22Feb2025 23:22:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> gracias billy
+[22Feb2025 23:22:46.470] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.09392547607422) to MEDIUM (avg. 46.78055953979492)
+[22Feb2025 23:22:47.394] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1201, y=-36, z=787}
+[22Feb2025 23:22:53.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.78055953979492) to LOW (avg. 35.62593460083008)
+[22Feb2025 23:22:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was shot by Skeleton
+[22Feb2025 23:22:58.133] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[22Feb2025 23:22:58.945] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1353, y=-49, z=853}
+[22Feb2025 23:22:59.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[22Feb2025 23:23:01.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> aaaa
+[22Feb2025 23:23:03.178] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1269, y=-22, z=878}
+[22Feb2025 23:23:03.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-956, y=-45, z=545}
+[22Feb2025 23:23:04.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> xdddd
+[22Feb2025 23:23:05.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1314, y=-11, z=888}
+[22Feb2025 23:23:20.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> y no me dejó mochila
+[22Feb2025 23:23:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Quite the Renovation]
