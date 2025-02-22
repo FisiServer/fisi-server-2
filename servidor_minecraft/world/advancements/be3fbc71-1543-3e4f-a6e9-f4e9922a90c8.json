@@ -97,16 +97,20 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "muddy_river": "2025-02-22 22:34:40 +0000",
       "maple_forest": "2025-02-22 18:56:00 +0000",
       "magnolia_highlands": "2025-02-22 19:00:38 +0000",
+      "boreal_forest": "2025-02-22 22:34:33 +0000",
       "temperate_grove": "2025-02-22 19:00:32 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "muddy_river": "2025-02-22 22:34:40 +0000",
       "maple_forest": "2025-02-22 18:56:00 +0000",
       "magnolia_highlands": "2025-02-22 19:00:38 +0000",
+      "boreal_forest": "2025-02-22 22:34:33 +0000",
       "temperate_grove": "2025-02-22 19:00:32 +0000"
     },
     "done": false
@@ -693,7 +697,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-22 22:28:41 +0000",
-      "rotten_flesh": "2025-02-22 19:02:37 +0000"
+      "rotten_flesh": "2025-02-22 19:02:37 +0000",
+      "cooked_salmon": "2025-02-22 22:29:43 +0000"
     },
     "done": false
   },
@@ -4729,6 +4734,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/archeologist/marbled_cheese_rat_head": {
+    "criteria": {
+      "has_input": "2025-02-22 22:32:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_glaive": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
@@ -4747,15 +4758,33 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2025-02-22 22:36:53 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/biplane_upgrade": {
     "criteria": {
       "has_iron": "2025-02-22 22:25:54 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-02-22 22:36:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-22 22:36:55 +0000"
     },
     "done": true
   },
@@ -4819,6 +4848,14 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2025-02-22 22:31:43 +0000",
+      "zombie_head": "2025-02-22 22:36:36 +0000",
+      "skeleton_skull": "2025-02-22 22:32:04 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-02-22 22:26:27 +0000"
@@ -4840,6 +4877,12 @@
   "spartanweaponry:recipes/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-02-22 22:33:41 +0000"
     },
     "done": true
   },
@@ -4885,6 +4928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-02-22 22:31:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_halberd": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
@@ -4900,6 +4949,18 @@
   "rats:recipes/building_blocks/fish_barrel": {
     "criteria": {
       "has_fish": "2025-02-22 22:25:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-02-22 22:36:53 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-02-22 22:36:53 +0000"
     },
     "done": true
   },
@@ -4975,9 +5036,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-22 22:36:55 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/ratinator_upgrade": {
     "criteria": {
       "has_iron": "2025-02-22 22:25:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-22 22:33:40 +0000"
     },
     "done": true
   },
@@ -5017,9 +5090,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-22 22:36:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 22:33:40 +0000"
     },
     "done": true
   },
@@ -5056,6 +5141,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-02-22 22:08:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tick_accelerator_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-02-22 22:29:27 +0000"
     },
     "done": true
   },
@@ -5098,6 +5189,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-02-22 22:36:53 +0000"
     },
     "done": true
   },
@@ -5161,6 +5258,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-02-22 22:36:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-02-22 22:33:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-02-22 22:26:27 +0000"
@@ -5194,6 +5303,12 @@
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-02-22 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-22 22:29:27 +0000"
     },
     "done": true
   },

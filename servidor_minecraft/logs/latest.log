@@ -3171,3 +3171,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 22:25:55.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Amateur Archaeologist]
 [22Feb2025 22:29:38.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Creative Mode]
 [22Feb2025 22:29:50.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[22Feb2025 22:33:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Knowledge of Death]
+[22Feb2025 22:33:40.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [A Strange Grave Dust]
+[22Feb2025 22:34:46.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.42644214630127) to LOW (avg. 31.972396850585938)
+[22Feb2025 22:35:01.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.972396850585938) to VERY_LOW (avg. 11.093791007995605)
+[22Feb2025 22:37:53.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.488410949707031) to LOW (avg. 26.234312057495117)
+[22Feb2025 22:38:08.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.234312057495117) to VERY_LOW (avg. 8.815953254699707)
+[22Feb2025 22:38:27.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Bone Crusher]
+[22Feb2025 22:39:00.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Die Classy]
+[22Feb2025 22:40:01.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.046979904174805) to LOW (avg. 25.387781143188477)
+[22Feb2025 22:40:08.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.387781143188477) to VERY_LOW (avg. 11.082684516906738)
+[22Feb2025 22:40:53.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Crops of the Wild]
+[22Feb2025 22:41:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> x2
+[22Feb2025 22:41:54.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> dame tu espada
+[22Feb2025 22:42:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Reaping What You Sow]
+[22Feb2025 22:42:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> picamos no?
+[22Feb2025 22:42:46.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [Alex's Caves]
+[22Feb2025 22:42:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse has made the advancement [It Belongs in a Museum]
