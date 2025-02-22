@@ -105,6 +105,7 @@
       "redstone_caves": "2025-02-22 20:21:55 +0000",
       "grassy_beach": "2025-02-22 18:56:51 +0000",
       "rocky_meadow": "2025-02-22 19:06:08 +0000",
+      "mycotoxic_undergrowth": "2025-02-22 21:14:42 +0000",
       "maple_forest": "2025-02-22 18:53:49 +0000",
       "magnolia_highlands": "2025-02-22 18:53:40 +0000",
       "boreal_forest": "2025-02-22 20:34:31 +0000",
@@ -4479,6 +4480,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-22 21:15:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-22 19:58:36 +0000"
@@ -4503,6 +4510,12 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-02-22 21:05:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-02-22 20:28:31 +0000"
@@ -4520,6 +4533,12 @@
       "has_bread": "2025-02-22 20:36:30 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-02-22 21:14:42 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/root": {
     "criteria": {
@@ -4620,6 +4639,12 @@
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-22 21:15:07 +0000"
     },
     "done": true
   },
@@ -4756,6 +4781,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-02-22 20:28:31 +0000"
@@ -4771,6 +4802,12 @@
   "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-22 20:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-22 21:15:09 +0000"
     },
     "done": true
   },
@@ -4858,6 +4895,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-02-22 19:58:36 +0000"
@@ -4882,6 +4931,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-22 21:14:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_saber": {
     "criteria": {
       "has_diamond": "2025-02-22 20:28:31 +0000"
@@ -4891,6 +4946,12 @@
   "spartanweaponry:recipes/large_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-02-22 20:28:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/farmer_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
     },
     "done": true
   },
@@ -4984,6 +5045,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/elite_energy_upgrade": {
+    "criteria": {
+      "has_quartz": "2025-02-22 21:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-22 20:00:56 +0000"
@@ -4999,6 +5066,12 @@
   "rats:recipes/misc/upgrades/aquatic_upgrade": {
     "criteria": {
       "has_feesh": "2025-02-22 20:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-22 21:15:07 +0000"
     },
     "done": true
   },
@@ -5296,9 +5369,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-22 20:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-22 21:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-22 21:15:07 +0000"
     },
     "done": true
   },
@@ -5353,6 +5450,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-22 21:15:07 +0000"
     },
     "done": true
   },
@@ -5479,6 +5582,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_blue": {
     "criteria": {
       "has_string": "2025-02-22 19:52:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-02-22 21:05:04 +0000"
     },
     "done": true
   },
@@ -5722,6 +5831,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2025-02-22 19:58:36 +0000"
@@ -5743,6 +5858,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-02-22 20:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-22 21:13:44 +0000"
     },
     "done": true
   },
@@ -5773,6 +5894,12 @@
   "rats:recipes/tools/rat_sack": {
     "criteria": {
       "has_cheese": "2025-02-22 20:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-22 21:15:07 +0000"
     },
     "done": true
   },
@@ -5809,6 +5936,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-02-22 20:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-22 21:14:40 +0000"
     },
     "done": true
   },

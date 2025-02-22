@@ -3693,3 +3693,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 21:02:43.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.291353225708008) to NORMAL (avg. 40.95441436767578)
 [22Feb2025 21:02:51.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.95441436767578) to LOW (avg. 27.421588897705078)
 [22Feb2025 21:05:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Reaping What You Sow]
+[22Feb2025 21:06:43.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.10743522644043) to NORMAL (avg. 40.34534454345703)
+[22Feb2025 21:06:58.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.34534454345703) to LOW (avg. 31.632591247558594)
+[22Feb2025 21:08:59.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> tienes cortapiedra?
+[22Feb2025 21:09:06.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no
+[22Feb2025 21:09:35.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ya tengo
+[22Feb2025 21:09:36.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[22Feb2025 21:12:50.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> primer pergamino, nutrido 5
+[22Feb2025 21:14:35.325] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal not located for entity ServerPlayer['BillyVR15'/20618, l='ServerLevel[world]', x=-704.84, y=67.00, z=878.73] at null
+[22Feb2025 21:14:40.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [We Need to Go Deeper]
+[22Feb2025 21:14:42.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4738ms or 94 ticks behind
+[22Feb2025 21:14:49.520] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 53.09123448) to LOW (avg. 20.963229100000003)
+[22Feb2025 21:15:04.545] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 12.8928104) to LOW (avg. 22.675643870000002)
+[22Feb2025 21:15:36.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> mañana continuo
+[22Feb2025 21:15:40.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[22Feb2025 21:15:53.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[22Feb2025 21:15:53.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[22Feb2025 21:15:53.798] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[22Feb2025 21:15:53.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[22Feb2025 21:15:55.769] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.820499420166016) to VERY_LOW (avg. 13.74078369140625)
+[22Feb2025 21:15:58.711] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-93, y=-9, z=104}
+[22Feb2025 21:15:59.303] [Server thread/INFO] [net.minecraft.world.entity.Entity/]: Portal located for entity ServerPlayer['BillyVR15'/20618, l='ServerLevel[world]', x=-87.90, y=82.00, z=111.62] at TeleportTarget{pitch=10.950956, position=(-704.8965266616592, 67.0, 878.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=31.270111}
+[22Feb2025 21:16:50.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[22Feb2025 21:16:50.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[22Feb2025 21:16:50.581] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[22Feb2025 21:16:50.581] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
