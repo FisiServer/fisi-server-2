@@ -2116,6 +2116,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-22 22:51:02 +0000",
       "minecraft:skeleton": "2025-02-22 19:03:46 +0000",
       "minecraft:spider": "2025-02-22 19:02:36 +0000",
       "minecraft:creeper": "2025-02-22 20:36:56 +0000",
@@ -2132,6 +2133,7 @@
       "cooked_beef": "2025-02-22 19:02:42 +0000",
       "golden_apple": "2025-02-22 19:34:52 +0000",
       "bread": "2025-02-22 21:02:28 +0000",
+      "rotten_flesh": "2025-02-22 22:51:16 +0000",
       "cooked_salmon": "2025-02-22 22:18:18 +0000"
     },
     "done": false
@@ -6078,9 +6080,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-22 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-22 22:52:42 +0000"
     },
     "done": true
   },
@@ -6093,6 +6107,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-02-22 22:16:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
     },
     "done": true
   },
@@ -6117,6 +6137,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-22 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
     },
     "done": true
   },
@@ -6201,6 +6227,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-22 22:35:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 22:50:29 +0000"
     },
     "done": true
   },
@@ -6290,6 +6322,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 22:51:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-22 22:23:42 +0000"
@@ -6305,6 +6343,12 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-22 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
     },
     "done": true
   },
@@ -6338,6 +6382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-22 22:52:42 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-02-22 22:25:55 +0000"
@@ -6347,6 +6397,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-02-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-22 22:52:28 +0000"
     },
     "done": true
   },
@@ -6422,6 +6478,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 22:27:51 +0000"
@@ -6467,6 +6529,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-02-22 22:19:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
     },
     "done": true
   },
@@ -6518,6 +6586,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-22 22:52:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-22 22:23:42 +0000"
@@ -6533,6 +6613,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-22 22:21:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
     },
     "done": true
   },
@@ -6569,6 +6655,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-02-22 22:25:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-02-22 22:53:53 +0000"
     },
     "done": true
   },

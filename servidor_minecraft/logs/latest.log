@@ -3209,3 +3209,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 22:51:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse was slain by Zombie
 [22Feb2025 22:51:14.196] [Server thread/INFO] [tombstone/]: The player Oicapse has successfully been saved
 [22Feb2025 22:51:15.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Oicapse completed
+[22Feb2025 22:53:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Spectator Mode]
+[22Feb2025 22:53:41.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Set own game mode to Survival Mode]
+[22Feb2025 23:01:20.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[22Feb2025 23:01:20.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[22Feb2025 23:01:20.791] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[22Feb2025 23:01:20.792] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[22Feb2025 23:01:20.839] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Feb2025 23:01:54.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oicapse[/100.92.66.87:62682] logged in with entity id 17329 at (-377.98226541782566, 66.0, -207.74754139939645)
+[22Feb2025 23:01:54.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse joined the game
+[22Feb2025 23:01:54.606] [Server thread/INFO] [APTweaks(Player)/]: Player Oicapse ServerPlayer['Oicapse'/17329, l='ServerLevel[world]', x=-377.98, y=66.00, z=-207.75] logged in and will be protected for 90 secs.
+[22Feb2025 23:01:54.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Oicapse completed
+[22Feb2025 23:01:54.988] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Oicapse (18)
+[22Feb2025 23:01:54.989] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Oicapse
+[22Feb2025 23:01:55.058] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was loaded
+[22Feb2025 23:02:30.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[22Feb2025 23:02:32.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[22Feb2025 23:02:32.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[22Feb2025 23:02:33.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Timed out
+[22Feb2025 23:02:33.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[22Feb2025 23:02:33.242] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[22Feb2025 23:02:33.243] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
