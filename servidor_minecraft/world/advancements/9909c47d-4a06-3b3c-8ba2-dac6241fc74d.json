@@ -98,6 +98,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2025-02-22 19:35:42 +0000",
+      "bayou": "2025-02-22 20:48:12 +0000",
       "muddy_river": "2025-02-22 19:05:47 +0000",
       "willow_forest": "2025-02-22 19:52:32 +0000",
       "redstone_caves": "2025-02-22 19:37:22 +0000",
@@ -106,6 +107,7 @@
       "maple_forest": "2025-02-22 18:52:24 +0000",
       "magnolia_highlands": "2025-02-22 18:55:21 +0000",
       "boreal_forest": "2025-02-22 19:06:03 +0000",
+      "towering_cliffs": "2025-02-22 20:43:39 +0000",
       "temperate_grove": "2025-02-22 18:51:41 +0000",
       "golden_boreal_taiga": "2025-02-22 19:14:58 +0000",
       "lupine_plains": "2025-02-22 19:36:03 +0000"
@@ -115,6 +117,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "pine_taiga": "2025-02-22 19:35:42 +0000",
+      "bayou": "2025-02-22 20:48:12 +0000",
       "muddy_river": "2025-02-22 19:05:47 +0000",
       "willow_forest": "2025-02-22 19:52:32 +0000",
       "blackwood_taiga": "2025-02-22 19:34:38 +0000",
@@ -122,6 +125,7 @@
       "maple_forest": "2025-02-22 18:52:24 +0000",
       "magnolia_highlands": "2025-02-22 18:55:21 +0000",
       "boreal_forest": "2025-02-22 19:06:03 +0000",
+      "towering_cliffs": "2025-02-22 20:43:39 +0000",
       "temperate_grove": "2025-02-22 18:51:41 +0000",
       "golden_boreal_taiga": "2025-02-22 19:14:58 +0000",
       "lupine_plains": "2025-02-22 19:36:03 +0000"
@@ -2938,6 +2942,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-22 19:35:20 +0000",
       "minecraft:spider": "2025-02-22 19:03:51 +0000",
+      "minecraft:creeper": "2025-02-22 20:49:47 +0000",
       "minecraft:zombie": "2025-02-22 19:10:19 +0000",
       "minecraft:drowned": "2025-02-22 20:26:06 +0000"
     },
@@ -4311,6 +4316,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_shrub": "2025-02-22 20:50:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-22 20:11:46 +0000"
@@ -4665,9 +4676,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-02-22 20:48:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-02-22 20:09:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-22 20:49:12 +0000"
     },
     "done": true
   },
@@ -4716,6 +4739,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-22 20:23:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-02-22 20:47:58 +0000"
     },
     "done": true
   },
@@ -4923,6 +4952,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2025-02-22 20:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-22 20:09:45 +0000"
@@ -4971,6 +5006,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
+    "criteria": {
+      "has_willow_shrub": "2025-02-22 20:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-22 20:13:50 +0000"
@@ -4992,6 +5033,12 @@
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-02-22 20:13:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-02-22 20:48:46 +0000"
     },
     "done": true
   },
