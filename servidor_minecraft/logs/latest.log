@@ -3481,3 +3481,70 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 19:53:26.630] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.00737762451172) to HIGH (avg. 49.771305084228516)
 [22Feb2025 19:53:31.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-739, y=-28, z=-30}
 [22Feb2025 19:53:34.362] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-915, y=23, z=-6}
+[22Feb2025 19:54:04.167] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-876, y=-16, z=10}
+[22Feb2025 19:54:11.459] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.258995056152344) to NORMAL (avg. 41.84550857543945)
+[22Feb2025 19:54:18.385] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-456, y=32, z=1019}
+[22Feb2025 19:54:22.463] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-989, y=-8, z=-194}
+[22Feb2025 19:54:23.517] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-977, y=-20, z=-157}
+[22Feb2025 19:54:42.280] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.991668701171875) to VERY_HIGH (avg. 74.63434600830078)
+[22Feb2025 19:54:43.692] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.15323499) to VERY_HIGH (avg. 51.35755777000001)
+[22Feb2025 19:54:50.446] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 74.63434600830078) to NORMAL (avg. 44.83362579345703)
+[22Feb2025 19:54:52.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
+[22Feb2025 19:54:52.812] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[22Feb2025 19:54:54.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[22Feb2025 19:54:57.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[22Feb2025 19:54:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> vuelvo, voy a hacer un trabajo
+[22Feb2025 19:55:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[22Feb2025 19:55:05.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> okey
+[22Feb2025 19:55:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> no avancen mucho :C
+[22Feb2025 19:55:07.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Disconnected
+[22Feb2025 19:55:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[22Feb2025 19:55:07.665] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[22Feb2025 19:55:07.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[22Feb2025 19:55:21.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.75965881347656) to LOW (avg. 31.433021545410156)
+[22Feb2025 19:55:33.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> un zombi legendario
+[22Feb2025 19:55:36.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> en mi zona
+[22Feb2025 19:57:55.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no llegoa mis cosas
+[22Feb2025 19:57:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[22Feb2025 19:57:58.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.40174102783203) to NORMAL (avg. 43.30073165893555)
+[22Feb2025 19:57:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[22Feb2025 19:58:06.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.30073165893555) to LOW (avg. 33.02938461303711)
+[22Feb2025 19:58:13.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.02938461303711) to NORMAL (avg. 43.49445343017578)
+[22Feb2025 19:58:28.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.49445343017578) to LOW (avg. 28.85828971862793)
+[22Feb2025 19:59:47.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Grizzly Bear
+[22Feb2025 19:59:47.903] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[22Feb2025 19:59:51.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xddddddd
+[22Feb2025 19:59:51.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[22Feb2025 20:02:23.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano drowned
+[22Feb2025 20:02:23.547] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[22Feb2025 20:02:24.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[22Feb2025 20:02:26.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xdddd
+[22Feb2025 20:02:37.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> quiero la llave encantada xd
+[22Feb2025 20:02:45.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Here They Come]
+[22Feb2025 20:03:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Chain Death]
+[22Feb2025 20:03:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano fell from a high place
+[22Feb2025 20:03:24.050] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[22Feb2025 20:03:25.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[22Feb2025 20:03:25.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [The Most Useful Key]
+[22Feb2025 20:03:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[22Feb2025 20:03:32.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [A Fast Comeback]
+[22Feb2025 20:04:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Suit Up]
+[22Feb2025 20:04:15.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was doomed to fall
+[22Feb2025 20:04:15.758] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[22Feb2025 20:04:17.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[22Feb2025 20:05:44.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> literalmente estoy en una isla
+[22Feb2025 20:06:01.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> bueno, este lugar será mi imperio
+[22Feb2025 20:06:36.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> voy al baño, estaré afk
+[22Feb2025 20:06:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> o apago hasta que entre cristina?
+[22Feb2025 20:07:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> aca ando yo
+[22Feb2025 20:07:04.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[22Feb2025 20:07:07.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xd
+[22Feb2025 20:07:13.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> entoces ya vuelvo
+[22Feb2025 20:07:17.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> estaré afk
+[22Feb2025 20:08:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Suit Up]
+[22Feb2025 20:09:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Diamonds!]
+[22Feb2025 20:10:49.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-929, y=-16, z=-738}
+[22Feb2025 20:12:04.239] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-959, y=11, z=-761}
+[22Feb2025 20:13:01.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was killed by Zombie using magic
+[22Feb2025 20:13:01.306] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[22Feb2025 20:13:02.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
