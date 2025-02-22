@@ -4167,6 +4167,7 @@
       "tomato": "2025-02-22 23:13:49 +0000",
       "beetroot": "2025-02-22 19:53:23 +0000",
       "sugar_cane": "2025-02-22 19:55:19 +0000",
+      "potato": "2025-02-22 23:23:44 +0000",
       "wheat": "2025-02-22 19:46:50 +0000",
       "carrot": "2025-02-22 22:07:14 +0000"
     },
@@ -6171,6 +6172,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-22 23:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-02-22 22:23:42 +0000"
@@ -6231,6 +6238,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-22 23:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 22:27:51 +0000"
@@ -6288,6 +6301,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 22:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-22 23:21:42 +0000"
     },
     "done": true
   },
@@ -6410,6 +6429,12 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-22 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-22 23:21:42 +0000"
     },
     "done": true
   },
@@ -6554,6 +6579,12 @@
   "rats:recipes/misc/upgrades/ender_upgrade": {
     "criteria": {
       "has_pearl": "2025-02-22 22:27:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-22 23:21:42 +0000"
     },
     "done": true
   },
@@ -6728,6 +6759,12 @@
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-22 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-22 23:21:42 +0000"
     },
     "done": true
   },
