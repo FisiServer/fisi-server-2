@@ -98,6 +98,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2025-02-22 20:53:39 +0000",
+      "bayou": "2025-02-22 20:55:14 +0000",
       "muddy_river": "2025-02-22 18:53:56 +0000",
       "prismachasm": "2025-02-22 20:53:28 +0000",
       "willow_forest": "2025-02-22 19:05:08 +0000",
@@ -109,13 +110,15 @@
       "boreal_forest": "2025-02-22 20:34:31 +0000",
       "towering_cliffs": "2025-02-22 19:07:11 +0000",
       "temperate_grove": "2025-02-20 16:56:40 +0000",
-      "gravel_beach": "2025-02-22 19:29:22 +0000"
+      "gravel_beach": "2025-02-22 19:29:22 +0000",
+      "lupine_plains": "2025-02-22 21:01:49 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "pine_taiga": "2025-02-22 20:53:39 +0000",
+      "bayou": "2025-02-22 20:55:14 +0000",
       "muddy_river": "2025-02-22 18:53:56 +0000",
       "willow_forest": "2025-02-22 19:05:08 +0000",
       "grassy_beach": "2025-02-22 18:56:51 +0000",
@@ -125,7 +128,8 @@
       "boreal_forest": "2025-02-22 20:34:31 +0000",
       "towering_cliffs": "2025-02-22 19:07:11 +0000",
       "temperate_grove": "2025-02-20 16:56:40 +0000",
-      "gravel_beach": "2025-02-22 19:29:22 +0000"
+      "gravel_beach": "2025-02-22 19:29:22 +0000",
+      "lupine_plains": "2025-02-22 21:01:49 +0000"
     },
     "done": false
   },
@@ -2120,7 +2124,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-02-22 19:02:42 +0000",
-      "golden_apple": "2025-02-22 19:34:52 +0000"
+      "golden_apple": "2025-02-22 19:34:52 +0000",
+      "bread": "2025-02-22 21:02:28 +0000"
     },
     "done": false
   },
@@ -4504,6 +4509,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-02-22 20:59:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/rat_burger": {
     "criteria": {
       "has_bread": "2025-02-22 20:36:30 +0000"
@@ -4549,6 +4560,12 @@
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-22 20:27:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-22 20:58:05 +0000"
     },
     "done": true
   },
@@ -4667,6 +4684,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-22 20:57:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-02-22 20:28:35 +0000"
@@ -4697,9 +4720,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-02-22 20:59:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/rat_attractor": {
     "criteria": {
       "has_redstone": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-02-22 20:59:03 +0000"
     },
     "done": true
   },
@@ -5159,6 +5194,12 @@
     },
     "done": true
   },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2025-02-22 20:59:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
@@ -5369,6 +5410,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/block_of_cheese": {
+    "criteria": {
+      "has_cheese": "2025-02-22 20:59:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-22 20:26:55 +0000"
@@ -5483,6 +5530,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_cheese": "2025-02-22 20:59:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/purifying_liquid": {
     "criteria": {
       "has_diamond": "2025-02-22 20:28:31 +0000"
@@ -5492,6 +5545,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-22 19:58:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/chef/string_cheese": {
+    "criteria": {
+      "has_input": "2025-02-22 20:59:03 +0000"
     },
     "done": true
   },
@@ -5657,6 +5716,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_cheese": "2025-02-22 20:59:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2025-02-22 19:58:36 +0000"
@@ -5702,6 +5767,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-22 19:58:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_sack": {
+    "criteria": {
+      "has_cheese": "2025-02-22 20:59:03 +0000"
     },
     "done": true
   },

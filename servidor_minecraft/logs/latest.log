@@ -3681,3 +3681,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 20:54:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Teleported BillyVR15 to Sgirano]
 [22Feb2025 20:55:06.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.216379165649414) to VERY_LOW (avg. 16.75490379333496)
 [22Feb2025 20:56:13.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.201812744140625) to LOW (avg. 20.2449893951416)
+[22Feb2025 20:56:28.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.2449893951416) to VERY_LOW (avg. 18.75251007080078)
+[22Feb2025 20:56:36.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.75251007080078) to LOW (avg. 20.51403045654297)
+[22Feb2025 20:56:51.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.51403045654297) to VERY_LOW (avg. 19.051647186279297)
+[22Feb2025 20:57:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Lorem Ipsum]
+[22Feb2025 20:58:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [The Journey Begins]
+[22Feb2025 20:58:13.417] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at 1476 -56 -2619 in 1s
+[22Feb2025 20:58:31.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [The Journey Begins]
+[22Feb2025 20:59:58.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.060264587402344) to LOW (avg. 21.552087783813477)
+[22Feb2025 21:00:13.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.552087783813477) to VERY_LOW (avg. 17.274555206298828)
+[22Feb2025 21:02:43.580] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.291353225708008) to NORMAL (avg. 40.95441436767578)
+[22Feb2025 21:02:51.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.95441436767578) to LOW (avg. 27.421588897705078)
+[22Feb2025 21:05:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Reaping What You Sow]
