@@ -3548,3 +3548,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [22Feb2025 20:13:01.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was killed by Zombie using magic
 [22Feb2025 20:13:01.306] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
 [22Feb2025 20:13:02.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[22Feb2025 20:15:34.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Sweet Dreams]
+[22Feb2025 20:15:36.118] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.524024963378906) to HIGH (avg. 51.50172424316406)
+[22Feb2025 20:15:51.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.50172424316406) to LOW (avg. 27.340858459472656)
+[22Feb2025 20:21:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> it's meeee
+[22Feb2025 20:21:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> vienes?
+[22Feb2025 20:21:30.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> muy lejos estás
+[22Feb2025 20:21:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Not Today, Thank You]
+[22Feb2025 20:21:54.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Teleported BillyVR15 to Sgirano]
+[22Feb2025 20:22:06.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.57845687866211) to VERY_LOW (avg. 16.185543060302734)
+[22Feb2025 20:24:13.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.29738426208496) to LOW (avg. 21.795303344726562)
+[22Feb2025 20:24:21.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.795303344726562) to VERY_LOW (avg. 19.263572692871094)
+[22Feb2025 20:24:43.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.9935245513916) to LOW (avg. 20.755672454833984)
+[22Feb2025 20:24:58.570] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.755672454833984) to VERY_LOW (avg. 17.53864860534668)

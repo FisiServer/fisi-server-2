@@ -99,6 +99,7 @@
     "criteria": {
       "muddy_river": "2025-02-22 18:53:56 +0000",
       "willow_forest": "2025-02-22 19:05:08 +0000",
+      "redstone_caves": "2025-02-22 20:21:55 +0000",
       "grassy_beach": "2025-02-22 18:56:51 +0000",
       "rocky_meadow": "2025-02-22 19:06:08 +0000",
       "maple_forest": "2025-02-22 18:53:49 +0000",
@@ -4454,6 +4455,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-22 20:19:56 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/bottler_upgrade": {
     "criteria": {
       "has_string": "2025-02-22 19:52:32 +0000"
@@ -4471,6 +4478,12 @@
       "has_diorite": "2025-02-22 19:58:36 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-02-22 20:21:55 +0000"
+    },
+    "done": false
   },
   "rats:recipes/building_blocks/jack_o_ratern": {
     "criteria": {
@@ -4499,6 +4512,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_attractor": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
@@ -4556,9 +4575,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/speed_upgrade": {
+    "criteria": {
+      "has_dust": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-22 19:58:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
@@ -4595,6 +4626,18 @@
   "rats:recipes/misc/upgrades/bow_upgrade": {
     "criteria": {
       "has_arrow": "2025-02-22 19:54:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
@@ -4658,6 +4701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
@@ -4700,9 +4749,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-22 19:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
@@ -4730,9 +4797,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-22 20:23:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-22 19:58:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
@@ -4754,6 +4851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/combat/fisherman_hat": {
     "criteria": {
       "has_string": "2025-02-22 19:52:32 +0000"
@@ -4772,6 +4875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-22 20:23:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
@@ -4781,6 +4890,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-22 20:23:31 +0000"
     },
     "done": true
   },
@@ -4811,6 +4926,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
@@ -4868,6 +4989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-22 19:55:56 +0000"
@@ -4889,6 +5016,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-02-22 19:52:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
@@ -4961,6 +5094,12 @@
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-22 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-22 20:23:32 +0000"
     },
     "done": true
   },
