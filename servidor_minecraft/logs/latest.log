@@ -52,3 +52,177 @@
 [23Feb2025 00:25:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> a
 [23Feb2025 00:25:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> XD
 [23Feb2025 00:25:16.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[23Feb2025 00:25:33.931] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.913841247558594) to NORMAL (avg. 42.42025375366211)
+[23Feb2025 00:25:48.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.42025375366211) to VERY_LOW (avg. 13.472806930541992)
+[23Feb2025 00:26:31.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> dejenme
+[23Feb2025 00:26:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> :/
+[23Feb2025 00:26:47.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> de aqui entro
+[23Feb2025 00:26:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> wo a cenar
+[23Feb2025 00:26:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> okey
+[23Feb2025 00:26:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> NO TOQUEN MI CASA
+[23Feb2025 00:26:56.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.984564781188965) to LOW (avg. 22.608753204345703)
+[23Feb2025 00:26:58.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[23Feb2025 00:27:01.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> NO TOQUEN
+[23Feb2025 00:27:02.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> nuclear okey
+[23Feb2025 00:27:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> NOOOOOO
+[23Feb2025 00:27:06.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Oicapse> TOQUEEEEN
+[23Feb2025 00:27:07.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> xd
+[23Feb2025 00:27:12.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oicapse lost connection: Disconnected
+[23Feb2025 00:27:12.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oicapse left the game
+[23Feb2025 00:27:12.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 was unloaded
+[23Feb2025 00:27:12.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Oicapse
+[23Feb2025 00:27:41.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.90031051635742) to VERY_LOW (avg. 15.098123550415039)
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1594, y=-34, z=701}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1594, y=-34, z=702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1594, y=-34, z=703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1593, y=-34, z=702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1594, y=-33, z=703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1593, y=-34, z=703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1592, y=-34, z=702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1592, y=-34, z=703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1591, y=-34, z=703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:47.679] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-100, 43], pos: BlockPos{x=-1590, y=-34, z=703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[23Feb2025 00:27:53.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1580, y=14, z=623}
+[23Feb2025 00:27:54.535] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1527, y=-46, z=949}
+[23Feb2025 00:28:00.458] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1405, y=-42, z=978}
+[23Feb2025 00:28:06.486] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1347, y=-9, z=1038}
+[23Feb2025 00:28:38.146] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-807, y=-3, z=1354}
+[23Feb2025 00:28:40.694] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-790, y=-20, z=1401}
+[23Feb2025 00:28:41.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.570233345031738) to LOW (avg. 25.87115478515625)
+[23Feb2025 00:28:48.931] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.87115478515625) to VERY_LOW (avg. 17.183231353759766)
+[23Feb2025 00:28:51.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-473, y=4, z=1561}
+[23Feb2025 00:29:01.039] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-407, y=-31, z=1575}
+[23Feb2025 00:29:03.600] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-363, y=-30, z=1425}
+[23Feb2025 00:29:04.048] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-360, y=-45, z=1467}
+[23Feb2025 00:29:08.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-280, y=-49, z=1581}
+[23Feb2025 00:29:10.288] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-245, y=-2, z=1628}
+[23Feb2025 00:29:19.227] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-84, y=-27, z=1694}
+[23Feb2025 00:29:21.198] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-34, y=-3, z=1733}
+[23Feb2025 00:29:23.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=10, y=-8, z=1675}
+[23Feb2025 00:29:25.238] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=42, y=-44, z=1570}
+[23Feb2025 00:29:26.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.20595359802246) to LOW (avg. 27.72873878479004)
+[23Feb2025 00:29:31.292] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=153, y=-1, z=1668}
+[23Feb2025 00:29:39.906] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=325, y=22, z=1778}
+[23Feb2025 00:29:40.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=336, y=21, z=1780}
+[23Feb2025 00:29:41.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.72873878479004) to VERY_LOW (avg. 19.391469955444336)
+[23Feb2025 00:29:41.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=356, y=28, z=1719}
+[23Feb2025 00:29:41.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=365, y=32, z=1715}
+[23Feb2025 00:29:44.788] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=425, y=-24, z=1779}
+[23Feb2025 00:29:49.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=510, y=-1, z=1795}
+[23Feb2025 00:30:01.589] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=580, y=-25, z=1847}
+[23Feb2025 00:30:02.540] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=602, y=-11, z=1841}
+[23Feb2025 00:30:03.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.723661422729492) to LOW (avg. 20.64022445678711)
+[23Feb2025 00:30:05.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=630, y=27, z=1900}
+[23Feb2025 00:30:10.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=642, y=-22, z=1949}
+[23Feb2025 00:30:18.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.64022445678711) to VERY_LOW (avg. 15.93770980834961)
+[23Feb2025 00:30:37.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BillyVR15 lost connection: Disconnected
+[23Feb2025 00:30:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 left the game
+[23Feb2025 00:30:37.343] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
+[23Feb2025 00:30:37.343] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
+[23Feb2025 00:30:41.536] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=278, y=-24, z=2386}
+[23Feb2025 00:30:51.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[23Feb2025 00:30:51.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[23Feb2025 00:30:51.393] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[23Feb2025 00:30:51.394] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[23Feb2025 00:31:44.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:52182] logged in with entity id 95283 at (492.4712731633035, 118.0, 2184.7512231425253)
+[23Feb2025 00:31:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[23Feb2025 00:31:44.760] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/95283, l='ServerLevel[world]', x=492.47, y=118.00, z=2184.75] logged in and will be protected for 90 secs.
+[23Feb2025 00:31:45.268] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[23Feb2025 00:31:45.268] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[23Feb2025 00:31:45.623] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[23Feb2025 00:31:45.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[23Feb2025 00:31:54.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[23Feb2025 00:31:55.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[23Feb2025 00:31:55.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[23Feb2025 00:32:01.229] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 16 secs.
+[23Feb2025 00:32:01.229] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[23Feb2025 00:32:03.981] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.633628845214844) to LOW (avg. 21.393600463867188)
+[23Feb2025 00:32:09.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:57894] logged in with entity id 95660 at (503.2317770264615, 116.24716357643352, 2138.7676327316)
+[23Feb2025 00:32:09.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[23Feb2025 00:32:09.188] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/95660, l='ServerLevel[world]', x=503.23, y=116.25, z=2138.77] logged in and will be protected for 90 secs.
+[23Feb2025 00:32:09.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[23Feb2025 00:32:09.801] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[23Feb2025 00:32:09.802] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[23Feb2025 00:32:09.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[23Feb2025 00:32:11.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.393600463867188) to VERY_LOW (avg. 19.141937255859375)
+[23Feb2025 00:32:17.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[23Feb2025 00:32:18.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[23Feb2025 00:32:18.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[23Feb2025 00:32:18.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.141937255859375) to LOW (avg. 26.761943817138672)
+[23Feb2025 00:32:21.729] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 12 secs.
+[23Feb2025 00:32:21.729] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[23Feb2025 00:32:43.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> lograste volar? xd
+[23Feb2025 00:32:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no
+[23Feb2025 00:32:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[23Feb2025 00:32:54.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> se bugeo el efecto
+[23Feb2025 00:32:55.347] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=402, y=-45, z=2492}
+[23Feb2025 00:32:57.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sgirano lost connection: Disconnected
+[23Feb2025 00:32:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano left the game
+[23Feb2025 00:32:57.061] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was unloaded
+[23Feb2025 00:32:57.061] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sgirano
+[23Feb2025 00:33:06.889] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=450, y=14, z=2503}
+[23Feb2025 00:33:09.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=559, y=7, z=2517}
+[23Feb2025 00:33:14.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sgirano[/100.112.142.109:57923] logged in with entity id 96258 at (457.27440436545595, 111.0, 2105.8173099527526)
+[23Feb2025 00:33:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano joined the game
+[23Feb2025 00:33:14.296] [Server thread/INFO] [APTweaks(Player)/]: Player Sgirano ServerPlayer['Sgirano'/96258, l='ServerLevel[world]', x=457.27, y=111.00, z=2105.82] logged in and will be protected for 90 secs.
+[23Feb2025 00:33:14.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Sgirano completed
+[23Feb2025 00:33:14.764] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sgirano (18)
+[23Feb2025 00:33:14.765] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sgirano
+[23Feb2025 00:33:14.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9909c47d-4a06-3b3c-8ba2-dac6241fc74d was loaded
+[23Feb2025 00:33:22.139] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=451, y=-18, z=2578}
+[23Feb2025 00:33:32.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[23Feb2025 00:33:33.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[23Feb2025 00:33:33.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[23Feb2025 00:33:37.579] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Sgirano was successful validated after 23 secs.
+[23Feb2025 00:33:37.579] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Sgirano!
+[23Feb2025 00:33:42.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=552, y=64, z=2445} BlockPos{x=551, y=63, z=2445}
+[23Feb2025 00:33:44.495] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=486, y=-31, z=2649}
+[23Feb2025 00:33:54.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> dragon baboso
+[23Feb2025 00:34:00.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> se esta quemando
+[23Feb2025 00:34:04.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> a
+[23Feb2025 00:34:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Ambush]
+[23Feb2025 00:35:11.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Beginner Breadsmithing]
+[23Feb2025 00:35:29.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> tp
+[23Feb2025 00:35:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> no
+[23Feb2025 00:35:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> tpame ctmr
+[23Feb2025 00:35:45.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> xd
+[23Feb2025 00:36:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> no hay nada cerca aqui
+[23Feb2025 00:36:18.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> encontré abetp
+[23Feb2025 00:36:36.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> ven, no estás lejos
+[23Feb2025 00:36:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ya tengo
+[23Feb2025 00:36:46.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BillyVR15> solo tienes que pasar por el dragón
+[23Feb2025 00:38:21.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=326, y=31, z=2658}
+[23Feb2025 00:38:32.393] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=367, y=7, z=2677}
+[23Feb2025 00:38:32.395] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=401, y=28, z=2685}
+[23Feb2025 00:38:40.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [Plant Food]
+[23Feb2025 00:38:56.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.204132080078125) to VERY_LOW (avg. 18.939199447631836)
+[23Feb2025 00:39:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [The Cutest Predator]
+[23Feb2025 00:39:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [Beginner Breadsmithing]
+[23Feb2025 00:40:58.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=569, y=-20, z=2763}
+[23Feb2025 00:41:09.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=696, y=9, z=2814}
+[23Feb2025 00:41:10.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=562, y=-8, z=2807}
+[23Feb2025 00:41:12.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=683, y=5, z=2818}
+[23Feb2025 00:41:18.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.900409698486328) to LOW (avg. 22.458093643188477)
+[23Feb2025 00:41:19.113] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=600, y=0, z=2852}
+[23Feb2025 00:41:33.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.458093643188477) to VERY_LOW (avg. 19.472862243652344)
+[23Feb2025 00:41:45.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Best Friends Forever]
+[23Feb2025 00:41:54.893] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=684, y=-9, z=2957}
+[23Feb2025 00:41:56.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.593873977661133) to LOW (avg. 24.031063079833984)
+[23Feb2025 00:41:58.236] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=683, y=-4, z=2964}
+[23Feb2025 00:42:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sgirano> ctmr en eso estas usando mis huesos?
+[23Feb2025 00:42:17.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=659, y=-6, z=2994}
+[23Feb2025 00:42:22.186] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=582, y=1, z=3022}
+[23Feb2025 00:42:43.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=653, y=-17, z=3090}
+[23Feb2025 00:43:19.640] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=547, y=-15, z=3039}
+[23Feb2025 00:43:32.602] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23Feb2025 00:43:32.602] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23Feb2025 00:43:41.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.834875106811523) to VERY_LOW (avg. 19.78057098388672)
+[23Feb2025 00:43:42.845] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23Feb2025 00:43:42.845] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23Feb2025 00:44:54.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=829, y=-6, z=3218}
+[23Feb2025 00:44:57.687] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=733, y=-18, z=3240}
+[23Feb2025 00:44:57.861] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=805, y=-38, z=3232}
+[23Feb2025 00:45:18.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/100042, l='ServerLevel[world]', x=745.70, y=105.00, z=2910.70] died, message: 'Leatherworker was slain by Grizzly Bear'
+[23Feb2025 00:45:24.959] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=743, y=-16, z=3276}
+[23Feb2025 00:45:26.432] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.56821060180664) to LOW (avg. 27.736509323120117)
+[23Feb2025 00:45:33.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.736509323120117) to VERY_LOW (avg. 17.695938110351562)
