@@ -1833,6 +1833,8 @@
       "minecraft:birch_forest": "2025-02-23 00:27:36 +0000",
       "minecraft:beach": "2025-02-22 19:29:23 +0000",
       "minecraft:river": "2025-02-22 18:56:50 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-23 00:51:42 +0000",
+      "minecraft:snowy_plains": "2025-02-23 00:45:07 +0000",
       "minecraft:swamp": "2025-02-23 00:27:31 +0000",
       "minecraft:cold_ocean": "2025-02-23 00:23:24 +0000",
       "minecraft:forest": "2025-02-22 19:48:17 +0000",
@@ -1841,6 +1843,7 @@
       "minecraft:ocean": "2025-02-22 19:49:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-23 00:23:42 +0000",
       "minecraft:windswept_savanna": "2025-02-22 22:19:28 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-23 00:52:05 +0000",
       "minecraft:meadow": "2025-02-23 00:42:12 +0000",
       "minecraft:plains": "2025-02-22 19:29:25 +0000"
     },
@@ -7106,6 +7109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-23 00:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-02-23 00:38:36 +0000"
@@ -7130,6 +7139,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-02-23 00:55:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-23 00:39:11 +0000"
@@ -7139,6 +7154,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-02-23 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-23 00:50:44 +0000"
     },
     "done": true
   },
