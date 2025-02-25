@@ -3233,3 +3233,19 @@ io.netty.channel.StacklessClosedChannelException: null
 [25Feb2025 21:39:06.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.771583557128906) to VERY_LOW (avg. 19.05986213684082)
 [25Feb2025 21:39:59.305] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.492395401000977) to LOW (avg. 20.85315704345703)
 [25Feb2025 21:40:06.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.85315704345703) to VERY_LOW (avg. 19.2796688079834)
+[25Feb2025 21:40:36.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.135080337524414) to LOW (avg. 20.178577423095703)
+[25Feb2025 21:40:59.305] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 37.03134536743164) to VERY_LOW (avg. 19.256755828857422)
+[25Feb2025 21:42:14.305] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.03305435180664) to LOW (avg. 20.453975677490234)
+[25Feb2025 21:42:15.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2019, l='ServerLevel[world]', x=44.17, y=64.02, z=-876.50] died, message: 'Villager was slain by Zombie'
+[25Feb2025 21:42:21.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.453975677490234) to VERY_LOW (avg. 19.66008949279785)
+[25Feb2025 21:42:51.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.145584106445312) to LOW (avg. 21.799571990966797)
+[25Feb2025 21:42:59.305] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.799571990966797) to VERY_LOW (avg. 18.485551834106445)
+[25Feb2025 21:45:51.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF has made the advancement [Stone Age]
+[25Feb2025 21:46:24.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF has made the advancement [Getting an Upgrade]
+[25Feb2025 21:47:36.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.827199935913086) to LOW (avg. 21.824520111083984)
+[25Feb2025 21:47:50.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeaNF has made the advancement [Monster Hunter]
+[25Feb2025 21:47:51.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.824520111083984) to VERY_LOW (avg. 16.549861907958984)
+[25Feb2025 21:48:44.305] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.010746002197266) to LOW (avg. 22.193687438964844)
+[25Feb2025 21:48:59.305] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.193687438964844) to VERY_LOW (avg. 15.452634811401367)
+[25Feb2025 21:50:06.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.522571563720703) to LOW (avg. 26.85842514038086)
+[25Feb2025 21:50:21.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.85842514038086) to VERY_LOW (avg. 16.604148864746094)
