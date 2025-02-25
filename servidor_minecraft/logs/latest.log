@@ -3233,3 +3233,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [25Feb2025 23:45:20.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
 [25Feb2025 23:45:20.362] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
 [25Feb2025 23:45:22.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[25Feb2025 23:46:57.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [...And My Axe!]
+[25Feb2025 23:47:02.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [...And My Axe!]
+[25Feb2025 23:55:14.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.297792434692383) to LOW (avg. 21.002389907836914)
+[25Feb2025 23:55:22.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.002389907836914) to VERY_LOW (avg. 14.018431663513184)
+[25Feb2025 23:56:44.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.257318496704102) to LOW (avg. 28.838285446166992)
