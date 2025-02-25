@@ -3278,6 +3278,7 @@
       "minecraft:skeleton": "2025-02-25 15:59:08 +0000",
       "minecraft:spider": "2025-02-25 15:59:21 +0000",
       "minecraft:creeper": "2025-02-25 15:53:28 +0000",
+      "minecraft:witch": "2025-02-25 23:40:25 +0000",
       "minecraft:zombie": "2025-02-25 15:33:14 +0000",
       "minecraft:drowned": "2025-02-25 16:35:54 +0000",
       "minecraft:zombie_villager": "2025-02-25 18:17:57 +0000"
@@ -6618,6 +6619,12 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-02-25 20:26:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-25 23:40:25 +0000"
     },
     "done": true
   },
