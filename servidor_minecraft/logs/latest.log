@@ -55,3 +55,19 @@
 [26Feb2025 00:25:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Sgirano
 [26Feb2025 00:25:12.349] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
 [26Feb2025 00:25:13.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:28:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [Black or White]
+[26Feb2025 00:28:13.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has reached the goal [A Small Cemetery]
+[26Feb2025 00:28:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
+[26Feb2025 00:28:48.174] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:28:48.200] [Netty Epoll Play IO Thread #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Feb2025 00:28:48.201] [Netty Epoll Play IO Thread #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[26Feb2025 00:28:48.201] [Netty Epoll Play IO Thread #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Feb2025 00:28:48.201] [Netty Epoll Play IO Thread #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Feb2025 00:28:48.201] [Netty Epoll Play IO Thread #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Feb2025 00:28:49.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:28:51.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Zombie
+[26Feb2025 00:28:51.797] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[26Feb2025 00:28:53.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[26Feb2025 00:29:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 has made the advancement [First Prayer]
+[26Feb2025 00:31:13.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has made the advancement [First Prayer]
+[26Feb2025 00:37:27.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BillyVR15: Successfully filled 1 block(s)]
