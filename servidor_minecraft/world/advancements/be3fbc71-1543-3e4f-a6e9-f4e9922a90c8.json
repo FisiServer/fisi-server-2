@@ -124,6 +124,7 @@
       "minecraft:birch_forest": "2025-02-25 15:49:25 +0000",
       "minecraft:beach": "2025-02-25 15:29:28 +0000",
       "minecraft:river": "2025-02-25 15:48:57 +0000",
+      "minecraft:stony_shore": "2025-02-26 19:28:25 +0000",
       "minecraft:forest": "2025-02-25 15:22:05 +0000",
       "minecraft:lush_caves": "2025-02-25 17:01:07 +0000",
       "minecraft:ocean": "2025-02-26 19:14:58 +0000",
@@ -2287,6 +2288,7 @@
       "shrubland": "2025-02-25 16:04:59 +0000",
       "pine_taiga": "2025-02-25 15:53:14 +0000",
       "ancient_delta": "2025-02-25 17:03:53 +0000",
+      "willow_forest": "2025-02-26 19:29:43 +0000",
       "grassy_beach": "2025-02-25 15:53:02 +0000",
       "scorching_caves": "2025-02-25 16:51:24 +0000",
       "rocky_meadow": "2025-02-26 19:18:35 +0000",
@@ -2302,6 +2304,7 @@
     "criteria": {
       "shrubland": "2025-02-25 16:04:59 +0000",
       "pine_taiga": "2025-02-25 15:53:14 +0000",
+      "willow_forest": "2025-02-26 19:29:43 +0000",
       "grassy_beach": "2025-02-25 15:53:02 +0000",
       "rocky_meadow": "2025-02-26 19:18:35 +0000",
       "magnolia_highlands": "2025-02-25 15:44:31 +0000",
@@ -6730,6 +6733,36 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-02-25 18:17:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/ghost_pirat_ectoplasm": {
+    "criteria": {
+      "has_input": "2025-02-26 19:34:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-26 19:31:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-02-26 19:25:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-02-26 19:33:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ethereal_upgrade": {
+    "criteria": {
+      "has_membrane": "2025-02-26 19:34:10 +0000"
     },
     "done": true
   },

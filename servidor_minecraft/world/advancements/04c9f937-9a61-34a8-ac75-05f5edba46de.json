@@ -1643,6 +1643,7 @@
     "criteria": {
       "shrubland": "2025-02-25 21:59:47 +0000",
       "grassy_beach": "2025-02-25 21:59:59 +0000",
+      "ochard": "2025-02-26 19:30:56 +0000",
       "deciduous_forest": "2025-02-25 21:47:35 +0000",
       "temperate_grove": "2025-02-26 19:23:01 +0000",
       "prairie": "2025-02-25 21:45:02 +0000"
@@ -1653,6 +1654,7 @@
     "criteria": {
       "shrubland": "2025-02-25 21:59:47 +0000",
       "grassy_beach": "2025-02-25 21:59:59 +0000",
+      "ochard": "2025-02-26 19:30:56 +0000",
       "deciduous_forest": "2025-02-25 21:47:35 +0000",
       "temperate_grove": "2025-02-26 19:23:01 +0000",
       "prairie": "2025-02-25 21:45:02 +0000"
@@ -2093,7 +2095,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-02-25 21:47:50 +0000"
+      "minecraft:creeper": "2025-02-25 21:47:50 +0000",
+      "minecraft:zombie": "2025-02-26 19:31:56 +0000"
     },
     "done": false
   },
@@ -3423,6 +3426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-26 19:28:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 19:19:12 +0000"
@@ -3438,6 +3447,18 @@
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 19:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-26 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-02-26 19:28:12 +0000"
     },
     "done": true
   },
@@ -3477,6 +3498,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-02-26 19:31:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_battle_hammer": {
     "criteria": {
       "has_silver_ingot": "2025-02-26 19:23:35 +0000"
@@ -3498,6 +3525,12 @@
   "spartanweaponry:recipes/silver_heavy_crossbow": {
     "criteria": {
       "has_silver_ingot": "2025-02-26 19:23:35 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 19:28:41 +0000"
     },
     "done": true
   },
@@ -3735,6 +3768,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 19:28:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 19:19:12 +0000"
@@ -3750,6 +3789,24 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-02-26 19:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-26 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-26 19:34:03 +0000"
     },
     "done": true
   },
