@@ -8,3 +8,26 @@
 [26Feb2025 00:06:51.800] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was unloaded
 [26Feb2025 00:06:51.801] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BillyVR15
 [26Feb2025 00:06:51.845] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Feb2025 00:07:09.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BillyVR15[/100.65.213.75:53307] logged in with entity id 18998 at (3448.534027799129, -46.2468000194788, 624.7127451664318)
+[26Feb2025 00:07:09.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 joined the game
+[26Feb2025 00:07:09.174] [Server thread/INFO] [APTweaks(Player)/]: Player BillyVR15 ServerPlayer['BillyVR15'/18998, l='ServerLevel[world]', x=3448.53, y=-46.25, z=624.71] logged in and will be protected for 90 secs.
+[26Feb2025 00:07:09.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:07:09.642] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BillyVR15 (18)
+[26Feb2025 00:07:09.643] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BillyVR15
+[26Feb2025 00:07:09.823] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 was loaded
+[26Feb2025 00:07:17.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[26Feb2025 00:07:18.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[26Feb2025 00:07:18.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[26Feb2025 00:07:20.682] [Server thread/INFO] [APTweaks(Player)/]: Protected Player BillyVR15 was successful validated after 11 secs.
+[26Feb2025 00:07:20.682] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player BillyVR15!
+[26Feb2025 00:13:07.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.615650177001953) to LOW (avg. 31.31078338623047)
+[26Feb2025 00:13:22.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.31078338623047) to VERY_LOW (avg. 11.016982078552246)
+[26Feb2025 00:16:42.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
+[26Feb2025 00:16:42.053] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:16:44.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:16:50.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Zombie
+[26Feb2025 00:16:50.847] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[26Feb2025 00:16:52.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[26Feb2025 00:17:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was blown up by Creeper
+[26Feb2025 00:17:02.414] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:17:03.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
