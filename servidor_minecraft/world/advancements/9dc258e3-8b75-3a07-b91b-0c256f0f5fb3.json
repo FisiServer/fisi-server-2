@@ -3251,6 +3251,7 @@
       "suspicious_stew": "2025-02-25 19:40:43 +0000",
       "glow_berries": "2025-02-25 16:08:27 +0000",
       "golden_carrot": "2025-02-25 16:26:03 +0000",
+      "cooked_chicken": "2025-02-26 00:46:01 +0000",
       "cooked_salmon": "2025-02-25 15:57:09 +0000"
     },
     "done": false
@@ -3275,6 +3276,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-26 00:52:41 +0000",
       "minecraft:skeleton": "2025-02-25 15:59:08 +0000",
       "minecraft:spider": "2025-02-25 15:59:21 +0000",
       "minecraft:creeper": "2025-02-25 15:53:28 +0000",
@@ -6826,9 +6828,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-26 00:52:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2025-02-26 00:27:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-02-26 00:33:50 +0000"
     },
     "done": true
   },
@@ -6880,6 +6894,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bucket_upgrade": {
+    "criteria": {
+      "has_bucket": "2025-02-26 00:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-02-26 00:27:59 +0000"
@@ -6889,6 +6909,12 @@
   "regions_unexplored:recipes/building_blocks/stone_grass_block": {
     "criteria": {
       "has_stone": "2025-02-26 00:27:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 00:44:51 +0000"
     },
     "done": true
   },
@@ -6922,6 +6948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-26 00:33:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_dark_marble": {
     "criteria": {
       "has_ingredient": "2025-02-26 00:28:08 +0000"
@@ -6946,6 +6978,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-02-26 00:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-02-26 00:33:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_stone": "2025-02-26 00:27:59 +0000"
@@ -6955,6 +6999,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-26 00:27:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 00:44:51 +0000"
     },
     "done": true
   },

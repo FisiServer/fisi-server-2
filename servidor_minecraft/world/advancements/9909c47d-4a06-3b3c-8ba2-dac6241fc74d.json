@@ -5765,6 +5765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-26 00:43:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-25 23:59:28 +0000"
@@ -5846,6 +5852,12 @@
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-02-25 23:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-26 00:43:59 +0000"
     },
     "done": true
   },
@@ -6047,6 +6059,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 00:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-26 00:03:12 +0000"
@@ -6173,6 +6191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-26 00:43:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2025-02-26 00:31:13 +0000"
@@ -6236,6 +6260,12 @@
   "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
     "criteria": {
       "has_gold": "2025-02-25 23:59:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 00:44:10 +0000"
     },
     "done": true
   },
