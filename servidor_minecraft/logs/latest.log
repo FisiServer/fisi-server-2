@@ -31,3 +31,27 @@
 [26Feb2025 00:17:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was blown up by Creeper
 [26Feb2025 00:17:02.414] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
 [26Feb2025 00:17:03.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:17:14.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.544136047363281) to LOW (avg. 20.950178146362305)
+[26Feb2025 00:17:20.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was shot by Skeleton
+[26Feb2025 00:17:20.562] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[26Feb2025 00:17:21.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[26Feb2025 00:17:22.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.950178146362305) to VERY_LOW (avg. 17.651893615722656)
+[26Feb2025 00:18:07.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Mutant Zombie
+[26Feb2025 00:18:07.960] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:18:09.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:22:19.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Mutant Zombie
+[26Feb2025 00:22:19.260] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:22:20.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:22:48.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
+[26Feb2025 00:22:48.609] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:22:49.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:22:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano has reached the goal [Bone Crusher]
+[26Feb2025 00:24:02.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Zombie
+[26Feb2025 00:24:02.856] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:24:04.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed
+[26Feb2025 00:24:19.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sgirano was slain by Zombie
+[26Feb2025 00:24:19.751] [Server thread/INFO] [tombstone/]: The player Sgirano has successfully been saved
+[26Feb2025 00:24:21.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player Sgirano completed
+[26Feb2025 00:25:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BillyVR15 was slain by Sgirano
+[26Feb2025 00:25:12.349] [Server thread/INFO] [tombstone/]: The player BillyVR15 has successfully been saved
+[26Feb2025 00:25:13.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Async chunk loading for player BillyVR15 completed

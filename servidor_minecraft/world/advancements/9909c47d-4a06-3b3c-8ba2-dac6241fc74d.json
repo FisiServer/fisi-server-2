@@ -1285,7 +1285,8 @@
       "minecraft:spider": "2025-02-25 18:05:31 +0000",
       "minecraft:creeper": "2025-02-25 17:00:54 +0000",
       "minecraft:husk": "2025-02-25 19:03:27 +0000",
-      "minecraft:zombie": "2025-02-25 17:20:41 +0000"
+      "minecraft:zombie": "2025-02-25 17:20:41 +0000",
+      "minecraft:zombie_villager": "2025-02-26 00:22:57 +0000"
     },
     "done": false
   },
@@ -5965,6 +5966,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-26 00:03:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 00:22:54 +0000"
     },
     "done": true
   },
